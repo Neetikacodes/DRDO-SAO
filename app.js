@@ -23,11 +23,13 @@ async function init() {
     loadQuestion();
   } catch (error) {
     console.error("Error loading quiz data:", error);
-    document.getElementById("question").textContent = "Data load karne mein dikkat aayi. Check karein ki 'data' folder mein JSON files majood hain.";
+    document.getElementById("question").textContent = "Data load nahi hua! Kripya check karein ki 'data/" + subject + ".json' file upload hai ya nahi.";
   }
 }
 
 function loadQuestion() {
+  if (!questions || questions.length === 0) return;
+
   const q = questions[currentIndex];
 
   document.getElementById("questionNo").textContent = currentIndex + 1;
@@ -36,10 +38,12 @@ function loadQuestion() {
   const options = document.getElementById("options");
   options.innerHTML = "";
 
+  const labels = ["A", "B", "C", "D"];
+
   q.options.forEach((option, index) => {
     const btn = document.createElement("button");
     btn.className = "option";
-    btn.innerText = option;
+    btn.innerText = labels[index] + ". " + option;
 
     btn.onclick = () => checkAnswer(index, btn);
 
@@ -84,7 +88,7 @@ function nextQuestion() {
     currentIndex++;
     loadQuestion();
   } else {
-    alert("Quiz Completed!\nYour Final Score: " + score + " / " + questions.length);
+    showResult();
   }
 }
 
@@ -93,6 +97,17 @@ function prevQuestion() {
     currentIndex--;
     loadQuestion();
   }
+}
+
+function showResult() {
+  document.getElementById("quizBox").style.display = "none";
+  document.getElementById("resultBox").style.display = "block";
+
+  document.getElementById("finalScore").textContent = score;
+  document.getElementById("finalTotal").textContent = questions.length;
+
+  const percentage = Math.round((score / questions.length) * 100);
+  document.getElementById("finalPercent").textContent = percentage + "% Score";
 }
 
 window.onload = init;
