@@ -1,0 +1,3602 @@
+[
+  {
+    "id": 1,
+    "question": "Human Resource Management is primarily concerned with the management of:",
+    "options": [
+      "People at work",
+      "Marketing strategies",
+      "Machines and materials",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "HRM focuses on managing the people employed in an organisation."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following best defines the scope of HRM?",
+    "options": [
+      "Acquisition, development, motivation and maintenance of human resources",
+      "Only recruitment",
+      "Only training",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "HRM's scope covers the entire employee life cycle from acquisition to maintenance."
+  },
+  {
+    "id": 3,
+    "question": "HRM is considered a function of which type in an organisation?",
+    "options": [
+      "Marketing function",
+      "Financial function",
+      "Line function only",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "HR traditionally acts in an advisory (staff) capacity supporting line managers."
+  },
+  {
+    "id": 4,
+    "question": "The primary objective of HRM is to:",
+    "options": [
+      "Reduce number of employees",
+      "Maximise profit only",
+      "Increase shareholder dividend",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "HRM aims to align people management with organisational goals."
+  },
+  {
+    "id": 5,
+    "question": "Which term describes HRM's concern for employees across the whole organisation, not just HR department?",
+    "options": [
+      "Temporary function",
+      "Financial function",
+      "Pervasive function",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "HRM is pervasive as every manager performs some HR functions."
+  },
+  {
+    "id": 6,
+    "question": "Personnel Management differs from HRM mainly because HRM is:",
+    "options": [
+      "Limited to unionised workers",
+      "Concerned only with wages",
+      "More reactive and clerical",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "HRM treats employees as valuable assets and adopts a strategic approach compared to traditional personnel management."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is a managerial function of HRM?",
+    "options": [
+      "Planning",
+      "Recruitment",
+      "Job analysis",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Planning, organising, directing and controlling are managerial functions of HRM."
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is an operative function of HRM?",
+    "options": [
+      "Organising",
+      "Directing",
+      "Recruitment",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Recruitment, selection, training etc. are operative (day-to-day) functions of HRM."
+  },
+  {
+    "id": 9,
+    "question": "Strategic HRM refers to:",
+    "options": [
+      "Handling employee grievances",
+      "Only recruitment planning",
+      "Conducting exit interviews",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Strategic HRM integrates HR strategy with the broader organisational strategy."
+  },
+  {
+    "id": 10,
+    "question": "HRD (Human Resource Development) is best described as:",
+    "options": [
+      "Limited to recruitment",
+      "A narrower concept than HRM focused on employee growth and skill development",
+      "Same as payroll management",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "HRD is a sub-system of HRM focused on developing employee competencies."
+  },
+  {
+    "id": 11,
+    "question": "The 'Personal objectives' of HRM refer to helping employees achieve:",
+    "options": [
+      "Their individual career and personal goals",
+      "Only union objectives",
+      "Only organisational targets",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Personal objectives ensure HRM helps employees meet their own career goals."
+  },
+  {
+    "id": 12,
+    "question": "Societal objectives of HRM mean:",
+    "options": [
+      "Ignoring legal requirements",
+      "Maximising only company profit",
+      "Meeting ethical and social obligations towards society",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Societal objectives require HRM to act ethically and meet legal/social responsibilities."
+  },
+  {
+    "id": 13,
+    "question": "Which is NOT a characteristic of HRM?",
+    "options": [
+      "Continuous process",
+      "People-centred",
+      "One-time activity",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "HRM is a continuous, ongoing process, not a one-time activity."
+  },
+  {
+    "id": 14,
+    "question": "HRM helps organisations gain competitive advantage mainly through:",
+    "options": [
+      "Government subsidies",
+      "Effective utilisation of human capital",
+      "Cheaper raw material",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Human capital, when effectively managed, becomes a source of sustainable competitive advantage."
+  },
+  {
+    "id": 15,
+    "question": "The functional objective of HRM ensures that:",
+    "options": [
+      "Employees are terminated quickly",
+      "Unions are eliminated",
+      "Only senior staff are trained",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Functional objectives ensure the HR function's activities fit organisational requirements appropriately."
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is considered the 'nerve centre' of an organisation in modern management thought?",
+    "options": [
+      "Finance department",
+      "Marketing department",
+      "Human Resource department",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "HR is often regarded as central because it manages the people who run all other functions."
+  },
+  {
+    "id": 17,
+    "question": "Micro-level HRM study focuses on:",
+    "options": [
+      "GDP growth",
+      "International trade",
+      "HR practices within a single organisation",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Micro HRM deals with practices at the individual organisation level, as opposed to macro (national/policy) level."
+  },
+  {
+    "id": 18,
+    "question": "HRM as a discipline is best described as:",
+    "options": [
+      "Neither art nor science",
+      "Both an art and a science",
+      "Purely an art",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "HRM applies scientific principles (art of dealing with people) and requires skill (art), making it both."
+  },
+  {
+    "id": 19,
+    "question": "Human Resource Planning (HRP) is the process of:",
+    "options": [
+      "Only conducting interviews",
+      "Only recruitment advertising",
+      "Forecasting future manpower needs and ensuring right people at right time",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "HRP ensures an organisation has the right number and kind of people when needed."
+  },
+  {
+    "id": 20,
+    "question": "The first step in Human Resource Planning is usually:",
+    "options": [
+      "Forecasting demand for human resources",
+      "Training",
+      "Termination",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "HRP begins with forecasting future demand for manpower based on organisational goals."
+  },
+  {
+    "id": 21,
+    "question": "Job Analysis results in two main outputs:",
+    "options": [
+      "Attendance register and leave record",
+      "Organisation chart and mission statement",
+      "Salary slip and appraisal form",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Job analysis produces a job description (duties) and job specification (qualities needed)."
+  },
+  {
+    "id": 22,
+    "question": "Job Description primarily contains information about:",
+    "options": [
+      "Performance appraisal ratings",
+      "Salary negotiation techniques",
+      "Qualities required in the job holder",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Job description details what the job entails - tasks, duties and conditions."
+  },
+  {
+    "id": 23,
+    "question": "Job Specification primarily contains:",
+    "options": [
+      "Organisation's mission statement",
+      "Company's annual turnover",
+      "Minimum qualifications, skills and experience required for a job",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Job specification lists the human attributes needed to perform a job."
+  },
+  {
+    "id": 24,
+    "question": "Which method of job analysis involves the analyst directly watching the employee perform tasks?",
+    "options": [
+      "Diary method",
+      "Observation method",
+      "Questionnaire method",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "In the observation method, the analyst watches and records the worker's activities."
+  },
+  {
+    "id": 25,
+    "question": "Job Design refers to:",
+    "options": [
+      "The process of deciding the content and methods of a job",
+      "Fixing employee salary",
+      "Office interior decoration",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Job design determines job content, tasks, and how work is organised."
+  },
+  {
+    "id": 26,
+    "question": "Job Enrichment primarily aims at:",
+    "options": [
+      "Reducing working hours",
+      "Adding more responsibility and challenge (vertical loading) to a job",
+      "Adding more similar tasks at same level",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Job enrichment vertically expands a job by adding more meaningful, challenging tasks."
+  },
+  {
+    "id": 27,
+    "question": "Job Enlargement refers to:",
+    "options": [
+      "Reducing job duties",
+      "Promoting an employee",
+      "Adding more tasks of similar nature at the same level (horizontal loading)",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Job enlargement horizontally expands the scope of a job with similar-level tasks."
+  },
+  {
+    "id": 28,
+    "question": "Job Rotation is best described as:",
+    "options": [
+      "Changing company logo",
+      "Systematically moving employees between different jobs",
+      "Rotating machines in a factory",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Job rotation moves employees across different jobs to build versatility and reduce monotony."
+  },
+  {
+    "id": 29,
+    "question": "Which technique of HR forecasting is based on expert judgement without statistical data?",
+    "options": [
+      "Regression analysis",
+      "Delphi technique",
+      "Ratio-trend analysis",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "The Delphi technique relies on the collective judgement of a panel of experts."
+  },
+  {
+    "id": 30,
+    "question": "Succession planning is primarily concerned with:",
+    "options": [
+      "Daily attendance tracking",
+      "Fixing overtime rates",
+      "Conducting audits",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Succession planning identifies and develops internal talent to fill critical future roles."
+  },
+  {
+    "id": 31,
+    "question": "A skills inventory is a database that contains:",
+    "options": [
+      "Information on employees' skills, qualifications and experience",
+      "Customer complaints",
+      "List of office equipment",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "A skills inventory records employee competencies for planning purposes."
+  },
+  {
+    "id": 32,
+    "question": "Which of the following is an internal source used in HR demand forecasting?",
+    "options": [
+      "Campus placement",
+      "Employment exchanges",
+      "Newspaper advertisements",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Trend analysis uses the organisation's own historical employment data to forecast demand."
+  },
+  {
+    "id": 33,
+    "question": "HR Planning helps an organisation avoid which of the following?",
+    "options": [
+      "Only overstaffing",
+      "Only understaffing",
+      "Neither",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Effective HRP ensures optimum staffing, avoiding both surplus and shortage of manpower."
+  },
+  {
+    "id": 34,
+    "question": "Which is the correct sequence in Human Resource Planning?",
+    "options": [
+      "Termination → forecasting → recruitment",
+      "Forecasting demand → forecasting supply → gap analysis → action plan",
+      "Selection → induction → forecasting",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "HRP logically proceeds from demand and supply forecasting to gap analysis and then action planning."
+  },
+  {
+    "id": 35,
+    "question": "Recruitment is defined as the process of:",
+    "options": [
+      "Terminating employees",
+      "Searching for and attracting capable candidates for a job",
+      "Training new employees",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Recruitment is the process of generating a pool of qualified applicants."
+  },
+  {
+    "id": 36,
+    "question": "Which of the following is an internal source of recruitment?",
+    "options": [
+      "Employment exchange",
+      "Newspaper advertisement",
+      "Promotion",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Promotion fills a vacancy from within the organisation, making it an internal source."
+  },
+  {
+    "id": 37,
+    "question": "Which of the following is an external source of recruitment?",
+    "options": [
+      "Transfer",
+      "Job portals/advertisement",
+      "Internal job posting",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Job portals and advertisements attract candidates from outside the organisation."
+  },
+  {
+    "id": 38,
+    "question": "E-recruitment refers to:",
+    "options": [
+      "Recruitment through walk-ins only",
+      "Recruitment through newspapers only",
+      "Recruitment through employee referral only",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "E-recruitment uses digital/online channels such as job portals and company websites."
+  },
+  {
+    "id": 39,
+    "question": "A major advantage of internal recruitment is:",
+    "options": [
+      "It boosts employee morale and reduces training cost",
+      "It increases the number of external applicants",
+      "It is costlier than external recruitment",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Internal recruitment motivates employees as it offers growth opportunities and existing employees need less training."
+  },
+  {
+    "id": 40,
+    "question": "A major advantage of external recruitment is:",
+    "options": [
+      "It is always cheaper",
+      "It guarantees loyalty",
+      "It brings fresh talent and new ideas into the organisation",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "External recruitment introduces new perspectives and skills not available internally."
+  },
+  {
+    "id": 41,
+    "question": "Employee referral as a recruitment source means:",
+    "options": [
+      "Recruitment agencies refer candidates",
+      "Existing employees recommend candidates for vacancies",
+      "Government refers candidates",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "In employee referral, current staff suggest suitable people from their network."
+  },
+  {
+    "id": 42,
+    "question": "A 'Live Register' maintained by employment exchanges contains:",
+    "options": [
+      "List of company employees",
+      "Names of unemployed persons registered for jobs",
+      "List of shareholders",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "The live register lists job seekers registered with an employment exchange."
+  },
+  {
+    "id": 43,
+    "question": "Campus recruitment is best suited for hiring:",
+    "options": [
+      "Senior executives only",
+      "Retired professionals",
+      "Fresh graduates from educational institutions",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Campus recruitment targets fresh graduates directly from colleges/universities."
+  },
+  {
+    "id": 44,
+    "question": "Which recruitment source is generally the cheapest and quickest?",
+    "options": [
+      "Employee referral",
+      "Campus recruitment abroad",
+      "Executive search firms",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Employee referrals typically cost less and yield faster results due to networks of existing staff."
+  },
+  {
+    "id": 45,
+    "question": "A recruitment policy should be aligned with:",
+    "options": [
+      "The organisation's overall HR and business strategy",
+      "Random selection",
+      "Only government orders",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Recruitment policy must support broader organisational and HR goals."
+  },
+  {
+    "id": 46,
+    "question": "'Head hunting' refers to:",
+    "options": [
+      "Actively searching and approaching qualified candidates, often for senior positions",
+      "Recruitment via newspaper classifieds",
+      "Mass recruitment of freshers",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Headhunting is a targeted search for specific, often senior or specialised, talent."
+  },
+  {
+    "id": 47,
+    "question": "Which of the following is a disadvantage of internal recruitment?",
+    "options": [
+      "It increases advertisement cost",
+      "It always increases training cost",
+      "It may limit the inflow of new ideas and talent",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Relying only on internal sources can lead to a narrow talent pool and lack of fresh perspective."
+  },
+  {
+    "id": 48,
+    "question": "Which of the following best describes 'sourcing' in recruitment?",
+    "options": [
+      "Issuing appointment letter",
+      "Identifying and locating potential candidates",
+      "Conducting exit interview",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Sourcing is the initial step of identifying where potential candidates can be found."
+  },
+  {
+    "id": 49,
+    "question": "A job fair is an example of which recruitment method?",
+    "options": [
+      "External recruitment method",
+      "Internal recruitment method",
+      "Termination method",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Job fairs attract candidates from outside the organisation."
+  },
+  {
+    "id": 50,
+    "question": "Recruitment through consultants/placement agencies is a:",
+    "options": [
+      "Statutory requirement",
+      "Termination process",
+      "Third-party external recruitment source",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Placement agencies act as intermediaries, making them a third-party external source."
+  },
+  {
+    "id": 51,
+    "question": "Which of the following is NOT typically a step in the recruitment process?",
+    "options": [
+      "Identifying vacancy",
+      "Searching for candidates",
+      "Performance appraisal",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Performance appraisal happens after selection and joining, not during recruitment."
+  },
+  {
+    "id": 52,
+    "question": "Zero-base recruitment forecasting is based on:",
+    "options": [
+      "Union demands only",
+      "Government census data only",
+      "Current staffing level as the base for future planning",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Zero-base forecasting starts from the current employment level to plan future needs."
+  },
+  {
+    "id": 53,
+    "question": "Selection is the process of:",
+    "options": [
+      "Fixing salary scale",
+      "Training employees",
+      "Advertising a vacancy",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Selection involves choosing the best-fit candidate from the applicant pool generated by recruitment."
+  },
+  {
+    "id": 54,
+    "question": "Which of the following is generally the FIRST step in the selection process?",
+    "options": [
+      "Medical examination",
+      "Issuing appointment letter",
+      "Final interview",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Preliminary screening filters out unsuitable candidates before further stages."
+  },
+  {
+    "id": 55,
+    "question": "A test that measures a candidate's existing skill/knowledge is called:",
+    "options": [
+      "Achievement test",
+      "Interest test",
+      "Aptitude test",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Achievement tests measure what a person has already learned or can currently do."
+  },
+  {
+    "id": 56,
+    "question": "A test that measures a candidate's potential ability to learn a new skill is called:",
+    "options": [
+      "Projective test",
+      "Achievement test",
+      "Interest test",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Aptitude tests assess potential/capacity to acquire a skill, not current proficiency."
+  },
+  {
+    "id": 57,
+    "question": "Which type of interview follows a fixed set of pre-determined questions asked to all candidates?",
+    "options": [
+      "Unstructured interview",
+      "Stress interview",
+      "Panel interview only",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "A structured interview uses a standard, pre-set list of questions for consistency."
+  },
+  {
+    "id": 58,
+    "question": "An interview conducted deliberately to test a candidate's reaction under pressure is called:",
+    "options": [
+      "Depth interview",
+      "Group interview",
+      "Stress interview",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "In a stress interview, the interviewer creates pressure to observe the candidate's behaviour."
+  },
+  {
+    "id": 59,
+    "question": "A 'panel interview' involves:",
+    "options": [
+      "No interviewer at all",
+      "One interviewer and one candidate",
+      "Multiple interviewers assessing one candidate simultaneously",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "A panel interview has several interviewers evaluating a single candidate together."
+  },
+  {
+    "id": 60,
+    "question": "The 'halo effect' in selection interviews refers to:",
+    "options": [
+      "Judging a candidate's overall performance based on one positive trait",
+      "A statistical test",
+      "Judging based on multiple objective criteria",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "The halo effect is a bias where one favourable trait influences the overall assessment."
+  },
+  {
+    "id": 61,
+    "question": "Placement refers to:",
+    "options": [
+      "Advertising for a vacancy",
+      "Conducting a performance appraisal",
+      "Assigning a selected candidate to a specific job/position",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Placement is putting the newly selected employee into the appropriate job role."
+  },
+  {
+    "id": 62,
+    "question": "Induction/orientation programme is primarily meant to:",
+    "options": [
+      "Conduct final selection tests",
+      "Familiarise a new employee with the organisation and job",
+      "Terminate probationary employees",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Induction helps new employees adjust to organisational culture, policies and their role."
+  },
+  {
+    "id": 63,
+    "question": "A probation period is used mainly to:",
+    "options": [
+      "Grant immediate promotion",
+      "Assess a new employee's suitability before confirmation",
+      "Reduce working hours",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Probation allows the employer to evaluate performance before making the appointment permanent."
+  },
+  {
+    "id": 64,
+    "question": "Validity of a selection test refers to:",
+    "options": [
+      "The cost of conducting the test",
+      "The duration of the test",
+      "The number of candidates who take the test",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Validity indicates whether a test truly measures the intended attribute."
+  },
+  {
+    "id": 65,
+    "question": "Reliability of a selection test refers to:",
+    "options": [
+      "Consistency of test results over repeated measurements",
+      "How long the test takes",
+      "How cheap the test is",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Reliability means the test gives consistent results when repeated under similar conditions."
+  },
+  {
+    "id": 66,
+    "question": "A 'group discussion' as a selection tool primarily evaluates:",
+    "options": [
+      "Only technical knowledge",
+      "Communication, leadership and interpersonal skills",
+      "Only academic marks",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "GDs assess soft skills such as communication, teamwork and leadership potential."
+  },
+  {
+    "id": 67,
+    "question": "Which document formally confirms a candidate's selection and terms of employment?",
+    "options": [
+      "Resignation letter",
+      "Appointment letter",
+      "Relieving letter",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "An appointment letter formally communicates selection along with terms and conditions."
+  },
+  {
+    "id": 68,
+    "question": "Which of the following best describes a 'realistic job preview' (RJP)?",
+    "options": [
+      "Hiding negative aspects of a job from candidates",
+      "A type of aptitude test",
+      "Giving candidates accurate information about both positive and negative aspects of a job",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "RJP provides balanced, honest information to help candidates make informed decisions."
+  },
+  {
+    "id": 69,
+    "question": "Medical examination in the selection process is generally used to:",
+    "options": [
+      "Assess leadership qualities",
+      "Assess intelligence quotient",
+      "Assess salary expectations",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Medical tests confirm whether the candidate is physically fit to perform job duties."
+  },
+  {
+    "id": 70,
+    "question": "The selection process is generally considered:",
+    "options": [
+      "A negative process of rejecting unsuitable candidates from many applicants",
+      "Identical to recruitment",
+      "Unrelated to recruitment",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Selection is often called a negative process because it eliminates unsuitable candidates from a larger pool."
+  },
+  {
+    "id": 71,
+    "question": "Training primarily aims to:",
+    "options": [
+      "Increase company's share price",
+      "Fix retirement age",
+      "Improve an employee's current job-related skills and knowledge",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Training focuses on enhancing skills needed for the current job."
+  },
+  {
+    "id": 72,
+    "question": "Development, as distinct from training, focuses on:",
+    "options": [
+      "Only statutory compliance",
+      "Long-term growth and preparing employees for future roles",
+      "Only wage negotiation",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Development is broader and future-oriented, unlike training which is job-specific and immediate."
+  },
+  {
+    "id": 73,
+    "question": "Which training method involves training at the actual workplace while performing the job?",
+    "options": [
+      "Case study method",
+      "On-the-job training",
+      "Off-the-job training",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "On-the-job training occurs at the work site while the employee performs actual duties."
+  },
+  {
+    "id": 74,
+    "question": "Vestibule training refers to:",
+    "options": [
+      "Training given in a simulated environment resembling the actual workplace",
+      "Training given through correspondence",
+      "Training given directly on the shop floor",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Vestibule training uses a separate simulated area with equipment similar to the real workplace."
+  },
+  {
+    "id": 75,
+    "question": "Job rotation as a training method helps employees:",
+    "options": [
+      "Gain broader exposure to different jobs and departments",
+      "Get promoted automatically",
+      "Avoid all future training",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Job rotation exposes trainees to various roles, broadening their skills and understanding."
+  },
+  {
+    "id": 76,
+    "question": "Which of the following is an off-the-job training method?",
+    "options": [
+      "Understudy method",
+      "Coaching",
+      "Case study method",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Case study is conducted away from the actual work setting, typically in a classroom."
+  },
+  {
+    "id": 77,
+    "question": "'Apprenticeship training' is best suited for:",
+    "options": [
+      "Only classroom lectures",
+      "One-day orientation",
+      "Learning skilled trades through a combination of instruction and practice",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Apprenticeship combines theoretical instruction with hands-on practice over an extended period, typical of skilled trades."
+  },
+  {
+    "id": 78,
+    "question": "Role play as a training technique is mainly used to develop:",
+    "options": [
+      "Accounting skills",
+      "IT programming skills",
+      "Interpersonal and behavioural skills",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Role play helps trainees practice and improve interpersonal/behavioural responses in simulated situations."
+  },
+  {
+    "id": 79,
+    "question": "A Training Needs Assessment (TNA) is typically conducted at which levels?",
+    "options": [
+      "Only national level",
+      "Only individual level",
+      "Only global level",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "TNA is conducted at organisational, task/job, and individual (person) levels."
+  },
+  {
+    "id": 80,
+    "question": "The first step in a systematic training programme is:",
+    "options": [
+      "Identifying training needs",
+      "Fixing training budget",
+      "Evaluating training effectiveness",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Training needs identification precedes design, delivery and evaluation."
+  },
+  {
+    "id": 81,
+    "question": "Kirkpatrick's model evaluates training effectiveness at how many levels?",
+    "options": [
+      "Four levels: reaction, learning, behaviour, results",
+      "Ten levels",
+      "Two levels only",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Kirkpatrick's model has four levels — Reaction, Learning, Behaviour and Results."
+  },
+  {
+    "id": 82,
+    "question": "In Kirkpatrick's model, the 'Reaction' level measures:",
+    "options": [
+      "Return on investment",
+      "Actual change in job performance",
+      "Organisational profit",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "The Reaction level assesses how participants felt about the training experience."
+  },
+  {
+    "id": 83,
+    "question": "Management Development Programme (MDP) is primarily meant for:",
+    "options": [
+      "Training contract labour only",
+      "Training unskilled workers",
+      "Training security staff only",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "MDPs aim to enhance the conceptual, human and technical skills of managers."
+  },
+  {
+    "id": 84,
+    "question": "Coaching as a development method involves:",
+    "options": [
+      "Group discussions only",
+      "A senior/experienced person guiding and mentoring a junior employee",
+      "Formal classroom lectures",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Coaching is typically one-on-one guidance from a supervisor or senior colleague."
+  },
+  {
+    "id": 85,
+    "question": "Sensitivity training (T-group training) primarily aims to improve:",
+    "options": [
+      "Financial accounting skills",
+      "Self-awareness and interpersonal sensitivity",
+      "Technical machine skills",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "T-group training focuses on increasing awareness of one's own and others' behaviour."
+  },
+  {
+    "id": 86,
+    "question": "Which of the following is a benefit of employee training?",
+    "options": [
+      "Reduced quality of output",
+      "Reduced errors and improved productivity",
+      "Increased accidents",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Well-designed training reduces mistakes and boosts productivity."
+  },
+  {
+    "id": 87,
+    "question": "A training method where a subordinate learns by working under a senior for eventual succession is called:",
+    "options": [
+      "Understudy method",
+      "Case study method",
+      "Lecture method",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "In the understudy method, a subordinate is groomed to take over a senior's position."
+  },
+  {
+    "id": 88,
+    "question": "In-basket exercise is a training technique used mainly for:",
+    "options": [
+      "Testing driving skills",
+      "Testing typing speed",
+      "Developing decision-making skills of managers",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "In-basket exercises simulate managerial decision-making situations using mock correspondence/files."
+  },
+  {
+    "id": 89,
+    "question": "The 'business game' method of training is used to develop:",
+    "options": [
+      "Clerical typing skills",
+      "Managerial decision-making and strategic thinking skills",
+      "Machine operating skills",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Business games simulate real business scenarios to sharpen strategic and decision-making skills."
+  },
+  {
+    "id": 90,
+    "question": "Which of the following best defines 'career development'?",
+    "options": [
+      "A planned, ongoing effort to align employee career goals with organisational needs",
+      "Only exit interview",
+      "A single training session",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Career development is a continuous process linking individual aspirations with organisational opportunities."
+  },
+  {
+    "id": 91,
+    "question": "E-learning as a training method refers to:",
+    "options": [
+      "Delivering training content through electronic/digital platforms",
+      "Training given only on shop floor",
+      "Training given only by senior executives",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "E-learning uses digital technology (online modules, LMS, etc.) to deliver training."
+  },
+  {
+    "id": 92,
+    "question": "Cross-training refers to:",
+    "options": [
+      "Training only for promotion",
+      "Training only new recruits",
+      "Training employees to perform tasks outside their usual job role",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Cross-training equips employees with skills for multiple roles, enhancing flexibility."
+  },
+  {
+    "id": 93,
+    "question": "A Training Calendar is used to:",
+    "options": [
+      "Record employee attendance only",
+      "Schedule and plan training programmes throughout the year",
+      "Record employee salary",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "A training calendar lists planned training activities and their timelines."
+  },
+  {
+    "id": 94,
+    "question": "Return on Investment (ROI) in training evaluation measures:",
+    "options": [
+      "Number of employees trained",
+      "Duration of training only",
+      "Employee satisfaction only",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "ROI compares monetary benefits from training against its cost."
+  },
+  {
+    "id": 95,
+    "question": "Performance appraisal is defined as:",
+    "options": [
+      "A disciplinary action only",
+      "A recruitment technique",
+      "A one-time salary negotiation",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Performance appraisal systematically assesses how well an employee performs their job."
+  },
+  {
+    "id": 96,
+    "question": "Which of the following is a traditional method of performance appraisal?",
+    "options": [
+      "Graphic rating scale",
+      "360-degree feedback",
+      "Assessment centre",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Graphic rating scale is one of the oldest, traditional appraisal methods."
+  },
+  {
+    "id": 97,
+    "question": "360-degree feedback appraisal collects feedback from:",
+    "options": [
+      "Only top management",
+      "Only the immediate supervisor",
+      "Supervisors, peers, subordinates, and self",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "360-degree feedback gathers input from multiple sources surrounding the employee."
+  },
+  {
+    "id": 98,
+    "question": "Management by Objectives (MBO) as an appraisal method emphasizes:",
+    "options": [
+      "Only peer comparison",
+      "Only seniority-based evaluation",
+      "Setting mutually agreed goals and evaluating performance against them",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "MBO links appraisal to specific, mutually set objectives between manager and employee."
+  },
+  {
+    "id": 99,
+    "question": "The 'halo effect' error in performance appraisal occurs when:",
+    "options": [
+      "The rater is too strict",
+      "A rater's overall impression influences ratings on individual traits",
+      "The rater is too lenient",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Halo effect is a bias where one trait colours the assessment of all other traits."
+  },
+  {
+    "id": 100,
+    "question": "The 'horn effect' in performance appraisal is:",
+    "options": [
+      "Allowing one positive trait to help entire evaluation",
+      "A type of training",
+      "Allowing one negative trait to negatively bias the entire evaluation",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "The horn effect is the opposite of halo effect — one negative trait taints the overall rating."
+  },
+  {
+    "id": 101,
+    "question": "'Central tendency error' in appraisal refers to:",
+    "options": [
+      "Rating everyone very high",
+      "Rating most employees as average, avoiding extremes",
+      "Rating everyone very low",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Central tendency error occurs when raters avoid extreme ratings and cluster scores around the middle."
+  },
+  {
+    "id": 102,
+    "question": "'Leniency error' in performance appraisal means:",
+    "options": [
+      "Rating employees higher than their actual performance warrants",
+      "Not rating at all",
+      "Rating employees exactly accurately",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Leniency error is the tendency to give unduly favourable ratings."
+  },
+  {
+    "id": 103,
+    "question": "'Strictness error' in performance appraisal means:",
+    "options": [
+      "Rating employees lower than their actual performance warrants",
+      "Skipping the appraisal",
+      "Rating accurately",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Strictness error occurs when a rater is unduly harsh in evaluation."
+  },
+  {
+    "id": 104,
+    "question": "The ranking method of performance appraisal involves:",
+    "options": [
+      "Arranging employees from best to worst based on overall performance",
+      "Gathering feedback from all directions",
+      "Rating each trait on a numerical scale",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "In the ranking method employees are simply ordered relative to one another."
+  },
+  {
+    "id": 105,
+    "question": "Paired comparison method of appraisal involves:",
+    "options": [
+      "Comparing departments only",
+      "Self-rating only",
+      "Comparing each employee with every other employee, one pair at a time",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "In paired comparison, every employee is compared with each other employee individually."
+  },
+  {
+    "id": 106,
+    "question": "Forced distribution method requires raters to:",
+    "options": [
+      "Distribute ratings of employees according to a fixed pattern (e.g., bell curve)",
+      "Rate everyone as excellent",
+      "Avoid giving any ratings",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Forced distribution mandates spreading ratings across categories following a predetermined pattern."
+  },
+  {
+    "id": 107,
+    "question": "Behaviourally Anchored Rating Scale (BARS) combines elements of:",
+    "options": [
+      "MBO and 360-degree feedback",
+      "Graphic rating scale and critical incident method",
+      "Ranking and paired comparison",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "BARS uses specific behavioural examples (critical incidents) anchored to a rating scale."
+  },
+  {
+    "id": 108,
+    "question": "The critical incident method of appraisal focuses on:",
+    "options": [
+      "Recording specific instances of unusually good or poor employee behaviour",
+      "Overall subjective impression",
+      "Only peer voting",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "This method records specific critical incidents reflecting effective or ineffective behaviour."
+  },
+  {
+    "id": 109,
+    "question": "An assessment centre is primarily used to:",
+    "options": [
+      "Record daily attendance",
+      "Process payroll",
+      "Evaluate managerial potential through multiple simulation exercises",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Assessment centres use exercises like in-basket, group discussions to evaluate potential for higher roles."
+  },
+  {
+    "id": 110,
+    "question": "Self-appraisal in performance appraisal means:",
+    "options": [
+      "Customers evaluate the employee",
+      "An employee evaluates their own performance",
+      "Peers evaluate the employee",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Self-appraisal involves employees assessing their own work performance."
+  },
+  {
+    "id": 111,
+    "question": "The main purpose of performance appraisal includes:",
+    "options": [
+      "Only calculating overtime pay",
+      "Providing basis for promotion, training needs and compensation decisions",
+      "Only scheduling leave",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Appraisal results feed into decisions on promotion, training and pay."
+  },
+  {
+    "id": 112,
+    "question": "An appraisal interview/feedback session is meant to:",
+    "options": [
+      "Conduct recruitment tests",
+      "Negotiate union contracts",
+      "Terminate the employee",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "The feedback session communicates appraisal outcomes and plans for development."
+  },
+  {
+    "id": 113,
+    "question": "Which appraisal method uses a checklist of statements describing job behaviour?",
+    "options": [
+      "Checklist method",
+      "MBO",
+      "Assessment centre",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "The checklist method uses a list of descriptive statements which the rater checks as applicable."
+  },
+  {
+    "id": 114,
+    "question": "'Recency error' in appraisal occurs when a rater:",
+    "options": [
+      "Ignores all performance data",
+      "Rates based on future potential only",
+      "Gives undue weight to recent performance rather than the entire review period",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Recency error happens when only recent events unduly influence the overall rating."
+  },
+  {
+    "id": 115,
+    "question": "Potential appraisal, as distinct from performance appraisal, evaluates:",
+    "options": [
+      "Only salary history",
+      "Only past performance",
+      "An employee's capability to take up higher responsibilities in future",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Potential appraisal looks forward, assessing suitability for future roles."
+  },
+  {
+    "id": 116,
+    "question": "A 'confidential report' (CR), historically used in government organisations, is a form of:",
+    "options": [
+      "Training method",
+      "Traditional performance appraisal method",
+      "Grievance redressal tool",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "The Confidential Report system is a traditional appraisal method common in government/public sector organisations."
+  },
+  {
+    "id": 117,
+    "question": "Which of the following best reduces rater bias in performance appraisal?",
+    "options": [
+      "Using multiple raters and structured, objective criteria",
+      "Using only one rater's personal opinion",
+      "Avoiding documentation",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Multiple raters and objective, structured criteria help minimise individual bias."
+  },
+  {
+    "id": 118,
+    "question": "Performance Appraisal differs from Performance Management System (PMS) mainly because PMS is:",
+    "options": [
+      "Identical to job analysis",
+      "A broader, continuous process including goal-setting, feedback and development, not just annual rating",
+      "Limited to salary fixation",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "PMS is a continuous, holistic process, while appraisal is often a periodic event within it."
+  },
+  {
+    "id": 119,
+    "question": "Compensation management primarily deals with:",
+    "options": [
+      "Only training schedules",
+      "Only recruitment advertisement",
+      "Determining fair pay and benefits for employees",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Compensation management covers wage/salary structure and benefit administration."
+  },
+  {
+    "id": 120,
+    "question": "'Wages' generally refer to remuneration paid to:",
+    "options": [
+      "Only government officials",
+      "Blue-collar/manual workers, usually on hourly or daily basis",
+      "Only top executives",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Wages traditionally refer to payment for manual/blue-collar work, often time-based."
+  },
+  {
+    "id": 121,
+    "question": "'Salary' generally refers to remuneration paid to:",
+    "options": [
+      "White-collar employees, usually on a monthly basis",
+      "Apprentices only",
+      "Daily wage labourers only",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Salary is typically fixed periodic (monthly) pay for white-collar/managerial staff."
+  },
+  {
+    "id": 122,
+    "question": "Minimum wage is:",
+    "options": [
+      "Wage paid only to skilled workers",
+      "A wage fixed by a trade union only",
+      "The highest wage in an industry",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Minimum wage is a statutory floor for wages set by the appropriate government."
+  },
+  {
+    "id": 123,
+    "question": "Fair wage lies between:",
+    "options": [
+      "Minimum wage and living wage",
+      "Living wage and no wage",
+      "Only above living wage",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Fair wage is positioned between the minimum wage and the living wage."
+  },
+  {
+    "id": 124,
+    "question": "Living wage refers to a wage level that enables a worker to:",
+    "options": [
+      "Only pay rent",
+      "Afford a basic but decent standard of living including some comforts",
+      "Only pay taxes",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Living wage goes beyond subsistence to include a reasonable standard of living."
+  },
+  {
+    "id": 125,
+    "question": "Job evaluation is primarily used to determine:",
+    "options": [
+      "Employee attendance",
+      "The relative worth of a job for fixing pay structure",
+      "Recruitment sources",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Job evaluation systematically assesses relative job worth to establish equitable pay."
+  },
+  {
+    "id": 126,
+    "question": "Which job evaluation method ranks jobs from highest to lowest based on overall worth?",
+    "options": [
+      "Classification method",
+      "Ranking method",
+      "Point method",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "The ranking method is the simplest, ordering jobs by overall value without breaking into factors."
+  },
+  {
+    "id": 127,
+    "question": "The point method of job evaluation assigns:",
+    "options": [
+      "Numerical points to various job factors, which are summed for total value",
+      "Only a rank order",
+      "Only a grade label",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Point method breaks jobs into factors, assigns points to each, and totals them for comparison."
+  },
+  {
+    "id": 128,
+    "question": "A wage/pay grade system involves:",
+    "options": [
+      "Randomly assigning salaries",
+      "Grouping similar jobs into pay bands or grades",
+      "Paying every employee the same salary",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Pay grades cluster jobs of similar value into bands with defined salary ranges."
+  },
+  {
+    "id": 129,
+    "question": "Fringe benefits refer to:",
+    "options": [
+      "Overtime wages only",
+      "The basic salary component only",
+      "Union subscription",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Fringe benefits are additional perks like insurance, leave, provident fund etc."
+  },
+  {
+    "id": 130,
+    "question": "Dearness Allowance (DA) is primarily paid to compensate for:",
+    "options": [
+      "Travel expenses",
+      "Overtime work",
+      "Rise in cost of living due to inflation",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "DA adjusts pay to offset the impact of inflation on the cost of living."
+  },
+  {
+    "id": 131,
+    "question": "House Rent Allowance (HRA) is given to employees to:",
+    "options": [
+      "Compensate for inflation",
+      "Cover travel expenses",
+      "Cover medical expenses",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "HRA specifically helps offset housing rent costs."
+  },
+  {
+    "id": 132,
+    "question": "Which pay component is directly linked to attendance/presence at work?",
+    "options": [
+      "Gratuity",
+      "Bonus",
+      "Basic pay generally forms the core, while allowances like DA are linked to it",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Basic pay is the core fixed component on which several allowances are calculated."
+  },
+  {
+    "id": 133,
+    "question": "Bonus, as per the Payment of Bonus Act, is generally linked to:",
+    "options": [
+      "Only attendance",
+      "Only educational qualification",
+      "Only seniority",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Statutory bonus is linked to the profits of the establishment and the employee's wages, subject to statutory limits."
+  },
+  {
+    "id": 134,
+    "question": "Gratuity is a benefit paid to an employee mainly for:",
+    "options": [
+      "Daily attendance",
+      "Recruitment referral",
+      "Long and continuous service rendered to the organisation, usually on retirement/resignation",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Gratuity rewards employees for long service, typically payable after five years of continuous service."
+  },
+  {
+    "id": 135,
+    "question": "Provident Fund (PF) is essentially a scheme for:",
+    "options": [
+      "Daily wage payment",
+      "Travel reimbursement only",
+      "Medical reimbursement only",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "PF is a retirement benefit scheme with contributions from both employer and employee."
+  },
+  {
+    "id": 136,
+    "question": "Incentive pay is designed to:",
+    "options": [
+      "Reward employees for performance above a standard level",
+      "Replace basic salary entirely",
+      "Cover statutory deductions",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Incentives link extra pay to performance exceeding a set standard."
+  },
+  {
+    "id": 137,
+    "question": "'Comparable worth' or 'pay equity' concept in compensation refers to:",
+    "options": [
+      "Equal pay for jobs of comparable value, even if job content differs",
+      "Paying only men equally",
+      "Ignoring job value in pay decisions",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Pay equity/comparable worth ensures fair pay based on the relative value of different jobs."
+  },
+  {
+    "id": 138,
+    "question": "A Pay Commission (such as the Central Pay Commission in India) is primarily set up to:",
+    "options": [
+      "Recruit government employees",
+      "Review and recommend revisions in pay structure of government employees",
+      "Conduct training for government employees",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Pay Commissions periodically review and recommend changes to government employees' pay and allowances."
+  },
+  {
+    "id": 139,
+    "question": "Employee welfare measures are primarily aimed at:",
+    "options": [
+      "Reducing leave entitlement",
+      "Increasing working hours",
+      "Improving the working and living conditions of employees",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Welfare measures enhance employee well-being beyond statutory wages."
+  },
+  {
+    "id": 140,
+    "question": "Statutory welfare measures are those that are:",
+    "options": [
+      "Legally mandated by labour laws",
+      "Voluntary and optional for employers",
+      "Decided solely by trade unions",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Statutory welfare measures are required by law, e.g., under the Factories Act."
+  },
+  {
+    "id": 141,
+    "question": "Non-statutory (voluntary) welfare measures are those provided by employers:",
+    "options": [
+      "Only because law requires it",
+      "Only to trade union leaders",
+      "Only during strikes",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Voluntary welfare measures go beyond the minimum legal requirements as goodwill gestures."
+  },
+  {
+    "id": 142,
+    "question": "Canteen facilities in a factory are generally an example of:",
+    "options": [
+      "Extra-mural welfare facility",
+      "A wage component",
+      "Intra-mural (within premises) welfare facility",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Canteens are provided within the factory premises, making them intra-mural welfare facilities."
+  },
+  {
+    "id": 143,
+    "question": "Housing facilities provided to workers outside the factory premises are an example of:",
+    "options": [
+      "Intra-mural welfare facility",
+      "Job evaluation",
+      "Statutory bonus",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Extra-mural facilities are welfare measures provided outside the work premises, like housing colonies."
+  },
+  {
+    "id": 144,
+    "question": "Employee Stock Option Plan (ESOP) is a benefit that:",
+    "options": [
+      "Is a type of leave benefit",
+      "Guarantees a fixed cash bonus only",
+      "Is a form of medical insurance",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "ESOPs give employees the right to buy company stock, aligning their interest with company performance."
+  },
+  {
+    "id": 145,
+    "question": "Which of the following is an example of a monetary incentive?",
+    "options": [
+      "Job enrichment",
+      "Profit-sharing bonus",
+      "Recognition certificate",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Profit-sharing bonus is a direct financial reward, making it a monetary incentive."
+  },
+  {
+    "id": 146,
+    "question": "Which of the following is an example of a non-monetary incentive?",
+    "options": [
+      "Employee of the month recognition",
+      "Salary hike",
+      "Profit sharing",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Recognition is a non-financial reward that boosts morale without direct monetary payment."
+  },
+  {
+    "id": 147,
+    "question": "Group incentive schemes reward employees based on:",
+    "options": [
+      "The collective performance of a team or group",
+      "Only individual performance",
+      "Only seniority",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Group incentives are tied to the combined output/performance of a team."
+  },
+  {
+    "id": 148,
+    "question": "The Halsey Premium Plan is a type of:",
+    "options": [
+      "Individual wage incentive plan based on time saved",
+      "Group incentive plan",
+      "Statutory welfare scheme",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Halsey Plan rewards workers with a bonus for time saved compared to standard time."
+  },
+  {
+    "id": 149,
+    "question": "The Rowan Premium Plan differs from the Halsey Plan mainly in:",
+    "options": [
+      "Not offering any bonus",
+      "Being a group-only scheme",
+      "Applying only to managers",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Rowan Plan bonus is a proportion based on time saved relative to time allowed, differing from Halsey's calculation."
+  },
+  {
+    "id": 150,
+    "question": "Employee Assistance Programmes (EAPs) are designed to help employees with:",
+    "options": [
+      "Only recruitment",
+      "Only technical training",
+      "Only payroll processing",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "EAPs provide counselling and support for personal/psychological issues impacting work."
+  },
+  {
+    "id": 151,
+    "question": "Flexi-time as an employee benefit allows employees to:",
+    "options": [
+      "Avoid all work reporting",
+      "Work without any breaks",
+      "Work only night shifts",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Flexi-time gives employees flexibility in choosing start/end work times within limits."
+  },
+  {
+    "id": 152,
+    "question": "Which of the following is typically covered under the Employees' State Insurance (ESI) scheme?",
+    "options": [
+      "Medical care and cash benefits during sickness, maternity and injury",
+      "Only housing loans",
+      "Only retirement pension",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "ESI provides medical and cash benefits to employees for sickness, maternity and employment injury."
+  },
+  {
+    "id": 153,
+    "question": "Crèche facility at the workplace is an example of welfare measure aimed at:",
+    "options": [
+      "Reducing recruitment cost",
+      "Reducing training needs",
+      "Increasing overtime",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Crèches support employees, particularly women, by providing childcare at the workplace."
+  },
+  {
+    "id": 154,
+    "question": "The main purpose of employee welfare programmes is to:",
+    "options": [
+      "Increase employee turnover",
+      "Eliminate employee benefits",
+      "Enhance employee morale, productivity and loyalty",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Welfare programmes aim to improve satisfaction, which in turn boosts morale and productivity."
+  },
+  {
+    "id": 155,
+    "question": "Maslow's Hierarchy of Needs places which need at the base of the pyramid?",
+    "options": [
+      "Esteem needs",
+      "Physiological needs",
+      "Self-actualisation needs",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Maslow's pyramid begins with basic physiological needs at the bottom."
+  },
+  {
+    "id": 156,
+    "question": "According to Maslow, which need is placed at the top of the hierarchy?",
+    "options": [
+      "Safety needs",
+      "Social needs",
+      "Self-actualisation needs",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Self-actualisation, the need to realise one's full potential, is at the apex of Maslow's hierarchy."
+  },
+  {
+    "id": 157,
+    "question": "The correct order of Maslow's hierarchy from bottom to top is:",
+    "options": [
+      "Physiological, Safety, Social, Esteem, Self-actualisation",
+      "Social, Physiological, Safety, Self-actualisation, Esteem",
+      "Esteem, Safety, Physiological, Social, Self-actualisation",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Maslow's five levels in order are Physiological, Safety, Social, Esteem, and Self-actualisation."
+  },
+  {
+    "id": 158,
+    "question": "Herzberg's Two-Factor theory classifies job factors into:",
+    "options": [
+      "Hygiene factors and Motivator factors",
+      "Physiological and psychological factors",
+      "Primary and secondary needs",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Herzberg divided factors influencing job attitude into hygiene (dissatisfiers) and motivators (satisfiers)."
+  },
+  {
+    "id": 159,
+    "question": "According to Herzberg, which of the following is a hygiene factor?",
+    "options": [
+      "Achievement",
+      "Recognition",
+      "Responsibility",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Salary is classified as a hygiene factor — its absence causes dissatisfaction but its presence alone doesn't motivate."
+  },
+  {
+    "id": 160,
+    "question": "According to Herzberg, which of the following is a motivator factor?",
+    "options": [
+      "Working conditions",
+      "Achievement",
+      "Company policy",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Achievement is a motivator factor that leads to genuine job satisfaction."
+  },
+  {
+    "id": 161,
+    "question": "Herzberg's hygiene factors, when absent, primarily cause:",
+    "options": [
+      "Increased motivation",
+      "Job satisfaction",
+      "Job dissatisfaction",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Absence of hygiene factors leads to dissatisfaction, though their presence doesn't necessarily motivate."
+  },
+  {
+    "id": 162,
+    "question": "McGregor's Theory X assumes that employees are:",
+    "options": [
+      "Always satisfied with their jobs",
+      "Naturally creative and seek responsibility",
+      "Self-motivated and enjoy work",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Theory X presents a pessimistic view — employees dislike work and need supervision."
+  },
+  {
+    "id": 163,
+    "question": "McGregor's Theory Y assumes that employees are:",
+    "options": [
+      "Motivated only by fear",
+      "Uninterested in achievement",
+      "Self-motivated, enjoy work, and seek responsibility",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Theory Y presents an optimistic view — employees are inherently motivated and capable of self-direction."
+  },
+  {
+    "id": 164,
+    "question": "Vroom's Expectancy Theory states that motivation depends on:",
+    "options": [
+      "Only social needs",
+      "Only monetary reward",
+      "Expectancy, Instrumentality and Valence",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Vroom's theory says motivation = Expectancy x Instrumentality x Valence."
+  },
+  {
+    "id": 165,
+    "question": "In Vroom's theory, 'Valence' refers to:",
+    "options": [
+      "The belief that effort leads to performance",
+      "The belief that performance leads to reward",
+      "The actual performance level",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Valence is the perceived attractiveness or value of the outcome/reward to the individual."
+  },
+  {
+    "id": 166,
+    "question": "In Vroom's theory, 'Expectancy' refers to:",
+    "options": [
+      "The value placed on the reward",
+      "The belief that performance leads to reward",
+      "The actual reward received",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Expectancy is the perceived link between effort and performance."
+  },
+  {
+    "id": 167,
+    "question": "McClelland's theory of needs identifies which three needs?",
+    "options": [
+      "Physiological, Safety, Social needs",
+      "Need for Achievement, Need for Power, Need for Affiliation",
+      "Theory X and Theory Y needs",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "McClelland proposed three learned needs: Achievement (nAch), Power (nPow), and Affiliation (nAff)."
+  },
+  {
+    "id": 168,
+    "question": "An employee with a high 'need for achievement' (McClelland) typically prefers:",
+    "options": [
+      "Moderately challenging tasks with clear feedback",
+      "Very easy tasks with no risk",
+      "Tasks that depend entirely on luck",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "High nAch individuals seek moderately difficult, achievable goals with clear performance feedback."
+  },
+  {
+    "id": 169,
+    "question": "Equity Theory of motivation, proposed by J. Stacy Adams, states that employees are motivated by:",
+    "options": [
+      "Only the absolute amount of pay received",
+      "Only working hours",
+      "Only job title",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Equity theory focuses on the perceived fairness of the input-outcome ratio compared to relevant others."
+  },
+  {
+    "id": 170,
+    "question": "Goal-Setting Theory, proposed by Edwin Locke, suggests that motivation is enhanced when goals are:",
+    "options": [
+      "Assigned without employee input",
+      "Kept secret from the employee",
+      "Vague and easy",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Locke's theory emphasizes that specific, challenging goals lead to higher performance than vague or easy goals."
+  },
+  {
+    "id": 171,
+    "question": "Reinforcement Theory of motivation is primarily based on the work of:",
+    "options": [
+      "Abraham Maslow",
+      "Douglas McGregor",
+      "B.F. Skinner",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Reinforcement theory, rooted in behaviourism, is associated with B.F. Skinner's operant conditioning."
+  },
+  {
+    "id": 172,
+    "question": "Positive reinforcement in the workplace involves:",
+    "options": [
+      "Ignoring all behaviour",
+      "Removing all rewards",
+      "Punishing undesired behaviour",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Positive reinforcement strengthens behaviour by following it with a favourable outcome."
+  },
+  {
+    "id": 173,
+    "question": "Which theory suggests that human needs exist in a rigid five-level hierarchical order, with lower needs satisfied before higher ones?",
+    "options": [
+      "Maslow's Hierarchy of Needs",
+      "Equity Theory",
+      "Vroom's Expectancy Theory",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Maslow's theory is built on the premise of a hierarchical progression of needs."
+  },
+  {
+    "id": 174,
+    "question": "ERG Theory, proposed by Clayton Alderfer, condenses Maslow's five needs into:",
+    "options": [
+      "Four needs",
+      "Existence, Relatedness and Growth needs",
+      "Two needs only",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Alderfer's ERG theory groups Maslow's hierarchy into three categories: Existence, Relatedness, Growth."
+  },
+  {
+    "id": 175,
+    "question": "Unlike Maslow, Alderfer's ERG theory proposes that:",
+    "options": [
+      "More than one need can be active at the same time, and regression can occur",
+      "Only one need exists",
+      "Needs never change once satisfied",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "ERG theory allows simultaneous needs and a frustration-regression process, unlike Maslow's strict hierarchy."
+  },
+  {
+    "id": 176,
+    "question": "The concept of 'job satisfaction' refers to:",
+    "options": [
+      "The organisation's total revenue",
+      "An employee's overall positive feeling about their job",
+      "The salary paid to an employee",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Job satisfaction is the extent of positive feelings an employee has toward their job."
+  },
+  {
+    "id": 177,
+    "question": "Which motivational approach focuses on redesigning jobs to make them more meaningful?",
+    "options": [
+      "Reinforcement theory",
+      "Equity theory",
+      "Expectancy theory",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Job enrichment, linked to Herzberg's motivators, redesigns jobs to increase meaning and responsibility."
+  },
+  {
+    "id": 178,
+    "question": "According to Herzberg, merely improving hygiene factors will:",
+    "options": [
+      "Eliminate the need for motivators",
+      "Prevent dissatisfaction but not necessarily create satisfaction/motivation",
+      "Automatically increase productivity",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Hygiene factors prevent dissatisfaction but do not by themselves motivate employees."
+  },
+  {
+    "id": 179,
+    "question": "Intrinsic motivation refers to motivation that comes from:",
+    "options": [
+      "Internal satisfaction and interest in the work itself",
+      "External rewards like pay and bonus",
+      "Peer pressure only",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Intrinsic motivation arises from internal enjoyment or interest in the task itself."
+  },
+  {
+    "id": 180,
+    "question": "Extrinsic motivation refers to motivation driven by:",
+    "options": [
+      "External rewards such as pay, promotion, or recognition",
+      "Internal enjoyment of the task",
+      "Self-fulfilment alone",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Extrinsic motivation is driven by outside factors/rewards rather than internal satisfaction."
+  },
+  {
+    "id": 181,
+    "question": "Which theory of motivation emphasizes that employees compare their input-output ratio with a 'referent other'?",
+    "options": [
+      "ERG theory",
+      "Maslow's theory",
+      "Reinforcement theory",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Equity theory centres on social comparison of input-outcome ratios with others."
+  },
+  {
+    "id": 182,
+    "question": "Leadership is best defined as:",
+    "options": [
+      "The ability to influence and guide others toward achieving goals",
+      "The process of recruitment",
+      "The process of payroll processing",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Leadership involves influencing followers to work towards common objectives."
+  },
+  {
+    "id": 183,
+    "question": "The Trait theory of leadership suggests that leaders are:",
+    "options": [
+      "Made entirely through training",
+      "Born with certain inherent qualities that make them effective leaders",
+      "Identified only by seniority",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Trait theory proposes leaders possess specific inborn characteristics distinguishing them from non-leaders."
+  },
+  {
+    "id": 184,
+    "question": "Autocratic leadership style is characterised by:",
+    "options": [
+      "The leader making decisions unilaterally with little input from subordinates",
+      "Full participation of subordinates in decision-making",
+      "Decisions made entirely by subordinates",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Autocratic leaders centralise decision-making authority with themselves."
+  },
+  {
+    "id": 185,
+    "question": "Democratic (participative) leadership style is characterised by:",
+    "options": [
+      "Complete absence of guidance",
+      "The leader making all decisions alone",
+      "Decisions made only by external consultants",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Democratic leaders encourage participation and input from team members in decisions."
+  },
+  {
+    "id": 186,
+    "question": "Laissez-faire leadership style is characterised by:",
+    "options": [
+      "Giving employees maximum freedom with minimal leader intervention",
+      "Frequent punishment of employees",
+      "Strict control over all decisions",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Laissez-faire leaders take a hands-off approach, allowing subordinates significant autonomy."
+  },
+  {
+    "id": 187,
+    "question": "The Managerial Grid (Blake and Mouton) plots leadership styles based on:",
+    "options": [
+      "Concern for location and concern for time",
+      "Concern for profit and concern for loss",
+      "Concern for people and concern for production",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "The Managerial Grid uses two axes: concern for people and concern for production/task."
+  },
+  {
+    "id": 188,
+    "question": "In the Blake and Mouton Managerial Grid, the '9,9' style represents:",
+    "options": [
+      "Impoverished management — low concern for both",
+      "Country club management — high concern for people, low for production",
+      "Team management — high concern for both people and production",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "The 9,9 position represents the ideal 'team management' style balancing high concern for both dimensions."
+  },
+  {
+    "id": 189,
+    "question": "Fiedler's Contingency Theory of leadership suggests that effective leadership depends on:",
+    "options": [
+      "The match between leadership style and the favourableness of the situation",
+      "Random chance",
+      "The leader's age only",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Fiedler's theory argues effectiveness depends on fit between leader's style and situational control."
+  },
+  {
+    "id": 190,
+    "question": "Situational Leadership Theory (Hersey and Blanchard) suggests leadership style should be adapted based on:",
+    "options": [
+      "The organisation's location",
+      "The leader's personal mood only",
+      "The maturity/readiness level of followers",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "This theory recommends adjusting leadership style according to followers' competence and commitment."
+  },
+  {
+    "id": 191,
+    "question": "Transformational leadership primarily focuses on:",
+    "options": [
+      "Maintaining routine operations only",
+      "Inspiring and motivating followers toward a shared vision and change",
+      "Punishing poor performance only",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Transformational leaders inspire followers to exceed expectations and embrace change through vision."
+  },
+  {
+    "id": 192,
+    "question": "Transactional leadership primarily focuses on:",
+    "options": [
+      "Eliminating all rules",
+      "Inspiring a long-term vision only",
+      "Ignoring performance entirely",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Transactional leadership is based on structured exchanges — rewards for meeting targets, correction for shortfalls."
+  },
+  {
+    "id": 193,
+    "question": "Charismatic leadership relies primarily on:",
+    "options": [
+      "Random assignment of tasks",
+      "Formal legal authority alone",
+      "Strict bureaucratic rules",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Charismatic leaders draw on personal appeal and vision to inspire strong follower commitment."
+  },
+  {
+    "id": 194,
+    "question": "The 'Great Man' theory of leadership assumes that:",
+    "options": [
+      "Leadership depends only on the situation",
+      "Leaders can be developed through training alone",
+      "Great leaders are born, not made",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "The Great Man theory holds that leadership capacity is innate and leaders are born with it."
+  },
+  {
+    "id": 195,
+    "question": "Which leadership style is generally most effective when quick decisions are needed in a crisis?",
+    "options": [
+      "No leadership at all",
+      "Laissez-faire leadership",
+      "Autocratic leadership",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Autocratic leadership allows rapid, unilateral decisions suited to crisis situations."
+  },
+  {
+    "id": 196,
+    "question": "The concept of 'Servant Leadership' emphasizes that a leader should primarily:",
+    "options": [
+      "Avoid interacting with followers",
+      "Focus only on organisational profit",
+      "Focus on serving and developing the needs of followers first",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Servant leadership prioritises the growth and well-being of followers over the leader's own interests."
+  },
+  {
+    "id": 197,
+    "question": "Path-Goal Theory of leadership, proposed by Robert House, suggests leaders should:",
+    "options": [
+      "Focus only on punishment",
+      "Set no goals at all",
+      "Clarify the path to goals and remove obstacles to help followers succeed",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Path-Goal theory holds that effective leaders clarify goals/paths and support followers in achieving them."
+  },
+  {
+    "id": 198,
+    "question": "Organisational Behaviour (OB) is the study of:",
+    "options": [
+      "Only machine maintenance",
+      "Only marketing strategy",
+      "Human behaviour in organisational settings",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "OB studies how individuals and groups act within organisations."
+  },
+  {
+    "id": 199,
+    "question": "Organisational culture refers to:",
+    "options": [
+      "The list of company shareholders",
+      "The shared values, beliefs and norms that shape behaviour within an organisation",
+      "The physical layout of the office only",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Culture is the collective set of values and norms guiding how members behave."
+  },
+  {
+    "id": 200,
+    "question": "Which of the following is an example of an informal organisation?",
+    "options": [
+      "The company's balance sheet",
+      "The company's job description manual",
+      "Friendship groups formed among employees outside official structure",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Informal organisations arise from personal relationships rather than official hierarchy."
+  },
+  {
+    "id": 201,
+    "question": "A 'formal organisation' is characterised by:",
+    "options": [
+      "Spontaneous, unplanned relationships",
+      "Absence of any rules",
+      "Only friendship-based groupings",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Formal organisations have deliberately designed structures, rules and reporting lines."
+  },
+  {
+    "id": 202,
+    "question": "Organisational Development (OD) is best described as:",
+    "options": [
+      "A marketing campaign",
+      "A planned, systematic effort to improve organisational effectiveness through behavioural science",
+      "A payroll software",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "OD is a long-term, planned change effort aimed at improving organisational health and effectiveness."
+  },
+  {
+    "id": 203,
+    "question": "Which of the following best describes 'organisational climate'?",
+    "options": [
+      "The prevailing atmosphere or mood experienced by employees at work",
+      "The number of holidays in a year",
+      "The physical temperature of the office",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Organisational climate reflects employees' perceptions of their work environment."
+  },
+  {
+    "id": 204,
+    "question": "Resistance to change in organisations most commonly arises due to:",
+    "options": [
+      "Too much employee involvement",
+      "Excess of information provided to employees",
+      "Fear of the unknown and perceived threat to job security",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Fear of uncertainty and potential negative impact drives resistance to change."
+  },
+  {
+    "id": 205,
+    "question": "Which of the following is a key strategy to overcome resistance to change?",
+    "options": [
+      "Effective communication and employee participation",
+      "Sudden, unexplained implementation",
+      "Ignoring employee concerns",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Communication and participation help employees understand and accept change, reducing resistance."
+  },
+  {
+    "id": 206,
+    "question": "Organisational structure that groups employees based on specialised functions (e.g., HR, Finance, Marketing) is called:",
+    "options": [
+      "Network structure",
+      "Divisional structure",
+      "Functional structure",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "A functional structure organises departments around specialised areas of work."
+  },
+  {
+    "id": 207,
+    "question": "A matrix organisational structure is characterised by:",
+    "options": [
+      "A single chain of command only",
+      "No reporting relationships",
+      "Employees reporting to both a functional manager and a project manager simultaneously",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Matrix structures create dual reporting lines, combining functional and project-based authority."
+  },
+  {
+    "id": 208,
+    "question": "Group cohesiveness in organisational behaviour refers to:",
+    "options": [
+      "The number of departments in an organisation",
+      "The group's total salary budget",
+      "The degree to which group members are attracted to and want to remain in the group",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Cohesiveness reflects the strength of bonds and commitment among group members."
+  },
+  {
+    "id": 209,
+    "question": "Which of the following best describes 'organisational citizenship behaviour' (OCB)?",
+    "options": [
+      "Mandatory job duties only",
+      "Behaviour that violates company policy",
+      "Behaviour required by law",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "OCB refers to extra-role behaviours employees perform voluntarily to help the organisation."
+  },
+  {
+    "id": 210,
+    "question": "Perception in organisational behaviour refers to:",
+    "options": [
+      "The company's financial statement",
+      "The process by which individuals interpret and give meaning to their environment",
+      "A type of leave",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Perception is the cognitive process of interpreting sensory information about the environment."
+  },
+  {
+    "id": 211,
+    "question": "A 'psychological contract' between employer and employee refers to:",
+    "options": [
+      "A legal document filed with the government",
+      "A formal written employment agreement",
+      "Unwritten mutual expectations and obligations between the two parties",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "The psychological contract covers implicit, informal expectations beyond the written employment contract."
+  },
+  {
+    "id": 212,
+    "question": "Organisational communication flowing from superiors to subordinates is called:",
+    "options": [
+      "Horizontal communication",
+      "Upward communication",
+      "Downward communication",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Downward communication moves from higher to lower levels of hierarchy."
+  },
+  {
+    "id": 213,
+    "question": "Communication flowing from subordinates to superiors is called:",
+    "options": [
+      "Upward communication",
+      "Horizontal communication",
+      "External communication",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Upward communication moves information from lower to higher levels of the organisation."
+  },
+  {
+    "id": 214,
+    "question": "Communication between employees at the same hierarchical level is called:",
+    "options": [
+      "Downward communication",
+      "Horizontal (lateral) communication",
+      "Diagonal communication",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Horizontal communication occurs between peers at the same organisational level."
+  },
+  {
+    "id": 215,
+    "question": "The grapevine in organisational communication refers to:",
+    "options": [
+      "Written company policy",
+      "Official memos issued by management",
+      "Legal notices",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "The grapevine is the informal channel through which rumours and information spread among staff."
+  },
+  {
+    "id": 216,
+    "question": "Which of the following is a barrier to effective communication?",
+    "options": [
+      "Semantic (language) barriers",
+      "Clear and concise messaging",
+      "Active listening",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Semantic barriers arise from misunderstanding of words/language, hindering communication."
+  },
+  {
+    "id": 217,
+    "question": "'Noise' in the communication process refers to:",
+    "options": [
+      "A formal report",
+      "The volume of a speaker's voice only",
+      "Any interference that distorts or disrupts the intended message",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Noise represents any disturbance that prevents the message from being received as intended."
+  },
+  {
+    "id": 218,
+    "question": "Feedback in the communication process serves to:",
+    "options": [
+      "Increase noise",
+      "Eliminate the need for a receiver",
+      "End the communication process immediately",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Feedback allows the sender to verify the receiver's understanding of the message."
+  },
+  {
+    "id": 219,
+    "question": "Non-verbal communication includes:",
+    "options": [
+      "Only written memos",
+      "Body language, facial expressions and gestures",
+      "Only telephone calls",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Non-verbal communication conveys meaning through body language rather than words."
+  },
+  {
+    "id": 220,
+    "question": "Which communication channel is generally most appropriate for conveying a complex, sensitive message?",
+    "options": [
+      "A one-line text message",
+      "Face-to-face communication",
+      "An anonymous notice board posting",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Face-to-face communication allows immediate clarification and is suited to complex/sensitive matters."
+  },
+  {
+    "id": 221,
+    "question": "Formal communication in an organisation follows:",
+    "options": [
+      "Only the grapevine",
+      "Only external media",
+      "No defined pattern at all",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Formal communication travels through officially sanctioned organisational channels."
+  },
+  {
+    "id": 222,
+    "question": "Industrial Relations (IR) primarily deals with the relationship between:",
+    "options": [
+      "Government and foreign investors only",
+      "Buyers and sellers",
+      "Shareholders and creditors",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "IR concerns the relationship among employers, employees, trade unions and the government."
+  },
+  {
+    "id": 223,
+    "question": "A trade union is best defined as:",
+    "options": [
+      "A customer association",
+      "A company's board of directors",
+      "An association of workers formed to protect and promote their common interests",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Trade unions represent workers' collective interests regarding wages, conditions, etc."
+  },
+  {
+    "id": 224,
+    "question": "The main objective of a trade union is to:",
+    "options": [
+      "Increase company profits only",
+      "Eliminate all jobs",
+      "Improve wages, working conditions and job security of members",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Unions primarily work to protect and advance their members' employment interests."
+  },
+  {
+    "id": 225,
+    "question": "An industrial dispute is best defined as:",
+    "options": [
+      "A disagreement between employers and employees connected with employment terms",
+      "A dispute between customers and a company",
+      "A dispute over land ownership",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Industrial disputes arise from disagreements connected with employment, wages, or conditions of work."
+  },
+  {
+    "id": 226,
+    "question": "A 'strike' refers to:",
+    "options": [
+      "An individual's voluntary resignation",
+      "A lockout imposed by employer",
+      "A promotion given to workers",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "A strike is a concerted refusal to work by employees to pursue collective demands."
+  },
+  {
+    "id": 227,
+    "question": "A 'lockout' refers to:",
+    "options": [
+      "A government-imposed holiday",
+      "Temporary closure of a workplace by the employer to pressure employees",
+      "A training programme",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "A lockout is the employer's counterpart to a strike — denying employees access to work."
+  },
+  {
+    "id": 228,
+    "question": "'Collective bargaining' refers to:",
+    "options": [
+      "An individual employee negotiating salary alone",
+      "Negotiation between employer and employee representatives to settle terms of employment",
+      "A court trial",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Collective bargaining is a negotiation process between organised labour and management."
+  },
+  {
+    "id": 229,
+    "question": "Conciliation, as a method of industrial dispute resolution, involves:",
+    "options": [
+      "Automatic termination of employees",
+      "Immediate strike action",
+      "A binding court judgment",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Conciliation uses a mediator to facilitate agreement, without imposing a binding decision."
+  },
+  {
+    "id": 230,
+    "question": "Arbitration in industrial disputes refers to:",
+    "options": [
+      "A voluntary discussion with no binding outcome",
+      "A strike action",
+      "A government subsidy",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Arbitration results in a binding award by an agreed third-party arbitrator."
+  },
+  {
+    "id": 231,
+    "question": "Adjudication in the context of industrial disputes refers to:",
+    "options": [
+      "Resolution purely through mutual employee discussion",
+      "A type of strike",
+      "A type of recruitment",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Adjudication is the legal/judicial process of resolving industrial disputes through labour courts or tribunals."
+  },
+  {
+    "id": 232,
+    "question": "A 'works committee', as per Indian labour law, is formed to:",
+    "options": [
+      "Replace trade unions entirely",
+      "Conduct external audits",
+      "Fix top management salary",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Works committees provide a platform for joint consultation between employer and workers."
+  },
+  {
+    "id": 233,
+    "question": "'Go-slow' as an industrial action refers to:",
+    "options": [
+      "Employees resigning en masse",
+      "Employees stopping work completely",
+      "Employer closing the factory",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Go-slow is a form of protest where workers intentionally reduce their work speed."
+  },
+  {
+    "id": 234,
+    "question": "'Gherao' refers to:",
+    "options": [
+      "A government scheme",
+      "Physically surrounding and confining management personnel to press demands",
+      "A type of bonus",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Gherao involves workers encircling/confining managers as a pressure tactic during disputes."
+  },
+  {
+    "id": 235,
+    "question": "Which of the following best describes 'bipartite' negotiation in IR?",
+    "options": [
+      "Government-imposed settlement",
+      "Direct negotiation between employer and employee/union representatives without third-party involvement",
+      "Court-ordered settlement only",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Bipartite negotiation involves only the two direct parties — employer and employees/union."
+  },
+  {
+    "id": 236,
+    "question": "'Tripartite' bodies in industrial relations typically include representatives of:",
+    "options": [
+      "Only foreign investors",
+      "Government, employers and employees/unions",
+      "Only employees",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Tripartite bodies bring together government, employer and worker representatives."
+  },
+  {
+    "id": 237,
+    "question": "Good industrial relations primarily contribute to:",
+    "options": [
+      "Increased number of strikes",
+      "Higher employee turnover",
+      "Reduced production",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Healthy IR fosters cooperation, reducing conflict and enhancing productivity."
+  },
+  {
+    "id": 238,
+    "question": "The Industrial Disputes Act was enacted in the year:",
+    "options": [
+      "1926",
+      "1972",
+      "1947",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "The Industrial Disputes Act, 1947 governs investigation and settlement of industrial disputes in India."
+  },
+  {
+    "id": 239,
+    "question": "The Trade Unions Act, which provides for registration of trade unions in India, was enacted in:",
+    "options": [
+      "1926",
+      "1972",
+      "1947",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "The Trade Unions Act, 1926 provides for registration and regulation of trade unions."
+  },
+  {
+    "id": 240,
+    "question": "The Factories Act, which regulates working conditions in factories, was enacted in:",
+    "options": [
+      "1965",
+      "1948",
+      "1926",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "The Factories Act, 1948 governs health, safety and welfare of workers in factories."
+  },
+  {
+    "id": 241,
+    "question": "The Payment of Wages Act primarily ensures:",
+    "options": [
+      "Retirement benefits",
+      "Timely payment of wages without unauthorised deductions",
+      "Bonus payment",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "The Payment of Wages Act, 1936 regulates timely payment and permissible deductions from wages."
+  },
+  {
+    "id": 242,
+    "question": "The Minimum Wages Act empowers the government to:",
+    "options": [
+      "Fix minimum rates of wages for scheduled employments",
+      "Fix bonus rates only",
+      "Fix retirement age",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "The Minimum Wages Act, 1948 allows government to set minimum wage rates for specified employments."
+  },
+  {
+    "id": 243,
+    "question": "The Payment of Bonus Act mandates payment of bonus to eligible employees based on:",
+    "options": [
+      "Only educational qualification",
+      "Profits of the establishment, subject to minimum and maximum limits",
+      "Only attendance record",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "The Payment of Bonus Act, 1965 links bonus to profits, subject to statutory min/max percentages."
+  },
+  {
+    "id": 244,
+    "question": "The Payment of Gratuity Act generally applies to employees who have completed:",
+    "options": [
+      "Ten years of service",
+      "One year of service",
+      "Six months of service",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Gratuity under the Act, 1972 is generally payable after five years of continuous service."
+  },
+  {
+    "id": 245,
+    "question": "The Employees' Provident Fund and Miscellaneous Provisions Act was enacted in:",
+    "options": [
+      "1952",
+      "1947",
+      "1965",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "The EPF & MP Act, 1952 provides for provident fund, pension and insurance benefits to employees."
+  },
+  {
+    "id": 246,
+    "question": "The Employees' State Insurance Act was enacted in:",
+    "options": [
+      "1926",
+      "1952",
+      "1948",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "The ESI Act, 1948 provides medical and cash benefits to employees in case of sickness, maternity and injury."
+  },
+  {
+    "id": 247,
+    "question": "The Maternity Benefit Act primarily provides for:",
+    "options": [
+      "Retirement benefits for all employees",
+      "Housing loans",
+      "Paid leave and benefits to women employees before and after childbirth",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "The Maternity Benefit Act, 1961 grants maternity leave and related benefits to women workers."
+  },
+  {
+    "id": 248,
+    "question": "As per the Maternity Benefit (Amendment) Act, 2017, paid maternity leave was increased to:",
+    "options": [
+      "18 weeks",
+      "26 weeks",
+      "6 weeks",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "The 2017 amendment increased paid maternity leave from 12 to 26 weeks for the first two children."
+  },
+  {
+    "id": 249,
+    "question": "The Contract Labour (Regulation and Abolition) Act primarily aims to:",
+    "options": [
+      "Provide retirement pension",
+      "Regulate employment of contract labour and provide for its abolition in certain circumstances",
+      "Abolish all trade unions",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "This Act, 1970 regulates the employment of contract labour in certain establishments."
+  },
+  {
+    "id": 250,
+    "question": "The Equal Remuneration Act mandates:",
+    "options": [
+      "Equal pay only for government employees",
+      "Equal pay only for managers",
+      "Equal pay for men and women for the same or similar work",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "The Equal Remuneration Act, 1976 prohibits gender-based wage discrimination for similar work."
+  },
+  {
+    "id": 251,
+    "question": "The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act was enacted in:",
+    "options": [
+      "2013",
+      "1998",
+      "2017",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "The POSH Act, 2013 mandates measures to prevent and address sexual harassment at the workplace."
+  },
+  {
+    "id": 252,
+    "question": "Under the POSH Act, every organisation with 10 or more employees must constitute:",
+    "options": [
+      "A works committee only",
+      "A trade union",
+      "A pay commission",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "The POSH Act requires establishments with 10+ employees to set up an Internal Complaints Committee."
+  },
+  {
+    "id": 253,
+    "question": "The Industrial Employment (Standing Orders) Act mainly requires employers to:",
+    "options": [
+      "Fix bonus percentage",
+      "Provide free housing",
+      "Abolish contract labour",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "This Act, 1946 requires employers to formally define and certify employment conditions as standing orders."
+  },
+  {
+    "id": 254,
+    "question": "Which of the following labour codes consolidated several wage-related laws in India (including Minimum Wages Act and Payment of Bonus Act)?",
+    "options": [
+      "The Code on Wages, 2019",
+      "The Companies Act, 2013",
+      "The Trade Unions Act, 1926",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "The Code on Wages, 2019 consolidated four wage-related laws including Minimum Wages and Payment of Bonus Acts."
+  },
+  {
+    "id": 255,
+    "question": "Which of the following labour codes consolidated laws relating to trade unions, industrial disputes, and standing orders?",
+    "options": [
+      "The Code on Social Security, 2020",
+      "The Occupational Safety Code, 2020",
+      "The Industrial Relations Code, 2020",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "The Industrial Relations Code, 2020 merged the Trade Unions Act, Industrial Disputes Act and Standing Orders Act."
+  },
+  {
+    "id": 256,
+    "question": "Which labour code consolidated laws on Provident Fund, ESI, Gratuity and Maternity Benefit?",
+    "options": [
+      "The Code on Social Security, 2020",
+      "The Factories Act, 1948",
+      "The Industrial Relations Code, 2020",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "The Code on Social Security, 2020 merged multiple social security laws including EPF, ESI, Gratuity and Maternity Benefit Acts."
+  },
+  {
+    "id": 257,
+    "question": "The Right to Information (RTI) applicability to labour welfare records means employees/citizens can:",
+    "options": [
+      "Access any private individual's personal data freely",
+      "Seek information held by public authorities, subject to exemptions",
+      "Demand company trade secrets without restriction",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "RTI allows access to information held by public authorities, subject to statutory exemptions."
+  },
+  {
+    "id": 258,
+    "question": "An 'appropriate government' under the Industrial Disputes Act refers to:",
+    "options": [
+      "Only the State Government in all cases",
+      "The employer's own management",
+      "The Central or State Government having jurisdiction depending on the nature of the establishment",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Depending on the establishment's nature, either the Central or State Government is the 'appropriate government' under the Act."
+  },
+  {
+    "id": 259,
+    "question": "The main purpose of labour welfare legislation in India is to:",
+    "options": [
+      "Eliminate trade unions",
+      "Maximise employer profit only",
+      "Increase working hours indefinitely",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Labour laws aim to safeguard workers' rights, safety, and fair treatment at the workplace."
+  },
+  {
+    "id": 260,
+    "question": "A grievance is best defined as:",
+    "options": [
+      "A training module",
+      "An employee's feeling of dissatisfaction regarding terms of employment",
+      "A recruitment advertisement",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "A grievance reflects an employee's sense of unfair treatment or dissatisfaction related to work."
+  },
+  {
+    "id": 261,
+    "question": "A grievance handling procedure primarily aims to:",
+    "options": [
+      "Terminate dissatisfied employees",
+      "Avoid resolving employee complaints",
+      "Increase employee dissatisfaction",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Grievance procedures ensure complaints are heard and resolved fairly and quickly."
+  },
+  {
+    "id": 262,
+    "question": "The first step in most grievance handling procedures is:",
+    "options": [
+      "Filing a case in civil court",
+      "Raising the grievance with the immediate supervisor",
+      "Going on strike immediately",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Grievances are typically first raised informally with the immediate supervisor before escalation."
+  },
+  {
+    "id": 263,
+    "question": "An 'open door policy' in grievance handling means:",
+    "options": [
+      "Employees can approach higher management directly with their concerns",
+      "Grievances are ignored",
+      "Employees cannot approach management directly",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "An open door policy allows employees direct access to management to voice concerns."
+  },
+  {
+    "id": 264,
+    "question": "Discipline in an organisational context refers to:",
+    "options": [
+      "Only rewarding employees",
+      "Adherence to rules, regulations and standards of conduct",
+      "Absence of any rules",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Discipline broadly means conforming to established organisational rules and standards."
+  },
+  {
+    "id": 265,
+    "question": "'Positive discipline' approach focuses on:",
+    "options": [
+      "Encouraging self-control and voluntary compliance with rules",
+      "Only monetary penalties",
+      "Immediate dismissal for any violation",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Positive discipline emphasises guidance and self-correction rather than punitive action alone."
+  },
+  {
+    "id": 266,
+    "question": "A 'show cause notice' is typically issued to an employee to:",
+    "options": [
+      "Sanction leave",
+      "Approve a transfer",
+      "Seek an explanation before taking disciplinary action",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "A show cause notice asks the employee to explain alleged misconduct before further action."
+  },
+  {
+    "id": 267,
+    "question": "The principle of 'natural justice' in disciplinary proceedings requires that:",
+    "options": [
+      "The employer can punish without informing the employee",
+      "Only written complaints are valid",
+      "No inquiry is needed for dismissal",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Natural justice mandates a fair opportunity to be heard before disciplinary action is taken."
+  },
+  {
+    "id": 268,
+    "question": "A 'domestic enquiry' in disciplinary proceedings refers to:",
+    "options": [
+      "A police investigation",
+      "An internal investigation conducted by the employer into alleged employee misconduct",
+      "A trade union election",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Domestic enquiry is the employer's internal process to examine charges against an employee before taking action."
+  },
+  {
+    "id": 269,
+    "question": "Progressive discipline generally follows the sequence of:",
+    "options": [
+      "Immediate dismissal without warning",
+      "Only monetary fines",
+      "Promotion, then warning",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Progressive discipline escalates penalties gradually, starting from a verbal warning to eventual dismissal for repeated offences."
+  },
+  {
+    "id": 270,
+    "question": "Collective bargaining primarily results in a:",
+    "options": [
+      "Unilateral decision by the employer",
+      "Government order only",
+      "Court judgment only",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Collective bargaining leads to a negotiated agreement covering terms of employment."
+  },
+  {
+    "id": 271,
+    "question": "Which of the following is a pre-requisite for effective collective bargaining?",
+    "options": [
+      "Government control over all negotiations",
+      "Recognition of the trade union by the employer",
+      "Complete secrecy of proceedings",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Union recognition by the employer is essential for meaningful collective bargaining to occur."
+  },
+  {
+    "id": 272,
+    "question": "'Distributive bargaining' in collective bargaining refers to:",
+    "options": [
+      "Cooperative problem-solving benefiting both parties",
+      "A type of strike",
+      "A government policy",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Distributive bargaining involves dividing limited resources, often resulting in one party gaining at the other's expense."
+  },
+  {
+    "id": 273,
+    "question": "'Integrative bargaining' refers to:",
+    "options": [
+      "An illegal strike",
+      "A cooperative approach seeking mutually beneficial (win-win) solutions",
+      "A type of lockout",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Integrative bargaining seeks solutions that create value for both employer and employees."
+  },
+  {
+    "id": 274,
+    "question": "A Memorandum of Settlement in collective bargaining is:",
+    "options": [
+      "A formal written agreement reached between employer and union",
+      "A court summons",
+      "An informal verbal promise only",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "The MoS is the documented outcome of successful collective bargaining negotiations."
+  },
+  {
+    "id": 275,
+    "question": "Collective bargaining is generally considered advantageous because it:",
+    "options": [
+      "Promotes industrial peace through mutually acceptable solutions",
+      "Increases the frequency of strikes",
+      "Eliminates the need for trade unions",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "By reaching mutual agreements, collective bargaining reduces conflict and promotes harmony."
+  },
+  {
+    "id": 276,
+    "question": "The scope of collective bargaining typically includes:",
+    "options": [
+      "Only shareholder dividends",
+      "Only company logo design",
+      "Only recruitment advertisements",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Collective bargaining covers substantive employment terms like pay and working conditions."
+  },
+  {
+    "id": 277,
+    "question": "In India, collective bargaining primarily takes place at which levels?",
+    "options": [
+      "Only international level",
+      "Plant, industry, and national levels",
+      "Only individual level",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Collective bargaining in India occurs at plant, industry and sometimes national levels."
+  },
+  {
+    "id": 278,
+    "question": "Human Resource Information System (HRIS) refers to:",
+    "options": [
+      "A manual paper filing system only",
+      "A computerised system for storing and managing employee-related data",
+      "A recruitment agency",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "HRIS is a software-based system to manage HR data such as records, payroll and performance."
+  },
+  {
+    "id": 279,
+    "question": "A key benefit of implementing HRIS is:",
+    "options": [
+      "Elimination of all HR staff",
+      "Increased paperwork",
+      "Slower processing of HR transactions",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "HRIS improves efficiency and accuracy in managing and retrieving HR information."
+  },
+  {
+    "id": 280,
+    "question": "HR Analytics refers to:",
+    "options": [
+      "The use of data analysis techniques to improve HR decision-making",
+      "A government policy",
+      "A type of recruitment test",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "HR Analytics applies statistical/data methods to workforce data for better HR decisions."
+  },
+  {
+    "id": 281,
+    "question": "'Employer branding' refers to an organisation's efforts to:",
+    "options": [
+      "Avoid all recruitment advertising",
+      "Eliminate CSR activities",
+      "Reduce employee benefits",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Employer branding aims to position the organisation favourably to attract and retain talent."
+  },
+  {
+    "id": 282,
+    "question": "'Gig economy' in the context of HRM refers to:",
+    "options": [
+      "Government employment schemes",
+      "Permanent full-time employment only",
+      "Employee welfare programmes",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "The gig economy involves flexible, temporary or freelance work arrangements rather than permanent jobs."
+  },
+  {
+    "id": 283,
+    "question": "Work-from-home / remote working as an HR trend primarily requires organisations to focus on:",
+    "options": [
+      "Removing all employee benefits",
+      "Physical attendance registers only",
+      "Digital collaboration tools and outcome-based performance management",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Remote work success depends on digital tools and shifting focus to results rather than physical presence."
+  },
+  {
+    "id": 284,
+    "question": "Diversity and Inclusion (D&I) initiatives in HRM aim to:",
+    "options": [
+      "Reduce employee benefits",
+      "Restrict hiring to a single demographic group",
+      "Eliminate all training programmes",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "D&I initiatives promote representation and equitable treatment across diverse employee groups."
+  },
+  {
+    "id": 285,
+    "question": "Artificial Intelligence (AI) in recruitment is primarily being used to:",
+    "options": [
+      "Replace all labour laws",
+      "Completely replace human judgement in all HR decisions",
+      "Screen resumes and shortlist candidates more efficiently",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "AI tools assist in efficiently screening and matching candidates, supporting (not fully replacing) human decisions."
+  },
+  {
+    "id": 286,
+    "question": "Career planning refers to:",
+    "options": [
+      "A process by which an individual identifies career goals and the path to achieve them",
+      "A one-time salary negotiation",
+      "A recruitment advertisement",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Career planning is the ongoing process of setting personal career goals and means to attain them."
+  },
+  {
+    "id": 287,
+    "question": "Career development, from the organisation's perspective, involves:",
+    "options": [
+      "Only handling grievances",
+      "Only conducting exit interviews",
+      "Only fixing daily wages",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Organisations facilitate career development through training, mentoring and growth opportunities."
+  },
+  {
+    "id": 288,
+    "question": "A 'career path' refers to:",
+    "options": [
+      "A single fixed job for life",
+      "A recruitment advertisement",
+      "A type of leave",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "A career path maps the potential progression of roles an employee can move through."
+  },
+  {
+    "id": 289,
+    "question": "Mentoring, as a career development tool, involves:",
+    "options": [
+      "Formal classroom lectures only",
+      "Immediate promotion without effort",
+      "An experienced employee guiding and supporting a less experienced colleague",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Mentoring pairs a senior/experienced person with a junior for guidance and development."
+  },
+  {
+    "id": 290,
+    "question": "Succession planning is especially critical for which positions?",
+    "options": [
+      "Temporary/seasonal positions only",
+      "Positions with no impact on operations",
+      "Entry-level clerical positions only",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Succession planning focuses on ensuring continuity in critical and leadership roles."
+  },
+  {
+    "id": 291,
+    "question": "A 'career plateau' refers to a situation where:",
+    "options": [
+      "An employee resigns immediately",
+      "An employee's upward career progression stalls for an extended period",
+      "An employee receives continuous salary hikes",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "A career plateau describes stagnation in an employee's upward mobility within an organisation."
+  },
+  {
+    "id": 292,
+    "question": "Dual career ladder is a concept that allows:",
+    "options": [
+      "Technical specialists to advance without moving into managerial roles",
+      "Only clerical staff to be promoted",
+      "Only managers to be promoted",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Dual career ladders provide advancement paths for technical experts parallel to the managerial track."
+  },
+  {
+    "id": 293,
+    "question": "Job Evaluation differs from Performance Appraisal in that job evaluation assesses:",
+    "options": [
+      "The relative worth of the job itself, not the job holder's performance",
+      "The employee's personality",
+      "The employee's attendance record",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Job evaluation is about the job's value, whereas performance appraisal assesses the employee performing it."
+  },
+  {
+    "id": 294,
+    "question": "The 'classification method' of job evaluation involves:",
+    "options": [
+      "Ranking jobs from highest to lowest only",
+      "Grouping jobs into predefined grades/classes based on overall responsibility",
+      "Comparing pay of employees only",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "The classification method sorts jobs into predetermined grade descriptions."
+  },
+  {
+    "id": 295,
+    "question": "The 'factor comparison method' of job evaluation compares jobs based on:",
+    "options": [
+      "Company's total revenue",
+      "Random selection",
+      "A set of compensable factors such as skill, effort, responsibility and working conditions",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "Factor comparison evaluates jobs against common compensable factors to determine relative worth."
+  },
+  {
+    "id": 296,
+    "question": "Which of the following is a compensable factor commonly used in job evaluation?",
+    "options": [
+      "Employee's religion",
+      "Employee's nationality",
+      "Employee's marital status",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Skill, effort, responsibility, and working conditions are standard compensable factors in job evaluation."
+  },
+  {
+    "id": 297,
+    "question": "The main purpose of job evaluation is to establish:",
+    "options": [
+      "Training schedules",
+      "Employee attendance records",
+      "Recruitment advertisements",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "Job evaluation aims to ensure fair, internally consistent compensation based on job worth."
+  },
+  {
+    "id": 298,
+    "question": "An 'internal job posting' system allows:",
+    "options": [
+      "Only external candidates to apply",
+      "Existing employees to apply for open positions within the organisation",
+      "Only contract workers to apply",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Internal job posting advertises vacancies to current employees before or alongside external recruitment."
+  },
+  {
+    "id": 299,
+    "question": "A Career Development Programme typically includes:",
+    "options": [
+      "Training, mentoring, counselling and planned job rotations",
+      "Only exit formalities",
+      "Only annual leave scheduling",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "Career development combines multiple tools like training, mentoring and rotations to build employee capability."
+  },
+  {
+    "id": 300,
+    "question": "Talent management in modern HRM refers to:",
+    "options": [
+      "Only conducting layoffs",
+      "An integrated approach to attracting, developing and retaining high-potential employees",
+      "Simply hiring the maximum number of employees",
+      "C"
+    ],
+    "answer": 0,
+    "explanation": "Talent management holistically covers acquisition, development and retention of key talent."
+  }
+]
