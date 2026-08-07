@@ -1,1 +1,24 @@
-
+[
+  {
+    "question": "Which component of the computer executes instructions and performs mathematical calculations?",
+    "options": [
+      "Hard Disk",
+      "RAM",
+      "Central Processing Unit (CPU)",
+      "Monitor"
+    ],
+    "answer": 2,
+    "explanation": "The CPU is the primary component that processes instructions and performs arithmetic/logic operations."
+  },
+  {
+    "question": "What does RAM stand for in computer systems?",
+    "options": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Rapid Access Module",
+      "Run Applied Memory"
+    ],
+    "answer": 1,
+    "explanation": "RAM stands for Random Access Memory, which is volatile main memory."
+  }
+]
