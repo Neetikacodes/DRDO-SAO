@@ -1,0 +1,3602 @@
+[
+  {
+    "id": 1,
+    "question": "Which northeastern state recently saw significant political developments with a change in Chief Minister via a coalition government (illustrative of state current affairs)?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Manipur",
+      "Karnataka"
+    ],
+    "answer": 2,
+    "explanation": "Manipur has seen notable political and administrative developments in recent years amid ethnic unrest and governance changes."
+  },
+  {
+    "id": 2,
+    "question": "India will host the 18th BRICS Summit in 2026 in which city?",
+    "options": [
+      "New Delhi",
+      "Mumbai",
+      "Goa",
+      "Hyderabad"
+    ],
+    "answer": 0,
+    "explanation": "India will host the 18th BRICS Summit in New Delhi in September 2026."
+  },
+  {
+    "id": 3,
+    "question": "The Indian Cricket Team won the ICC Champions Trophy 2025, held primarily in which country/format (hybrid model)?",
+    "options": [
+      "Held entirely in Pakistan",
+      "Hosted by Pakistan, with India's matches played in Dubai (hybrid model)",
+      "Held entirely in India",
+      "Held entirely in England"
+    ],
+    "answer": 1,
+    "explanation": "Champions Trophy 2025 was hosted by Pakistan under a hybrid model, with India's matches played in Dubai."
+  },
+  {
+    "id": 4,
+    "question": "Which country's forces launched military operations in Gaza following the October 2023 Hamas attack?",
+    "options": [
+      "Israel",
+      "Lebanon",
+      "Egypt",
+      "Jordan"
+    ],
+    "answer": 0,
+    "explanation": "Israel launched extensive military operations in Gaza in response to the October 2023 attack."
+  },
+  {
+    "id": 5,
+    "question": "The Ballon d'Or, football's most prestigious individual award, is presented annually by which publication/organisation?",
+    "options": [
+      "UEFA",
+      "The International Olympic Committee",
+      "FIFA",
+      "France Football magazine"
+    ],
+    "answer": 3,
+    "explanation": "The Ballon d'Or has traditionally been presented by France Football magazine."
+  },
+  {
+    "id": 6,
+    "question": "The Shanghai Cooperation Organisation (SCO) primarily focuses on cooperation in which key areas?",
+    "options": [
+      "Only agricultural subsidies",
+      "Regional security, connectivity and economic development",
+      "Only sports cooperation",
+      "Only currency exchange rates"
+    ],
+    "answer": 1,
+    "explanation": "SCO focuses on regional security, connectivity, and economic cooperation among member states."
+  },
+  {
+    "id": 7,
+    "question": "India's badminton star who won an Olympic bronze medal at the Paris 2024 Olympics in men's singles is:",
+    "options": [
+      "H. S. Prannoy",
+      "P. V. Sindhu",
+      "Kidambi Srikanth",
+      "Lakshya Sen (reached semifinals, narrowly missing a medal)"
+    ],
+    "answer": 3,
+    "explanation": "Lakshya Sen made a strong run at Paris 2024, reaching the semifinals in men's singles badminton."
+  },
+  {
+    "id": 8,
+    "question": "Which scientists shared the Nobel Prize in Physics 2025?",
+    "options": [
+      "John Clarke, Michel Devoret and John M. Martinis",
+      "Peter Higgs and Francois Englert",
+      "Mary Brunkow, Fred Ramsdell and Shimon Sakaguchi",
+      "Susumu Kitagawa, Richard Robson and Omar Yaghi"
+    ],
+    "answer": 0,
+    "explanation": "John Clarke, Michel Devoret and John M. Martinis jointly won the Physics Nobel 2025."
+  },
+  {
+    "id": 9,
+    "question": "ISRO's ambitious long-term goal includes conducting a crewed mission to the Moon by which target year?",
+    "options": [
+      "2025",
+      "2030",
+      "2050",
+      "2040"
+    ],
+    "answer": 3,
+    "explanation": "ISRO has set 2040 as its target year for a crewed Indian mission to the Moon."
+  },
+  {
+    "id": 10,
+    "question": "The currency of Russia is known as the:",
+    "options": [
+      "Hryvnia",
+      "Ruble",
+      "Lira",
+      "Dinar"
+    ],
+    "answer": 1,
+    "explanation": "Russia's official currency is the Ruble."
+  },
+  {
+    "id": 11,
+    "question": "The G20 New Delhi Summit 2023 adopted a declaration that included, for the first time, the admission of which regional body as a permanent G20 member?",
+    "options": [
+      "ASEAN",
+      "The African Union",
+      "The European Union",
+      "SAARC"
+    ],
+    "answer": 1,
+    "explanation": "The African Union was admitted as a permanent member of the G20 during the New Delhi Summit 2023."
+  },
+  {
+    "id": 12,
+    "question": "How many Padma Vibhushan awards, the second-highest civilian honour, were given in 2026?",
+    "options": [
+      "5",
+      "13",
+      "113",
+      "20"
+    ],
+    "answer": 0,
+    "explanation": "Five Padma Vibhushan awards were conferred in 2026."
+  },
+  {
+    "id": 13,
+    "question": "Which is the newest state to be formed in the Indian Union, created in 2014?",
+    "options": [
+      "Chhattisgarh",
+      "Uttarakhand",
+      "Jharkhand",
+      "Telangana"
+    ],
+    "answer": 3,
+    "explanation": "Telangana, formed in 2014, is India's newest state."
+  },
+  {
+    "id": 14,
+    "question": "Which three scientists shared the Nobel Prize in Chemistry 2025 for metal-organic frameworks?",
+    "options": [
+      "John Clarke, Michel Devoret and John Martinis",
+      "Susumu Kitagawa, Richard Robson and Omar Yaghi",
+      "Joel Mokyr, Philippe Aghion and Peter Howitt",
+      "Mary Brunkow, Fred Ramsdell and Shimon Sakaguchi"
+    ],
+    "answer": 1,
+    "explanation": "Susumu Kitagawa, Richard Robson and Omar M. Yaghi jointly won the Chemistry Nobel 2025."
+  },
+  {
+    "id": 15,
+    "question": "Who is the current President of Brazil?",
+    "options": [
+      "Michel Temer",
+      "Dilma Rousseff",
+      "Jair Bolsonaro",
+      "Luiz Inacio Lula da Silva"
+    ],
+    "answer": 3,
+    "explanation": "Luiz Inacio Lula da Silva has been serving as President of Brazil."
+  },
+  {
+    "id": 16,
+    "question": "The Prevention of Insults to National Honour (Amendment) Bill, 2026, passed by the Rajya Sabha, extends statutory protection to which national symbol?",
+    "options": [
+      "The national bird only",
+      "The national emblem only",
+      "The national flag only",
+      "The national song 'Vande Mataram'"
+    ],
+    "answer": 3,
+    "explanation": "This 2026 amendment extends statutory protection specifically to 'Vande Mataram', India's national song."
+  },
+  {
+    "id": 17,
+    "question": "The foundation stone (Bhoomi Pujan) of the Ram Mandir in Ayodhya was laid on which date?",
+    "options": [
+      "26 January 2020",
+      "15 August 2019",
+      "22 January 2024",
+      "5 August 2020"
+    ],
+    "answer": 3,
+    "explanation": "The Bhoomi Pujan ceremony for the Ram Mandir was performed on 5 August 2020."
+  },
+  {
+    "id": 18,
+    "question": "The FIFA World Cup 2022 was held in which country, marking the first time a Middle Eastern nation hosted the event?",
+    "options": [
+      "Saudi Arabia",
+      "Kuwait",
+      "Qatar",
+      "UAE"
+    ],
+    "answer": 2,
+    "explanation": "Qatar hosted the FIFA World Cup 2022, the first Middle Eastern host nation."
+  },
+  {
+    "id": 19,
+    "question": "Chandigarh serves as the joint capital of which two states/entities?",
+    "options": [
+      "Punjab and Himachal Pradesh",
+      "Punjab and Haryana",
+      "Punjab and Rajasthan",
+      "Haryana and Delhi"
+    ],
+    "answer": 1,
+    "explanation": "Chandigarh, a Union Territory, is the shared capital of Punjab and Haryana."
+  },
+  {
+    "id": 20,
+    "question": "The 'Quad' grouping, involving India, is a strategic partnership among India, the United States, Japan and which other country?",
+    "options": [
+      "Canada",
+      "South Korea",
+      "Indonesia",
+      "Australia"
+    ],
+    "answer": 3,
+    "explanation": "The Quad (Quadrilateral Security Dialogue) comprises India, the US, Japan and Australia."
+  },
+  {
+    "id": 21,
+    "question": "Who is the current Prime Minister of India?",
+    "options": [
+      "Rahul Gandhi",
+      "Atal Bihari Vajpayee",
+      "Narendra Modi",
+      "Manmohan Singh"
+    ],
+    "answer": 2,
+    "explanation": "Narendra Modi has been serving as India's Prime Minister since 2014."
+  },
+  {
+    "id": 22,
+    "question": "The capital city of Turkey is:",
+    "options": [
+      "Istanbul",
+      "Ankara",
+      "Antalya",
+      "Izmir"
+    ],
+    "answer": 1,
+    "explanation": "Ankara, not Istanbul, is the capital of Turkey."
+  },
+  {
+    "id": 23,
+    "question": "How many individuals in total were awarded Nobel Prizes across all categories in 2025?",
+    "options": [
+      "6",
+      "16",
+      "20",
+      "10"
+    ],
+    "answer": 1,
+    "explanation": "A total of 16 individuals were awarded the 2025 Nobel Prizes across six categories."
+  },
+  {
+    "id": 24,
+    "question": "The 2025 India-Pakistan military conflict linked to Operation Sindoor lasted approximately how many days before a ceasefire?",
+    "options": [
+      "Six months",
+      "One month",
+      "One day",
+      "Four to five days"
+    ],
+    "answer": 3,
+    "explanation": "The conflict was brief, lasting around four to five days before a ceasefire was reached."
+  },
+  {
+    "id": 25,
+    "question": "As per the Indian honours system, the Bharat Ratna is restricted to a maximum of how many awards in a particular year?",
+    "options": [
+      "Ten",
+      "Three",
+      "One",
+      "Five"
+    ],
+    "answer": 1,
+    "explanation": "The number of Bharat Ratna awards is restricted to a maximum of three in a given year."
+  },
+  {
+    "id": 26,
+    "question": "NATO (North Atlantic Treaty Organization) is headquartered in which city?",
+    "options": [
+      "Paris",
+      "Brussels",
+      "Geneva",
+      "London"
+    ],
+    "answer": 1,
+    "explanation": "NATO's headquarters is located in Brussels, Belgium."
+  },
+  {
+    "id": 27,
+    "question": "Which country recently became the newest member to join NATO, following Finland's accession?",
+    "options": [
+      "Sweden",
+      "Switzerland",
+      "Ireland",
+      "Austria"
+    ],
+    "answer": 0,
+    "explanation": "Sweden became NATO's newest member after Finland's earlier accession."
+  },
+  {
+    "id": 28,
+    "question": "The FIFA World Cup 2026 is scheduled to be co-hosted by which three countries?",
+    "options": [
+      "Qatar, Saudi Arabia and UAE",
+      "Brazil, Argentina and Uruguay",
+      "Germany, France and Spain",
+      "United States, Canada and Mexico"
+    ],
+    "answer": 3,
+    "explanation": "The 2026 FIFA World Cup will be jointly hosted by the United States, Canada and Mexico."
+  },
+  {
+    "id": 29,
+    "question": "Which global tech company developed the widely used generative AI chatbot 'Gemini'?",
+    "options": [
+      "Google",
+      "Microsoft",
+      "Meta",
+      "OpenAI"
+    ],
+    "answer": 0,
+    "explanation": "Gemini is Google's generative AI chatbot/model family."
+  },
+  {
+    "id": 30,
+    "question": "The consecration ceremony (Pran Pratishtha) of the Ram Mandir in Ayodhya was held on which date?",
+    "options": [
+      "26 January 2024",
+      "5 August 2020",
+      "15 August 2023",
+      "22 January 2024"
+    ],
+    "answer": 3,
+    "explanation": "The Ram Mandir consecration ceremony took place on 22 January 2024."
+  },
+  {
+    "id": 31,
+    "question": "The World Happiness Report, ranking countries by happiness levels, is published in partnership with which UN-linked network?",
+    "options": [
+      "The Sustainable Development Solutions Network (SDSN)",
+      "WHO",
+      "UNICEF",
+      "UNESCO"
+    ],
+    "answer": 0,
+    "explanation": "The World Happiness Report is produced in partnership with the Sustainable Development Solutions Network."
+  },
+  {
+    "id": 32,
+    "question": "Chandrayaan-5, a joint India-Japan lunar mission also known as LUPEX, will be conducted with which space agency?",
+    "options": [
+      "ESA (Europe)",
+      "JAXA (Japan Aerospace Exploration Agency)",
+      "Roscosmos (Russia)",
+      "NASA (USA)"
+    ],
+    "answer": 1,
+    "explanation": "Chandrayaan-5/LUPEX is a joint mission between ISRO and Japan's JAXA."
+  },
+  {
+    "id": 33,
+    "question": "SAARC, a regional cooperation body involving South Asian nations, has its secretariat located in which city?",
+    "options": [
+      "Islamabad",
+      "New Delhi",
+      "Kathmandu",
+      "Dhaka"
+    ],
+    "answer": 2,
+    "explanation": "SAARC's secretariat is located in Kathmandu, Nepal."
+  },
+  {
+    "id": 34,
+    "question": "Which Indian city is set to host events for the 2036 Olympic bid that India has expressed interest in hosting?",
+    "options": [
+      "Ahmedabad",
+      "Bengaluru",
+      "Mumbai",
+      "Delhi"
+    ],
+    "answer": 0,
+    "explanation": "India has expressed interest in bidding to host the 2036 Olympics, with Ahmedabad often cited as a proposed host city."
+  },
+  {
+    "id": 35,
+    "question": "China has increased its military and coast guard activity near which disputed islands, causing tension with Japan?",
+    "options": [
+      "Senkaku Islands",
+      "Falkland Islands",
+      "Spratly Islands only",
+      "Kuril Islands"
+    ],
+    "answer": 0,
+    "explanation": "China has increased activity near the Senkaku Islands, disputed with Japan, causing recent bilateral tensions."
+  },
+  {
+    "id": 36,
+    "question": "Which veteran Bollywood actor received the Padma Vibhushan posthumously in 2026?",
+    "options": [
+      "Dilip Kumar",
+      "Dharmendra",
+      "Rajesh Khanna",
+      "Amitabh Bachchan"
+    ],
+    "answer": 1,
+    "explanation": "Veteran actor Dharmendra Singh Deol was posthumously honoured with the Padma Vibhushan in 2026."
+  },
+  {
+    "id": 37,
+    "question": "India won the ICC Champions Trophy 2025 final, defeating which team?",
+    "options": [
+      "New Zealand",
+      "South Africa",
+      "Australia",
+      "England"
+    ],
+    "answer": 0,
+    "explanation": "India defeated New Zealand in the final to win the ICC Champions Trophy 2025."
+  },
+  {
+    "id": 38,
+    "question": "India's 'Vibrant Gujarat' investment summit is primarily hosted by which state government?",
+    "options": [
+      "Maharashtra",
+      "Karnataka",
+      "Gujarat",
+      "Tamil Nadu"
+    ],
+    "answer": 2,
+    "explanation": "Vibrant Gujarat is a biennial investment summit hosted by the Gujarat government."
+  },
+  {
+    "id": 39,
+    "question": "As of the recent reorganisation, how many Union Territories does India currently have?",
+    "options": [
+      "Eight",
+      "Nine",
+      "Six",
+      "Seven"
+    ],
+    "answer": 0,
+    "explanation": "India currently has eight Union Territories, following the Jammu & Kashmir and Ladakh reorganisation."
+  },
+  {
+    "id": 40,
+    "question": "The Montreal Protocol, an important international environmental treaty, primarily addresses:",
+    "options": [
+      "Deforestation rates",
+      "Global carbon emissions targets",
+      "Ocean plastic pollution",
+      "Substances that deplete the ozone layer"
+    ],
+    "answer": 3,
+    "explanation": "The Montreal Protocol specifically targets ozone-depleting substances."
+  },
+  {
+    "id": 41,
+    "question": "The Nobel Prize in Literature 2025 was awarded to which author?",
+    "options": [
+      "Annie Ernaux",
+      "Han Kang",
+      "Jon Fosse",
+      "Laszlo Krasznahorkai"
+    ],
+    "answer": 3,
+    "explanation": "Hungarian author Laszlo Krasznahorkai won the Nobel Prize in Literature 2025."
+  },
+  {
+    "id": 42,
+    "question": "During Operation Sindoor, India's precision strikes targeted how many terror sites across Pakistan and PoK?",
+    "options": [
+      "One site",
+      "Three sites",
+      "Nine sites",
+      "Twenty sites"
+    ],
+    "answer": 2,
+    "explanation": "India's initial strikes under Operation Sindoor targeted nine terror infrastructure sites."
+  },
+  {
+    "id": 43,
+    "question": "The Chief Minister is appointed by whom in a State, as per constitutional convention?",
+    "options": [
+      "The President",
+      "The Chief Justice of the High Court",
+      "The Governor",
+      "The Prime Minister"
+    ],
+    "answer": 2,
+    "explanation": "The Governor of a state appoints the Chief Minister, usually the leader of the majority party/coalition."
+  },
+  {
+    "id": 44,
+    "question": "The 'Skill India Mission' primarily aims to:",
+    "options": [
+      "Promote only foreign employment",
+      "Enhance employability through vocational training and skill development",
+      "Discontinue formal education",
+      "Reduce the size of India's workforce"
+    ],
+    "answer": 1,
+    "explanation": "Skill India seeks to build a skilled workforce aligned with market/employment needs."
+  },
+  {
+    "id": 45,
+    "question": "India's new Parliament building was inaugurated by the Prime Minister on which date?",
+    "options": [
+      "28 May 2023",
+      "26 January 2024",
+      "2 October 2023",
+      "15 August 2022"
+    ],
+    "answer": 0,
+    "explanation": "The new Parliament building was inaugurated on 28 May 2023."
+  },
+  {
+    "id": 46,
+    "question": "In May 2026, DRDO successfully test-fired an advanced Agni missile with which special capability, from Dr APJ Abdul Kalam Island?",
+    "options": [
+      "Submarine-launch capability",
+      "MIRV (Multiple Independently Targetable Re-entry Vehicle)",
+      "Anti-satellite capability",
+      "Hypersonic glide capability"
+    ],
+    "answer": 1,
+    "explanation": "DRDO successfully flight-tested an Agni missile equipped with MIRV technology on 8 May 2026."
+  },
+  {
+    "id": 47,
+    "question": "The currency of Japan is known as the:",
+    "options": [
+      "Ringgit",
+      "Yuan",
+      "Yen",
+      "Won"
+    ],
+    "answer": 2,
+    "explanation": "Japan's official currency is the Yen."
+  },
+  {
+    "id": 48,
+    "question": "India's men's hockey team won the bronze medal at which recent Olympics, continuing its resurgence?",
+    "options": [
+      "Only Beijing 2008",
+      "Only Rio 2016",
+      "Both Tokyo 2020 and Paris 2024",
+      "Only London 2012"
+    ],
+    "answer": 2,
+    "explanation": "India's men's hockey team won bronze medals at both the Tokyo 2020 and Paris 2024 Olympics."
+  },
+  {
+    "id": 49,
+    "question": "The Uniform Civil Code (UCC) has been implemented as a state-level law in which Indian state, a first for any state?",
+    "options": [
+      "Uttar Pradesh",
+      "Uttarakhand",
+      "Gujarat",
+      "Madhya Pradesh"
+    ],
+    "answer": 1,
+    "explanation": "Uttarakhand became the first Indian state to implement a Uniform Civil Code."
+  },
+  {
+    "id": 50,
+    "question": "The Padma Awards 2026 were announced on the eve of which Republic Day?",
+    "options": [
+      "78th Republic Day",
+      "75th Republic Day",
+      "76th Republic Day",
+      "77th Republic Day"
+    ],
+    "answer": 3,
+    "explanation": "The 2026 Padma Awards were announced on the eve of India's 77th Republic Day."
+  },
+  {
+    "id": 51,
+    "question": "The Nobel Prize in Physiology or Medicine 2025 was awarded for discoveries concerning:",
+    "options": [
+      "The structure of DNA",
+      "Peripheral immune tolerance",
+      "CRISPR gene editing",
+      "mRNA vaccine technology"
+    ],
+    "answer": 1,
+    "explanation": "The Medicine Nobel 2025 recognised discoveries about peripheral immune tolerance."
+  },
+  {
+    "id": 52,
+    "question": "How many permanent members with veto power does the UN Security Council have?",
+    "options": [
+      "Five",
+      "Three",
+      "Fifteen",
+      "Ten"
+    ],
+    "answer": 0,
+    "explanation": "The UN Security Council has five permanent members: USA, UK, France, China and Russia, each with veto power."
+  },
+  {
+    "id": 53,
+    "question": "Which international body has faced financial challenges in 2026, warning of a potential 'imminent financial collapse'?",
+    "options": [
+      "The United Nations",
+      "NATO",
+      "The World Bank",
+      "The European Union"
+    ],
+    "answer": 0,
+    "explanation": "UN Secretary-General Guterres warned of the UN's imminent financial collapse in early 2026 due to unpaid dues."
+  },
+  {
+    "id": 54,
+    "question": "Andhra Pradesh's new planned capital city, under development, is named:",
+    "options": [
+      "Kurnool",
+      "Amaravati",
+      "Visakhapatnam",
+      "Vijayawada"
+    ],
+    "answer": 1,
+    "explanation": "Amaravati has been developed as Andhra Pradesh's planned capital city."
+  },
+  {
+    "id": 55,
+    "question": "The 'Startup India' initiative was launched in which year to boost entrepreneurship?",
+    "options": [
+      "2014",
+      "2016",
+      "2010",
+      "2020"
+    ],
+    "answer": 1,
+    "explanation": "Startup India was launched in January 2016."
+  },
+  {
+    "id": 56,
+    "question": "D. Gukesh became World Chess Champion in 2024 by defeating which reigning champion?",
+    "options": [
+      "Fabiano Caruana",
+      "Ding Liren",
+      "Ian Nepomniachtchi",
+      "Magnus Carlsen"
+    ],
+    "answer": 1,
+    "explanation": "D. Gukesh defeated China's Ding Liren to become World Chess Champion in 2024."
+  },
+  {
+    "id": 57,
+    "question": "Blue Origin, another major private space company, was founded by:",
+    "options": [
+      "Richard Branson",
+      "Jeff Bezos",
+      "Mark Zuckerberg",
+      "Elon Musk"
+    ],
+    "answer": 1,
+    "explanation": "Blue Origin was founded by Jeff Bezos."
+  },
+  {
+    "id": 58,
+    "question": "The Chief of Defence Staff functions as the Permanent Chairman of which key body?",
+    "options": [
+      "Election Commission of India",
+      "Chiefs of Staff Committee (COSC)",
+      "Union Public Service Commission",
+      "National Human Rights Commission"
+    ],
+    "answer": 1,
+    "explanation": "The CDS is the Permanent Chairman of the Chiefs of Staff Committee, ensuring inter-service coordination."
+  },
+  {
+    "id": 59,
+    "question": "The Wimbledon Championships, one of tennis's Grand Slam events, is held annually in which country?",
+    "options": [
+      "United States",
+      "United Kingdom",
+      "France",
+      "Australia"
+    ],
+    "answer": 1,
+    "explanation": "Wimbledon is held annually in the United Kingdom."
+  },
+  {
+    "id": 60,
+    "question": "Which country has withheld a significant share of its UN budget contributions in recent years, contributing to the UN's financial strain?",
+    "options": [
+      "India",
+      "Russia",
+      "United States",
+      "China"
+    ],
+    "answer": 2,
+    "explanation": "The United States, assessed as providing about 22% of the UN's regular budget, has withheld contributions."
+  },
+  {
+    "id": 61,
+    "question": "CRISPR technology, a major biotechnology tool, is primarily used for:",
+    "options": [
+      "Currency encryption",
+      "Space navigation",
+      "Gene editing",
+      "Weather forecasting"
+    ],
+    "answer": 2,
+    "explanation": "CRISPR is a revolutionary gene-editing technology used in biotechnology and medicine."
+  },
+  {
+    "id": 62,
+    "question": "In the Chandrayaan-5/LUPEX joint mission, India is expected to provide the lander while Japan provides the:",
+    "options": [
+      "Rover",
+      "Orbiter",
+      "Launch vehicle",
+      "Propulsion module"
+    ],
+    "answer": 0,
+    "explanation": "In this joint mission, India will provide the lander while Japan (JAXA) provides the rover."
+  },
+  {
+    "id": 63,
+    "question": "The James Webb Space Telescope, a major astronomical observatory, was launched primarily to observe in which part of the spectrum?",
+    "options": [
+      "Gamma-ray",
+      "Infrared",
+      "X-ray",
+      "Ultraviolet"
+    ],
+    "answer": 1,
+    "explanation": "The James Webb Space Telescope is optimised for infrared astronomy."
+  },
+  {
+    "id": 64,
+    "question": "The Mahakumbh Mela 2025, one of the largest religious gatherings in the world, was held in which city?",
+    "options": [
+      "Prayagraj",
+      "Nashik",
+      "Varanasi",
+      "Haridwar"
+    ],
+    "answer": 0,
+    "explanation": "The Mahakumbh Mela 2025 was held in Prayagraj, Uttar Pradesh."
+  },
+  {
+    "id": 65,
+    "question": "The 'Indo-Pacific' region, a term frequently used in current geopolitics, broadly refers to the combined maritime space of:",
+    "options": [
+      "Only the Mediterranean Sea",
+      "Only the Atlantic Ocean",
+      "Only the Arctic Ocean",
+      "The Indian Ocean and Pacific Ocean regions"
+    ],
+    "answer": 3,
+    "explanation": "The Indo-Pacific refers to the interconnected Indian and Pacific Ocean regions."
+  },
+  {
+    "id": 66,
+    "question": "Kyrgyzstan is set to host which major regional summit in 2026?",
+    "options": [
+      "SCO Summit",
+      "G20 Summit",
+      "BRICS Summit",
+      "G7 Summit"
+    ],
+    "answer": 0,
+    "explanation": "Kyrgyzstan will host the Shanghai Cooperation Organisation (SCO) Summit in 2026."
+  },
+  {
+    "id": 67,
+    "question": "The International Monetary Fund (IMF) is headquartered in which city?",
+    "options": [
+      "Geneva",
+      "New York",
+      "Washington D.C.",
+      "London"
+    ],
+    "answer": 2,
+    "explanation": "The IMF's headquarters is located in Washington D.C., USA."
+  },
+  {
+    "id": 68,
+    "question": "The Nobel Peace Prize 2025 was awarded to Maria Corina Machado for her work related to which country?",
+    "options": [
+      "Venezuela",
+      "Cuba",
+      "Ecuador",
+      "Colombia"
+    ],
+    "answer": 0,
+    "explanation": "Maria Corina Machado won the 2025 Nobel Peace Prize for promoting democratic rights in Venezuela."
+  },
+  {
+    "id": 69,
+    "question": "The Nobel Prize in Physics 2025 was awarded for discoveries related to:",
+    "options": [
+      "Macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit",
+      "Exoplanet detection",
+      "Black hole imaging",
+      "Gravitational waves"
+    ],
+    "answer": 0,
+    "explanation": "The Physics Nobel 2025 recognised work on macroscopic quantum tunnelling and energy quantisation."
+  },
+  {
+    "id": 70,
+    "question": "The Chief of Defence Staff also functions as Secretary of which department?",
+    "options": [
+      "Department of Personnel and Training",
+      "Department of Economic Affairs",
+      "Department of Military Affairs",
+      "Department of Space"
+    ],
+    "answer": 2,
+    "explanation": "The CDS also serves as Secretary, Department of Military Affairs, within the Ministry of Defence."
+  },
+  {
+    "id": 71,
+    "question": "Business leader Uday Kotak, a prominent banker, received which award in 2026?",
+    "options": [
+      "Padma Bhushan",
+      "Padma Shri",
+      "Padma Vibhushan",
+      "Bharat Ratna"
+    ],
+    "answer": 0,
+    "explanation": "Banker and businessman Uday Kotak was honoured with the Padma Bhushan in 2026."
+  },
+  {
+    "id": 72,
+    "question": "Article 370, which granted special status to Jammu & Kashmir, was abrogated by the Indian Parliament in which year?",
+    "options": [
+      "2014",
+      "2019",
+      "2024",
+      "2016"
+    ],
+    "answer": 1,
+    "explanation": "Article 370 was abrogated on 5 August 2019."
+  },
+  {
+    "id": 73,
+    "question": "The 'Har Ghar Tiranga' campaign, encouraging citizens to hoist the national flag, is associated with which national celebration?",
+    "options": [
+      "Republic Day 2020",
+      "Azadi Ka Amrit Mahotsav (75 years of independence)",
+      "Constitution Day",
+      "Gandhi Jayanti"
+    ],
+    "answer": 1,
+    "explanation": "Har Ghar Tiranga was launched as part of the Azadi Ka Amrit Mahotsav celebrations marking 75 years of independence."
+  },
+  {
+    "id": 74,
+    "question": "Who is the current President of Ukraine?",
+    "options": [
+      "Viktor Yanukovych",
+      "Volodymyr Zelenskyy",
+      "Viktor Yushchenko",
+      "Petro Poroshenko"
+    ],
+    "answer": 1,
+    "explanation": "Volodymyr Zelenskyy has been serving as President of Ukraine."
+  },
+  {
+    "id": 75,
+    "question": "The term 'hybrid model' used for the ICC Champions Trophy 2025 refers to:",
+    "options": [
+      "A tournament involving only associate cricket nations",
+      "Matches split between the host country and a neutral venue due to political tensions",
+      "A tournament played entirely in virtual/simulated format",
+      "A new format combining Test and ODI cricket"
+    ],
+    "answer": 1,
+    "explanation": "The hybrid model allowed India's matches to be played in a neutral venue (Dubai) due to India-Pakistan tensions, while Pakistan hosted the rest."
+  },
+  {
+    "id": 76,
+    "question": "Artificial Intelligence tools like ChatGPT are developed primarily using which underlying technology?",
+    "options": [
+      "Quantum computers exclusively",
+      "Blockchain technology",
+      "Large Language Models (LLMs)",
+      "5G networks"
+    ],
+    "answer": 2,
+    "explanation": "Modern AI chatbots like ChatGPT are built on Large Language Models trained on vast text data."
+  },
+  {
+    "id": 77,
+    "question": "How many total Padma Awards were conferred in 2026?",
+    "options": [
+      "100",
+      "131",
+      "200",
+      "75"
+    ],
+    "answer": 1,
+    "explanation": "A total of 131 Padma Awards were conferred in 2026, comprising Padma Vibhushan, Padma Bhushan and Padma Shri."
+  },
+  {
+    "id": 78,
+    "question": "The 2026 G20 Summit is scheduled to be hosted by which country?",
+    "options": [
+      "Brazil",
+      "United States (in Miami/Doral, Florida)",
+      "South Africa",
+      "India"
+    ],
+    "answer": 1,
+    "explanation": "The 2026 G20 Summit will be hosted by the United States in Doral, Florida (Miami area)."
+  },
+  {
+    "id": 79,
+    "question": "India's services sector maintained strong momentum in May 2026, as per which index tracking sub-sectoral performance?",
+    "options": [
+      "Wholesale Price Index",
+      "Human Development Index",
+      "Sub-Sectoral Trial Index of Services",
+      "Consumer Price Index"
+    ],
+    "answer": 2,
+    "explanation": "India's services sector performance in May 2026 was tracked via the Sub-Sectoral Trial Index of Services."
+  },
+  {
+    "id": 80,
+    "question": "The abrogation of Article 370 led to the reorganisation of Jammu & Kashmir into how many Union Territories?",
+    "options": [
+      "One",
+      "Four",
+      "Three",
+      "Two (Jammu & Kashmir, and Ladakh)"
+    ],
+    "answer": 3,
+    "explanation": "Following the abrogation of Article 370, the state was reorganised into the Union Territories of Jammu & Kashmir and Ladakh."
+  },
+  {
+    "id": 81,
+    "question": "India's first crewed Gaganyaan mission, carrying three Indian astronauts, is currently targeted for which year?",
+    "options": [
+      "2026",
+      "2030",
+      "2024",
+      "2027"
+    ],
+    "answer": 3,
+    "explanation": "The first crewed Gaganyaan mission is currently targeted for 2027, after the uncrewed test flight."
+  },
+  {
+    "id": 82,
+    "question": "NASA's Artemis programme primarily aims to:",
+    "options": [
+      "Launch the first crewed mission to the Sun",
+      "Return humans to the Moon and prepare for future Mars missions",
+      "Explore Jupiter's moons only",
+      "Build a permanent base on Mars immediately"
+    ],
+    "answer": 1,
+    "explanation": "The Artemis programme aims to return astronauts to the Moon and lay groundwork for Mars exploration."
+  },
+  {
+    "id": 83,
+    "question": "BrahMos is a supersonic cruise missile jointly developed by India in collaboration with which country?",
+    "options": [
+      "United States",
+      "Israel",
+      "France",
+      "Russia"
+    ],
+    "answer": 3,
+    "explanation": "BrahMos was jointly developed by India's DRDO and Russia's NPO Mashinostroyeniya."
+  },
+  {
+    "id": 84,
+    "question": "The Bharatiya Nagarik Suraksha Sanhita (BNSS) replaced which earlier law?",
+    "options": [
+      "Code of Criminal Procedure (CrPC)",
+      "Indian Companies Act",
+      "Indian Evidence Act",
+      "Indian Penal Code (IPC)"
+    ],
+    "answer": 0,
+    "explanation": "BNSS replaced the Code of Criminal Procedure (CrPC), 1973."
+  },
+  {
+    "id": 85,
+    "question": "The World Health Organization (WHO) is headquartered in which city?",
+    "options": [
+      "Paris",
+      "New York",
+      "Rome",
+      "Geneva"
+    ],
+    "answer": 3,
+    "explanation": "WHO's headquarters is located in Geneva, Switzerland."
+  },
+  {
+    "id": 86,
+    "question": "Tennis legend Vijay Amritraj was honoured with which award in 2026?",
+    "options": [
+      "Padma Bhushan",
+      "Khel Ratna",
+      "Bharat Ratna",
+      "Padma Vibhushan"
+    ],
+    "answer": 0,
+    "explanation": "Tennis legend Vijay Amritraj received the Padma Bhushan in 2026."
+  },
+  {
+    "id": 87,
+    "question": "Operation Sindoor was launched in response to which terror attack?",
+    "options": [
+      "The Uri attack",
+      "The Pahalgam terror attack",
+      "The Mumbai 26/11 attack",
+      "The Pulwama terror attack"
+    ],
+    "answer": 1,
+    "explanation": "Operation Sindoor was a direct response to the Pahalgam terror attack of 22 April 2025, which killed 26 civilians."
+  },
+  {
+    "id": 88,
+    "question": "Andy Burnham, the UK's new Prime Minister (2026), previously served as Mayor of which city-region?",
+    "options": [
+      "Greater Manchester",
+      "London",
+      "Birmingham",
+      "Liverpool"
+    ],
+    "answer": 0,
+    "explanation": "Andy Burnham served as Mayor of Greater Manchester before becoming Prime Minister."
+  },
+  {
+    "id": 89,
+    "question": "Which body is responsible for electing the Vice President of India?",
+    "options": [
+      "An electoral college comprising members of both Houses of Parliament",
+      "Only the Lok Sabha",
+      "Only the Rajya Sabha",
+      "All state legislative assemblies"
+    ],
+    "answer": 0,
+    "explanation": "Unlike the presidential election, the Vice President is elected only by an electoral college of MPs from both Houses."
+  },
+  {
+    "id": 90,
+    "question": "Who is the current President of France?",
+    "options": [
+      "Nicolas Sarkozy",
+      "Emmanuel Macron",
+      "Francois Hollande",
+      "Jacques Chirac"
+    ],
+    "answer": 1,
+    "explanation": "Emmanuel Macron has been serving as President of France."
+  },
+  {
+    "id": 91,
+    "question": "The Pradhan Mantri Awas Yojana - Urban primarily aims to provide:",
+    "options": [
+      "Affordable housing to eligible urban households",
+      "Free education to urban children",
+      "Free healthcare to urban poor",
+      "Employment guarantee in urban areas"
+    ],
+    "answer": 0,
+    "explanation": "PMAY-Urban is a flagship affordable housing scheme for eligible urban households."
+  },
+  {
+    "id": 92,
+    "question": "Which international currency serves as the world's primary reserve currency, though its dominance has been debated in recent years?",
+    "options": [
+      "Japanese Yen",
+      "US Dollar",
+      "Chinese Yuan",
+      "Euro"
+    ],
+    "answer": 1,
+    "explanation": "The US Dollar remains the world's primary reserve currency."
+  },
+  {
+    "id": 93,
+    "question": "Russia's annexation of Crimea from Ukraine took place in which year, preceding the full-scale invasion?",
+    "options": [
+      "2014",
+      "2008",
+      "2018",
+      "2022"
+    ],
+    "answer": 0,
+    "explanation": "Russia annexed Crimea from Ukraine in 2014."
+  },
+  {
+    "id": 94,
+    "question": "The Global Innovation Index is jointly published by WIPO along with which other institutions?",
+    "options": [
+      "IMF and World Bank",
+      "Cornell University and INSEAD",
+      "Harvard and MIT",
+      "Oxford and Cambridge"
+    ],
+    "answer": 1,
+    "explanation": "The Global Innovation Index is published by WIPO in partnership with Cornell University and INSEAD."
+  },
+  {
+    "id": 95,
+    "question": "The Insolvency and Bankruptcy Code (IBC) was enacted in India in which year?",
+    "options": [
+      "2005",
+      "2016",
+      "2020",
+      "2010"
+    ],
+    "answer": 1,
+    "explanation": "IBC was enacted in 2016 to provide a time-bound insolvency resolution framework."
+  },
+  {
+    "id": 96,
+    "question": "The Corruption Perceptions Index is published annually by which organisation?",
+    "options": [
+      "United Nations",
+      "OECD",
+      "World Bank",
+      "Transparency International"
+    ],
+    "answer": 3,
+    "explanation": "Transparency International publishes the annual Corruption Perceptions Index."
+  },
+  {
+    "id": 97,
+    "question": "The 2032 Summer Olympics are scheduled to be held in which city?",
+    "options": [
+      "Toronto, Canada",
+      "Brisbane, Australia",
+      "Doha, Qatar",
+      "Istanbul, Turkey"
+    ],
+    "answer": 1,
+    "explanation": "Brisbane, Australia, is set to host the 2032 Summer Olympics."
+  },
+  {
+    "id": 98,
+    "question": "BRICS, as of 2026, represents approximately what share of global GDP in PPP terms?",
+    "options": [
+      "About 41%",
+      "About 10%",
+      "About 25%",
+      "About 75%"
+    ],
+    "answer": 0,
+    "explanation": "BRICS represents roughly 41% of global GDP in purchasing power parity (PPP) terms as of 2026."
+  },
+  {
+    "id": 99,
+    "question": "Who currently serves as India's Defence Minister?",
+    "options": [
+      "S. Jaishankar",
+      "Nirmala Sitharaman",
+      "Rajnath Singh",
+      "Amit Shah"
+    ],
+    "answer": 2,
+    "explanation": "Rajnath Singh has been serving as India's Union Defence Minister."
+  },
+  {
+    "id": 100,
+    "question": "India's semiconductor mission primarily aims to build domestic capacity in which area?",
+    "options": [
+      "Food processing",
+      "Textile manufacturing",
+      "Semiconductor design, manufacturing and packaging",
+      "Agricultural exports"
+    ],
+    "answer": 2,
+    "explanation": "The India Semiconductor Mission focuses on developing the country's chip design and fabrication ecosystem."
+  },
+  {
+    "id": 101,
+    "question": "The 2028 Summer Olympics are scheduled to be held in which city?",
+    "options": [
+      "Brisbane",
+      "Los Angeles",
+      "Paris",
+      "Tokyo"
+    ],
+    "answer": 1,
+    "explanation": "The 2028 Summer Olympics are scheduled to be hosted by Los Angeles, USA."
+  },
+  {
+    "id": 102,
+    "question": "The Central Vista redevelopment project in New Delhi includes the construction of which prominent building?",
+    "options": [
+      "The Rashtrapati Bhavan (originally built under this project)",
+      "The Red Fort",
+      "The new Parliament building",
+      "The India Gate"
+    ],
+    "answer": 2,
+    "explanation": "The Central Vista project includes the new Parliament building among other structures."
+  },
+  {
+    "id": 103,
+    "question": "The Human Development Index (HDI) is published annually by which UN body?",
+    "options": [
+      "United Nations Development Programme (UNDP)",
+      "World Health Organization",
+      "UNICEF",
+      "UNESCO"
+    ],
+    "answer": 0,
+    "explanation": "UNDP publishes the annual Human Development Report containing the HDI."
+  },
+  {
+    "id": 104,
+    "question": "Padma Awards are announced annually on the occasion of which national day?",
+    "options": [
+      "Gandhi Jayanti",
+      "Constitution Day",
+      "Independence Day",
+      "Republic Day"
+    ],
+    "answer": 3,
+    "explanation": "Padma Awards are traditionally announced on the eve of Republic Day (26 January)."
+  },
+  {
+    "id": 105,
+    "question": "National Space Day, commemorating the Chandrayaan-3 landing, was first observed in which year?",
+    "options": [
+      "2019",
+      "2023",
+      "2020",
+      "2024"
+    ],
+    "answer": 1,
+    "explanation": "National Space Day was first observed on 23 August 2023, the day of the Chandrayaan-3 landing."
+  },
+  {
+    "id": 106,
+    "question": "As part of India's BRICS 2026 chairship, foreign ministers piloted a framework for:",
+    "options": [
+      "A joint BRICS military alliance",
+      "A common BRICS currency",
+      "A joint BRICS space station",
+      "Cross-border payments linking national systems for local-currency settlement"
+    ],
+    "answer": 3,
+    "explanation": "India's BRICS chairship piloted a cross-border payment framework for local-currency settlement, explicitly avoiding a common currency."
+  },
+  {
+    "id": 107,
+    "question": "Chandrayaan-4, India's planned lunar sample-return mission, is expected to launch around which year?",
+    "options": [
+      "2026",
+      "2024",
+      "2030",
+      "2028"
+    ],
+    "answer": 3,
+    "explanation": "Chandrayaan-4, designed as a lunar sample-return mission, is targeted for launch around 2028."
+  },
+  {
+    "id": 108,
+    "question": "'Mission Divyastra', under which India tested Agni-5 with MIRV technology, was conducted in which year?",
+    "options": [
+      "2026",
+      "2024",
+      "2018",
+      "2020"
+    ],
+    "answer": 1,
+    "explanation": "Mission Divyastra, India's first Agni-5 MIRV test, was conducted in March 2024."
+  },
+  {
+    "id": 109,
+    "question": "The 2026 Winter Olympics are scheduled to be held in which country?",
+    "options": [
+      "France",
+      "Italy (Milan-Cortina)",
+      "South Korea",
+      "Japan"
+    ],
+    "answer": 1,
+    "explanation": "The 2026 Winter Olympics will be held in Milan-Cortina, Italy."
+  },
+  {
+    "id": 110,
+    "question": "The Environmental Performance Index, ranking countries on environmental health and ecosystem vitality, is compiled by researchers at which universities?",
+    "options": [
+      "Stanford and Berkeley",
+      "Oxford and Cambridge",
+      "Harvard and MIT",
+      "Yale and Columbia Universities"
+    ],
+    "answer": 3,
+    "explanation": "The Environmental Performance Index is compiled by researchers at Yale and Columbia Universities."
+  },
+  {
+    "id": 111,
+    "question": "Finland joined NATO in which year, ending its longstanding policy of military non-alignment?",
+    "options": [
+      "2020",
+      "2019",
+      "2023",
+      "2016"
+    ],
+    "answer": 2,
+    "explanation": "Finland joined NATO in 2023, prompted partly by Russia's invasion of Ukraine."
+  },
+  {
+    "id": 112,
+    "question": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY) provides health insurance coverage up to what amount per family per year (as originally launched)?",
+    "options": [
+      "Rs. 1 lakh",
+      "Rs. 50,000",
+      "Rs. 5 lakh",
+      "Rs. 10 lakh"
+    ],
+    "answer": 2,
+    "explanation": "PM-JAY provides health cover of up to Rs. 5 lakh per family per year for secondary/tertiary hospitalisation."
+  },
+  {
+    "id": 113,
+    "question": "Which country hosted the Cricket World Cup 2023, alongside India as the primary host?",
+    "options": [
+      "India was the sole host",
+      "India and Sri Lanka",
+      "India and Bangladesh",
+      "India and Pakistan"
+    ],
+    "answer": 0,
+    "explanation": "India was the sole host of the 2023 ODI Cricket World Cup."
+  },
+  {
+    "id": 114,
+    "question": "The currency of the European Union's Eurozone member states is called the:",
+    "options": [
+      "Mark",
+      "Euro",
+      "Lira",
+      "Franc"
+    ],
+    "answer": 1,
+    "explanation": "The Euro is the shared currency of the Eurozone countries within the EU."
+  },
+  {
+    "id": 115,
+    "question": "SpaceX, a private aerospace company prominent in recent space developments, was founded by:",
+    "options": [
+      "Elon Musk",
+      "Larry Page",
+      "Jeff Bezos",
+      "Richard Branson"
+    ],
+    "answer": 0,
+    "explanation": "SpaceX was founded by Elon Musk."
+  },
+  {
+    "id": 116,
+    "question": "The 20th G20 Summit (2025) was hosted by which country?",
+    "options": [
+      "Brazil",
+      "India",
+      "South Africa",
+      "Indonesia"
+    ],
+    "answer": 2,
+    "explanation": "South Africa hosted the 20th G20 Summit in 2025, the first G20 summit held on African soil."
+  },
+  {
+    "id": 117,
+    "question": "The Bharatiya Antariksh Station (India's own space station) is targeted to be realised by around which year?",
+    "options": [
+      "2035",
+      "2024",
+      "2050",
+      "2028"
+    ],
+    "answer": 0,
+    "explanation": "ISRO aims to establish the Bharatiya Antariksh Station (Indian Space Station) by 2035."
+  },
+  {
+    "id": 118,
+    "question": "COP (Conference of the Parties), the annual UN climate summit, deals primarily with:",
+    "options": [
+      "Global trade tariffs",
+      "Climate change and global emissions reduction commitments",
+      "Global health pandemics",
+      "International banking regulations"
+    ],
+    "answer": 1,
+    "explanation": "COP summits bring together nations to negotiate climate action and emissions targets."
+  },
+  {
+    "id": 119,
+    "question": "The currency of South Korea is known as the:",
+    "options": [
+      "Baht",
+      "Yuan",
+      "Yen",
+      "Won"
+    ],
+    "answer": 3,
+    "explanation": "South Korea's official currency is the Won."
+  },
+  {
+    "id": 120,
+    "question": "The Pahalgam terror attack that triggered Operation Sindoor took place on which date?",
+    "options": [
+      "14 February 2025",
+      "7 May 2025",
+      "26 November 2024",
+      "22 April 2025"
+    ],
+    "answer": 3,
+    "explanation": "The Pahalgam attack in Jammu & Kashmir occurred on 22 April 2025, killing 26 civilians."
+  },
+  {
+    "id": 121,
+    "question": "Andy Burnham became the Prime Minister of the United Kingdom in July 2026, succeeding whom?",
+    "options": [
+      "Boris Johnson",
+      "Rishi Sunak",
+      "Keir Starmer",
+      "Liz Truss"
+    ],
+    "answer": 2,
+    "explanation": "Andy Burnham became UK Prime Minister on 20 July 2026, succeeding Keir Starmer."
+  },
+  {
+    "id": 122,
+    "question": "The Gaza Peace Summit 2025 was held in which location?",
+    "options": [
+      "Amman, Jordan",
+      "Sharm El-Sheikh, Egypt",
+      "Doha, Qatar",
+      "Cairo, Egypt"
+    ],
+    "answer": 1,
+    "explanation": "The Gaza Peace Summit 2025 was held in Sharm El-Sheikh, Egypt."
+  },
+  {
+    "id": 123,
+    "question": "Andy Burnham became the UK's how many-th prime minister in a decade since the 2016 Brexit vote?",
+    "options": [
+      "Seventh",
+      "Tenth",
+      "Fifth",
+      "Third"
+    ],
+    "answer": 0,
+    "explanation": "Burnham became the UK's seventh prime minister in the decade since the 2016 Brexit referendum."
+  },
+  {
+    "id": 124,
+    "question": "The 2024 Summer Olympics, held in Paris, saw which country top the overall medal tally?",
+    "options": [
+      "United States",
+      "France",
+      "China",
+      "Great Britain"
+    ],
+    "answer": 0,
+    "explanation": "The United States topped the overall medal tally at the Paris 2024 Olympics."
+  },
+  {
+    "id": 125,
+    "question": "C. P. Radhakrishnan succeeded which Vice President, who resigned midterm citing health reasons?",
+    "options": [
+      "Mohammad Hidayatullah",
+      "Hamid Ansari",
+      "Jagdeep Dhankhar",
+      "Venkaiah Naidu"
+    ],
+    "answer": 2,
+    "explanation": "Jagdeep Dhankhar resigned as Vice President on 21 July 2025, becoming the first VP to step down mid-term."
+  },
+  {
+    "id": 126,
+    "question": "The process to select the next UN Secretary-General is underway in 2026, with the new chief expected to take office from which date?",
+    "options": [
+      "1 July 2026",
+      "1 January 2027",
+      "1 January 2026",
+      "31 December 2026"
+    ],
+    "answer": 1,
+    "explanation": "The 10th UN Secretary-General is expected to begin work on 1 January 2027, after Guterres's term ends."
+  },
+  {
+    "id": 127,
+    "question": "Chandrayaan-3 successfully landed on the Moon's south polar region in which year, becoming a landmark achievement for ISRO?",
+    "options": [
+      "2026",
+      "2023",
+      "2008",
+      "2019"
+    ],
+    "answer": 1,
+    "explanation": "Chandrayaan-3 successfully soft-landed near the Moon's south pole in August 2023."
+  },
+  {
+    "id": 128,
+    "question": "The BRICS New Development Bank (NDB), an alternative to the World Bank, is headquartered in which city?",
+    "options": [
+      "New Delhi",
+      "Beijing",
+      "Shanghai",
+      "Moscow"
+    ],
+    "answer": 2,
+    "explanation": "The New Development Bank, set up by BRICS nations, is headquartered in Shanghai, China."
+  },
+  {
+    "id": 129,
+    "question": "Quantum computing research, recognised by the 2025 Physics Nobel, primarily explores phenomena at which scale?",
+    "options": [
+      "Subatomic/quantum scale",
+      "Only geological scale",
+      "Only biological cellular scale",
+      "Only macroscopic astronomical scale"
+    ],
+    "answer": 0,
+    "explanation": "Quantum computing and the related Nobel-winning research explore phenomena at the quantum/subatomic scale."
+  },
+  {
+    "id": 130,
+    "question": "The 17th BRICS Summit (2025) was hosted by which country?",
+    "options": [
+      "Brazil",
+      "South Africa",
+      "Russia",
+      "China"
+    ],
+    "answer": 0,
+    "explanation": "Brazil hosted the 17th BRICS Summit in 2025."
+  },
+  {
+    "id": 131,
+    "question": "The Nobel Peace Prize 2025 was awarded to which Venezuelan opposition leader?",
+    "options": [
+      "Henrique Capriles",
+      "Nicolas Maduro",
+      "Maria Corina Machado",
+      "Juan Guaido"
+    ],
+    "answer": 2,
+    "explanation": "Maria Corina Machado won the 2025 Nobel Peace Prize for her work promoting democratic rights in Venezuela."
+  },
+  {
+    "id": 132,
+    "question": "Who is the King of the United Kingdom, under whom Andy Burnham was appointed Prime Minister in 2026?",
+    "options": [
+      "King William V",
+      "King George VI",
+      "Queen Elizabeth II",
+      "King Charles III"
+    ],
+    "answer": 3,
+    "explanation": "King Charles III presided over the transition to Andy Burnham as Prime Minister in July 2026."
+  },
+  {
+    "id": 133,
+    "question": "The capital city of Canada is:",
+    "options": [
+      "Vancouver",
+      "Toronto",
+      "Ottawa",
+      "Montreal"
+    ],
+    "answer": 2,
+    "explanation": "Ottawa, not Toronto, is the capital of Canada."
+  },
+  {
+    "id": 134,
+    "question": "Which country's political transition in 2024 saw Sheikh Hasina step down amid mass protests, leading to an interim government led by Muhammad Yunus?",
+    "options": [
+      "Pakistan",
+      "Nepal",
+      "Sri Lanka",
+      "Bangladesh"
+    ],
+    "answer": 3,
+    "explanation": "Bangladesh saw a major political transition in 2024, with Sheikh Hasina's government falling amid mass protests."
+  },
+  {
+    "id": 135,
+    "question": "Which country became a new member of BRICS starting January 2025, participating for the first time at the 17th Summit?",
+    "options": [
+      "Thailand",
+      "Malaysia",
+      "Vietnam",
+      "Indonesia"
+    ],
+    "answer": 3,
+    "explanation": "Indonesia became a BRICS member in January 2025."
+  },
+  {
+    "id": 136,
+    "question": "The President of the UN General Assembly during the 2026 Secretary-General selection process is:",
+    "options": [
+      "Maria Fernanda Espinosa",
+      "Volkan Bozkir",
+      "Antonio Guterres",
+      "Annalena Baerbock"
+    ],
+    "answer": 3,
+    "explanation": "Annalena Baerbock has served as President of the UN General Assembly during this period."
+  },
+  {
+    "id": 137,
+    "question": "India hosted the ICC Cricket World Cup in which recent year, with the final held at Ahmedabad's Narendra Modi Stadium?",
+    "options": [
+      "2011",
+      "2019",
+      "2023",
+      "2015"
+    ],
+    "answer": 2,
+    "explanation": "India hosted the ODI Cricket World Cup 2023, with the final held at the Narendra Modi Stadium, Ahmedabad."
+  },
+  {
+    "id": 138,
+    "question": "The AI Summit 2026, focused on artificial intelligence and innovation, is scheduled to be held in which Indian city?",
+    "options": [
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "answer": 1,
+    "explanation": "India's AI Summit 2026 is scheduled to be held in Delhi."
+  },
+  {
+    "id": 139,
+    "question": "The Asian Infrastructure Investment Bank (AIIB), a China-led alternative multilateral lender, is headquartered in which city?",
+    "options": [
+      "Hong Kong",
+      "Beijing",
+      "Shanghai",
+      "Singapore"
+    ],
+    "answer": 1,
+    "explanation": "AIIB is headquartered in Beijing, China."
+  },
+  {
+    "id": 140,
+    "question": "The Israel-Hamas conflict escalated significantly following an attack by Hamas on Israel in which year?",
+    "options": [
+      "2025",
+      "2020",
+      "2019",
+      "2023"
+    ],
+    "answer": 3,
+    "explanation": "The conflict significantly escalated following the Hamas attack on Israel on 7 October 2023."
+  },
+  {
+    "id": 141,
+    "question": "The smallest state in India by area is:",
+    "options": [
+      "Goa",
+      "Sikkim",
+      "Tripura",
+      "Nagaland"
+    ],
+    "answer": 0,
+    "explanation": "Goa is the smallest Indian state by geographical area."
+  },
+  {
+    "id": 142,
+    "question": "The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026, passed by the Lok Sabha, primarily aims to:",
+    "options": [
+      "Reform labour laws",
+      "Strengthen the legal framework against examination-related offences",
+      "Regulate stock market trading",
+      "Reform income tax laws"
+    ],
+    "answer": 1,
+    "explanation": "This 2026 amendment bill strengthens penalties and safeguards against unfair means in public examinations."
+  },
+  {
+    "id": 143,
+    "question": "Who is the current Prime Minister of Israel?",
+    "options": [
+      "Naftali Bennett",
+      "Ehud Olmert",
+      "Benjamin Netanyahu",
+      "Yair Lapid"
+    ],
+    "answer": 2,
+    "explanation": "Benjamin Netanyahu has been serving as Prime Minister of Israel."
+  },
+  {
+    "id": 144,
+    "question": "Who is the current President of Sri Lanka?",
+    "options": [
+      "Gotabaya Rajapaksa",
+      "Anura Kumara Dissanayake",
+      "Ranil Wickremesinghe",
+      "Maithripala Sirisena"
+    ],
+    "answer": 1,
+    "explanation": "Anura Kumara Dissanayake has been serving as President of Sri Lanka since 2024."
+  },
+  {
+    "id": 145,
+    "question": "India finished with its highest-ever medal tally at which Asian Games edition, hosted in Hangzhou?",
+    "options": [
+      "Asian Games 2018 (Jakarta-Palembang)",
+      "Asian Games 2014 (Incheon)",
+      "Asian Games 2023 (Hangzhou)",
+      "Asian Games 2010 (Guangzhou)"
+    ],
+    "answer": 2,
+    "explanation": "India recorded its best-ever medal tally at the 2023 Hangzhou Asian Games."
+  },
+  {
+    "id": 146,
+    "question": "As of 2026, how many full member countries does BRICS have, following its recent expansion?",
+    "options": [
+      "Five",
+      "Fifteen",
+      "Twenty",
+      "Ten"
+    ],
+    "answer": 3,
+    "explanation": "BRICS expanded to 10 full members, including Brazil, Russia, India, China, South Africa, Egypt, Ethiopia, Iran, UAE and Indonesia."
+  },
+  {
+    "id": 147,
+    "question": "In the 2023 ODI Cricket World Cup final, India lost to which team?",
+    "options": [
+      "Australia",
+      "Pakistan",
+      "England",
+      "New Zealand"
+    ],
+    "answer": 0,
+    "explanation": "Australia defeated India in the final of the 2023 ODI Cricket World Cup."
+  },
+  {
+    "id": 148,
+    "question": "The term '5G' in telecommunications refers to:",
+    "options": [
+      "The fifth generation of mobile network technology",
+      "A social media platform",
+      "A type of satellite",
+      "A type of computer processor"
+    ],
+    "answer": 0,
+    "explanation": "5G refers to the fifth-generation wireless mobile communication standard."
+  },
+  {
+    "id": 149,
+    "question": "The currency of the United Kingdom is known as the:",
+    "options": [
+      "Euro",
+      "Pound Sterling",
+      "Dollar",
+      "Franc"
+    ],
+    "answer": 1,
+    "explanation": "The UK's official currency is the Pound Sterling."
+  },
+  {
+    "id": 150,
+    "question": "The Swachh Bharat Mission was launched by the Government of India in which year?",
+    "options": [
+      "2009",
+      "2019",
+      "2014",
+      "2020"
+    ],
+    "answer": 2,
+    "explanation": "Swachh Bharat Mission was launched on 2 October 2014."
+  },
+  {
+    "id": 151,
+    "question": "The reusable launch vehicle technology demonstrator successfully tested by ISRO, aimed at reducing launch costs, is named:",
+    "options": [
+      "Aditya",
+      "Pushpak",
+      "Gaganyaan",
+      "Vyommitra"
+    ],
+    "answer": 1,
+    "explanation": "Pushpak is ISRO's Reusable Launch Vehicle (RLV) technology demonstrator."
+  },
+  {
+    "id": 152,
+    "question": "The capital city of South Africa (administrative/executive capital) is:",
+    "options": [
+      "Durban",
+      "Cape Town",
+      "Pretoria",
+      "Johannesburg"
+    ],
+    "answer": 2,
+    "explanation": "Pretoria serves as South Africa's administrative capital (with Cape Town as legislative capital)."
+  },
+  {
+    "id": 153,
+    "question": "The Global Gender Gap Report is published annually by which organisation?",
+    "options": [
+      "World Bank",
+      "UN Women",
+      "United Nations",
+      "World Economic Forum"
+    ],
+    "answer": 3,
+    "explanation": "The World Economic Forum publishes the annual Global Gender Gap Report."
+  },
+  {
+    "id": 154,
+    "question": "The European Union currently comprises how many member states (post-Brexit)?",
+    "options": [
+      "30",
+      "28",
+      "25",
+      "27"
+    ],
+    "answer": 3,
+    "explanation": "Following the UK's exit (Brexit), the EU comprises 27 member states."
+  },
+  {
+    "id": 155,
+    "question": "The Akash indigenous missile system, used to intercept drones and projectiles during Operation Sindoor, is primarily a:",
+    "options": [
+      "Anti-tank guided missile",
+      "Submarine-launched ballistic missile",
+      "Surface-to-air missile system",
+      "Air-to-air missile"
+    ],
+    "answer": 2,
+    "explanation": "Akash is an indigenously developed short-to-medium range surface-to-air missile system."
+  },
+  {
+    "id": 156,
+    "question": "Who is the current Prime Minister of Pakistan?",
+    "options": [
+      "Nawaz Sharif",
+      "Shehbaz Sharif",
+      "Imran Khan",
+      "Shahid Khaqan Abbasi"
+    ],
+    "answer": 1,
+    "explanation": "Shehbaz Sharif has been serving as Prime Minister of Pakistan."
+  },
+  {
+    "id": 157,
+    "question": "DRDO currently operates how many laboratories across India working on defence technologies (approximately)?",
+    "options": [
+      "100",
+      "10",
+      "5",
+      "41"
+    ],
+    "answer": 3,
+    "explanation": "DRDO operates a network of about 41 laboratories across the country."
+  },
+  {
+    "id": 158,
+    "question": "India's Chess Grandmaster who became the youngest ever World Chess Champion in 2024 is:",
+    "options": [
+      "R. Praggnanandhaa",
+      "D. Gukesh",
+      "Viswanathan Anand",
+      "Arjun Erigaisi"
+    ],
+    "answer": 1,
+    "explanation": "D. Gukesh became the youngest ever World Chess Champion in 2024, defeating Ding Liren."
+  },
+  {
+    "id": 159,
+    "question": "The Commonwealth Games 2026 are scheduled to be held in which city?",
+    "options": [
+      "Birmingham, England",
+      "Victoria, Australia",
+      "Glasgow, Scotland",
+      "Hamilton, Canada"
+    ],
+    "answer": 2,
+    "explanation": "Glasgow, Scotland, is set to host the 2026 Commonwealth Games."
+  },
+  {
+    "id": 160,
+    "question": "Which humanoid robot is set to accompany ISRO's first uncrewed Gaganyaan test flight?",
+    "options": [
+      "Vyommitra",
+      "ASIMO",
+      "Sophia",
+      "Robonaut"
+    ],
+    "answer": 0,
+    "explanation": "Vyommitra, a humanoid robot developed by ISRO, will fly on the uncrewed Gaganyaan test mission."
+  },
+  {
+    "id": 161,
+    "question": "Who was India's first Chief of Defence Staff, a post created in 2020?",
+    "options": [
+      "General N. S. Raja Subramani",
+      "General Anil Chauhan",
+      "General M. M. Naravane",
+      "General Bipin Rawat"
+    ],
+    "answer": 3,
+    "explanation": "General Bipin Rawat was the first CDS of India, taking charge on 1 January 2020."
+  },
+  {
+    "id": 162,
+    "question": "Which country formally announced withdrawal from several international bodies including the WHO in recent years?",
+    "options": [
+      "China",
+      "Russia",
+      "India",
+      "United States"
+    ],
+    "answer": 3,
+    "explanation": "The US withdrew from several international organisations, including the WHO, under recent administrations."
+  },
+  {
+    "id": 163,
+    "question": "The Kashi Vishwanath Corridor redevelopment project, inaugurated in 2021, is located in which city?",
+    "options": [
+      "Prayagraj",
+      "Varanasi",
+      "Mathura",
+      "Ayodhya"
+    ],
+    "answer": 1,
+    "explanation": "The Kashi Vishwanath Corridor project is located in Varanasi, Uttar Pradesh."
+  },
+  {
+    "id": 164,
+    "question": "The ICC Men's T20 World Cup 2026 is scheduled to be co-hosted by which two countries?",
+    "options": [
+      "England and Wales",
+      "India and Pakistan",
+      "India and Sri Lanka",
+      "Australia and New Zealand"
+    ],
+    "answer": 2,
+    "explanation": "The 2026 T20 World Cup is scheduled to be co-hosted by India and Sri Lanka."
+  },
+  {
+    "id": 165,
+    "question": "Which organisation, founded in 1967, promotes economic and political cooperation among ten Southeast Asian nations?",
+    "options": [
+      "SCO",
+      "APEC",
+      "ASEAN",
+      "SAARC"
+    ],
+    "answer": 2,
+    "explanation": "ASEAN (Association of Southeast Asian Nations) was founded in 1967."
+  },
+  {
+    "id": 166,
+    "question": "Lionel Messi, considered one of football's greatest players, plays club football (in recent years) for which club?",
+    "options": [
+      "Barcelona",
+      "Inter Miami CF",
+      "Paris Saint-Germain",
+      "Manchester City"
+    ],
+    "answer": 1,
+    "explanation": "Lionel Messi has been playing for Inter Miami CF in Major League Soccer."
+  },
+  {
+    "id": 167,
+    "question": "Which cricketer was among the notable Padma Shri recipients in the 2026 awards list?",
+    "options": [
+      "Sachin Tendulkar",
+      "MS Dhoni",
+      "Rohit Sharma",
+      "Virat Kohli"
+    ],
+    "answer": 2,
+    "explanation": "Cricketer Rohit Sharma was among the notable Padma Shri recipients in 2026."
+  },
+  {
+    "id": 168,
+    "question": "Which satellite launch vehicle is expected to carry the first uncrewed Gaganyaan mission?",
+    "options": [
+      "GSLV Mk II",
+      "SSLV",
+      "The human-rated launch vehicle (HLVM3)",
+      "PSLV"
+    ],
+    "answer": 2,
+    "explanation": "Gaganyaan missions use a human-rated version of the LVM3 (HLVM3) launch vehicle."
+  },
+  {
+    "id": 169,
+    "question": "Who is the current Chairman of DRDO?",
+    "options": [
+      "Samir V Kamat",
+      "Avinash Chander",
+      "G. Satheesh Reddy",
+      "S. Christopher"
+    ],
+    "answer": 0,
+    "explanation": "Samir V Kamat has been serving as Secretary, Department of Defence R&D and Chairman, DRDO."
+  },
+  {
+    "id": 170,
+    "question": "Which international treaty, adopted in 1997, was an earlier landmark climate agreement preceding the Paris Agreement?",
+    "options": [
+      "The Kyoto Protocol",
+      "The Basel Convention",
+      "The Rio Declaration",
+      "The Montreal Protocol"
+    ],
+    "answer": 0,
+    "explanation": "The Kyoto Protocol, adopted in 1997, was an earlier binding climate treaty."
+  },
+  {
+    "id": 171,
+    "question": "Which two Union Territories were carved out following the abrogation of Article 370 in 2019?",
+    "options": [
+      "Puducherry and Ladakh",
+      "Ladakh and Lakshadweep",
+      "Jammu & Kashmir and Chandigarh",
+      "Jammu & Kashmir and Ladakh"
+    ],
+    "answer": 3,
+    "explanation": "Jammu & Kashmir and Ladakh became separate Union Territories after the 2019 reorganisation."
+  },
+  {
+    "id": 172,
+    "question": "PM Gati Shakti, a National Master Plan, primarily focuses on:",
+    "options": [
+      "Judicial reforms",
+      "Direct cash transfer schemes",
+      "Agricultural price support only",
+      "Integrated, coordinated infrastructure planning across ministries"
+    ],
+    "answer": 3,
+    "explanation": "PM Gati Shakti aims at multi-modal, integrated infrastructure planning to boost logistics efficiency."
+  },
+  {
+    "id": 173,
+    "question": "Who is the current Chief of the Army Staff (COAS) of India?",
+    "options": [
+      "General N. S. Raja Subramani",
+      "General Upendra Dwivedi",
+      "General Anil Chauhan",
+      "General Manoj Pande"
+    ],
+    "answer": 1,
+    "explanation": "General Upendra Dwivedi has been serving as Chief of the Army Staff since 30 June 2024."
+  },
+  {
+    "id": 174,
+    "question": "The common currency used by most European Union member states is called:",
+    "options": [
+      "The Euro",
+      "The Pound",
+      "The Franc",
+      "The Mark"
+    ],
+    "answer": 0,
+    "explanation": "The Euro is the common currency used by most EU member states (the Eurozone)."
+  },
+  {
+    "id": 175,
+    "question": "Which Vice President recently released a book titled 'The Voice of Justice: Justice Gavai Speaks'?",
+    "options": [
+      "C. P. Radhakrishnan",
+      "Narendra Modi",
+      "Droupadi Murmu",
+      "Amit Shah"
+    ],
+    "answer": 0,
+    "explanation": "Vice President C. P. Radhakrishnan released this book on former CJI Justice Gavai."
+  },
+  {
+    "id": 176,
+    "question": "India hosted the G20 Summit in which year, a landmark hosting for the country?",
+    "options": [
+      "2019",
+      "2026",
+      "2023",
+      "2020"
+    ],
+    "answer": 2,
+    "explanation": "India hosted the G20 Summit in New Delhi in 2023."
+  },
+  {
+    "id": 177,
+    "question": "The Ease of Doing Business rankings, formerly published by the World Bank, have been discontinued and replaced by a new assessment called:",
+    "options": [
+      "Doing Business Plus",
+      "Business Ready (B-READY)",
+      "Global Innovation Index",
+      "World Competitiveness Index"
+    ],
+    "answer": 1,
+    "explanation": "The World Bank replaced its earlier Doing Business rankings with the new 'Business Ready' (B-READY) report."
+  },
+  {
+    "id": 178,
+    "question": "As per the Indian Constitution, who administers the oath of office to the President of India?",
+    "options": [
+      "The Chief Justice of India",
+      "The Speaker of the Lok Sabha",
+      "The Vice President",
+      "The Prime Minister"
+    ],
+    "answer": 0,
+    "explanation": "The Chief Justice of India (or the senior-most judge available) administers the oath to the President."
+  },
+  {
+    "id": 179,
+    "question": "Who is the current President of Venezuela?",
+    "options": [
+      "Nicolas Maduro",
+      "Juan Guaido",
+      "Hugo Chavez",
+      "Maria Corina Machado"
+    ],
+    "answer": 0,
+    "explanation": "Nicolas Maduro has continued serving as President of Venezuela."
+  },
+  {
+    "id": 180,
+    "question": "The Paris Agreement, a landmark international climate accord, was adopted in which year?",
+    "options": [
+      "2020",
+      "2015",
+      "2010",
+      "1997"
+    ],
+    "answer": 1,
+    "explanation": "The Paris Agreement was adopted at COP21 in 2015."
+  },
+  {
+    "id": 181,
+    "question": "Sri Lanka's severe economic crisis in 2022 led to which significant political outcome?",
+    "options": [
+      "Adoption of a new national currency called the dollar",
+      "A change to a monarchy",
+      "Annexation by a neighbouring country",
+      "Mass protests and the resignation of President Gotabaya Rajapaksa"
+    ],
+    "answer": 3,
+    "explanation": "Sri Lanka's 2022 economic crisis triggered mass protests that forced President Gotabaya Rajapaksa to resign."
+  },
+  {
+    "id": 182,
+    "question": "The Nobel Memorial Prize in Economic Sciences 2025 was awarded for work explaining the prerequisites for:",
+    "options": [
+      "International trade tariffs",
+      "Sustained economic growth through technological progress and creative destruction",
+      "Game theory in auctions",
+      "Behavioural economics of poverty"
+    ],
+    "answer": 1,
+    "explanation": "The 2025 Economics Nobel recognised work on sustained growth through technological progress and creative destruction."
+  },
+  {
+    "id": 183,
+    "question": "The National Education Policy (NEP) 2020 replaced an education policy framework that had been in place since which year?",
+    "options": [
+      "1991",
+      "1986",
+      "2000",
+      "1968"
+    ],
+    "answer": 1,
+    "explanation": "NEP 2020 replaced the National Policy on Education of 1986 (modified in 1992)."
+  },
+  {
+    "id": 184,
+    "question": "BrahMos and Nirbhay are examples of which type of missile?",
+    "options": [
+      "Anti-tank missile",
+      "Ballistic missile",
+      "Surface-to-air missile",
+      "Cruise missile"
+    ],
+    "answer": 3,
+    "explanation": "BrahMos and Nirbhay are both cruise missiles, which fly powered and low within the atmosphere."
+  },
+  {
+    "id": 185,
+    "question": "COP26, which produced the Glasgow Climate Pact, was hosted by which country?",
+    "options": [
+      "United Kingdom",
+      "France",
+      "Poland",
+      "Germany"
+    ],
+    "answer": 0,
+    "explanation": "COP26 was hosted by the UK in Glasgow in 2021, producing the Glasgow Climate Pact."
+  },
+  {
+    "id": 186,
+    "question": "India's Independence Day is celebrated annually on which date?",
+    "options": [
+      "30 January",
+      "2 October",
+      "26 January",
+      "15 August"
+    ],
+    "answer": 3,
+    "explanation": "India celebrates its Independence Day on 15 August, commemorating independence from British rule in 1947."
+  },
+  {
+    "id": 187,
+    "question": "The Philippines is set to host which regional summit in 2026?",
+    "options": [
+      "ASEAN Summit",
+      "SCO Summit",
+      "G7 Summit",
+      "BRICS Summit"
+    ],
+    "answer": 0,
+    "explanation": "The Philippines will host the ASEAN Summit in 2026."
+  },
+  {
+    "id": 188,
+    "question": "International Yoga Day, championed by India at the United Nations, is observed annually on which date?",
+    "options": [
+      "1 May",
+      "21 June",
+      "5 June",
+      "21 March"
+    ],
+    "answer": 1,
+    "explanation": "International Yoga Day is observed globally on 21 June each year."
+  },
+  {
+    "id": 189,
+    "question": "Pakistan's retaliatory military action following Operation Sindoor was named:",
+    "options": [
+      "Operation Zarb-e-Azb",
+      "Operation Swift Retort",
+      "Operation Al-Mizan",
+      "Operation Bunyan-un-Marsoos"
+    ],
+    "answer": 3,
+    "explanation": "Pakistan launched Operation Bunyan-un-Marsoos in retaliation to Operation Sindoor."
+  },
+  {
+    "id": 190,
+    "question": "The 'Digital India' programme was launched in which year?",
+    "options": [
+      "2005",
+      "2010",
+      "2015",
+      "2020"
+    ],
+    "answer": 2,
+    "explanation": "Digital India was launched by the Government of India in 2015."
+  },
+  {
+    "id": 191,
+    "question": "Which economist shared the Nobel Memorial Prize in Economic Sciences 2025 for identifying prerequisites of sustained growth?",
+    "options": [
+      "Abhijit Banerjee",
+      "Esther Duflo",
+      "Joel Mokyr",
+      "Amartya Sen"
+    ],
+    "answer": 2,
+    "explanation": "Joel Mokyr was one of the three laureates of the 2025 Economics Nobel."
+  },
+  {
+    "id": 192,
+    "question": "India won the ICC T20 World Cup 2024, defeating which team in the final?",
+    "options": [
+      "Pakistan",
+      "England",
+      "South Africa",
+      "Australia"
+    ],
+    "answer": 2,
+    "explanation": "India defeated South Africa in the final to win the T20 World Cup 2024."
+  },
+  {
+    "id": 193,
+    "question": "Argentina won the FIFA World Cup 2022, defeating which team in the final on penalties?",
+    "options": [
+      "Croatia",
+      "France",
+      "Germany",
+      "Brazil"
+    ],
+    "answer": 1,
+    "explanation": "Argentina defeated France in the final on penalties to win the 2022 FIFA World Cup."
+  },
+  {
+    "id": 194,
+    "question": "The currency of Saudi Arabia is known as the:",
+    "options": [
+      "Riyal",
+      "Dirham",
+      "Dinar",
+      "Rial"
+    ],
+    "answer": 0,
+    "explanation": "Saudi Arabia's official currency is the Riyal."
+  },
+  {
+    "id": 195,
+    "question": "International Day Against Drug Abuse and Illicit Trafficking is observed globally on which date, often linked with events like the Nasha Mukt Bharat Conclave in India?",
+    "options": [
+      "1 June",
+      "1 May",
+      "5 June",
+      "26 June"
+    ],
+    "answer": 3,
+    "explanation": "This international day is observed on 26 June each year."
+  },
+  {
+    "id": 196,
+    "question": "India's Republic Day is celebrated annually on which date, commemorating the enforcement of the Constitution?",
+    "options": [
+      "2 October",
+      "26 January",
+      "15 August",
+      "14 November"
+    ],
+    "answer": 1,
+    "explanation": "Republic Day is celebrated on 26 January, when the Constitution of India came into effect in 1950."
+  },
+  {
+    "id": 197,
+    "question": "The Bharatiya Nyaya Sanhita (BNS) replaced which colonial-era law?",
+    "options": [
+      "Code of Criminal Procedure (CrPC)",
+      "Indian Evidence Act",
+      "Indian Penal Code (IPC)",
+      "Indian Contract Act"
+    ],
+    "answer": 2,
+    "explanation": "BNS replaced the Indian Penal Code, 1860."
+  },
+  {
+    "id": 198,
+    "question": "Who is the current Prime Minister of Canada?",
+    "options": [
+      "Justin Trudeau",
+      "Stephen Harper",
+      "Mark Carney",
+      "Jean Chretien"
+    ],
+    "answer": 2,
+    "explanation": "Mark Carney became Prime Minister of Canada, succeeding Justin Trudeau."
+  },
+  {
+    "id": 199,
+    "question": "The Padma Vibhushan is the ______ highest civilian award in India, after the Bharat Ratna.",
+    "options": [
+      "First",
+      "Second",
+      "Fourth",
+      "Third"
+    ],
+    "answer": 1,
+    "explanation": "Padma Vibhushan ranks as the second-highest civilian award, just below the Bharat Ratna."
+  },
+  {
+    "id": 200,
+    "question": "Who is the current Chief of Defence Staff (CDS) of India, appointed in May 2026?",
+    "options": [
+      "General N. S. Raja Subramani",
+      "General Anil Chauhan",
+      "General Bipin Rawat",
+      "General Upendra Dwivedi"
+    ],
+    "answer": 0,
+    "explanation": "General N. S. Raja Subramani became the 3rd Chief of Defence Staff of India, effective 31 May 2026."
+  },
+  {
+    "id": 201,
+    "question": "'Mission 300', launched at the 2025 G20 Summit, aims to provide electricity access to how many million people in Sub-Saharan Africa by 2030?",
+    "options": [
+      "100 million",
+      "300 million",
+      "50 million",
+      "500 million"
+    ],
+    "answer": 1,
+    "explanation": "Mission 300 aims to provide electricity access to 300 million people in Sub-Saharan Africa by 2030."
+  },
+  {
+    "id": 202,
+    "question": "Aditya-L1, India's first dedicated solar mission, was launched by ISRO to study the:",
+    "options": [
+      "Sun",
+      "Mars",
+      "Venus",
+      "Moon"
+    ],
+    "answer": 0,
+    "explanation": "Aditya-L1 is ISRO's mission dedicated to studying the Sun from the L1 Lagrange point."
+  },
+  {
+    "id": 203,
+    "question": "The Asian Games 2022 (postponed to 2023) were hosted by which Chinese city?",
+    "options": [
+      "Hangzhou",
+      "Beijing",
+      "Shanghai",
+      "Guangzhou"
+    ],
+    "answer": 0,
+    "explanation": "The 19th Asian Games, originally scheduled for 2022, were held in Hangzhou, China, in 2023."
+  },
+  {
+    "id": 204,
+    "question": "VLSRSAM, tested by the Indian Navy and DRDO, stands for:",
+    "options": [
+      "Vertical Launch Ship to Ship Anti-Missile",
+      "Vertical Launch Short Range Surface to Air Missile",
+      "Very Long Strike Range Surface to Air Missile",
+      "Variable Length Short Range Anti-Missile"
+    ],
+    "answer": 1,
+    "explanation": "VLSRSAM is the Vertical Launch Short Range Surface to Air Missile developed for naval use."
+  },
+  {
+    "id": 205,
+    "question": "India's Neeraj Chopra won a gold medal in javelin throw at which Olympic Games, becoming the first Indian to win an individual Olympic gold in athletics?",
+    "options": [
+      "Rio Olympics 2016",
+      "Tokyo Olympics 2020 (held in 2021)",
+      "London Olympics 2012",
+      "Paris Olympics 2024"
+    ],
+    "answer": 1,
+    "explanation": "Neeraj Chopra won gold in javelin throw at the Tokyo Olympics (held in 2021)."
+  },
+  {
+    "id": 206,
+    "question": "Recommendations for the Bharat Ratna award are made by whom to the President?",
+    "options": [
+      "The Home Minister",
+      "The Speaker of Lok Sabha",
+      "The Chief Justice of India",
+      "The Prime Minister"
+    ],
+    "answer": 3,
+    "explanation": "The Prime Minister makes recommendations for the Bharat Ratna to the President."
+  },
+  {
+    "id": 207,
+    "question": "Who is the current Chancellor of Germany?",
+    "options": [
+      "Gerhard Schroder",
+      "Angela Merkel",
+      "Olaf Scholz",
+      "Friedrich Merz"
+    ],
+    "answer": 3,
+    "explanation": "Friedrich Merz became Chancellor of Germany, succeeding Olaf Scholz."
+  },
+  {
+    "id": 208,
+    "question": "The World Sustainable Development Summit is primarily focused on:",
+    "options": [
+      "Sustainable development and climate solutions",
+      "Agricultural subsidies",
+      "Military cooperation",
+      "Currency stabilisation"
+    ],
+    "answer": 0,
+    "explanation": "This summit focuses on sustainable development and climate-related solutions."
+  },
+  {
+    "id": 209,
+    "question": "India's first indigenous aircraft carrier INS Vikrant was commissioned by which dignitary?",
+    "options": [
+      "The Defence Minister only",
+      "The Prime Minister",
+      "The Chief of Naval Staff only",
+      "The President"
+    ],
+    "answer": 1,
+    "explanation": "INS Vikrant was commissioned by the Prime Minister at a ceremony in Kochi."
+  },
+  {
+    "id": 210,
+    "question": "Which country will host the G20 Summit in 2027, following the US hosting in 2026?",
+    "options": [
+      "Japan",
+      "France",
+      "United Kingdom",
+      "Germany"
+    ],
+    "answer": 2,
+    "explanation": "The United Kingdom is set to host the G20 Summit in 2027."
+  },
+  {
+    "id": 211,
+    "question": "CERN, home to the Large Hadron Collider, is located in which country?",
+    "options": [
+      "Italy",
+      "Germany",
+      "France",
+      "Switzerland (on the Swiss-French border)"
+    ],
+    "answer": 3,
+    "explanation": "CERN's Large Hadron Collider straddles the Swiss-French border, with headquarters in Switzerland."
+  },
+  {
+    "id": 212,
+    "question": "Which Indian Air Force base/system reportedly jammed Pakistan's Chinese-supplied air defence network during Operation Sindoor, according to post-conflict analysis?",
+    "options": [
+      "NDRF disaster teams",
+      "BSF border posts",
+      "Indian Navy's submarine fleet",
+      "India's electronic warfare systems"
+    ],
+    "answer": 3,
+    "explanation": "India's electronic warfare capabilities were reported to have jammed Pakistan's air defence network during the operation."
+  },
+  {
+    "id": 213,
+    "question": "Who is the current Chairman of ISRO?",
+    "options": [
+      "S. Somanath",
+      "K. Radhakrishnan",
+      "V. Narayanan",
+      "K. Sivan"
+    ],
+    "answer": 2,
+    "explanation": "V. Narayanan has been serving as ISRO Chairman."
+  },
+  {
+    "id": 214,
+    "question": "The Central Vista project's new Parliament building has a triangular design symbolising:",
+    "options": [
+      "India's cultural and constitutional continuity",
+      "Only earthquake resistance",
+      "A purely geometric architectural choice",
+      "Only cost efficiency"
+    ],
+    "answer": 0,
+    "explanation": "The triangular design of the new Parliament building is often cited as reflecting cultural and functional symbolism."
+  },
+  {
+    "id": 215,
+    "question": "Constitution Day in India is observed annually on which date?",
+    "options": [
+      "26 November",
+      "26 January",
+      "2 October",
+      "15 August"
+    ],
+    "answer": 0,
+    "explanation": "Constitution Day (Samvidhan Divas) is observed on 26 November, marking the adoption of the Constitution in 1949."
+  },
+  {
+    "id": 216,
+    "question": "Which international sporting body governs global athletics competitions, including the World Athletics Championships?",
+    "options": [
+      "FIFA",
+      "FIBA",
+      "World Athletics",
+      "IOC"
+    ],
+    "answer": 2,
+    "explanation": "World Athletics (formerly IAAF) governs global track and field competitions."
+  },
+  {
+    "id": 217,
+    "question": "Which Indian air defence system played a key 'umbrella' role during Operation Sindoor?",
+    "options": [
+      "Iron Dome",
+      "Patriot missile system",
+      "THAAD",
+      "S-400 Triumf"
+    ],
+    "answer": 3,
+    "explanation": "India's Russian-made S-400 Triumf air defence system provided a decisive defensive umbrella during Operation Sindoor."
+  },
+  {
+    "id": 218,
+    "question": "The Atmanirbhar Bharat Abhiyan, launched in 2020, primarily emphasises:",
+    "options": [
+      "Building a self-reliant Indian economy",
+      "Reducing India's manufacturing base",
+      "Complete closure of India's economy to trade",
+      "Discontinuing all government welfare schemes"
+    ],
+    "answer": 0,
+    "explanation": "Atmanirbhar Bharat promotes self-reliance while remaining integrated with global trade."
+  },
+  {
+    "id": 219,
+    "question": "Which Indian wrestler/athlete became the first Indian woman to win two individual Olympic medals?",
+    "options": [
+      "Sakshi Malik",
+      "Mary Kom",
+      "Mirabai Chanu",
+      "P. V. Sindhu"
+    ],
+    "answer": 3,
+    "explanation": "P. V. Sindhu became the first Indian woman to win two individual Olympic medals (silver in Rio 2016, bronze in Tokyo 2020)."
+  },
+  {
+    "id": 220,
+    "question": "Who is the current Prime Minister of Japan?",
+    "options": [
+      "Yoshihide Suga",
+      "Sanae Takaichi",
+      "Fumio Kishida",
+      "Shinzo Abe"
+    ],
+    "answer": 1,
+    "explanation": "Sanae Takaichi has served as Japan's Prime Minister."
+  },
+  {
+    "id": 221,
+    "question": "India's National Space Day is observed annually on which date, commemorating the Chandrayaan-3 landing?",
+    "options": [
+      "23 August",
+      "26 January",
+      "2 October",
+      "15 August"
+    ],
+    "answer": 0,
+    "explanation": "National Space Day is observed on 23 August, the anniversary of the Chandrayaan-3 Moon landing."
+  },
+  {
+    "id": 222,
+    "question": "The National Register of Citizens (NRC) exercise has been most prominently implemented and discussed in relation to which state?",
+    "options": [
+      "Kerala",
+      "Gujarat",
+      "Assam",
+      "Punjab"
+    ],
+    "answer": 2,
+    "explanation": "The NRC exercise has been most significantly implemented and debated in the context of Assam."
+  },
+  {
+    "id": 223,
+    "question": "Which former Kerala Chief Minister received the Padma Vibhushan posthumously in 2026?",
+    "options": [
+      "K. Karunakaran",
+      "V. S. Achuthanandan",
+      "E. K. Nayanar",
+      "Oommen Chandy"
+    ],
+    "answer": 1,
+    "explanation": "Former Kerala CM V. S. Achuthanandan was posthumously conferred the Padma Vibhushan in 2026."
+  },
+  {
+    "id": 224,
+    "question": "The Agni missile series descends from which DRDO programme launched in 1983?",
+    "options": [
+      "Astra Programme",
+      "Prithvi Programme",
+      "Integrated Guided Missile Development Programme (IGMDP)",
+      "Mission Divyastra"
+    ],
+    "answer": 2,
+    "explanation": "The Agni family of missiles emerged from the IGMDP, launched in 1983."
+  },
+  {
+    "id": 225,
+    "question": "The G7 grouping comprises which of the following as one of its member countries?",
+    "options": [
+      "China",
+      "Japan",
+      "Brazil",
+      "India"
+    ],
+    "answer": 1,
+    "explanation": "Japan is one of the seven members of the G7 (Group of Seven) advanced economies."
+  },
+  {
+    "id": 226,
+    "question": "The capital city of Vietnam is:",
+    "options": [
+      "Hanoi",
+      "Ho Chi Minh City",
+      "Da Nang",
+      "Hue"
+    ],
+    "answer": 0,
+    "explanation": "Hanoi, not Ho Chi Minh City, is the capital of Vietnam."
+  },
+  {
+    "id": 227,
+    "question": "The currency of China is known as the:",
+    "options": [
+      "Won",
+      "Baht",
+      "Renminbi (Yuan)",
+      "Yen"
+    ],
+    "answer": 2,
+    "explanation": "China's official currency is the Renminbi, commonly denominated in Yuan."
+  },
+  {
+    "id": 228,
+    "question": "Who is the current President of China?",
+    "options": [
+      "Hu Jintao",
+      "Li Qiang",
+      "Xi Jinping",
+      "Jiang Zemin"
+    ],
+    "answer": 2,
+    "explanation": "Xi Jinping has been serving as President of China (and General Secretary of the CCP)."
+  },
+  {
+    "id": 229,
+    "question": "Which veteran singer received the Padma Bhushan in the 2026 awards?",
+    "options": [
+      "Lata Mangeshkar",
+      "Asha Bhosle",
+      "Shreya Ghoshal",
+      "Alka Yagnik"
+    ],
+    "answer": 3,
+    "explanation": "Playback singer Alka Yagnik was awarded the Padma Bhushan in 2026."
+  },
+  {
+    "id": 230,
+    "question": "The capital city of Australia is:",
+    "options": [
+      "Melbourne",
+      "Perth",
+      "Canberra",
+      "Sydney"
+    ],
+    "answer": 2,
+    "explanation": "Canberra, not Sydney, is the capital of Australia."
+  },
+  {
+    "id": 231,
+    "question": "The African Union was admitted as a permanent member of which major international grouping at the 2023 New Delhi Summit?",
+    "options": [
+      "G7",
+      "G20",
+      "UN Security Council",
+      "BRICS"
+    ],
+    "answer": 1,
+    "explanation": "The African Union was granted permanent membership of the G20 at the 2023 New Delhi Summit."
+  },
+  {
+    "id": 232,
+    "question": "Agni-4, tested in August 2026, has an approximate strike range of:",
+    "options": [
+      "4,000 km",
+      "1,000 km",
+      "500 km",
+      "10,000 km"
+    ],
+    "answer": 0,
+    "explanation": "Agni-4 is a medium-range ballistic missile with a strike range of about 4,000 km."
+  },
+  {
+    "id": 233,
+    "question": "The Khel Ratna award, India's highest sporting honour, was renamed in honour of which hockey legend?",
+    "options": [
+      "P. T. Usha",
+      "Major Dhyan Chand",
+      "Milkha Singh",
+      "Kapil Dev"
+    ],
+    "answer": 1,
+    "explanation": "The Rajiv Gandhi Khel Ratna was renamed the Major Dhyan Chand Khel Ratna award."
+  },
+  {
+    "id": 234,
+    "question": "Who is the current President of South Africa?",
+    "options": [
+      "Nelson Mandela",
+      "Cyril Ramaphosa",
+      "Jacob Zuma",
+      "Thabo Mbeki"
+    ],
+    "answer": 1,
+    "explanation": "Cyril Ramaphosa has been serving as President of South Africa."
+  },
+  {
+    "id": 235,
+    "question": "The Nobel Prize in Chemistry 2025 was awarded for the development of which class of materials?",
+    "options": [
+      "Polymers",
+      "Metal-organic frameworks (MOFs)",
+      "Graphene",
+      "Superconductors"
+    ],
+    "answer": 1,
+    "explanation": "The Chemistry Nobel 2025 recognised work on metal-organic frameworks (MOFs)."
+  },
+  {
+    "id": 236,
+    "question": "Which international body's Director General, Rafael Grossi, was among candidates considered for UN Secretary-General in 2026?",
+    "options": [
+      "World Trade Organization",
+      "International Atomic Energy Agency (IAEA)",
+      "UNESCO",
+      "World Health Organization"
+    ],
+    "answer": 1,
+    "explanation": "Rafael Grossi, Director General of the IAEA, was among the nominated candidates for UN Secretary-General."
+  },
+  {
+    "id": 237,
+    "question": "National Voters' Day in India is observed annually on which date, marking the founding of the Election Commission?",
+    "options": [
+      "15 August",
+      "25 January",
+      "26 January",
+      "1 January"
+    ],
+    "answer": 1,
+    "explanation": "National Voters' Day is observed on 25 January, the foundation day of the Election Commission of India."
+  },
+  {
+    "id": 238,
+    "question": "The commissioning of INS Vikrant, India's first indigenously built aircraft carrier, took place in which year?",
+    "options": [
+      "2020",
+      "2024",
+      "2022",
+      "2015"
+    ],
+    "answer": 2,
+    "explanation": "INS Vikrant was commissioned into the Indian Navy in September 2022."
+  },
+  {
+    "id": 239,
+    "question": "The 2027 ICC Men's Cricket World Cup is scheduled to be hosted by which countries?",
+    "options": [
+      "England and Ireland",
+      "India and Sri Lanka",
+      "South Africa, Zimbabwe and Namibia",
+      "Australia and New Zealand"
+    ],
+    "answer": 2,
+    "explanation": "The 2027 Cricket World Cup is scheduled to be co-hosted by South Africa, Zimbabwe and Namibia."
+  },
+  {
+    "id": 240,
+    "question": "India hosted the G20 Summit in 2023 in which city?",
+    "options": [
+      "Hyderabad",
+      "Bengaluru",
+      "Mumbai",
+      "New Delhi"
+    ],
+    "answer": 3,
+    "explanation": "India hosted the 18th G20 Summit in New Delhi in September 2023."
+  },
+  {
+    "id": 241,
+    "question": "The Nari Shakti Vandan Adhiniyam, passed in 2023, provides for reservation of seats for women in which bodies?",
+    "options": [
+      "Lok Sabha and State Legislative Assemblies",
+      "Municipal corporations only",
+      "Rajya Sabha only",
+      "Panchayati Raj institutions only"
+    ],
+    "answer": 0,
+    "explanation": "This Act, also called the Women's Reservation Bill, reserves 33% of seats for women in the Lok Sabha and state assemblies."
+  },
+  {
+    "id": 242,
+    "question": "Who is the current President of Russia?",
+    "options": [
+      "Vladimir Putin",
+      "Boris Yeltsin",
+      "Dmitry Medvedev",
+      "Mikhail Gorbachev"
+    ],
+    "answer": 0,
+    "explanation": "Vladimir Putin has been serving as President of Russia."
+  },
+  {
+    "id": 243,
+    "question": "Foreign ministers of BRICS member states met in Delhi ahead of the 2026 leaders' summit, in which month?",
+    "options": [
+      "January 2026",
+      "May 2026",
+      "September 2026",
+      "March 2026"
+    ],
+    "answer": 1,
+    "explanation": "BRICS foreign ministers met in Delhi between 14-15 May 2026 ahead of the leaders' summit."
+  },
+  {
+    "id": 244,
+    "question": "Who is the current President of India (as of 2026)?",
+    "options": [
+      "Pratibha Patil",
+      "Pranab Mukherjee",
+      "Ram Nath Kovind",
+      "Droupadi Murmu"
+    ],
+    "answer": 3,
+    "explanation": "Droupadi Murmu has been serving as President of India since July 2022."
+  },
+  {
+    "id": 245,
+    "question": "Who is the current Secretary-General of the United Nations, whose term concludes on 31 December 2026?",
+    "options": [
+      "Kofi Annan",
+      "Ban Ki-moon",
+      "Antonio Guterres",
+      "Boutros Boutros-Ghali"
+    ],
+    "answer": 2,
+    "explanation": "Antonio Guterres, a former Prime Minister of Portugal, has been UN Secretary-General since January 2017."
+  },
+  {
+    "id": 246,
+    "question": "Who is the current Prime Minister of Bangladesh (post-2024 political transition)?",
+    "options": [
+      "Sheikh Hasina",
+      "Khaleda Zia",
+      "Ziaur Rahman",
+      "Muhammad Yunus (as Chief Adviser of the interim government)"
+    ],
+    "answer": 3,
+    "explanation": "Following the 2024 political transition, Nobel laureate Muhammad Yunus has led Bangladesh's interim government."
+  },
+  {
+    "id": 247,
+    "question": "The Indian Premier League (IPL) is organised by which cricket governing body?",
+    "options": [
+      "International Cricket Council (ICC)",
+      "Sports Authority of India (SAI)",
+      "Board of Control for Cricket in India (BCCI)",
+      "Asian Cricket Council (ACC)"
+    ],
+    "answer": 2,
+    "explanation": "IPL is organised by the BCCI, India's national cricket governing body."
+  },
+  {
+    "id": 248,
+    "question": "Who is the current Vice President of India, having taken oath in September 2025?",
+    "options": [
+      "Jagdeep Dhankhar",
+      "Venkaiah Naidu",
+      "C. P. Radhakrishnan",
+      "Hamid Ansari"
+    ],
+    "answer": 2,
+    "explanation": "C. P. Radhakrishnan became the 15th/17th Vice President of India, assuming office on 12 September 2025."
+  },
+  {
+    "id": 249,
+    "question": "The 'Beti Bachao Beti Padhao' scheme primarily addresses which social issue?",
+    "options": [
+      "Farmer suicides",
+      "Declining child sex ratio and girls' education",
+      "Industrial pollution",
+      "Urban unemployment"
+    ],
+    "answer": 1,
+    "explanation": "This scheme targets improving the child sex ratio and promoting girls' education."
+  },
+  {
+    "id": 250,
+    "question": "Article 18(1) of the Indian Constitution, relevant to national awards, primarily deals with:",
+    "options": [
+      "Abolition of titles, with exceptions for military and academic distinctions",
+      "Directive Principles of State Policy",
+      "Fundamental Duties",
+      "Right to Equality before law"
+    ],
+    "answer": 0,
+    "explanation": "Article 18(1) abolishes titles but exempts military and academic distinctions, allowing awards like Padma honours to continue."
+  },
+  {
+    "id": 251,
+    "question": "'Make in India' was launched in which year with the aim of boosting domestic manufacturing?",
+    "options": [
+      "2010",
+      "2019",
+      "2014",
+      "2020"
+    ],
+    "answer": 2,
+    "explanation": "Make in India was launched in September 2014."
+  },
+  {
+    "id": 252,
+    "question": "Which country recognised the State of Palestine formally in 2024, as part of a broader diplomatic shift by several Western nations?",
+    "options": [
+      "United States",
+      "United Kingdom (among others)",
+      "China",
+      "Russia"
+    ],
+    "answer": 1,
+    "explanation": "The UK, along with several other Western countries, moved to formally recognise the State of Palestine in 2024."
+  },
+  {
+    "id": 253,
+    "question": "The Jal Jeevan Mission aims to provide functional household tap water connections to every rural household by which target year (as originally envisaged)?",
+    "options": [
+      "2050",
+      "2024",
+      "2030",
+      "2020"
+    ],
+    "answer": 1,
+    "explanation": "Jal Jeevan Mission, launched in 2019, originally targeted providing tap water to every rural household by 2024."
+  },
+  {
+    "id": 254,
+    "question": "A ballistic missile differs from a cruise missile mainly because a ballistic missile:",
+    "options": [
+      "Follows an unpowered arc after boost, re-entering the atmosphere at high speed",
+      "Is always launched from submarines only",
+      "Flies low and level within the atmosphere throughout its flight",
+      "Cannot carry any warhead"
+    ],
+    "answer": 0,
+    "explanation": "Ballistic missiles are rocket-propelled and follow a ballistic (arc) trajectory, unlike cruise missiles which fly powered and low."
+  },
+  {
+    "id": 255,
+    "question": "The capital city of Myanmar (Burma) is:",
+    "options": [
+      "Yangon",
+      "Bagan",
+      "Mandalay",
+      "Naypyidaw"
+    ],
+    "answer": 3,
+    "explanation": "Naypyidaw, not Yangon, is the current capital of Myanmar."
+  },
+  {
+    "id": 256,
+    "question": "India's Unified Payments Interface (UPI), a landmark digital payment system, was launched by which body?",
+    "options": [
+      "State Bank of India",
+      "Ministry of Finance directly",
+      "National Payments Corporation of India (NPCI)",
+      "Reserve Bank of India directly"
+    ],
+    "answer": 2,
+    "explanation": "UPI was developed and launched by the National Payments Corporation of India (NPCI)."
+  },
+  {
+    "id": 257,
+    "question": "The Russia-Ukraine conflict, one of the major ongoing geopolitical events, began with Russia's invasion in which year?",
+    "options": [
+      "2014",
+      "2022",
+      "2020",
+      "2018"
+    ],
+    "answer": 1,
+    "explanation": "Russia launched a full-scale invasion of Ukraine in February 2022."
+  },
+  {
+    "id": 258,
+    "question": "The headquarters of the United Nations is located in which city?",
+    "options": [
+      "The Hague",
+      "New York",
+      "Geneva",
+      "Vienna"
+    ],
+    "answer": 1,
+    "explanation": "The UN headquarters is located in New York City, USA."
+  },
+  {
+    "id": 259,
+    "question": "The Integrated Guided Missile Development Programme (IGMDP), which produced missiles like Agni and Prithvi, was started in which year?",
+    "options": [
+      "1998",
+      "2008",
+      "1983",
+      "1974"
+    ],
+    "answer": 2,
+    "explanation": "IGMDP was launched in 1983 under the leadership of Dr A.P.J. Abdul Kalam."
+  },
+  {
+    "id": 260,
+    "question": "Who currently serves as India's Union Home Minister?",
+    "options": [
+      "S. Jaishankar",
+      "Rajnath Singh",
+      "Nitin Gadkari",
+      "Amit Shah"
+    ],
+    "answer": 3,
+    "explanation": "Amit Shah has been serving as India's Union Home Minister."
+  },
+  {
+    "id": 261,
+    "question": "The Taliban regained control of which country in 2021, following the withdrawal of US-led forces?",
+    "options": [
+      "Afghanistan",
+      "Syria",
+      "Yemen",
+      "Iraq"
+    ],
+    "answer": 0,
+    "explanation": "The Taliban took control of Afghanistan in August 2021, following the US-led forces' withdrawal."
+  },
+  {
+    "id": 262,
+    "question": "The 517th Birth Anniversary of Nadaprabhu Sri Kempegowda, founder of Bengaluru, was observed with participation from the Vice President in which city?",
+    "options": [
+      "Mangaluru",
+      "Hubballi",
+      "Mysuru",
+      "Bengaluru"
+    ],
+    "answer": 3,
+    "explanation": "This anniversary event, attended by the Vice President, was held in Bengaluru."
+  },
+  {
+    "id": 263,
+    "question": "At the Paris Olympics 2024, Neeraj Chopra won which medal in javelin throw?",
+    "options": [
+      "No medal",
+      "Gold",
+      "Bronze",
+      "Silver"
+    ],
+    "answer": 3,
+    "explanation": "Neeraj Chopra won a silver medal in javelin throw at the Paris Olympics 2024."
+  },
+  {
+    "id": 264,
+    "question": "Who is the current Chief Justice of India (CJI), having taken office on 24 November 2025?",
+    "options": [
+      "Justice D. Y. Chandrachud",
+      "Justice Sanjiv Khanna",
+      "Justice Surya Kant",
+      "Justice B. R. Gavai"
+    ],
+    "answer": 2,
+    "explanation": "Justice Surya Kant became the 53rd Chief Justice of India on 24 November 2025."
+  },
+  {
+    "id": 265,
+    "question": "Who is the current President of the United States?",
+    "options": [
+      "Barack Obama",
+      "Joe Biden",
+      "Donald Trump",
+      "Kamala Harris"
+    ],
+    "answer": 2,
+    "explanation": "Donald Trump has been serving as President of the United States."
+  },
+  {
+    "id": 266,
+    "question": "India's first uncrewed test mission under the Gaganyaan programme, carrying the humanoid robot Vyommitra, is targeted for which year?",
+    "options": [
+      "2022",
+      "2026",
+      "2028",
+      "2030"
+    ],
+    "answer": 1,
+    "explanation": "The first uncrewed Gaganyaan flight, carrying the humanoid robot Vyommitra, is targeted for 2026."
+  },
+  {
+    "id": 267,
+    "question": "The India-Middle East-Europe Economic Corridor (IMEC), discussed at recent G20 summits, primarily aims to enhance:",
+    "options": [
+      "Trade connectivity between India, the Middle East and Europe",
+      "Only agricultural cooperation",
+      "Only tourism exchange",
+      "Only defence cooperation"
+    ],
+    "answer": 0,
+    "explanation": "IMEC is a proposed multi-modal connectivity corridor linking India, the Middle East and Europe."
+  },
+  {
+    "id": 268,
+    "question": "The Medium Range Ballistic Missile 'Agni-4' was successfully test-fired on 6 August 2026 from which location?",
+    "options": [
+      "Thumba, Kerala",
+      "Pokhran, Rajasthan",
+      "Dr APJ Abdul Kalam Island, Odisha",
+      "Integrated Test Range, Chandipur, Odisha"
+    ],
+    "answer": 3,
+    "explanation": "Agni-4 was test-fired from the Integrated Test Range at Chandipur, Odisha, on 6 August 2026."
+  },
+  {
+    "id": 269,
+    "question": "Telangana was carved out as a separate state from Andhra Pradesh in which year?",
+    "options": [
+      "2019",
+      "2014",
+      "2000",
+      "2009"
+    ],
+    "answer": 1,
+    "explanation": "Telangana became India's 29th state in June 2014."
+  },
+  {
+    "id": 270,
+    "question": "The capital city of Brazil is:",
+    "options": [
+      "Brasilia",
+      "Salvador",
+      "Sao Paulo",
+      "Rio de Janeiro"
+    ],
+    "answer": 0,
+    "explanation": "Brasilia, not Rio de Janeiro, is the capital of Brazil."
+  },
+  {
+    "id": 271,
+    "question": "The World Bank Group is headquartered in which city?",
+    "options": [
+      "Geneva",
+      "New York",
+      "Washington D.C.",
+      "Paris"
+    ],
+    "answer": 2,
+    "explanation": "The World Bank is headquartered in Washington D.C., USA."
+  },
+  {
+    "id": 272,
+    "question": "Novak Djokovic has been widely regarded as holding the record for the most Grand Slam men's singles titles. He represents which country?",
+    "options": [
+      "Switzerland",
+      "Serbia",
+      "Russia",
+      "Spain"
+    ],
+    "answer": 1,
+    "explanation": "Novak Djokovic, a leading Grand Slam titles holder, represents Serbia."
+  },
+  {
+    "id": 273,
+    "question": "Who currently serves as India's Minister of External Affairs?",
+    "options": [
+      "Rajnath Singh",
+      "S. Jaishankar",
+      "Amit Shah",
+      "Piyush Goyal"
+    ],
+    "answer": 1,
+    "explanation": "S. Jaishankar has been serving as India's Minister of External Affairs."
+  },
+  {
+    "id": 274,
+    "question": "Operation Sindoor, India's military operation against terror infrastructure, was launched on which date?",
+    "options": [
+      "7 May 2025",
+      "26 January 2026",
+      "22 April 2025",
+      "15 August 2025"
+    ],
+    "answer": 0,
+    "explanation": "India launched Operation Sindoor in the early hours of 7 May 2025."
+  },
+  {
+    "id": 275,
+    "question": "Who is the current Finance Minister of India?",
+    "options": [
+      "P. Chidambaram",
+      "Nirmala Sitharaman",
+      "Piyush Goyal",
+      "Arun Jaitley"
+    ],
+    "answer": 1,
+    "explanation": "Nirmala Sitharaman has been serving as India's Union Finance Minister."
+  },
+  {
+    "id": 276,
+    "question": "The World Government Summit 2026 is scheduled to be held in which city?",
+    "options": [
+      "Doha",
+      "Dubai",
+      "Riyadh",
+      "Abu Dhabi"
+    ],
+    "answer": 3,
+    "explanation": "The World Government Summit 2026 is scheduled to take place in Abu Dhabi."
+  },
+  {
+    "id": 277,
+    "question": "India currently has how many states in total (as of the most recent reorganisation)?",
+    "options": [
+      "30",
+      "28",
+      "27",
+      "29"
+    ],
+    "answer": 1,
+    "explanation": "India currently has 28 states after the reorganisation of Jammu & Kashmir into Union Territories."
+  },
+  {
+    "id": 278,
+    "question": "The term 'Global South' broadly refers to:",
+    "options": [
+      "Only Antarctic research stations",
+      "Only Pacific island nations",
+      "Only Southern European nations",
+      "Developing and emerging economies, often located in Africa, Asia and Latin America"
+    ],
+    "answer": 3,
+    "explanation": "'Global South' refers broadly to developing/emerging nations across Africa, Asia and Latin America."
+  },
+  {
+    "id": 279,
+    "question": "The Global Hunger Index is jointly published by which organisations?",
+    "options": [
+      "Concern Worldwide and Welthungerhilfe",
+      "World Bank and IMF",
+      "FAO and WFP",
+      "WHO and UNICEF"
+    ],
+    "answer": 0,
+    "explanation": "The Global Hunger Index is jointly published by Concern Worldwide and Welthungerhilfe."
+  },
+  {
+    "id": 280,
+    "question": "India's new criminal laws - Bharatiya Nyaya Sanhita, Bharatiya Nagarik Suraksha Sanhita and Bharatiya Sakshya Adhiniyam - came into effect from which date, replacing colonial-era laws?",
+    "options": [
+      "1 July 2024",
+      "1 January 2025",
+      "15 August 2023",
+      "26 January 2024"
+    ],
+    "answer": 0,
+    "explanation": "The three new criminal laws replacing the IPC, CrPC and Evidence Act came into force on 1 July 2024."
+  },
+  {
+    "id": 281,
+    "question": "The capital city of Switzerland is:",
+    "options": [
+      "Basel",
+      "Geneva",
+      "Bern",
+      "Zurich"
+    ],
+    "answer": 2,
+    "explanation": "Bern, not Zurich, is the capital of Switzerland."
+  },
+  {
+    "id": 282,
+    "question": "The Indian men's cricket team won the ICC World Test Championship title in which manner most recently associated with 2023 events?",
+    "options": [
+      "India did not qualify for the WTC Final 2023",
+      "India boycotted the WTC Final 2023",
+      "India was runner-up in the WTC Final 2023, losing to Australia",
+      "India won the WTC Final 2023"
+    ],
+    "answer": 2,
+    "explanation": "India finished as runner-up in the 2023 World Test Championship Final, losing to Australia."
+  },
+  {
+    "id": 283,
+    "question": "The World Economic Forum's annual meeting is typically held in which Swiss town?",
+    "options": [
+      "Geneva",
+      "Bern",
+      "Zurich",
+      "Davos"
+    ],
+    "answer": 3,
+    "explanation": "The WEF's annual meeting is famously held in Davos, Switzerland."
+  },
+  {
+    "id": 284,
+    "question": "Who administered the oath of office to Vice President C. P. Radhakrishnan in September 2025?",
+    "options": [
+      "Prime Minister Narendra Modi",
+      "Chief Justice of India",
+      "President Droupadi Murmu",
+      "Speaker of Lok Sabha"
+    ],
+    "answer": 2,
+    "explanation": "As per constitutional convention, the President administers the oath of office to the Vice President."
+  },
+  {
+    "id": 285,
+    "question": "The World Press Freedom Index is published annually by which organisation?",
+    "options": [
+      "United Nations",
+      "World Bank",
+      "Reporters Without Borders",
+      "UNESCO"
+    ],
+    "answer": 2,
+    "explanation": "The World Press Freedom Index is published by Reporters Without Borders (RSF)."
+  },
+  {
+    "id": 286,
+    "question": "The 'One Nation, One Election' concept, discussed via a high-level committee report, primarily proposes:",
+    "options": [
+      "Simultaneous elections to Lok Sabha and State Assemblies",
+      "Uniform civil code across states",
+      "A single national political party",
+      "A single common currency for all states"
+    ],
+    "answer": 0,
+    "explanation": "This proposal envisages holding simultaneous elections to the Lok Sabha and all state assemblies."
+  },
+  {
+    "id": 287,
+    "question": "Which two countries' rivalry led to the adoption of the 'hybrid model' for the 2025 Champions Trophy?",
+    "options": [
+      "Australia and England",
+      "India and Pakistan",
+      "South Africa and Pakistan",
+      "India and Bangladesh"
+    ],
+    "answer": 1,
+    "explanation": "Political tensions between India and Pakistan led to the hybrid hosting arrangement for the 2025 tournament."
+  },
+  {
+    "id": 288,
+    "question": "Malayalam superstar actor who received the Padma Bhushan in 2026 is:",
+    "options": [
+      "Mammootty",
+      "Prithviraj Sukumaran",
+      "Mohanlal",
+      "Suresh Gopi"
+    ],
+    "answer": 0,
+    "explanation": "Veteran Malayalam actor Mammootty was conferred the Padma Bhushan in 2026."
+  },
+  {
+    "id": 289,
+    "question": "The United Kingdom formally exited the European Union (Brexit) in which year?",
+    "options": [
+      "2019",
+      "2016",
+      "2020",
+      "2024"
+    ],
+    "answer": 2,
+    "explanation": "The UK formally left the EU on 31 January 2020, following the 2016 referendum."
+  },
+  {
+    "id": 290,
+    "question": "The World Trade Organization (WTO) is headquartered in which city?",
+    "options": [
+      "New York",
+      "Vienna",
+      "Brussels",
+      "Geneva"
+    ],
+    "answer": 3,
+    "explanation": "WTO's headquarters is located in Geneva, Switzerland."
+  },
+  {
+    "id": 291,
+    "question": "ISRO aims to increase India's contribution to the global space economy from about 2% to what target share within the decade?",
+    "options": [
+      "25%",
+      "50%",
+      "At least 10%",
+      "1%"
+    ],
+    "answer": 2,
+    "explanation": "ISRO has set a goal of raising India's share of the global space economy to at least 10%."
+  },
+  {
+    "id": 292,
+    "question": "COP28, a recent UN climate summit, was hosted by which country?",
+    "options": [
+      "United Kingdom",
+      "United Arab Emirates",
+      "Egypt",
+      "France"
+    ],
+    "answer": 1,
+    "explanation": "COP28 was hosted by the UAE in Dubai in 2023."
+  },
+  {
+    "id": 293,
+    "question": "The 2025 India-Pakistan conflict linked to Operation Sindoor marked the first-ever conflict of its kind between the two nuclear powers, primarily characterised by:",
+    "options": [
+      "Extensive use of drones by both sides",
+      "Use of chemical weapons",
+      "Full-scale ground invasion",
+      "Naval blockade"
+    ],
+    "answer": 0,
+    "explanation": "Operation Sindoor and the subsequent exchange marked the first drone-centric conflict between India and Pakistan."
+  },
+  {
+    "id": 294,
+    "question": "The International Atomic Energy Agency (IAEA) is headquartered in which city?",
+    "options": [
+      "Geneva",
+      "New York",
+      "The Hague",
+      "Vienna"
+    ],
+    "answer": 3,
+    "explanation": "The IAEA is headquartered in Vienna, Austria."
+  },
+  {
+    "id": 295,
+    "question": "Justice Surya Kant is notable for being the first Chief Justice of India from which state?",
+    "options": [
+      "Punjab",
+      "Uttar Pradesh",
+      "Rajasthan",
+      "Haryana"
+    ],
+    "answer": 3,
+    "explanation": "Justice Surya Kant is the first CJI hailing from Haryana."
+  },
+  {
+    "id": 296,
+    "question": "The 18th BRICS Summit 2026, hosted by India, has which theme?",
+    "options": [
+      "Reforming Global Financial Institutions",
+      "Global South cooperation for inclusive governance",
+      "Strengthening Multilateralism for Fair Global Development",
+      "Building for Resilience, Innovation, Cooperation and Sustainability"
+    ],
+    "answer": 3,
+    "explanation": "India's BRICS 2026 chairship theme is 'Building for Resilience, Innovation, Cooperation and Sustainability'."
+  },
+  {
+    "id": 297,
+    "question": "NISAR, a joint Earth-observation satellite mission, is being developed by ISRO in collaboration with which space agency?",
+    "options": [
+      "JAXA",
+      "ESA",
+      "NASA",
+      "Roscosmos"
+    ],
+    "answer": 2,
+    "explanation": "NISAR (NASA-ISRO Synthetic Aperture Radar) is a joint India-US Earth observation mission."
+  },
+  {
+    "id": 298,
+    "question": "India assumed the BRICS chairmanship on which date in 2026, succeeding Brazil?",
+    "options": [
+      "1 January 2026",
+      "1 January 2025",
+      "26 January 2026",
+      "1 July 2026"
+    ],
+    "answer": 0,
+    "explanation": "India took over the BRICS chairmanship on 1 January 2026."
+  },
+  {
+    "id": 299,
+    "question": "The 2024 Summer Olympics were held in which city?",
+    "options": [
+      "Los Angeles",
+      "Tokyo",
+      "London",
+      "Paris"
+    ],
+    "answer": 3,
+    "explanation": "The 2024 Summer Olympics were hosted by Paris, France."
+  },
+  {
+    "id": 300,
+    "question": "The Statue of Unity, dedicated to Sardar Vallabhbhai Patel and the world's tallest statue, is located in which state?",
+    "options": [
+      "Maharashtra",
+      "Gujarat",
+      "Uttar Pradesh",
+      "Madhya Pradesh"
+    ],
+    "answer": 1,
+    "explanation": "The Statue of Unity is located in Gujarat, near the Sardar Sarovar Dam."
+  }
+]

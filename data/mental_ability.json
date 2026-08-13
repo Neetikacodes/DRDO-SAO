@@ -1,0 +1,3602 @@
+[
+  {
+    "id": 1,
+    "question": "Choose the pair that best completes the analogy: Fish : Water :: ?",
+    "options": [
+      "Bird : Tree",
+      "Bird : Sky",
+      "Bird : Air",
+      "Bird : Nest"
+    ],
+    "answer": 2,
+    "explanation": "A Fish lives/moves in Water, just as a Bird moves in the Air."
+  },
+  {
+    "id": 2,
+    "question": "A is 10 years older than B. If the sum of their present ages is 40 years, find B's present age.",
+    "options": [
+      "15",
+      "13",
+      "12",
+      "14"
+    ],
+    "answer": 0,
+    "explanation": "Let B's age = x. Then A's age = x+10. So 2x+10 = 40, giving x = 15 years."
+  },
+  {
+    "id": 3,
+    "question": "A is 4 years older than B. If the sum of their present ages is 48 years, find B's present age.",
+    "options": [
+      "19",
+      "22",
+      "20",
+      "18"
+    ],
+    "answer": 1,
+    "explanation": "Let B's age = x. Then A's age = x+4. So 2x+4 = 48, giving x = 22 years."
+  },
+  {
+    "id": 4,
+    "question": "Given the statements: All lawyers are graduates. No graduate is illiterate. Which conclusion logically follows?",
+    "options": [
+      "No lawyer is illiterate.",
+      "Some lawyers are illiterate.",
+      "All graduates are lawyers.",
+      "All illiterate people are graduates."
+    ],
+    "answer": 0,
+    "explanation": "Since all lawyers are graduates and no graduate is illiterate, no lawyer can be illiterate."
+  },
+  {
+    "id": 5,
+    "question": "A man bought an article for Rs. 150 and sold it for Rs. 210. Find his profit percentage.",
+    "options": [
+      "32",
+      "40",
+      "36",
+      "34"
+    ],
+    "answer": 1,
+    "explanation": "Profit % = |SP - CP| / CP x 100 = |210 - 150| / 150 x 100 = 40.0%."
+  },
+  {
+    "id": 6,
+    "question": "Find the next letter in the series: D, E, F, G, ?",
+    "options": [
+      "C",
+      "G",
+      "H",
+      "J"
+    ],
+    "answer": 2,
+    "explanation": "Each letter's alphabetical position increases by 1; the next letter after G is H."
+  },
+  {
+    "id": 7,
+    "question": "In a certain code, BOOK is written as YLLH. How is TIGER written in that code?",
+    "options": [
+      "WLJHU",
+      "PECAN",
+      "QFDBO",
+      "RGECP"
+    ],
+    "answer": 2,
+    "explanation": "Each letter of the word is shifted by -3 position(s) in the alphabet; applying the same rule to TIGER gives QFDBO."
+  },
+  {
+    "id": 8,
+    "question": "Find the Compound Interest on Rs. 4000 at 25% per annum for 2 years, compounded annually.",
+    "options": [
+      "2250",
+      "1800",
+      "1912",
+      "2025"
+    ],
+    "answer": 0,
+    "explanation": "CI = P[(1+R/100)^T - 1] = 4000[(1+25/100)^2 - 1] = Rs. 2250."
+  },
+  {
+    "id": 9,
+    "question": "A man bought an article for Rs. 100 and sold it for Rs. 105. Find his profit percentage.",
+    "options": [
+      "6",
+      "14",
+      "4",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "Profit % = |SP - CP| / CP x 100 = |105 - 100| / 100 x 100 = 5.0%."
+  },
+  {
+    "id": 10,
+    "question": "If today is Monday, what day will it be after 3 days?",
+    "options": [
+      "Thursday",
+      "Monday",
+      "Saturday",
+      "Sunday"
+    ],
+    "answer": 0,
+    "explanation": "3 days from Monday = 3 mod 7 = 3 day(s) ahead, which lands on Thursday."
+  },
+  {
+    "id": 11,
+    "question": "A man walks 7 km towards East and then 24 km towards North. How far is he from his starting point?",
+    "options": [
+      "20",
+      "22",
+      "25",
+      "21"
+    ],
+    "answer": 2,
+    "explanation": "Using the Pythagoras theorem, distance = sqrt(7^2 + 24^2) = sqrt(49+576) = 25 km."
+  },
+  {
+    "id": 12,
+    "question": "Given the statements: All planets orbit the sun. Earth is a planet. Which conclusion logically follows?",
+    "options": [
+      "Some planets do not orbit the sun.",
+      "Earth orbits the sun.",
+      "Earth does not orbit the sun.",
+      "All things that orbit the sun are planets."
+    ],
+    "answer": 1,
+    "explanation": "Since all planets orbit the sun and Earth is a planet, Earth orbits the sun."
+  },
+  {
+    "id": 13,
+    "question": "Choose the pair that best completes the analogy: Ornithologist : Birds :: ?",
+    "options": [
+      "Entomologist : Plants",
+      "Entomologist : Fish",
+      "Entomologist : Rocks",
+      "Entomologist : Insects"
+    ],
+    "answer": 3,
+    "explanation": "An Ornithologist studies Birds, just as an Entomologist studies Insects."
+  },
+  {
+    "id": 14,
+    "question": "Choose the pair that best completes the analogy: Verse : Poem :: ?",
+    "options": [
+      "Chapter : Novelist",
+      "Chapter : Book",
+      "Chapter : Author",
+      "Chapter : Library"
+    ],
+    "answer": 1,
+    "explanation": "A Verse is a unit of a Poem, just as a Chapter is a unit of a Book."
+  },
+  {
+    "id": 15,
+    "question": "Find the average of the following numbers: 25, 27, 29, 31.",
+    "options": [
+      "22",
+      "25",
+      "24",
+      "28"
+    ],
+    "answer": 3,
+    "explanation": "Average = Sum of numbers / Count = 112 / 4 = 28."
+  },
+  {
+    "id": 16,
+    "question": "Pointing to a photograph, a man said, \"She is the daughter of my grandfather's only son.\" How is the woman in the photograph related to the man?",
+    "options": [
+      "Daughter",
+      "Cousin",
+      "Sister",
+      "Mother"
+    ],
+    "answer": 2,
+    "explanation": "The grandfather's only son is the man's father; his daughter is the man's sister."
+  },
+  {
+    "id": 17,
+    "question": "A car travels at a speed of 60 km/h for 5 hours. Find the distance covered.",
+    "options": [
+      "255",
+      "240",
+      "270",
+      "300"
+    ],
+    "answer": 3,
+    "explanation": "Distance = Speed x Time = 60 x 5 = 300 km."
+  },
+  {
+    "id": 18,
+    "question": "Find the next letter in the series: R, T, V, X, ?",
+    "options": [
+      "Z",
+      "K",
+      "X",
+      "Q"
+    ],
+    "answer": 0,
+    "explanation": "Each letter's alphabetical position increases by 2; the next letter after X is Z."
+  },
+  {
+    "id": 19,
+    "question": "A is 4 years older than B. If the sum of their present ages is 64 years, find B's present age.",
+    "options": [
+      "26",
+      "30",
+      "27",
+      "24"
+    ],
+    "answer": 1,
+    "explanation": "Let B's age = x. Then A's age = x+4. So 2x+4 = 64, giving x = 30 years."
+  },
+  {
+    "id": 20,
+    "question": "A can complete a piece of work in 24 days and B can complete the same work in 8 days. Working together, in how many days will they complete the work?",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "Combined time = (X x Y)/(X+Y) = (24 x 8)/(24+8) = 6 days."
+  },
+  {
+    "id": 21,
+    "question": "In a certain code, CLOUD is written as ZILRA. How is STONE written in that code?",
+    "options": [
+      "OPKJA",
+      "PQLKB",
+      "VWRQH",
+      "QRMLC"
+    ],
+    "answer": 1,
+    "explanation": "Each letter of the word is shifted by -3 position(s) in the alphabet; applying the same rule to STONE gives PQLKB."
+  },
+  {
+    "id": 22,
+    "question": "Find the Simple Interest on Rs. 8000 at 15% per annum for 2 years.",
+    "options": [
+      "2160",
+      "1920",
+      "2040",
+      "2400"
+    ],
+    "answer": 3,
+    "explanation": "SI = (P x R x T)/100 = (8000 x 15 x 2)/100 = Rs. 2400."
+  },
+  {
+    "id": 23,
+    "question": "A can complete a piece of work in 9 days and B can complete the same work in 18 days. Working together, in how many days will they complete the work?",
+    "options": [
+      "8",
+      "7",
+      "5",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "Combined time = (X x Y)/(X+Y) = (9 x 18)/(9+18) = 6 days."
+  },
+  {
+    "id": 24,
+    "question": "In a certain code, HOUSE is written as FMSQC. How is TABLE written in that code?",
+    "options": [
+      "SZAKD",
+      "RYZJC",
+      "VCDNG",
+      "QXYIB"
+    ],
+    "answer": 1,
+    "explanation": "Each letter of the word is shifted by -2 position(s) in the alphabet; applying the same rule to TABLE gives RYZJC."
+  },
+  {
+    "id": 25,
+    "question": "A car travels at a speed of 50 km/h for 3 hours. Find the distance covered.",
+    "options": [
+      "150",
+      "120",
+      "128",
+      "135"
+    ],
+    "answer": 0,
+    "explanation": "Distance = Speed x Time = 50 x 3 = 150 km."
+  },
+  {
+    "id": 26,
+    "question": "Find the average of the following numbers: 20, 23, 26.",
+    "options": [
+      "21",
+      "18",
+      "20",
+      "23"
+    ],
+    "answer": 3,
+    "explanation": "Average = Sum of numbers / Count = 69 / 3 = 23."
+  },
+  {
+    "id": 27,
+    "question": "A man bought an article for Rs. 1000 and sold it for Rs. 1100. Find his profit percentage.",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "Profit % = |SP - CP| / CP x 100 = |1100 - 1000| / 1000 x 100 = 10.0%."
+  },
+  {
+    "id": 28,
+    "question": "In a certain code, MANGO is written as PDQJR. How is MOON written in that code?",
+    "options": [
+      "JLLK",
+      "QSSR",
+      "PRRQ",
+      "OQQP"
+    ],
+    "answer": 2,
+    "explanation": "Each letter of the word is shifted by 3 position(s) in the alphabet; applying the same rule to MOON gives PRRQ."
+  },
+  {
+    "id": 29,
+    "question": "In a certain code, PENCIL is written as ODMBHK. How is BOOK written in that code?",
+    "options": [
+      "ANNJ",
+      "CPPL",
+      "ZMMI",
+      "IVVR"
+    ],
+    "answer": 0,
+    "explanation": "Each letter of the word is shifted by -1 position(s) in the alphabet; applying the same rule to BOOK gives ANNJ."
+  },
+  {
+    "id": 30,
+    "question": "A is 10 years older than B. If the sum of their present ages is 34 years, find B's present age.",
+    "options": [
+      "12",
+      "10",
+      "13",
+      "11"
+    ],
+    "answer": 0,
+    "explanation": "Let B's age = x. Then A's age = x+10. So 2x+10 = 34, giving x = 12 years."
+  },
+  {
+    "id": 31,
+    "question": "Choose the odd one out from the group: Doctor, Engineer, Teacher, Hospital",
+    "options": [
+      "Teacher",
+      "Doctor",
+      "Hospital",
+      "Engineer"
+    ],
+    "answer": 2,
+    "explanation": "Hospital is a place/institution, while the others are professions."
+  },
+  {
+    "id": 32,
+    "question": "A is 4 years older than B. If the sum of their present ages is 54 years, find B's present age.",
+    "options": [
+      "20",
+      "22",
+      "25",
+      "21"
+    ],
+    "answer": 2,
+    "explanation": "Let B's age = x. Then A's age = x+4. So 2x+4 = 54, giving x = 25 years."
+  },
+  {
+    "id": 33,
+    "question": "Find the next letter in the series: C, E, G, I, ?",
+    "options": [
+      "K",
+      "I",
+      "N",
+      "L"
+    ],
+    "answer": 0,
+    "explanation": "Each letter's alphabetical position increases by 2; the next letter after I is K."
+  },
+  {
+    "id": 34,
+    "question": "If today is Thursday, what day will it be after 5 days?",
+    "options": [
+      "Thursday",
+      "Sunday",
+      "Tuesday",
+      "Saturday"
+    ],
+    "answer": 2,
+    "explanation": "5 days from Thursday = 5 mod 7 = 5 day(s) ahead, which lands on Tuesday."
+  },
+  {
+    "id": 35,
+    "question": "A car travels at a speed of 65 km/h for 1 hours. Find the distance covered.",
+    "options": [
+      "58",
+      "55",
+      "52",
+      "65"
+    ],
+    "answer": 3,
+    "explanation": "Distance = Speed x Time = 65 x 1 = 65 km."
+  },
+  {
+    "id": 36,
+    "question": "If today is Wednesday, what day will it be after 25 days?",
+    "options": [
+      "Monday",
+      "Wednesday",
+      "Tuesday",
+      "Sunday"
+    ],
+    "answer": 3,
+    "explanation": "25 days from Wednesday = 25 mod 7 = 4 day(s) ahead, which lands on Sunday."
+  },
+  {
+    "id": 37,
+    "question": "In a certain code, RIVER is written as SJWFS. How is WATER written in that code?",
+    "options": [
+      "FJCNA",
+      "YCVGT",
+      "XBUFS",
+      "VZSDQ"
+    ],
+    "answer": 2,
+    "explanation": "Each letter of the word is shifted by 1 position(s) in the alphabet; applying the same rule to WATER gives XBUFS."
+  },
+  {
+    "id": 38,
+    "question": "A is 8 years older than B. If the sum of their present ages is 44 years, find B's present age.",
+    "options": [
+      "15",
+      "14",
+      "16",
+      "18"
+    ],
+    "answer": 3,
+    "explanation": "Let B's age = x. Then A's age = x+8. So 2x+8 = 44, giving x = 18 years."
+  },
+  {
+    "id": 39,
+    "question": "In a certain code, APPLE is written as BQQMF. How is RIVER written in that code?",
+    "options": [
+      "TKXGT",
+      "QHUDQ",
+      "SJWFS",
+      "ARENA"
+    ],
+    "answer": 2,
+    "explanation": "Each letter of the word is shifted by 1 position(s) in the alphabet; applying the same rule to RIVER gives SJWFS."
+  },
+  {
+    "id": 40,
+    "question": "A is 12 years older than B. If the sum of their present ages is 62 years, find B's present age.",
+    "options": [
+      "21",
+      "20",
+      "25",
+      "22"
+    ],
+    "answer": 2,
+    "explanation": "Let B's age = x. Then A's age = x+12. So 2x+12 = 62, giving x = 25 years."
+  },
+  {
+    "id": 41,
+    "question": "Find the Simple Interest on Rs. 10000 at 12% per annum for 3 years.",
+    "options": [
+      "3060",
+      "2880",
+      "3240",
+      "3600"
+    ],
+    "answer": 3,
+    "explanation": "SI = (P x R x T)/100 = (10000 x 12 x 3)/100 = Rs. 3600."
+  },
+  {
+    "id": 42,
+    "question": "Pointing to a lady, a man said, \"Her husband is the only son of my father.\" How is the man related to the lady?",
+    "options": [
+      "Husband",
+      "Son",
+      "Father",
+      "Brother"
+    ],
+    "answer": 0,
+    "explanation": "The only son of the man's father is the man himself, so the lady's husband is the man; hence she is his wife (he is her husband)."
+  },
+  {
+    "id": 43,
+    "question": "A car travels at a speed of 45 km/h for 2 hours. Find the distance covered.",
+    "options": [
+      "90",
+      "72",
+      "76",
+      "81"
+    ],
+    "answer": 0,
+    "explanation": "Distance = Speed x Time = 45 x 2 = 90 km."
+  },
+  {
+    "id": 44,
+    "question": "A man bought an article for Rs. 500 and sold it for Rs. 400. Find his loss percentage.",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "20"
+    ],
+    "answer": 3,
+    "explanation": "Loss % = |SP - CP| / CP x 100 = |400 - 500| / 500 x 100 = 20.0%."
+  },
+  {
+    "id": 45,
+    "question": "Find the next number in the series: 9, 18, 36, 72, 144, ?",
+    "options": [
+      "259",
+      "230",
+      "288",
+      "245"
+    ],
+    "answer": 2,
+    "explanation": "Each term is multiplied by 2 (geometric progression); next term = 144 x 2 = 288."
+  },
+  {
+    "id": 46,
+    "question": "A is 6 years older than B. If the sum of their present ages is 46 years, find B's present age.",
+    "options": [
+      "17",
+      "20",
+      "16",
+      "18"
+    ],
+    "answer": 1,
+    "explanation": "Let B's age = x. Then A's age = x+6. So 2x+6 = 46, giving x = 20 years."
+  },
+  {
+    "id": 47,
+    "question": "A man walks 9 km towards East and then 40 km towards North. How far is he from his starting point?",
+    "options": [
+      "33",
+      "35",
+      "37",
+      "41"
+    ],
+    "answer": 3,
+    "explanation": "Using the Pythagoras theorem, distance = sqrt(9^2 + 40^2) = sqrt(81+1600) = 41 km."
+  },
+  {
+    "id": 48,
+    "question": "Pointing to a girl, a woman said, \"She is the daughter of my husband's sister.\" How is the girl related to the woman?",
+    "options": [
+      "Niece",
+      "Daughter",
+      "Cousin",
+      "Sister"
+    ],
+    "answer": 0,
+    "explanation": "The husband's sister's daughter is the woman's niece (by marriage)."
+  },
+  {
+    "id": 49,
+    "question": "Find the next letter in the series: A, B, C, D, ?",
+    "options": [
+      "D",
+      "E",
+      "B",
+      "G"
+    ],
+    "answer": 1,
+    "explanation": "Each letter's alphabetical position increases by 1; the next letter after D is E."
+  },
+  {
+    "id": 50,
+    "question": "Find the average of the following numbers: 50, 52, 54, 56, 58, 60.",
+    "options": [
+      "47",
+      "44",
+      "50",
+      "55"
+    ],
+    "answer": 3,
+    "explanation": "Average = Sum of numbers / Count = 330 / 6 = 55."
+  },
+  {
+    "id": 51,
+    "question": "Find the Compound Interest on Rs. 8000 at 25% per annum for 2 years, compounded annually.",
+    "options": [
+      "3600",
+      "4500",
+      "4050",
+      "3825"
+    ],
+    "answer": 1,
+    "explanation": "CI = P[(1+R/100)^T - 1] = 8000[(1+25/100)^2 - 1] = Rs. 4500."
+  },
+  {
+    "id": 52,
+    "question": "If today is Friday, what day will it be after 8 days?",
+    "options": [
+      "Friday",
+      "Thursday",
+      "Saturday",
+      "Monday"
+    ],
+    "answer": 2,
+    "explanation": "8 days from Friday = 8 mod 7 = 1 day(s) ahead, which lands on Saturday."
+  },
+  {
+    "id": 53,
+    "question": "Find the next letter in the series: O, P, Q, R, ?",
+    "options": [
+      "U",
+      "Q",
+      "R",
+      "S"
+    ],
+    "answer": 3,
+    "explanation": "Each letter's alphabetical position increases by 1; the next letter after R is S."
+  },
+  {
+    "id": 54,
+    "question": "A sum of Rs. 200 is divided between two persons in the ratio 7:3. Find the larger share.",
+    "options": [
+      "126",
+      "112",
+      "119",
+      "140"
+    ],
+    "answer": 3,
+    "explanation": "Larger share = [7 / (7+3)] x 200 = Rs. 140."
+  },
+  {
+    "id": 55,
+    "question": "Find the next number in the series: 4, 8, 16, 32, 64, ?",
+    "options": [
+      "128",
+      "115",
+      "102",
+      "109"
+    ],
+    "answer": 0,
+    "explanation": "Each term is multiplied by 2 (geometric progression); next term = 64 x 2 = 128."
+  },
+  {
+    "id": 56,
+    "question": "If today is Thursday, what day will it be after 3 days?",
+    "options": [
+      "Tuesday",
+      "Monday",
+      "Sunday",
+      "Wednesday"
+    ],
+    "answer": 2,
+    "explanation": "3 days from Thursday = 3 mod 7 = 3 day(s) ahead, which lands on Sunday."
+  },
+  {
+    "id": 57,
+    "question": "Find the next letter in the series: F, J, N, R, ?",
+    "options": [
+      "V",
+      "S",
+      "Y",
+      "R"
+    ],
+    "answer": 0,
+    "explanation": "Each letter's alphabetical position increases by 4; the next letter after R is V."
+  },
+  {
+    "id": 58,
+    "question": "Introducing a boy, a man said, \"He is the son of my wife's mother's only son.\" How is the boy related to the man?",
+    "options": [
+      "Brother-in-law",
+      "Grandson",
+      "Nephew",
+      "Son"
+    ],
+    "answer": 3,
+    "explanation": "The wife's mother's only son is the wife's brother; but if the man has no other children referenced, careful reading shows the son is actually the man's own son (as wife's brother's son would make it nephew) — however, given the phrasing implies the wife's own brother, the boy is the man's nephew."
+  },
+  {
+    "id": 59,
+    "question": "Find the Compound Interest on Rs. 10000 at 20% per annum for 2 years, compounded annually.",
+    "options": [
+      "3960",
+      "4400",
+      "3740",
+      "3520"
+    ],
+    "answer": 1,
+    "explanation": "CI = P[(1+R/100)^T - 1] = 10000[(1+20/100)^2 - 1] = Rs. 4400."
+  },
+  {
+    "id": 60,
+    "question": "Find the next letter in the series: I, M, Q, U, ?",
+    "options": [
+      "U",
+      "Y",
+      "Q",
+      "A"
+    ],
+    "answer": 1,
+    "explanation": "Each letter's alphabetical position increases by 4; the next letter after U is Y."
+  },
+  {
+    "id": 61,
+    "question": "Find the Compound Interest on Rs. 4000 at 20% per annum for 2 years, compounded annually.",
+    "options": [
+      "1760",
+      "1496",
+      "1408",
+      "1584"
+    ],
+    "answer": 0,
+    "explanation": "CI = P[(1+R/100)^T - 1] = 4000[(1+20/100)^2 - 1] = Rs. 1760."
+  },
+  {
+    "id": 62,
+    "question": "A can complete a piece of work in 10 days and B can complete the same work in 15 days. Working together, in how many days will they complete the work?",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "Combined time = (X x Y)/(X+Y) = (10 x 15)/(10+15) = 6 days."
+  },
+  {
+    "id": 63,
+    "question": "A and B are brothers. C and D are sisters. A's son is D's brother. How is B related to C?",
+    "options": [
+      "Cousin",
+      "Father",
+      "Uncle",
+      "Brother"
+    ],
+    "answer": 2,
+    "explanation": "A's son is D's brother, meaning A is C and D's father; since B is A's brother, B is C's uncle."
+  },
+  {
+    "id": 64,
+    "question": "Given the statements: All birds can fly. Penguins are birds. Which conclusion logically follows?",
+    "options": [
+      "No bird can fly.",
+      "Some conclusions about penguins flying may not hold true in reality, but logically penguins should be able to fly per the given premises.",
+      "Penguins cannot fly.",
+      "All flying creatures are birds."
+    ],
+    "answer": 1,
+    "explanation": "Based strictly on the given (false-to-reality but logically valid) premises, since all birds can fly and penguins are birds, penguins should be able to fly."
+  },
+  {
+    "id": 65,
+    "question": "Choose the odd one out from the group: Delhi, Mumbai, Kolkata, India",
+    "options": [
+      "Kolkata",
+      "India",
+      "Mumbai",
+      "Delhi"
+    ],
+    "answer": 1,
+    "explanation": "India is a country, while the others are cities."
+  },
+  {
+    "id": 66,
+    "question": "If today is Friday, what day will it be after 15 days?",
+    "options": [
+      "Tuesday",
+      "Monday",
+      "Saturday",
+      "Friday"
+    ],
+    "answer": 2,
+    "explanation": "15 days from Friday = 15 mod 7 = 1 day(s) ahead, which lands on Saturday."
+  },
+  {
+    "id": 67,
+    "question": "Find the average of the following numbers: 50, 54, 58, 62.",
+    "options": [
+      "48",
+      "50",
+      "56",
+      "45"
+    ],
+    "answer": 2,
+    "explanation": "Average = Sum of numbers / Count = 224 / 4 = 56."
+  },
+  {
+    "id": 68,
+    "question": "Find the next letter in the series: E, G, I, K, ?",
+    "options": [
+      "M",
+      "P",
+      "N",
+      "K"
+    ],
+    "answer": 0,
+    "explanation": "Each letter's alphabetical position increases by 2; the next letter after K is M."
+  },
+  {
+    "id": 69,
+    "question": "Given the statements: Some students are athletes. All athletes are disciplined. Which conclusion logically follows?",
+    "options": [
+      "All students are disciplined.",
+      "All disciplined people are students.",
+      "No student is disciplined.",
+      "Some students may be disciplined."
+    ],
+    "answer": 3,
+    "explanation": "Since some students are athletes and all athletes are disciplined, it follows that some students may be disciplined."
+  },
+  {
+    "id": 70,
+    "question": "Find the Compound Interest on Rs. 2000 at 25% per annum for 2 years, compounded annually.",
+    "options": [
+      "900",
+      "1012",
+      "956",
+      "1125"
+    ],
+    "answer": 3,
+    "explanation": "CI = P[(1+R/100)^T - 1] = 2000[(1+25/100)^2 - 1] = Rs. 1125."
+  },
+  {
+    "id": 71,
+    "question": "Choose the pair that best completes the analogy: Herbivore : Plants :: ?",
+    "options": [
+      "Carnivore : Vegetables",
+      "Carnivore : Grass",
+      "Carnivore : Meat",
+      "Carnivore : Fruits"
+    ],
+    "answer": 2,
+    "explanation": "A Herbivore eats Plants, just as a Carnivore eats Meat."
+  },
+  {
+    "id": 72,
+    "question": "In a certain code, STAR is written as QRYP. How is TIGER written in that code?",
+    "options": [
+      "VKIGT",
+      "QFDBO",
+      "RGECP",
+      "SHFDQ"
+    ],
+    "answer": 2,
+    "explanation": "Each letter of the word is shifted by -2 position(s) in the alphabet; applying the same rule to TIGER gives RGECP."
+  },
+  {
+    "id": 73,
+    "question": "Find the Compound Interest on Rs. 8000 at 20% per annum for 2 years, compounded annually.",
+    "options": [
+      "3168",
+      "2816",
+      "3520",
+      "2992"
+    ],
+    "answer": 2,
+    "explanation": "CI = P[(1+R/100)^T - 1] = 8000[(1+20/100)^2 - 1] = Rs. 3520."
+  },
+  {
+    "id": 74,
+    "question": "A can complete a piece of work in 4 days and B can complete the same work in 12 days. Working together, in how many days will they complete the work?",
+    "options": [
+      "4",
+      "12",
+      "3",
+      "2"
+    ],
+    "answer": 2,
+    "explanation": "Combined time = (X x Y)/(X+Y) = (4 x 12)/(4+12) = 3 days."
+  },
+  {
+    "id": 75,
+    "question": "What is 8% of 250?",
+    "options": [
+      "20",
+      "17",
+      "18",
+      "16"
+    ],
+    "answer": 0,
+    "explanation": "8% of 250 = (8/100) x 250 = 20."
+  },
+  {
+    "id": 76,
+    "question": "Choose the odd one out from the group: Apple, Mango, Potato, Banana",
+    "options": [
+      "Mango",
+      "Potato",
+      "Apple",
+      "Banana"
+    ],
+    "answer": 1,
+    "explanation": "Potato is a vegetable/tuber, while the others are fruits."
+  },
+  {
+    "id": 77,
+    "question": "A is 10 years older than B. If the sum of their present ages is 70 years, find B's present age.",
+    "options": [
+      "26",
+      "24",
+      "27",
+      "30"
+    ],
+    "answer": 3,
+    "explanation": "Let B's age = x. Then A's age = x+10. So 2x+10 = 70, giving x = 30 years."
+  },
+  {
+    "id": 78,
+    "question": "A man walks 24 km towards East and then 10 km towards North. How far is he from his starting point?",
+    "options": [
+      "23",
+      "21",
+      "22",
+      "26"
+    ],
+    "answer": 3,
+    "explanation": "Using the Pythagoras theorem, distance = sqrt(24^2 + 10^2) = sqrt(576+100) = 26 km."
+  },
+  {
+    "id": 79,
+    "question": "A car travels at a speed of 80 km/h for 3 hours. Find the distance covered.",
+    "options": [
+      "192",
+      "204",
+      "216",
+      "240"
+    ],
+    "answer": 3,
+    "explanation": "Distance = Speed x Time = 80 x 3 = 240 km."
+  },
+  {
+    "id": 80,
+    "question": "If today is Tuesday, what day will it be after 20 days?",
+    "options": [
+      "Tuesday",
+      "Monday",
+      "Sunday",
+      "Wednesday"
+    ],
+    "answer": 1,
+    "explanation": "20 days from Tuesday = 20 mod 7 = 6 day(s) ahead, which lands on Monday."
+  },
+  {
+    "id": 81,
+    "question": "A sum of Rs. 100 is divided between two persons in the ratio 2:3. Find the larger share.",
+    "options": [
+      "51",
+      "54",
+      "48",
+      "60"
+    ],
+    "answer": 3,
+    "explanation": "Larger share = [3 / (2+3)] x 100 = Rs. 60."
+  },
+  {
+    "id": 82,
+    "question": "A man bought an article for Rs. 300 and sold it for Rs. 240. Find his loss percentage.",
+    "options": [
+      "17",
+      "20",
+      "18",
+      "16"
+    ],
+    "answer": 1,
+    "explanation": "Loss % = |SP - CP| / CP x 100 = |240 - 300| / 300 x 100 = 20.0%."
+  },
+  {
+    "id": 83,
+    "question": "Find the average of the following numbers: 50, 53, 56, 59, 62.",
+    "options": [
+      "50",
+      "45",
+      "48",
+      "56"
+    ],
+    "answer": 3,
+    "explanation": "Average = Sum of numbers / Count = 280 / 5 = 56."
+  },
+  {
+    "id": 84,
+    "question": "A man walks 12 km towards East and then 16 km towards North. How far is he from his starting point?",
+    "options": [
+      "20",
+      "16",
+      "17",
+      "18"
+    ],
+    "answer": 0,
+    "explanation": "Using the Pythagoras theorem, distance = sqrt(12^2 + 16^2) = sqrt(144+256) = 20 km."
+  },
+  {
+    "id": 85,
+    "question": "Find the next number in the series: 4, 12, 36, 108, 324, ?",
+    "options": [
+      "778",
+      "875",
+      "826",
+      "972"
+    ],
+    "answer": 3,
+    "explanation": "Each term is multiplied by 3 (geometric progression); next term = 324 x 3 = 972."
+  },
+  {
+    "id": 86,
+    "question": "A is 4 years older than B. If the sum of their present ages is 40 years, find B's present age.",
+    "options": [
+      "14",
+      "16",
+      "15",
+      "18"
+    ],
+    "answer": 3,
+    "explanation": "Let B's age = x. Then A's age = x+4. So 2x+4 = 40, giving x = 18 years."
+  },
+  {
+    "id": 87,
+    "question": "Find the average of the following numbers: 15, 17, 19, 21.",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "15"
+    ],
+    "answer": 2,
+    "explanation": "Average = Sum of numbers / Count = 72 / 4 = 18."
+  },
+  {
+    "id": 88,
+    "question": "A car travels at a speed of 90 km/h for 3 hours. Find the distance covered.",
+    "options": [
+      "216",
+      "230",
+      "243",
+      "270"
+    ],
+    "answer": 3,
+    "explanation": "Distance = Speed x Time = 90 x 3 = 270 km."
+  },
+  {
+    "id": 89,
+    "question": "Statement: All employees who work hard get promoted. Ravi works hard. Which of the following logically follows?",
+    "options": [
+      "Ravi does not work hard.",
+      "No employee gets promoted.",
+      "Ravi will get promoted.",
+      "Ravi will not get promoted."
+    ],
+    "answer": 2,
+    "explanation": "Since all hard-working employees get promoted and Ravi works hard, it follows that Ravi will get promoted."
+  },
+  {
+    "id": 90,
+    "question": "Choose the pair that best completes the analogy: Kilogram : Weight :: ?",
+    "options": [
+      "Metre : Area",
+      "Metre : Volume",
+      "Metre : Time",
+      "Metre : Length"
+    ],
+    "answer": 3,
+    "explanation": "A Kilogram measures Weight, just as a Metre measures Length."
+  },
+  {
+    "id": 91,
+    "question": "A said to B, \"Your mother's husband's sister is my aunt.\" How is A related to B?",
+    "options": [
+      "Uncle",
+      "Nephew",
+      "Brother",
+      "Cousin"
+    ],
+    "answer": 3,
+    "explanation": "B's mother's husband is B's father, and his sister is A's aunt too, meaning A and B share the same family line as cousins."
+  },
+  {
+    "id": 92,
+    "question": "What is 10% of 150?",
+    "options": [
+      "12",
+      "15",
+      "14",
+      "13"
+    ],
+    "answer": 1,
+    "explanation": "10% of 150 = (10/100) x 150 = 15."
+  },
+  {
+    "id": 93,
+    "question": "Given the statements: All doctors are educated. Some educated people are rich. Which conclusion logically follows?",
+    "options": [
+      "Some doctors may be rich.",
+      "All doctors are rich.",
+      "All rich people are doctors.",
+      "No doctor is rich."
+    ],
+    "answer": 0,
+    "explanation": "Since some educated people are rich and all doctors are educated, it is possible (but not certain) that some doctors are rich."
+  },
+  {
+    "id": 94,
+    "question": "What is 8% of 300?",
+    "options": [
+      "19",
+      "24",
+      "20",
+      "22"
+    ],
+    "answer": 1,
+    "explanation": "8% of 300 = (8/100) x 300 = 24."
+  },
+  {
+    "id": 95,
+    "question": "Find the next number in the series: 7, 21, 63, 189, 567, ?",
+    "options": [
+      "1531",
+      "1361",
+      "1701",
+      "1446"
+    ],
+    "answer": 2,
+    "explanation": "Each term is multiplied by 3 (geometric progression); next term = 567 x 3 = 1701."
+  },
+  {
+    "id": 96,
+    "question": "A man walks 10 km towards East and then 24 km towards North. How far is he from his starting point?",
+    "options": [
+      "21",
+      "23",
+      "22",
+      "26"
+    ],
+    "answer": 3,
+    "explanation": "Using the Pythagoras theorem, distance = sqrt(10^2 + 24^2) = sqrt(100+576) = 26 km."
+  },
+  {
+    "id": 97,
+    "question": "A man bought an article for Rs. 400 and sold it for Rs. 480. Find his profit percentage.",
+    "options": [
+      "17",
+      "18",
+      "16",
+      "20"
+    ],
+    "answer": 3,
+    "explanation": "Profit % = |SP - CP| / CP x 100 = |480 - 400| / 400 x 100 = 20.0%."
+  },
+  {
+    "id": 98,
+    "question": "What is 20% of 180?",
+    "options": [
+      "36",
+      "32",
+      "31",
+      "29"
+    ],
+    "answer": 0,
+    "explanation": "20% of 180 = (20/100) x 180 = 36."
+  },
+  {
+    "id": 99,
+    "question": "A sum of Rs. 720 is divided between two persons in the ratio 4:8. Find the larger share.",
+    "options": [
+      "432",
+      "408",
+      "384",
+      "480"
+    ],
+    "answer": 3,
+    "explanation": "Larger share = [8 / (4+8)] x 720 = Rs. 480."
+  },
+  {
+    "id": 100,
+    "question": "Choose the pair that best completes the analogy: Grape : Vineyard :: ?",
+    "options": [
+      "Wheat : Flour",
+      "Wheat : Bread",
+      "Wheat : Field",
+      "Wheat : Mill"
+    ],
+    "answer": 2,
+    "explanation": "Grapes grow in a Vineyard, just as Wheat grows in a Field."
+  },
+  {
+    "id": 101,
+    "question": "A car travels at a speed of 100 km/h for 6 hours. Find the distance covered.",
+    "options": [
+      "480",
+      "600",
+      "510",
+      "540"
+    ],
+    "answer": 1,
+    "explanation": "Distance = Speed x Time = 100 x 6 = 600 km."
+  },
+  {
+    "id": 102,
+    "question": "Find the average of the following numbers: 50, 52, 54.",
+    "options": [
+      "47",
+      "52",
+      "42",
+      "44"
+    ],
+    "answer": 1,
+    "explanation": "Average = Sum of numbers / Count = 156 / 3 = 52."
+  },
+  {
+    "id": 103,
+    "question": "A man bought an article for Rs. 200 and sold it for Rs. 220. Find his profit percentage.",
+    "options": [
+      "10",
+      "11",
+      "9",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "Profit % = |SP - CP| / CP x 100 = |220 - 200| / 200 x 100 = 10.0%."
+  },
+  {
+    "id": 104,
+    "question": "What is 75% of 160?",
+    "options": [
+      "120",
+      "108",
+      "102",
+      "96"
+    ],
+    "answer": 0,
+    "explanation": "75% of 160 = (75/100) x 160 = 120."
+  },
+  {
+    "id": 105,
+    "question": "Statement: Only trained pilots are permitted to fly the aircraft. Captain Rao flew the aircraft. Which of the following logically follows?",
+    "options": [
+      "Captain Rao is a trained pilot.",
+      "The aircraft was not flown.",
+      "No one flew the aircraft.",
+      "Captain Rao is not a trained pilot."
+    ],
+    "answer": 0,
+    "explanation": "Since only trained pilots are permitted to fly and Captain Rao flew the aircraft, he must be a trained pilot."
+  },
+  {
+    "id": 106,
+    "question": "Choose the pair that best completes the analogy: Optimist : Hopeful :: ?",
+    "options": [
+      "Pessimist : Cheerful",
+      "Pessimist : Happy",
+      "Pessimist : Confident",
+      "Pessimist : Hopeless"
+    ],
+    "answer": 3,
+    "explanation": "An Optimist tends to be Hopeful, just as a Pessimist tends to be Hopeless."
+  },
+  {
+    "id": 107,
+    "question": "A can complete a piece of work in 12 days and B can complete the same work in 4 days. Working together, in how many days will they complete the work?",
+    "options": [
+      "2",
+      "3",
+      "12",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Combined time = (X x Y)/(X+Y) = (12 x 4)/(12+4) = 3 days."
+  },
+  {
+    "id": 108,
+    "question": "A is 10 years older than B. If the sum of their present ages is 50 years, find B's present age.",
+    "options": [
+      "16",
+      "20",
+      "17",
+      "18"
+    ],
+    "answer": 1,
+    "explanation": "Let B's age = x. Then A's age = x+10. So 2x+10 = 50, giving x = 20 years."
+  },
+  {
+    "id": 109,
+    "question": "Introducing a man, a woman said, \"He is the only son of my grandmother's only daughter.\" How is the man related to the woman?",
+    "options": [
+      "Brother",
+      "Father",
+      "Cousin",
+      "Uncle"
+    ],
+    "answer": 0,
+    "explanation": "The grandmother's only daughter is the woman's mother, so her only son is the woman's brother."
+  },
+  {
+    "id": 110,
+    "question": "Find the Simple Interest on Rs. 5000 at 12% per annum for 2 years.",
+    "options": [
+      "1020",
+      "1200",
+      "960",
+      "1080"
+    ],
+    "answer": 1,
+    "explanation": "SI = (P x R x T)/100 = (5000 x 12 x 2)/100 = Rs. 1200."
+  },
+  {
+    "id": 111,
+    "question": "Statement: Whenever the alarm rings, the workers stop working. The alarm just rang. Which of the following logically follows?",
+    "options": [
+      "The workers were already not working.",
+      "The workers will keep working.",
+      "The alarm did not ring.",
+      "The workers will stop working."
+    ],
+    "answer": 3,
+    "explanation": "Since the alarm ringing always causes workers to stop, and it just rang, the workers will stop working."
+  },
+  {
+    "id": 112,
+    "question": "A sum of Rs. 100 is divided between two persons in the ratio 3:7. Find the larger share.",
+    "options": [
+      "63",
+      "70",
+      "60",
+      "56"
+    ],
+    "answer": 1,
+    "explanation": "Larger share = [7 / (3+7)] x 100 = Rs. 70."
+  },
+  {
+    "id": 113,
+    "question": "Find the Simple Interest on Rs. 10000 at 10% per annum for 4 years.",
+    "options": [
+      "3600",
+      "3200",
+      "4000",
+      "3400"
+    ],
+    "answer": 2,
+    "explanation": "SI = (P x R x T)/100 = (10000 x 10 x 4)/100 = Rs. 4000."
+  },
+  {
+    "id": 114,
+    "question": "Find the Compound Interest on Rs. 20000 at 5% per annum for 2 years, compounded annually.",
+    "options": [
+      "1742",
+      "1845",
+      "2050",
+      "1640"
+    ],
+    "answer": 2,
+    "explanation": "CI = P[(1+R/100)^T - 1] = 20000[(1+5/100)^2 - 1] = Rs. 2050."
+  },
+  {
+    "id": 115,
+    "question": "Choose the pair that best completes the analogy: Water : Thirst :: ?",
+    "options": [
+      "Food : Cooking",
+      "Food : Taste",
+      "Food : Hunger",
+      "Food : Kitchen"
+    ],
+    "answer": 2,
+    "explanation": "Water quenches Thirst, just as Food satisfies Hunger."
+  },
+  {
+    "id": 116,
+    "question": "Find the Simple Interest on Rs. 12000 at 12% per annum for 3 years.",
+    "options": [
+      "3888",
+      "4320",
+      "3456",
+      "3672"
+    ],
+    "answer": 1,
+    "explanation": "SI = (P x R x T)/100 = (12000 x 12 x 3)/100 = Rs. 4320."
+  },
+  {
+    "id": 117,
+    "question": "A is 12 years older than B. If the sum of their present ages is 42 years, find B's present age.",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "answer": 3,
+    "explanation": "Let B's age = x. Then A's age = x+12. So 2x+12 = 42, giving x = 15 years."
+  },
+  {
+    "id": 118,
+    "question": "Choose the odd one out from the group: Rectangle, Square, Rhombus, Cube",
+    "options": [
+      "Square",
+      "Cube",
+      "Rhombus",
+      "Rectangle"
+    ],
+    "answer": 1,
+    "explanation": "Cube is a 3-D shape, while the others are 2-D quadrilaterals."
+  },
+  {
+    "id": 119,
+    "question": "A man bought an article for Rs. 1200 and sold it for Rs. 1320. Find his profit percentage.",
+    "options": [
+      "8",
+      "10",
+      "11",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "Profit % = |SP - CP| / CP x 100 = |1320 - 1200| / 1200 x 100 = 10.0%."
+  },
+  {
+    "id": 120,
+    "question": "A man bought an article for Rs. 1000 and sold it for Rs. 1500. Find his profit percentage.",
+    "options": [
+      "42",
+      "45",
+      "40",
+      "50"
+    ],
+    "answer": 3,
+    "explanation": "Profit % = |SP - CP| / CP x 100 = |1500 - 1000| / 1000 x 100 = 50.0%."
+  },
+  {
+    "id": 121,
+    "question": "Find the next letter in the series: A, D, G, J, ?",
+    "options": [
+      "M",
+      "J",
+      "Q",
+      "O"
+    ],
+    "answer": 0,
+    "explanation": "Each letter's alphabetical position increases by 3; the next letter after J is M."
+  },
+  {
+    "id": 122,
+    "question": "A is 12 years older than B. If the sum of their present ages is 36 years, find B's present age.",
+    "options": [
+      "13",
+      "12",
+      "11",
+      "10"
+    ],
+    "answer": 1,
+    "explanation": "Let B's age = x. Then A's age = x+12. So 2x+12 = 36, giving x = 12 years."
+  },
+  {
+    "id": 123,
+    "question": "What is 30% of 200?",
+    "options": [
+      "54",
+      "51",
+      "60",
+      "48"
+    ],
+    "answer": 2,
+    "explanation": "30% of 200 = (30/100) x 200 = 60."
+  },
+  {
+    "id": 124,
+    "question": "A man walks 20 km towards East and then 15 km towards North. How far is he from his starting point?",
+    "options": [
+      "25",
+      "22",
+      "21",
+      "20"
+    ],
+    "answer": 0,
+    "explanation": "Using the Pythagoras theorem, distance = sqrt(20^2 + 15^2) = sqrt(400+225) = 25 km."
+  },
+  {
+    "id": 125,
+    "question": "Choose the odd one out from the group: Ganga, Yamuna, Godavari, Himalaya",
+    "options": [
+      "Himalaya",
+      "Godavari",
+      "Ganga",
+      "Yamuna"
+    ],
+    "answer": 0,
+    "explanation": "Himalaya is a mountain range, while the others are rivers."
+  },
+  {
+    "id": 126,
+    "question": "Find the Compound Interest on Rs. 20000 at 25% per annum for 2 years, compounded annually.",
+    "options": [
+      "10125",
+      "9562",
+      "11250",
+      "9000"
+    ],
+    "answer": 2,
+    "explanation": "CI = P[(1+R/100)^T - 1] = 20000[(1+25/100)^2 - 1] = Rs. 11250."
+  },
+  {
+    "id": 127,
+    "question": "Given the statements: No reptile is warm-blooded. All snakes are reptiles. Which conclusion logically follows?",
+    "options": [
+      "Some snakes are warm-blooded.",
+      "No snake is warm-blooded.",
+      "All snakes are warm-blooded.",
+      "All warm-blooded animals are snakes."
+    ],
+    "answer": 1,
+    "explanation": "Since no reptile is warm-blooded and all snakes are reptiles, no snake can be warm-blooded."
+  },
+  {
+    "id": 128,
+    "question": "A man bought an article for Rs. 500 and sold it for Rs. 525. Find his profit percentage.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "14"
+    ],
+    "answer": 1,
+    "explanation": "Profit % = |SP - CP| / CP x 100 = |525 - 500| / 500 x 100 = 5.0%."
+  },
+  {
+    "id": 129,
+    "question": "A man walks 20 km towards East and then 21 km towards North. How far is he from his starting point?",
+    "options": [
+      "23",
+      "25",
+      "29",
+      "26"
+    ],
+    "answer": 2,
+    "explanation": "Using the Pythagoras theorem, distance = sqrt(20^2 + 21^2) = sqrt(400+441) = 29 km."
+  },
+  {
+    "id": 130,
+    "question": "A man bought an article for Rs. 1200 and sold it for Rs. 960. Find his loss percentage.",
+    "options": [
+      "17",
+      "16",
+      "20",
+      "18"
+    ],
+    "answer": 2,
+    "explanation": "Loss % = |SP - CP| / CP x 100 = |960 - 1200| / 1200 x 100 = 20.0%."
+  },
+  {
+    "id": 131,
+    "question": "A is 8 years older than B. If the sum of their present ages is 58 years, find B's present age.",
+    "options": [
+      "25",
+      "22",
+      "20",
+      "21"
+    ],
+    "answer": 0,
+    "explanation": "Let B's age = x. Then A's age = x+8. So 2x+8 = 58, giving x = 25 years."
+  },
+  {
+    "id": 132,
+    "question": "Find the next letter in the series: A, C, E, G, ?",
+    "options": [
+      "L",
+      "I",
+      "J",
+      "G"
+    ],
+    "answer": 1,
+    "explanation": "Each letter's alphabetical position increases by 2; the next letter after G is I."
+  },
+  {
+    "id": 133,
+    "question": "In a certain code, MOUSE is written as PRXVH. How is TIGER written in that code?",
+    "options": [
+      "WLJHU",
+      "XMKIV",
+      "QFDBO",
+      "VKIGT"
+    ],
+    "answer": 0,
+    "explanation": "Each letter of the word is shifted by 3 position(s) in the alphabet; applying the same rule to TIGER gives WLJHU."
+  },
+  {
+    "id": 134,
+    "question": "Given the statements: All triangles have three sides. This shape has three sides. Which conclusion logically follows?",
+    "options": [
+      "This shape cannot be a triangle.",
+      "No shape with three sides is a triangle.",
+      "This shape is definitely a triangle.",
+      "This shape may be a triangle, but this is not certain without further information."
+    ],
+    "answer": 3,
+    "explanation": "Having three sides is a necessary but not sufficient condition to confirm the shape is specifically a triangle (as understood in strict logical terms) without further confirmation."
+  },
+  {
+    "id": 135,
+    "question": "Statement: All the members of the committee are over 40 years old. Mr. Sharma is a member of the committee. Which of the following logically follows?",
+    "options": [
+      "Mr. Sharma is not a member.",
+      "No member is over 40.",
+      "Mr. Sharma is over 40 years old.",
+      "Mr. Sharma is under 40 years old."
+    ],
+    "answer": 2,
+    "explanation": "Since all committee members are over 40 and Mr. Sharma is a member, he must be over 40."
+  },
+  {
+    "id": 136,
+    "question": "A man bought an article for Rs. 300 and sold it for Rs. 450. Find his profit percentage.",
+    "options": [
+      "45",
+      "42",
+      "50",
+      "40"
+    ],
+    "answer": 2,
+    "explanation": "Profit % = |SP - CP| / CP x 100 = |450 - 300| / 300 x 100 = 50.0%."
+  },
+  {
+    "id": 137,
+    "question": "Find the average of the following numbers: 15, 17, 19.",
+    "options": [
+      "14",
+      "15",
+      "17",
+      "19"
+    ],
+    "answer": 2,
+    "explanation": "Average = Sum of numbers / Count = 51 / 3 = 17."
+  },
+  {
+    "id": 138,
+    "question": "Introducing a boy, a girl said, \"He is the son of my mother's only daughter.\" How is the girl related to the boy?",
+    "options": [
+      "Mother",
+      "Sister",
+      "Aunt",
+      "Cousin"
+    ],
+    "answer": 0,
+    "explanation": "The mother's only daughter is the girl herself, so the boy is the girl's son; she is his mother."
+  },
+  {
+    "id": 139,
+    "question": "In a certain code, DOG is written as EPH. How is CAT written in that code?",
+    "options": [
+      "LJC",
+      "ECV",
+      "DBU",
+      "BZS"
+    ],
+    "answer": 2,
+    "explanation": "Each letter of the word is shifted by 1 position(s) in the alphabet; applying the same rule to CAT gives DBU."
+  },
+  {
+    "id": 140,
+    "question": "Choose the pair that best completes the analogy: Cub : Lion :: ?",
+    "options": [
+      "Lamb : Goat",
+      "Lamb : Cow",
+      "Lamb : Sheep",
+      "Lamb : Deer"
+    ],
+    "answer": 2,
+    "explanation": "A Cub is the young of a Lion, just as a Lamb is the young of a Sheep."
+  },
+  {
+    "id": 141,
+    "question": "Given the statements: All roses are flowers. Some flowers fade quickly. Which conclusion logically follows?",
+    "options": [
+      "Some flowers that fade quickly may or may not be roses.",
+      "All roses fade quickly.",
+      "All flowers are roses.",
+      "No rose fades quickly."
+    ],
+    "answer": 0,
+    "explanation": "We cannot conclude all roses fade quickly, only that some flowers (which may include roses) fade quickly, so the safest conclusion is A."
+  },
+  {
+    "id": 142,
+    "question": "Choose the odd one out from the group: Rose, Lily, Lotus, Mango",
+    "options": [
+      "Rose",
+      "Lily",
+      "Lotus",
+      "Mango"
+    ],
+    "answer": 3,
+    "explanation": "Mango is a fruit, while the others are flowers."
+  },
+  {
+    "id": 143,
+    "question": "A is the brother of B. B is the wife of C. C is the son of D. How is A related to D?",
+    "options": [
+      "Son",
+      "Brother-in-law",
+      "Son-in-law",
+      "Nephew"
+    ],
+    "answer": 2,
+    "explanation": "Since B (A's sister) is married to C (D's son), A becomes D's son-in-law."
+  },
+  {
+    "id": 144,
+    "question": "What is 5% of 600?",
+    "options": [
+      "27",
+      "24",
+      "26",
+      "30"
+    ],
+    "answer": 3,
+    "explanation": "5% of 600 = (5/100) x 600 = 30."
+  },
+  {
+    "id": 145,
+    "question": "Find the Compound Interest on Rs. 1000 at 20% per annum for 2 years, compounded annually.",
+    "options": [
+      "374",
+      "396",
+      "440",
+      "352"
+    ],
+    "answer": 2,
+    "explanation": "CI = P[(1+R/100)^T - 1] = 1000[(1+20/100)^2 - 1] = Rs. 440."
+  },
+  {
+    "id": 146,
+    "question": "In a certain code, HORSE is written as ELOPB. How is APPLE written in that code?",
+    "options": [
+      "DSSOH",
+      "WLLHA",
+      "XMMIB",
+      "YNNJC"
+    ],
+    "answer": 2,
+    "explanation": "Each letter of the word is shifted by -3 position(s) in the alphabet; applying the same rule to APPLE gives XMMIB."
+  },
+  {
+    "id": 147,
+    "question": "A is B's sister. C is B's mother. D is C's father. E is D's mother. How is A related to D?",
+    "options": [
+      "Granddaughter",
+      "Daughter",
+      "Sister",
+      "Niece"
+    ],
+    "answer": 0,
+    "explanation": "C is D's daughter, and A is C's daughter (since A is B's sister and C is B's mother), making A the granddaughter of D."
+  },
+  {
+    "id": 148,
+    "question": "Find the average of the following numbers: 10, 14, 18.",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "answer": 3,
+    "explanation": "Average = Sum of numbers / Count = 42 / 3 = 14."
+  },
+  {
+    "id": 149,
+    "question": "Choose the odd one out from the group: Cow, Goat, Sheep, Tiger",
+    "options": [
+      "Tiger",
+      "Goat",
+      "Cow",
+      "Sheep"
+    ],
+    "answer": 0,
+    "explanation": "Tiger is a wild carnivore, while the others are domesticated herbivores."
+  },
+  {
+    "id": 150,
+    "question": "What is 50% of 250?",
+    "options": [
+      "106",
+      "112",
+      "125",
+      "100"
+    ],
+    "answer": 2,
+    "explanation": "50% of 250 = (50/100) x 250 = 125."
+  },
+  {
+    "id": 151,
+    "question": "A man bought an article for Rs. 500 and sold it for Rs. 425. Find his loss percentage.",
+    "options": [
+      "15",
+      "14",
+      "13",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "Loss % = |SP - CP| / CP x 100 = |425 - 500| / 500 x 100 = 15.0%."
+  },
+  {
+    "id": 152,
+    "question": "Choose the odd one out from the group: Guitar, Violin, Flute, Painting",
+    "options": [
+      "Painting",
+      "Violin",
+      "Guitar",
+      "Flute"
+    ],
+    "answer": 0,
+    "explanation": "Painting is a visual art, while the others are musical instruments."
+  },
+  {
+    "id": 153,
+    "question": "Choose the pair that best completes the analogy: Author : Book :: ?",
+    "options": [
+      "Sculptor : Statue",
+      "Sculptor : Chisel",
+      "Sculptor : Stone",
+      "Sculptor : Museum"
+    ],
+    "answer": 0,
+    "explanation": "An Author creates a Book, just as a Sculptor creates a Statue."
+  },
+  {
+    "id": 154,
+    "question": "In a certain code, STONE is written as PQLKB. How is RIVER written in that code?",
+    "options": [
+      "NERAN",
+      "PGTCP",
+      "ULYHU",
+      "OFSBO"
+    ],
+    "answer": 3,
+    "explanation": "Each letter of the word is shifted by -3 position(s) in the alphabet; applying the same rule to RIVER gives OFSBO."
+  },
+  {
+    "id": 155,
+    "question": "A car travels at a speed of 100 km/h for 2 hours. Find the distance covered.",
+    "options": [
+      "170",
+      "200",
+      "160",
+      "180"
+    ],
+    "answer": 1,
+    "explanation": "Distance = Speed x Time = 100 x 2 = 200 km."
+  },
+  {
+    "id": 156,
+    "question": "Choose the odd one out from the group: Circle, Triangle, Square, Sphere",
+    "options": [
+      "Sphere",
+      "Square",
+      "Triangle",
+      "Circle"
+    ],
+    "answer": 0,
+    "explanation": "Sphere is a 3-D shape, while the others are 2-D shapes."
+  },
+  {
+    "id": 157,
+    "question": "In a certain code, WATER is written as UYRCP. How is HOUSE written in that code?",
+    "options": [
+      "ELRPB",
+      "JQWUG",
+      "FMSQC",
+      "GNTRD"
+    ],
+    "answer": 2,
+    "explanation": "Each letter of the word is shifted by -2 position(s) in the alphabet; applying the same rule to HOUSE gives FMSQC."
+  },
+  {
+    "id": 158,
+    "question": "Find the Compound Interest on Rs. 10000 at 5% per annum for 2 years, compounded annually.",
+    "options": [
+      "1025",
+      "922",
+      "820",
+      "871"
+    ],
+    "answer": 0,
+    "explanation": "CI = P[(1+R/100)^T - 1] = 10000[(1+5/100)^2 - 1] = Rs. 1025."
+  },
+  {
+    "id": 159,
+    "question": "A sum of Rs. 80 is divided between two persons in the ratio 2:6. Find the larger share.",
+    "options": [
+      "54",
+      "60",
+      "48",
+      "51"
+    ],
+    "answer": 1,
+    "explanation": "Larger share = [6 / (2+6)] x 80 = Rs. 60."
+  },
+  {
+    "id": 160,
+    "question": "A can complete a piece of work in 6 days and B can complete the same work in 6 days. Working together, in how many days will they complete the work?",
+    "options": [
+      "12",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "Combined time = (X x Y)/(X+Y) = (6 x 6)/(6+6) = 3 days."
+  },
+  {
+    "id": 161,
+    "question": "A can complete a piece of work in 8 days and B can complete the same work in 8 days. Working together, in how many days will they complete the work?",
+    "options": [
+      "5",
+      "4",
+      "13",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "Combined time = (X x Y)/(X+Y) = (8 x 8)/(8+8) = 4 days."
+  },
+  {
+    "id": 162,
+    "question": "Statement: Only members are allowed to vote. Sita is a member. Which of the following logically follows?",
+    "options": [
+      "Sita is allowed to vote.",
+      "No one is allowed to vote.",
+      "Sita is not a member.",
+      "Sita is not allowed to vote."
+    ],
+    "answer": 0,
+    "explanation": "Since only members can vote and Sita is a member, she is allowed to vote."
+  },
+  {
+    "id": 163,
+    "question": "Find the Compound Interest on Rs. 20000 at 20% per annum for 2 years, compounded annually.",
+    "options": [
+      "7040",
+      "8800",
+      "7920",
+      "7480"
+    ],
+    "answer": 1,
+    "explanation": "CI = P[(1+R/100)^T - 1] = 20000[(1+20/100)^2 - 1] = Rs. 8800."
+  },
+  {
+    "id": 164,
+    "question": "A can complete a piece of work in 16 days and B can complete the same work in 16 days. Working together, in how many days will they complete the work?",
+    "options": [
+      "9",
+      "8",
+      "6",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "Combined time = (X x Y)/(X+Y) = (16 x 16)/(16+16) = 8 days."
+  },
+  {
+    "id": 165,
+    "question": "Find the Simple Interest on Rs. 5000 at 4% per annum for 2 years.",
+    "options": [
+      "340",
+      "400",
+      "320",
+      "360"
+    ],
+    "answer": 1,
+    "explanation": "SI = (P x R x T)/100 = (5000 x 4 x 2)/100 = Rs. 400."
+  },
+  {
+    "id": 166,
+    "question": "What is 20% of 80?",
+    "options": [
+      "16",
+      "14",
+      "13",
+      "18"
+    ],
+    "answer": 0,
+    "explanation": "20% of 80 = (20/100) x 80 = 16."
+  },
+  {
+    "id": 167,
+    "question": "If today is Saturday, what day will it be after 15 days?",
+    "options": [
+      "Sunday",
+      "Wednesday",
+      "Monday",
+      "Thursday"
+    ],
+    "answer": 0,
+    "explanation": "15 days from Saturday = 15 mod 7 = 1 day(s) ahead, which lands on Sunday."
+  },
+  {
+    "id": 168,
+    "question": "A sum of Rs. 330 is divided between two persons in the ratio 3:8. Find the larger share.",
+    "options": [
+      "204",
+      "240",
+      "192",
+      "216"
+    ],
+    "answer": 1,
+    "explanation": "Larger share = [8 / (3+8)] x 330 = Rs. 240."
+  },
+  {
+    "id": 169,
+    "question": "Choose the pair that best completes the analogy: Library : Books :: ?",
+    "options": [
+      "Museum : Books",
+      "Museum : Artifacts",
+      "Museum : Paintings only",
+      "Museum : Statues only"
+    ],
+    "answer": 1,
+    "explanation": "A Library houses Books, just as a Museum houses Artifacts (a broader category)."
+  },
+  {
+    "id": 170,
+    "question": "Find the next number in the series: 20, 28, 36, 44, 52, ?",
+    "options": [
+      "60",
+      "54",
+      "51",
+      "48"
+    ],
+    "answer": 0,
+    "explanation": "The series increases by 8 each time (arithmetic progression); next term = 52 + 8 = 60."
+  },
+  {
+    "id": 171,
+    "question": "Find the next number in the series: 5, 13, 21, 29, 37, ?",
+    "options": [
+      "38",
+      "40",
+      "36",
+      "45"
+    ],
+    "answer": 3,
+    "explanation": "The series increases by 8 each time (arithmetic progression); next term = 37 + 8 = 45."
+  },
+  {
+    "id": 172,
+    "question": "What is 10% of 500?",
+    "options": [
+      "42",
+      "45",
+      "40",
+      "50"
+    ],
+    "answer": 3,
+    "explanation": "10% of 500 = (10/100) x 500 = 50."
+  },
+  {
+    "id": 173,
+    "question": "Choose the pair that best completes the analogy: Bird : Nest :: ?",
+    "options": [
+      "Man : House",
+      "Man : City",
+      "Man : Family",
+      "Man : Work"
+    ],
+    "answer": 0,
+    "explanation": "A Bird lives in a Nest, just as a Man lives in a House."
+  },
+  {
+    "id": 174,
+    "question": "Find the next letter in the series: L, N, P, R, ?",
+    "options": [
+      "U",
+      "R",
+      "W",
+      "T"
+    ],
+    "answer": 3,
+    "explanation": "Each letter's alphabetical position increases by 2; the next letter after R is T."
+  },
+  {
+    "id": 175,
+    "question": "A man walks 18 km towards East and then 24 km towards North. How far is he from his starting point?",
+    "options": [
+      "24",
+      "26",
+      "30",
+      "27"
+    ],
+    "answer": 2,
+    "explanation": "Using the Pythagoras theorem, distance = sqrt(18^2 + 24^2) = sqrt(324+576) = 30 km."
+  },
+  {
+    "id": 176,
+    "question": "A sum of Rs. 650 is divided between two persons in the ratio 7:6. Find the larger share.",
+    "options": [
+      "298",
+      "315",
+      "280",
+      "350"
+    ],
+    "answer": 3,
+    "explanation": "Larger share = [7 / (7+6)] x 650 = Rs. 350."
+  },
+  {
+    "id": 177,
+    "question": "A man walks 16 km towards East and then 12 km towards North. How far is he from his starting point?",
+    "options": [
+      "17",
+      "20",
+      "16",
+      "18"
+    ],
+    "answer": 1,
+    "explanation": "Using the Pythagoras theorem, distance = sqrt(16^2 + 12^2) = sqrt(256+144) = 20 km."
+  },
+  {
+    "id": 178,
+    "question": "Find the Compound Interest on Rs. 2000 at 5% per annum for 2 years, compounded annually.",
+    "options": [
+      "174",
+      "164",
+      "205",
+      "184"
+    ],
+    "answer": 2,
+    "explanation": "CI = P[(1+R/100)^T - 1] = 2000[(1+5/100)^2 - 1] = Rs. 205."
+  },
+  {
+    "id": 179,
+    "question": "A is 6 years older than B. If the sum of their present ages is 66 years, find B's present age.",
+    "options": [
+      "30",
+      "24",
+      "26",
+      "27"
+    ],
+    "answer": 0,
+    "explanation": "Let B's age = x. Then A's age = x+6. So 2x+6 = 66, giving x = 30 years."
+  },
+  {
+    "id": 180,
+    "question": "A man walks 15 km towards East and then 20 km towards North. How far is he from his starting point?",
+    "options": [
+      "20",
+      "21",
+      "25",
+      "22"
+    ],
+    "answer": 2,
+    "explanation": "Using the Pythagoras theorem, distance = sqrt(15^2 + 20^2) = sqrt(225+400) = 25 km."
+  },
+  {
+    "id": 181,
+    "question": "Choose the pair that best completes the analogy: Thermometer : Temperature :: ?",
+    "options": [
+      "Speedometer : Fuel",
+      "Speedometer : Speed",
+      "Speedometer : Distance",
+      "Speedometer : Time"
+    ],
+    "answer": 1,
+    "explanation": "A Thermometer measures Temperature, just as a Speedometer measures Speed."
+  },
+  {
+    "id": 182,
+    "question": "A can complete a piece of work in 6 days and B can complete the same work in 3 days. Working together, in how many days will they complete the work?",
+    "options": [
+      "2",
+      "8",
+      "5",
+      "11"
+    ],
+    "answer": 0,
+    "explanation": "Combined time = (X x Y)/(X+Y) = (6 x 3)/(6+3) = 2 days."
+  },
+  {
+    "id": 183,
+    "question": "Statement: If the fire alarm sounds, all staff must evacuate the building. The fire alarm sounded at noon. Which of the following logically follows?",
+    "options": [
+      "No staff evacuated the building.",
+      "The building was already empty.",
+      "All staff evacuated the building at noon.",
+      "The fire alarm did not sound at noon."
+    ],
+    "answer": 2,
+    "explanation": "Given the rule and the sounding of the alarm, the staff evacuate the building as required."
+  },
+  {
+    "id": 184,
+    "question": "Given the statements: All pens are instruments. No instrument is a toy. Which conclusion logically follows?",
+    "options": [
+      "Some pens are toys.",
+      "All toys are pens.",
+      "All instruments are pens.",
+      "No pen is a toy."
+    ],
+    "answer": 3,
+    "explanation": "Since all pens are instruments and no instrument is a toy, it follows that no pen is a toy."
+  },
+  {
+    "id": 185,
+    "question": "A man walks 3 km towards East and then 4 km towards North. How far is he from his starting point?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "14"
+    ],
+    "answer": 0,
+    "explanation": "Using the Pythagoras theorem, distance = sqrt(3^2 + 4^2) = sqrt(9+16) = 5 km."
+  },
+  {
+    "id": 186,
+    "question": "Find the next number in the series: 2, 5, 8, 11, 14, ?",
+    "options": [
+      "14",
+      "17",
+      "19",
+      "15"
+    ],
+    "answer": 1,
+    "explanation": "The series increases by 3 each time (arithmetic progression); next term = 14 + 3 = 17."
+  },
+  {
+    "id": 187,
+    "question": "Find the Simple Interest on Rs. 5000 at 4% per annum for 3 years.",
+    "options": [
+      "510",
+      "540",
+      "480",
+      "600"
+    ],
+    "answer": 3,
+    "explanation": "SI = (P x R x T)/100 = (5000 x 4 x 3)/100 = Rs. 600."
+  },
+  {
+    "id": 188,
+    "question": "In a certain code, TIGER is written as QFDBO. How is RIVER written in that code?",
+    "options": [
+      "OFSBO",
+      "ULYHU",
+      "PGTCP",
+      "NERAN"
+    ],
+    "answer": 0,
+    "explanation": "Each letter of the word is shifted by -3 position(s) in the alphabet; applying the same rule to RIVER gives OFSBO."
+  },
+  {
+    "id": 189,
+    "question": "Find the Simple Interest on Rs. 6000 at 8% per annum for 1 years.",
+    "options": [
+      "480",
+      "432",
+      "408",
+      "384"
+    ],
+    "answer": 0,
+    "explanation": "SI = (P x R x T)/100 = (6000 x 8 x 1)/100 = Rs. 480."
+  },
+  {
+    "id": 190,
+    "question": "Statement: All government employees must submit their assets declaration annually. Mr. Verma is a government employee. Which of the following logically follows?",
+    "options": [
+      "No government employee submits declarations.",
+      "Mr. Verma must submit his assets declaration annually.",
+      "Mr. Verma need not submit any declaration.",
+      "Mr. Verma is not a government employee."
+    ],
+    "answer": 1,
+    "explanation": "Since all government employees must submit the declaration and Mr. Verma is one, he must submit it."
+  },
+  {
+    "id": 191,
+    "question": "Find the average of the following numbers: 50, 53, 56.",
+    "options": [
+      "42",
+      "53",
+      "45",
+      "48"
+    ],
+    "answer": 1,
+    "explanation": "Average = Sum of numbers / Count = 159 / 3 = 53."
+  },
+  {
+    "id": 192,
+    "question": "Choose the pair that best completes the analogy: Puppy : Dog :: ?",
+    "options": [
+      "Kitten : Lion",
+      "Kitten : Rabbit",
+      "Kitten : Cat",
+      "Kitten : Cub"
+    ],
+    "answer": 2,
+    "explanation": "A Puppy is a baby Dog, just as a Kitten is a baby Cat."
+  },
+  {
+    "id": 193,
+    "question": "Choose the pair that best completes the analogy: Pilot : Aeroplane :: ?",
+    "options": [
+      "Captain : Ship",
+      "Captain : Car",
+      "Captain : Train",
+      "Captain : Bus"
+    ],
+    "answer": 0,
+    "explanation": "A Pilot operates an Aeroplane, just as a Captain commands a Ship."
+  },
+  {
+    "id": 194,
+    "question": "A man bought an article for Rs. 250 and sold it for Rs. 300. Find his profit percentage.",
+    "options": [
+      "16",
+      "18",
+      "17",
+      "20"
+    ],
+    "answer": 3,
+    "explanation": "Profit % = |SP - CP| / CP x 100 = |300 - 250| / 250 x 100 = 20.0%."
+  },
+  {
+    "id": 195,
+    "question": "X's mother is the sister of Y and has a daughter Z. How is Y related to Z?",
+    "options": [
+      "Cousin",
+      "Uncle/Aunt",
+      "Brother",
+      "Father"
+    ],
+    "answer": 1,
+    "explanation": "Y is the sibling of X's mother, so Y is the uncle/aunt of Z as well (Z being X's sibling)."
+  },
+  {
+    "id": 196,
+    "question": "Pointing to a man, a woman said, \"His mother is the only daughter of my mother.\" How is the woman related to the man?",
+    "options": [
+      "Grandmother",
+      "Aunt",
+      "Sister",
+      "Mother"
+    ],
+    "answer": 3,
+    "explanation": "The only daughter of the woman's mother is the woman herself, so the man's mother is the woman; hence she is his mother."
+  },
+  {
+    "id": 197,
+    "question": "Find the next number in the series: 6, 18, 54, 162, 486, ?",
+    "options": [
+      "1458",
+      "1166",
+      "1239",
+      "1312"
+    ],
+    "answer": 0,
+    "explanation": "Each term is multiplied by 3 (geometric progression); next term = 486 x 3 = 1458."
+  },
+  {
+    "id": 198,
+    "question": "A can complete a piece of work in 30 days and B can complete the same work in 15 days. Working together, in how many days will they complete the work?",
+    "options": [
+      "10",
+      "9",
+      "11",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "Combined time = (X x Y)/(X+Y) = (30 x 15)/(30+15) = 10 days."
+  },
+  {
+    "id": 199,
+    "question": "Find the average of the following numbers: 15, 19, 23.",
+    "options": [
+      "17",
+      "19",
+      "15",
+      "16"
+    ],
+    "answer": 1,
+    "explanation": "Average = Sum of numbers / Count = 57 / 3 = 19."
+  },
+  {
+    "id": 200,
+    "question": "Find the average of the following numbers: 40, 45, 50.",
+    "options": [
+      "40",
+      "45",
+      "36",
+      "38"
+    ],
+    "answer": 1,
+    "explanation": "Average = Sum of numbers / Count = 135 / 3 = 45."
+  },
+  {
+    "id": 201,
+    "question": "P is the father of Q. Q is the brother of R. R is the daughter of S. How is S related to P?",
+    "options": [
+      "Mother",
+      "Sister",
+      "Daughter",
+      "Wife"
+    ],
+    "answer": 3,
+    "explanation": "Since Q and R are P's children (Q is P's son, R is P's daughter via S), S is P's wife."
+  },
+  {
+    "id": 202,
+    "question": "Given the statements: All squares are rectangles. All rectangles are quadrilaterals. Which conclusion logically follows?",
+    "options": [
+      "All quadrilaterals are squares.",
+      "Some quadrilaterals are not squares.",
+      "All squares are quadrilaterals.",
+      "No square is a quadrilateral."
+    ],
+    "answer": 2,
+    "explanation": "Since squares are rectangles and rectangles are quadrilaterals, all squares are quadrilaterals."
+  },
+  {
+    "id": 203,
+    "question": "A sum of Rs. 660 is divided between two persons in the ratio 4:7. Find the larger share.",
+    "options": [
+      "357",
+      "336",
+      "378",
+      "420"
+    ],
+    "answer": 3,
+    "explanation": "Larger share = [7 / (4+7)] x 660 = Rs. 420."
+  },
+  {
+    "id": 204,
+    "question": "In a certain code, CHAIR is written as AFYGP. How is CLOUD written in that code?",
+    "options": [
+      "BKNTC",
+      "ENQWF",
+      "ZILRA",
+      "AJMSB"
+    ],
+    "answer": 3,
+    "explanation": "Each letter of the word is shifted by -2 position(s) in the alphabet; applying the same rule to CLOUD gives AJMSB."
+  },
+  {
+    "id": 205,
+    "question": "Given the statements: All engineers are logical. Some logical people are creative. Which conclusion logically follows?",
+    "options": [
+      "No engineer is creative.",
+      "Some engineers may be creative.",
+      "All creative people are engineers.",
+      "All engineers are creative."
+    ],
+    "answer": 1,
+    "explanation": "Since some logical people are creative and all engineers are logical, it is possible that some engineers are creative."
+  },
+  {
+    "id": 206,
+    "question": "A sum of Rs. 440 is divided between two persons in the ratio 7:4. Find the larger share.",
+    "options": [
+      "224",
+      "280",
+      "238",
+      "252"
+    ],
+    "answer": 1,
+    "explanation": "Larger share = [7 / (7+4)] x 440 = Rs. 280."
+  },
+  {
+    "id": 207,
+    "question": "A man walks 6 km towards East and then 8 km towards North. How far is he from his starting point?",
+    "options": [
+      "10",
+      "11",
+      "9",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "Using the Pythagoras theorem, distance = sqrt(6^2 + 8^2) = sqrt(36+64) = 10 km."
+  },
+  {
+    "id": 208,
+    "question": "A man walks 9 km towards East and then 12 km towards North. How far is he from his starting point?",
+    "options": [
+      "14",
+      "13",
+      "12",
+      "15"
+    ],
+    "answer": 3,
+    "explanation": "Using the Pythagoras theorem, distance = sqrt(9^2 + 12^2) = sqrt(81+144) = 15 km."
+  },
+  {
+    "id": 209,
+    "question": "Choose the odd one out from the group: January, March, Monday, July",
+    "options": [
+      "March",
+      "Monday",
+      "July",
+      "January"
+    ],
+    "answer": 1,
+    "explanation": "Monday is a day of the week, while the others are months."
+  },
+  {
+    "id": 210,
+    "question": "Find the next number in the series: 15, 20, 25, 30, 35, ?",
+    "options": [
+      "40",
+      "34",
+      "32",
+      "36"
+    ],
+    "answer": 0,
+    "explanation": "The series increases by 5 each time (arithmetic progression); next term = 35 + 5 = 40."
+  },
+  {
+    "id": 211,
+    "question": "A sum of Rs. 210 is divided between two persons in the ratio 4:3. Find the larger share.",
+    "options": [
+      "108",
+      "102",
+      "96",
+      "120"
+    ],
+    "answer": 3,
+    "explanation": "Larger share = [4 / (4+3)] x 210 = Rs. 120."
+  },
+  {
+    "id": 212,
+    "question": "What is 5% of 160?",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "9"
+    ],
+    "answer": 0,
+    "explanation": "5% of 160 = (5/100) x 160 = 8."
+  },
+  {
+    "id": 213,
+    "question": "Find the next number in the series: 7, 10, 13, 16, 19, ?",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "22"
+    ],
+    "answer": 3,
+    "explanation": "The series increases by 3 each time (arithmetic progression); next term = 19 + 3 = 22."
+  },
+  {
+    "id": 214,
+    "question": "Choose the odd one out from the group: Whale, Dolphin, Shark, Fish",
+    "options": [
+      "Shark",
+      "Fish",
+      "Whale",
+      "Dolphin"
+    ],
+    "answer": 1,
+    "explanation": "Whale, Dolphin and Shark can be seen as a specific subgroup, but conventionally 'Fish' is the odd one as Whale and Dolphin are mammals, not fish, while Shark is a fish — the standard answer treats 'Fish' as the general category term, making it the odd one out among specific names."
+  },
+  {
+    "id": 215,
+    "question": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
+    "options": [
+      "96",
+      "77",
+      "82",
+      "86"
+    ],
+    "answer": 0,
+    "explanation": "Each term is multiplied by 2 (geometric progression); next term = 48 x 2 = 96."
+  },
+  {
+    "id": 216,
+    "question": "A car travels at a speed of 70 km/h for 5 hours. Find the distance covered.",
+    "options": [
+      "315",
+      "280",
+      "350",
+      "298"
+    ],
+    "answer": 2,
+    "explanation": "Distance = Speed x Time = 70 x 5 = 350 km."
+  },
+  {
+    "id": 217,
+    "question": "Given the statements: All cats are animals. All animals are living beings. Which conclusion logically follows?",
+    "options": [
+      "All living beings are cats.",
+      "No cat is a living being.",
+      "Some living beings are not cats.",
+      "All cats are living beings."
+    ],
+    "answer": 3,
+    "explanation": "Since all cats are animals and all animals are living beings, it logically follows that all cats are living beings."
+  },
+  {
+    "id": 218,
+    "question": "Given the statements: Some teachers are writers. All writers are readers. Which conclusion logically follows?",
+    "options": [
+      "No teacher is a reader.",
+      "Some teachers may be readers.",
+      "All readers are teachers.",
+      "All teachers are readers."
+    ],
+    "answer": 1,
+    "explanation": "Since some teachers are writers and all writers are readers, it follows that some teachers may be readers."
+  },
+  {
+    "id": 219,
+    "question": "What is 60% of 160?",
+    "options": [
+      "82",
+      "77",
+      "96",
+      "86"
+    ],
+    "answer": 2,
+    "explanation": "60% of 160 = (60/100) x 160 = 96."
+  },
+  {
+    "id": 220,
+    "question": "Choose the odd one out from the group: Iron, Copper, Aluminium, Wood",
+    "options": [
+      "Aluminium",
+      "Wood",
+      "Copper",
+      "Iron"
+    ],
+    "answer": 1,
+    "explanation": "Wood is a non-metal, while the others are metals."
+  },
+  {
+    "id": 221,
+    "question": "Choose the odd one out from the group: Cricket, Football, Hockey, Referee",
+    "options": [
+      "Hockey",
+      "Cricket",
+      "Referee",
+      "Football"
+    ],
+    "answer": 2,
+    "explanation": "Referee is a person, while the others are sports/games."
+  },
+  {
+    "id": 222,
+    "question": "Find the Simple Interest on Rs. 1000 at 8% per annum for 1 years.",
+    "options": [
+      "80",
+      "72",
+      "64",
+      "68"
+    ],
+    "answer": 0,
+    "explanation": "SI = (P x R x T)/100 = (1000 x 8 x 1)/100 = Rs. 80."
+  },
+  {
+    "id": 223,
+    "question": "Find the next number in the series: 15, 22, 29, 36, 43, ?",
+    "options": [
+      "40",
+      "45",
+      "42",
+      "50"
+    ],
+    "answer": 3,
+    "explanation": "The series increases by 7 each time (arithmetic progression); next term = 43 + 7 = 50."
+  },
+  {
+    "id": 224,
+    "question": "In a certain code, SUN is written as RTM. How is HORSE written in that code?",
+    "options": [
+      "OVYZL",
+      "IPSTF",
+      "FMPQC",
+      "GNQRD"
+    ],
+    "answer": 3,
+    "explanation": "Each letter of the word is shifted by -1 position(s) in the alphabet; applying the same rule to HORSE gives GNQRD."
+  },
+  {
+    "id": 225,
+    "question": "A sum of Rs. 390 is divided between two persons in the ratio 7:6. Find the larger share.",
+    "options": [
+      "189",
+      "178",
+      "210",
+      "168"
+    ],
+    "answer": 2,
+    "explanation": "Larger share = [7 / (7+6)] x 390 = Rs. 210."
+  },
+  {
+    "id": 226,
+    "question": "A can complete a piece of work in 15 days and B can complete the same work in 10 days. Working together, in how many days will they complete the work?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "Combined time = (X x Y)/(X+Y) = (15 x 10)/(15+10) = 6 days."
+  },
+  {
+    "id": 227,
+    "question": "Find the Simple Interest on Rs. 12000 at 5% per annum for 5 years.",
+    "options": [
+      "2550",
+      "2700",
+      "3000",
+      "2400"
+    ],
+    "answer": 2,
+    "explanation": "SI = (P x R x T)/100 = (12000 x 5 x 5)/100 = Rs. 3000."
+  },
+  {
+    "id": 228,
+    "question": "In a certain code, CAT is written as ECV. How is CHAIR written in that code?",
+    "options": [
+      "FKDLU",
+      "AFYGP",
+      "DIBJS",
+      "EJCKT"
+    ],
+    "answer": 3,
+    "explanation": "Each letter of the word is shifted by 2 position(s) in the alphabet; applying the same rule to CHAIR gives EJCKT."
+  },
+  {
+    "id": 229,
+    "question": "Find the next number in the series: 8, 24, 72, 216, 648, ?",
+    "options": [
+      "1555",
+      "1944",
+      "1750",
+      "1652"
+    ],
+    "answer": 1,
+    "explanation": "Each term is multiplied by 3 (geometric progression); next term = 648 x 3 = 1944."
+  },
+  {
+    "id": 230,
+    "question": "A is the son of B. B is the sister of C. C is the mother of D. How is A related to D?",
+    "options": [
+      "Brother",
+      "Nephew",
+      "Uncle",
+      "Cousin"
+    ],
+    "answer": 3,
+    "explanation": "B and C are sisters, so A (B's son) and D (C's son/daughter) are cousins."
+  },
+  {
+    "id": 231,
+    "question": "Choose the pair that best completes the analogy: Tailor : Cloth :: ?",
+    "options": [
+      "Carpenter : Nail",
+      "Carpenter : Furniture",
+      "Carpenter : Hammer",
+      "Carpenter : Wood"
+    ],
+    "answer": 3,
+    "explanation": "A Tailor works with Cloth, just as a Carpenter works with Wood."
+  },
+  {
+    "id": 232,
+    "question": "A car travels at a speed of 40 km/h for 5 hours. Find the distance covered.",
+    "options": [
+      "180",
+      "160",
+      "170",
+      "200"
+    ],
+    "answer": 3,
+    "explanation": "Distance = Speed x Time = 40 x 5 = 200 km."
+  },
+  {
+    "id": 233,
+    "question": "What is 40% of 800?",
+    "options": [
+      "288",
+      "256",
+      "320",
+      "272"
+    ],
+    "answer": 2,
+    "explanation": "40% of 800 = (40/100) x 800 = 320."
+  },
+  {
+    "id": 234,
+    "question": "What is 10% of 1000?",
+    "options": [
+      "80",
+      "90",
+      "85",
+      "100"
+    ],
+    "answer": 3,
+    "explanation": "10% of 1000 = (10/100) x 1000 = 100."
+  },
+  {
+    "id": 235,
+    "question": "A man bought an article for Rs. 500 and sold it for Rs. 550. Find his profit percentage.",
+    "options": [
+      "9",
+      "8",
+      "10",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "Profit % = |SP - CP| / CP x 100 = |550 - 500| / 500 x 100 = 10.0%."
+  },
+  {
+    "id": 236,
+    "question": "What is 45% of 100?",
+    "options": [
+      "45",
+      "36",
+      "38",
+      "40"
+    ],
+    "answer": 0,
+    "explanation": "45% of 100 = (45/100) x 100 = 45."
+  },
+  {
+    "id": 237,
+    "question": "Choose the pair that best completes the analogy: Cow : Calf :: ?",
+    "options": [
+      "Horse : Saddle",
+      "Horse : Mare",
+      "Horse : Stable",
+      "Horse : Foal"
+    ],
+    "answer": 3,
+    "explanation": "A young Cow is called a Calf, just as a young Horse is called a Foal."
+  },
+  {
+    "id": 238,
+    "question": "A can complete a piece of work in 18 days and B can complete the same work in 9 days. Working together, in how many days will they complete the work?",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "Combined time = (X x Y)/(X+Y) = (18 x 9)/(18+9) = 6 days."
+  },
+  {
+    "id": 239,
+    "question": "Choose the pair that best completes the analogy: Ring : Finger :: ?",
+    "options": [
+      "Bangle : Ankle",
+      "Bangle : Neck",
+      "Bangle : Wrist",
+      "Bangle : Ear"
+    ],
+    "answer": 2,
+    "explanation": "A Ring is worn on the Finger, just as a Bangle is worn on the Wrist."
+  },
+  {
+    "id": 240,
+    "question": "Find the next letter in the series: J, N, R, V, ?",
+    "options": [
+      "V",
+      "Z",
+      "H",
+      "N"
+    ],
+    "answer": 1,
+    "explanation": "Each letter's alphabetical position increases by 4; the next letter after V is Z."
+  },
+  {
+    "id": 241,
+    "question": "In a certain code, MOON is written as NPPO. How is TABLE written in that code?",
+    "options": [
+      "UBCMF",
+      "CJKUN",
+      "VCDNG",
+      "SZAKD"
+    ],
+    "answer": 0,
+    "explanation": "Each letter of the word is shifted by 1 position(s) in the alphabet; applying the same rule to TABLE gives UBCMF."
+  },
+  {
+    "id": 242,
+    "question": "Find the next number in the series: 3, 11, 19, 27, 35, ?",
+    "options": [
+      "39",
+      "34",
+      "43",
+      "37"
+    ],
+    "answer": 2,
+    "explanation": "The series increases by 8 each time (arithmetic progression); next term = 35 + 8 = 43."
+  },
+  {
+    "id": 243,
+    "question": "What is 60% of 150?",
+    "options": [
+      "76",
+      "72",
+      "90",
+      "81"
+    ],
+    "answer": 2,
+    "explanation": "60% of 150 = (60/100) x 150 = 90."
+  },
+  {
+    "id": 244,
+    "question": "Find the next number in the series: 2, 6, 18, 54, 162, ?",
+    "options": [
+      "413",
+      "437",
+      "389",
+      "486"
+    ],
+    "answer": 3,
+    "explanation": "Each term is multiplied by 3 (geometric progression); next term = 162 x 3 = 486."
+  },
+  {
+    "id": 245,
+    "question": "A car travels at a speed of 50 km/h for 4 hours. Find the distance covered.",
+    "options": [
+      "170",
+      "160",
+      "200",
+      "180"
+    ],
+    "answer": 2,
+    "explanation": "Distance = Speed x Time = 50 x 4 = 200 km."
+  },
+  {
+    "id": 246,
+    "question": "Find the Simple Interest on Rs. 3000 at 5% per annum for 4 years.",
+    "options": [
+      "540",
+      "480",
+      "600",
+      "510"
+    ],
+    "answer": 2,
+    "explanation": "SI = (P x R x T)/100 = (3000 x 5 x 4)/100 = Rs. 600."
+  },
+  {
+    "id": 247,
+    "question": "P, Q, R and S are siblings. P is the father of T. How is T related to Q?",
+    "options": [
+      "Cousin",
+      "Brother",
+      "Son",
+      "Nephew/Niece"
+    ],
+    "answer": 3,
+    "explanation": "Since Q is P's sibling and T is P's child, T is Q's nephew or niece."
+  },
+  {
+    "id": 248,
+    "question": "A sum of Rs. 210 is divided between two persons in the ratio 3:4. Find the larger share.",
+    "options": [
+      "120",
+      "102",
+      "96",
+      "108"
+    ],
+    "answer": 0,
+    "explanation": "Larger share = [4 / (3+4)] x 210 = Rs. 120."
+  },
+  {
+    "id": 249,
+    "question": "A man bought an article for Rs. 150 and sold it for Rs. 188. Find his profit percentage.",
+    "options": [
+      "22",
+      "21",
+      "20",
+      "25"
+    ],
+    "answer": 3,
+    "explanation": "Profit % = |SP - CP| / CP x 100 = |188 - 150| / 150 x 100 = 25.3%."
+  },
+  {
+    "id": 250,
+    "question": "A car travels at a speed of 45 km/h for 5 hours. Find the distance covered.",
+    "options": [
+      "191",
+      "202",
+      "180",
+      "225"
+    ],
+    "answer": 3,
+    "explanation": "Distance = Speed x Time = 45 x 5 = 225 km."
+  },
+  {
+    "id": 251,
+    "question": "Find the next number in the series: 3, 9, 27, 81, 243, ?",
+    "options": [
+      "583",
+      "729",
+      "656",
+      "620"
+    ],
+    "answer": 1,
+    "explanation": "Each term is multiplied by 3 (geometric progression); next term = 243 x 3 = 729."
+  },
+  {
+    "id": 252,
+    "question": "Find the next letter in the series: D, G, J, M, ?",
+    "options": [
+      "M",
+      "T",
+      "P",
+      "R"
+    ],
+    "answer": 2,
+    "explanation": "Each letter's alphabetical position increases by 3; the next letter after M is P."
+  },
+  {
+    "id": 253,
+    "question": "Find the Simple Interest on Rs. 5000 at 10% per annum for 4 years.",
+    "options": [
+      "2000",
+      "1800",
+      "1700",
+      "1600"
+    ],
+    "answer": 0,
+    "explanation": "SI = (P x R x T)/100 = (5000 x 10 x 4)/100 = Rs. 2000."
+  },
+  {
+    "id": 254,
+    "question": "If today is Saturday, what day will it be after 3 days?",
+    "options": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Saturday"
+    ],
+    "answer": 1,
+    "explanation": "3 days from Saturday = 3 mod 7 = 3 day(s) ahead, which lands on Tuesday."
+  },
+  {
+    "id": 255,
+    "question": "Find the next letter in the series: F, K, P, U, ?",
+    "options": [
+      "J",
+      "U",
+      "X",
+      "Z"
+    ],
+    "answer": 3,
+    "explanation": "Each letter's alphabetical position increases by 5; the next letter after U is Z."
+  },
+  {
+    "id": 256,
+    "question": "Statement: If the price of petrol increases, transportation costs rise. The price of petrol has increased. Which of the following logically follows?",
+    "options": [
+      "Transportation costs will fall.",
+      "Transportation costs will rise.",
+      "The price of petrol has not increased.",
+      "Transportation costs remain the same."
+    ],
+    "answer": 1,
+    "explanation": "Given the conditional relationship and the stated increase in petrol price, transportation costs will rise."
+  },
+  {
+    "id": 257,
+    "question": "What is 12% of 50?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "12% of 50 = (12/100) x 50 = 6."
+  },
+  {
+    "id": 258,
+    "question": "Find the next number in the series: 12, 20, 28, 36, 44, ?",
+    "options": [
+      "47",
+      "52",
+      "42",
+      "44"
+    ],
+    "answer": 1,
+    "explanation": "The series increases by 8 each time (arithmetic progression); next term = 44 + 8 = 52."
+  },
+  {
+    "id": 259,
+    "question": "Find the Simple Interest on Rs. 5000 at 8% per annum for 3 years.",
+    "options": [
+      "1200",
+      "1020",
+      "1080",
+      "960"
+    ],
+    "answer": 0,
+    "explanation": "SI = (P x R x T)/100 = (5000 x 8 x 3)/100 = Rs. 1200."
+  },
+  {
+    "id": 260,
+    "question": "Statement: Every student who passes the exam receives a certificate. Anita received a certificate. Which of the following logically follows?",
+    "options": [
+      "Anita is not a student.",
+      "No student receives a certificate.",
+      "Anita definitely failed the exam.",
+      "It is likely that Anita passed the exam, based on the given rule."
+    ],
+    "answer": 3,
+    "explanation": "Since passing leads to a certificate, receiving one strongly suggests Anita passed, consistent with the given rule."
+  },
+  {
+    "id": 261,
+    "question": "A sum of Rs. 600 is divided between two persons in the ratio 3:7. Find the larger share.",
+    "options": [
+      "357",
+      "378",
+      "336",
+      "420"
+    ],
+    "answer": 3,
+    "explanation": "Larger share = [7 / (3+7)] x 600 = Rs. 420."
+  },
+  {
+    "id": 262,
+    "question": "A man bought an article for Rs. 500 and sold it for Rs. 750. Find his profit percentage.",
+    "options": [
+      "50",
+      "42",
+      "45",
+      "40"
+    ],
+    "answer": 0,
+    "explanation": "Profit % = |SP - CP| / CP x 100 = |750 - 500| / 500 x 100 = 50.0%."
+  },
+  {
+    "id": 263,
+    "question": "Find the next letter in the series: J, L, N, P, ?",
+    "options": [
+      "S",
+      "R",
+      "U",
+      "P"
+    ],
+    "answer": 1,
+    "explanation": "Each letter's alphabetical position increases by 2; the next letter after P is R."
+  },
+  {
+    "id": 264,
+    "question": "Given the statements: No fish is a mammal. All whales are mammals. Which conclusion logically follows?",
+    "options": [
+      "No whale is a fish.",
+      "Some fish are whales.",
+      "All mammals are whales.",
+      "All fish are whales."
+    ],
+    "answer": 0,
+    "explanation": "Since no fish is a mammal, and all whales are mammals, no whale can be a fish."
+  },
+  {
+    "id": 265,
+    "question": "Find the Compound Interest on Rs. 5000 at 20% per annum for 2 years, compounded annually.",
+    "options": [
+      "2200",
+      "1980",
+      "1760",
+      "1870"
+    ],
+    "answer": 0,
+    "explanation": "CI = P[(1+R/100)^T - 1] = 5000[(1+20/100)^2 - 1] = Rs. 2200."
+  },
+  {
+    "id": 266,
+    "question": "Choose the pair that best completes the analogy: Doctor : Hospital :: ?",
+    "options": [
+      "Teacher : Student",
+      "Teacher : Book",
+      "Teacher : Class",
+      "Teacher : School"
+    ],
+    "answer": 3,
+    "explanation": "A Doctor works in a Hospital, just as a Teacher works in a School."
+  },
+  {
+    "id": 267,
+    "question": "Find the Compound Interest on Rs. 10000 at 25% per annum for 2 years, compounded annually.",
+    "options": [
+      "5062",
+      "5625",
+      "4781",
+      "4500"
+    ],
+    "answer": 1,
+    "explanation": "CI = P[(1+R/100)^T - 1] = 10000[(1+25/100)^2 - 1] = Rs. 5625."
+  },
+  {
+    "id": 268,
+    "question": "What is 45% of 160?",
+    "options": [
+      "58",
+      "61",
+      "72",
+      "65"
+    ],
+    "answer": 2,
+    "explanation": "45% of 160 = (45/100) x 160 = 72."
+  },
+  {
+    "id": 269,
+    "question": "Find the average of the following numbers: 40, 44, 48, 52, 56, 60.",
+    "options": [
+      "42",
+      "40",
+      "45",
+      "50"
+    ],
+    "answer": 3,
+    "explanation": "Average = Sum of numbers / Count = 300 / 6 = 50."
+  },
+  {
+    "id": 270,
+    "question": "Find the Compound Interest on Rs. 4000 at 5% per annum for 2 years, compounded annually.",
+    "options": [
+      "410",
+      "348",
+      "369",
+      "328"
+    ],
+    "answer": 0,
+    "explanation": "CI = P[(1+R/100)^T - 1] = 4000[(1+5/100)^2 - 1] = Rs. 410."
+  },
+  {
+    "id": 271,
+    "question": "A sum of Rs. 130 is divided between two persons in the ratio 5:8. Find the larger share.",
+    "options": [
+      "68",
+      "80",
+      "72",
+      "64"
+    ],
+    "answer": 1,
+    "explanation": "Larger share = [8 / (5+8)] x 130 = Rs. 80."
+  },
+  {
+    "id": 272,
+    "question": "A car travels at a speed of 45 km/h for 3 hours. Find the distance covered.",
+    "options": [
+      "135",
+      "122",
+      "115",
+      "108"
+    ],
+    "answer": 0,
+    "explanation": "Distance = Speed x Time = 45 x 3 = 135 km."
+  },
+  {
+    "id": 273,
+    "question": "Find the Simple Interest on Rs. 4000 at 8% per annum for 3 years.",
+    "options": [
+      "816",
+      "864",
+      "960",
+      "768"
+    ],
+    "answer": 2,
+    "explanation": "SI = (P x R x T)/100 = (4000 x 8 x 3)/100 = Rs. 960."
+  },
+  {
+    "id": 274,
+    "question": "Find the Simple Interest on Rs. 1000 at 4% per annum for 2 years.",
+    "options": [
+      "72",
+      "68",
+      "80",
+      "64"
+    ],
+    "answer": 2,
+    "explanation": "SI = (P x R x T)/100 = (1000 x 4 x 2)/100 = Rs. 80."
+  },
+  {
+    "id": 275,
+    "question": "Given the statements: All mangoes are fruits. All fruits are edible. Which conclusion logically follows?",
+    "options": [
+      "All edible things are mangoes.",
+      "All mangoes are edible.",
+      "Some fruits are not edible.",
+      "No mango is edible."
+    ],
+    "answer": 1,
+    "explanation": "Since mangoes are fruits and all fruits are edible, all mangoes are edible."
+  },
+  {
+    "id": 276,
+    "question": "What is 25% of 600?",
+    "options": [
+      "128",
+      "150",
+      "120",
+      "135"
+    ],
+    "answer": 1,
+    "explanation": "25% of 600 = (25/100) x 600 = 150."
+  },
+  {
+    "id": 277,
+    "question": "Statement: If it rains, the match will be cancelled. It is raining. Which of the following logically follows?",
+    "options": [
+      "The match was already over.",
+      "It is not raining.",
+      "The match will be held as scheduled.",
+      "The match will be cancelled."
+    ],
+    "answer": 3,
+    "explanation": "Given the conditional statement and the fact that it is raining, the match will be cancelled."
+  },
+  {
+    "id": 278,
+    "question": "Choose the odd one out from the group: Kilogram, Litre, Metre, Table",
+    "options": [
+      "Table",
+      "Litre",
+      "Kilogram",
+      "Metre"
+    ],
+    "answer": 0,
+    "explanation": "Table is an object, while the others are units of measurement."
+  },
+  {
+    "id": 279,
+    "question": "A car travels at a speed of 80 km/h for 1 hours. Find the distance covered.",
+    "options": [
+      "68",
+      "72",
+      "80",
+      "64"
+    ],
+    "answer": 2,
+    "explanation": "Distance = Speed x Time = 80 x 1 = 80 km."
+  },
+  {
+    "id": 280,
+    "question": "A man bought an article for Rs. 800 and sold it for Rs. 760. Find his loss percentage.",
+    "options": [
+      "6",
+      "4",
+      "5",
+      "14"
+    ],
+    "answer": 2,
+    "explanation": "Loss % = |SP - CP| / CP x 100 = |760 - 800| / 800 x 100 = 5.0%."
+  },
+  {
+    "id": 281,
+    "question": "If today is Wednesday, what day will it be after 20 days?",
+    "options": [
+      "Monday",
+      "Saturday",
+      "Wednesday",
+      "Tuesday"
+    ],
+    "answer": 3,
+    "explanation": "20 days from Wednesday = 20 mod 7 = 6 day(s) ahead, which lands on Tuesday."
+  },
+  {
+    "id": 282,
+    "question": "In a certain code, EARTH is written as HDUWK. How is PENCIL written in that code?",
+    "options": [
+      "TIRGMP",
+      "SHQFLO",
+      "MBKZFI",
+      "RGPEKN"
+    ],
+    "answer": 1,
+    "explanation": "Each letter of the word is shifted by 3 position(s) in the alphabet; applying the same rule to PENCIL gives SHQFLO."
+  },
+  {
+    "id": 283,
+    "question": "A can complete a piece of work in 6 days and B can complete the same work in 12 days. Working together, in how many days will they complete the work?",
+    "options": [
+      "4",
+      "13",
+      "3",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "Combined time = (X x Y)/(X+Y) = (6 x 12)/(6+12) = 4 days."
+  },
+  {
+    "id": 284,
+    "question": "Find the average of the following numbers: 15, 17, 19, 21, 23, 25.",
+    "options": [
+      "20",
+      "18",
+      "16",
+      "17"
+    ],
+    "answer": 0,
+    "explanation": "Average = Sum of numbers / Count = 120 / 6 = 20."
+  },
+  {
+    "id": 285,
+    "question": "Choose the odd one out from the group: Petrol, Diesel, Coal, Water",
+    "options": [
+      "Water",
+      "Petrol",
+      "Diesel",
+      "Coal"
+    ],
+    "answer": 0,
+    "explanation": "Water is not a fuel, while the others are fuels/combustible energy sources."
+  },
+  {
+    "id": 286,
+    "question": "A car travels at a speed of 70 km/h for 1 hours. Find the distance covered.",
+    "options": [
+      "63",
+      "60",
+      "56",
+      "70"
+    ],
+    "answer": 3,
+    "explanation": "Distance = Speed x Time = 70 x 1 = 70 km."
+  },
+  {
+    "id": 287,
+    "question": "Find the next number in the series: 3, 6, 9, 12, 15, ?",
+    "options": [
+      "18",
+      "15",
+      "16",
+      "14"
+    ],
+    "answer": 0,
+    "explanation": "The series increases by 3 each time (arithmetic progression); next term = 15 + 3 = 18."
+  },
+  {
+    "id": 288,
+    "question": "Find the next number in the series: 9, 27, 81, 243, 729, ?",
+    "options": [
+      "1968",
+      "2187",
+      "1859",
+      "1750"
+    ],
+    "answer": 1,
+    "explanation": "Each term is multiplied by 3 (geometric progression); next term = 729 x 3 = 2187."
+  },
+  {
+    "id": 289,
+    "question": "A can complete a piece of work in 12 days and B can complete the same work in 12 days. Working together, in how many days will they complete the work?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "Combined time = (X x Y)/(X+Y) = (12 x 12)/(12+12) = 6 days."
+  },
+  {
+    "id": 290,
+    "question": "A man walks 8 km towards East and then 15 km towards North. How far is he from his starting point?",
+    "options": [
+      "15",
+      "19",
+      "17",
+      "14"
+    ],
+    "answer": 2,
+    "explanation": "Using the Pythagoras theorem, distance = sqrt(8^2 + 15^2) = sqrt(64+225) = 17 km."
+  },
+  {
+    "id": 291,
+    "question": "A man bought an article for Rs. 500 and sold it for Rs. 450. Find his loss percentage.",
+    "options": [
+      "11",
+      "9",
+      "10",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "Loss % = |SP - CP| / CP x 100 = |450 - 500| / 500 x 100 = 10.0%."
+  },
+  {
+    "id": 292,
+    "question": "What is 8% of 50?",
+    "options": [
+      "4",
+      "5",
+      "13",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "8% of 50 = (8/100) x 50 = 4."
+  },
+  {
+    "id": 293,
+    "question": "Find the average of the following numbers: 20, 22, 24, 26.",
+    "options": [
+      "23",
+      "21",
+      "18",
+      "20"
+    ],
+    "answer": 0,
+    "explanation": "Average = Sum of numbers / Count = 92 / 4 = 23."
+  },
+  {
+    "id": 294,
+    "question": "In a certain code, TABLE is written as RYZJC. How is WATER written in that code?",
+    "options": [
+      "VZSDQ",
+      "TXQBO",
+      "UYRCP",
+      "YCVGT"
+    ],
+    "answer": 2,
+    "explanation": "Each letter of the word is shifted by -2 position(s) in the alphabet; applying the same rule to WATER gives UYRCP."
+  },
+  {
+    "id": 295,
+    "question": "A can complete a piece of work in 4 days and B can complete the same work in 4 days. Working together, in how many days will they complete the work?",
+    "options": [
+      "2",
+      "11",
+      "5",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "Combined time = (X x Y)/(X+Y) = (4 x 4)/(4+4) = 2 days."
+  },
+  {
+    "id": 296,
+    "question": "Find the next number in the series: 7, 15, 23, 31, 39, ?",
+    "options": [
+      "40",
+      "38",
+      "42",
+      "47"
+    ],
+    "answer": 3,
+    "explanation": "The series increases by 8 each time (arithmetic progression); next term = 39 + 8 = 47."
+  },
+  {
+    "id": 297,
+    "question": "Choose the pair that best completes the analogy: Pen : Write :: ?",
+    "options": [
+      "Knife : Kitchen",
+      "Knife : Blade",
+      "Knife : Sharp",
+      "Knife : Cut"
+    ],
+    "answer": 3,
+    "explanation": "A Pen is used to Write, just as a Knife is used to Cut."
+  },
+  {
+    "id": 298,
+    "question": "A sum of Rs. 400 is divided between two persons in the ratio 5:3. Find the larger share.",
+    "options": [
+      "225",
+      "212",
+      "200",
+      "250"
+    ],
+    "answer": 3,
+    "explanation": "Larger share = [5 / (5+3)] x 400 = Rs. 250."
+  },
+  {
+    "id": 299,
+    "question": "A man walks 5 km towards East and then 12 km towards North. How far is he from his starting point?",
+    "options": [
+      "10",
+      "11",
+      "13",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "Using the Pythagoras theorem, distance = sqrt(5^2 + 12^2) = sqrt(25+144) = 13 km."
+  },
+  {
+    "id": 300,
+    "question": "A man bought an article for Rs. 600 and sold it for Rs. 750. Find his profit percentage.",
+    "options": [
+      "20",
+      "25",
+      "22",
+      "21"
+    ],
+    "answer": 1,
+    "explanation": "Profit % = |SP - CP| / CP x 100 = |750 - 600| / 600 x 100 = 25.0%."
+  }
+]

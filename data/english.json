@@ -1,0 +1,3602 @@
+[
+  {
+    "id": 1,
+    "question": "Choose the correct meaning of the phrasal verb: 'Come across'",
+    "options": [
+      "To cross a road",
+      "To find or meet something/someone unexpectedly",
+      "To argue with someone",
+      "To avoid a person"
+    ],
+    "answer": 1,
+    "explanation": "'Come across' means to encounter something/someone by chance."
+  },
+  {
+    "id": 2,
+    "question": "Fill in the blank with the correct verb form: All that glitters ___ not gold.",
+    "options": [
+      "were",
+      "is",
+      "are",
+      "being"
+    ],
+    "answer": 1,
+    "explanation": "'All' referring to a single idea/thing here takes a singular verb."
+  },
+  {
+    "id": 3,
+    "question": "Fill in the blank with the correct preposition: He is afraid ___ dogs.",
+    "options": [
+      "from",
+      "with",
+      "of",
+      "at"
+    ],
+    "answer": 2,
+    "explanation": "'Afraid of' is the correct usage."
+  },
+  {
+    "id": 4,
+    "question": "Choose the correct passive voice form of the sentence: \"She is cooking dinner.\"",
+    "options": [
+      "Dinner was cooked by her.",
+      "Dinner is being cooked by her.",
+      "Dinner cooks by her.",
+      "Dinner has been cooked by her."
+    ],
+    "answer": 1,
+    "explanation": "Present continuous active becomes 'is/are being + past participle' in passive voice."
+  },
+  {
+    "id": 5,
+    "question": "Choose the correct passive voice form of the sentence: \"She has invited us to the party.\"",
+    "options": [
+      "We had invited to the party by her.",
+      "We are invited to the party by her.",
+      "We were invited to the party by her.",
+      "We have been invited to the party by her."
+    ],
+    "answer": 3,
+    "explanation": "Present perfect active becomes 'has/have been + past participle' in passive voice."
+  },
+  {
+    "id": 6,
+    "question": "Choose the correct meaning of the phrasal verb: 'Carry out'",
+    "options": [
+      "To delay an activity",
+      "To perform or execute a task",
+      "To abandon a plan",
+      "To transport goods physically"
+    ],
+    "answer": 1,
+    "explanation": "'Carry out' means to perform or complete a task or plan."
+  },
+  {
+    "id": 7,
+    "question": "Choose the correct meaning of the idiom/phrase: 'A piece of cake'",
+    "options": [
+      "Something that is very easy to do",
+      "A difficult challenge",
+      "An unexpected reward",
+      "A small portion of dessert"
+    ],
+    "answer": 0,
+    "explanation": "'A piece of cake' describes a task that is very easy."
+  },
+  {
+    "id": 8,
+    "question": "Choose the correct one-word substitute for: A short poem expressing sorrow or lamentation for the dead",
+    "options": [
+      "Ode",
+      "Ballad",
+      "Elegy",
+      "Sonnet"
+    ],
+    "answer": 2,
+    "explanation": "An 'Elegy' is a mournful poem, typically lamenting the dead."
+  },
+  {
+    "id": 9,
+    "question": "Fill in the blank with the correct preposition: He differs ___ me on this issue.",
+    "options": [
+      "to",
+      "with",
+      "of",
+      "from"
+    ],
+    "answer": 3,
+    "explanation": "'Differ from' is used when comparing people/things that are unlike."
+  },
+  {
+    "id": 10,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To break the bank'",
+    "options": [
+      "To become extremely wealthy",
+      "To save a large amount of money",
+      "To cost more money than one can afford",
+      "To rob a financial institution"
+    ],
+    "answer": 2,
+    "explanation": "'To break the bank' means to be very expensive/costly."
+  },
+  {
+    "id": 11,
+    "question": "Choose the correct tense form to fill in the blank: By next year, she ___ her degree.",
+    "options": [
+      "will have completed",
+      "is completing",
+      "completed",
+      "completes"
+    ],
+    "answer": 0,
+    "explanation": "An action to be completed before a future point uses the future perfect tense."
+  },
+  {
+    "id": 12,
+    "question": "Choose the word most opposite in meaning to the word: GENEROUS",
+    "options": [
+      "Stingy",
+      "Charitable",
+      "Kind",
+      "Liberal"
+    ],
+    "answer": 0,
+    "explanation": "'Generous' is opposite to 'Stingy'."
+  },
+  {
+    "id": 13,
+    "question": "Choose the word most opposite in meaning to the word: WARY",
+    "options": [
+      "Cautious",
+      "Wary",
+      "Careless",
+      "Guarded"
+    ],
+    "answer": 2,
+    "explanation": "'Wary' (cautious) is opposite to 'Careless'."
+  },
+  {
+    "id": 14,
+    "question": "Fill in the blank with the correct preposition: She is fond ___ music.",
+    "options": [
+      "to",
+      "of",
+      "with",
+      "for"
+    ],
+    "answer": 1,
+    "explanation": "'Fond of' is the correct preposition combination."
+  },
+  {
+    "id": 15,
+    "question": "Fill in the blank with the correct preposition: I am waiting ___ the bus.",
+    "options": [
+      "for",
+      "at",
+      "on",
+      "to"
+    ],
+    "answer": 0,
+    "explanation": "'Wait for' is the correct usage."
+  },
+  {
+    "id": 16,
+    "question": "Choose the correct tense form to fill in the blank: We ___ dinner when he called.",
+    "options": [
+      "already eat",
+      "are already eating",
+      "already ate",
+      "had already eaten"
+    ],
+    "answer": 3,
+    "explanation": "An action completed before another past event uses the past perfect tense."
+  },
+  {
+    "id": 17,
+    "question": "Choose the word most similar in meaning to the word: BENEVOLENT",
+    "options": [
+      "Cruel",
+      "Kind",
+      "Selfish",
+      "Greedy"
+    ],
+    "answer": 1,
+    "explanation": "'Benevolent' means kind and generous."
+  },
+  {
+    "id": 18,
+    "question": "Choose the word most similar in meaning to the word: PRUDENT",
+    "options": [
+      "Foolish",
+      "Wise",
+      "Careless",
+      "Reckless"
+    ],
+    "answer": 1,
+    "explanation": "'Prudent' means acting with care and good judgement, i.e. wise."
+  },
+  {
+    "id": 19,
+    "question": "Choose the correct one-word substitute for: A person who is invited but does not attend",
+    "options": [
+      "Absentee",
+      "Defaulter",
+      "Deserter",
+      "Truant"
+    ],
+    "answer": 0,
+    "explanation": "An 'Absentee' is one who fails to be present when expected/invited."
+  },
+  {
+    "id": 20,
+    "question": "Choose the word most similar in meaning to the word: GENUINE",
+    "options": [
+      "Fake",
+      "Authentic",
+      "Artificial",
+      "Counterfeit"
+    ],
+    "answer": 1,
+    "explanation": "'Genuine' means real or authentic."
+  },
+  {
+    "id": 21,
+    "question": "Choose the correct indirect (reported) speech form of: She said, \"I bought this yesterday.\"",
+    "options": [
+      "She said that she has bought that yesterday.",
+      "She said that she buys this yesterday.",
+      "She said that she had bought that the previous day.",
+      "She said that she bought this yesterday."
+    ],
+    "answer": 2,
+    "explanation": "Simple past shifts to past perfect; 'this'/'yesterday' change to 'that'/'the previous day'."
+  },
+  {
+    "id": 22,
+    "question": "Fill in the blank with the correct preposition: He congratulated me ___ my success.",
+    "options": [
+      "on",
+      "of",
+      "at",
+      "for"
+    ],
+    "answer": 0,
+    "explanation": "'Congratulate on' is the correct usage."
+  },
+  {
+    "id": 23,
+    "question": "Fill in the blank with the correct article: She is ___ honorable person.",
+    "options": [
+      "an",
+      "the",
+      "no article needed",
+      "a"
+    ],
+    "answer": 0,
+    "explanation": "'Honorable' has a silent 'h', so it begins with a vowel sound, requiring 'an'."
+  },
+  {
+    "id": 24,
+    "question": "Choose the correct passive voice form of the sentence: \"The manager will sign the documents.\"",
+    "options": [
+      "The documents were signed by the manager.",
+      "The documents would sign by the manager.",
+      "The documents are signed by the manager.",
+      "The documents will be signed by the manager."
+    ],
+    "answer": 3,
+    "explanation": "Simple future active becomes 'will be + past participle' in passive voice."
+  },
+  {
+    "id": 25,
+    "question": "Choose the correct meaning of the phrasal verb: 'Call off'",
+    "options": [
+      "To telephone someone",
+      "To cancel",
+      "To visit someone",
+      "To shout loudly"
+    ],
+    "answer": 1,
+    "explanation": "'Call off' means to cancel an event or plan."
+  },
+  {
+    "id": 26,
+    "question": "Choose the word most similar in meaning to the word: NOTORIOUS",
+    "options": [
+      "Reputed",
+      "Infamous",
+      "Famous",
+      "Unknown"
+    ],
+    "answer": 1,
+    "explanation": "'Notorious' means well known for something bad, i.e. infamous."
+  },
+  {
+    "id": 27,
+    "question": "Choose the word most opposite in meaning to the word: GENUINE",
+    "options": [
+      "Fake",
+      "Authentic",
+      "True",
+      "Real"
+    ],
+    "answer": 0,
+    "explanation": "'Genuine' (real) is opposite to 'Fake'."
+  },
+  {
+    "id": 28,
+    "question": "Fill in the blank with the correct verb form: Neither of the answers ___ correct.",
+    "options": [
+      "were",
+      "being",
+      "are",
+      "is"
+    ],
+    "answer": 3,
+    "explanation": "'Neither' is singular and takes a singular verb."
+  },
+  {
+    "id": 29,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To kill two birds with one stone'",
+    "options": [
+      "To fail at two tasks simultaneously",
+      "To harm two people at once",
+      "To achieve two objectives with a single action",
+      "To waste an opportunity"
+    ],
+    "answer": 2,
+    "explanation": "'To kill two birds with one stone' means to accomplish two things at once."
+  },
+  {
+    "id": 30,
+    "question": "Choose the correctly spelled word from the options below:",
+    "options": [
+      "Rhythem",
+      "Rythm",
+      "Rhythm",
+      "Rhytm"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Rhythm'."
+  },
+  {
+    "id": 31,
+    "question": "Choose the correct indirect (reported) speech form of: He said, \"I am ill.\"",
+    "options": [
+      "He said that he is ill.",
+      "He said that he will be ill.",
+      "He said that he was ill.",
+      "He said that he has been ill."
+    ],
+    "answer": 2,
+    "explanation": "Present tense shifts to past tense in indirect speech."
+  },
+  {
+    "id": 32,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "If I am you, I would not do that.",
+      "If I would be you, I would not do that.",
+      "If I were you, I would not do that.",
+      "If I was you, I would not do that."
+    ],
+    "answer": 2,
+    "explanation": "In hypothetical/unreal conditionals, 'were' is used instead of 'was' for all subjects."
+  },
+  {
+    "id": 33,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To spill the beans'",
+    "options": [
+      "To waste food",
+      "To lose one's temper",
+      "To make a mess while cooking",
+      "To reveal secret information"
+    ],
+    "answer": 3,
+    "explanation": "'To spill the beans' means to disclose confidential information."
+  },
+  {
+    "id": 34,
+    "question": "Choose the correct indirect (reported) speech form of: He said, \"Do not make noise.\"",
+    "options": [
+      "He said us don't make noise.",
+      "He told us to not making noise.",
+      "He told us not to make noise.",
+      "He said not to make noise."
+    ],
+    "answer": 2,
+    "explanation": "Negative imperatives are reported as 'told + not + infinitive'."
+  },
+  {
+    "id": 35,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To be on cloud nine'",
+    "options": [
+      "To be very confused",
+      "To be in danger",
+      "To be extremely tired",
+      "To be extremely happy"
+    ],
+    "answer": 3,
+    "explanation": "'To be on cloud nine' means to be extremely delighted."
+  },
+  {
+    "id": 36,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "Each and every student submit the assignment.",
+      "Each and every student have submitted the assignment.",
+      "Each and every students have submitted the assignment.",
+      "Each and every student has submitted the assignment."
+    ],
+    "answer": 3,
+    "explanation": "'Each and every' takes a singular noun and singular verb."
+  },
+  {
+    "id": 37,
+    "question": "Choose the word most opposite in meaning to the word: FRIGID",
+    "options": [
+      "Icy",
+      "Cold",
+      "Freezing",
+      "Warm"
+    ],
+    "answer": 3,
+    "explanation": "'Frigid' (cold) is opposite to 'Warm'."
+  },
+  {
+    "id": 38,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To let the cat out of the bag'",
+    "options": [
+      "To free a trapped animal",
+      "To reveal a secret accidentally",
+      "To lose one's belongings",
+      "To lie about something"
+    ],
+    "answer": 1,
+    "explanation": "'To let the cat out of the bag' means to accidentally reveal a secret."
+  },
+  {
+    "id": 39,
+    "question": "Choose the word most opposite in meaning to the word: QUAINT",
+    "options": [
+      "Modern",
+      "Unusual",
+      "Old-fashioned",
+      "Charming"
+    ],
+    "answer": 0,
+    "explanation": "'Quaint' is opposite to 'Modern' in this context."
+  },
+  {
+    "id": 40,
+    "question": "Fill in the blank with the correct verb form: Physics ___ a difficult subject for many.",
+    "options": [
+      "is",
+      "are",
+      "being",
+      "were"
+    ],
+    "answer": 0,
+    "explanation": "Subject names ending in 's' like 'Physics' take a singular verb."
+  },
+  {
+    "id": 41,
+    "question": "Choose the word most opposite in meaning to the word: VIGILANT",
+    "options": [
+      "Watchful",
+      "Careless",
+      "Alert",
+      "Attentive"
+    ],
+    "answer": 1,
+    "explanation": "'Vigilant' (watchful) is opposite to 'Careless'."
+  },
+  {
+    "id": 42,
+    "question": "Choose the word most opposite in meaning to the word: JOVIAL",
+    "options": [
+      "Jolly",
+      "Gloomy",
+      "Happy",
+      "Cheerful"
+    ],
+    "answer": 1,
+    "explanation": "'Jovial' (cheerful) is opposite to 'Gloomy'."
+  },
+  {
+    "id": 43,
+    "question": "Fill in the blank with the correct article: He is ___ best student in the class.",
+    "options": [
+      "a",
+      "the",
+      "no article needed",
+      "an"
+    ],
+    "answer": 1,
+    "explanation": "'The' is used before superlative adjectives."
+  },
+  {
+    "id": 44,
+    "question": "Choose the correct indirect (reported) speech form of: He said, \"I have finished my work.\"",
+    "options": [
+      "He said that he finishes his work.",
+      "He said that he finished his work.",
+      "He said that he has finished his work.",
+      "He said that he had finished his work."
+    ],
+    "answer": 3,
+    "explanation": "Present perfect tense in direct speech shifts to past perfect tense in indirect speech."
+  },
+  {
+    "id": 45,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "The number of students are increasing.",
+      "The number of student is increasing.",
+      "The number of students is increasing.",
+      "The number of students have increased."
+    ],
+    "answer": 2,
+    "explanation": "'The number of' takes a singular verb."
+  },
+  {
+    "id": 46,
+    "question": "Choose the correct indirect (reported) speech form of: She asked, \"Will you come with me?\"",
+    "options": [
+      "She asked if I would go with her.",
+      "She asked that I will come with her.",
+      "She asked will you come with me.",
+      "She asked if I will come with her."
+    ],
+    "answer": 0,
+    "explanation": "Yes/No questions are reported using 'if/whether', with tense shifted back."
+  },
+  {
+    "id": 47,
+    "question": "Fill in the blank with the correct verb form: The scissors ___ on the table.",
+    "options": [
+      "are",
+      "is",
+      "was",
+      "being"
+    ],
+    "answer": 0,
+    "explanation": "'Scissors' is treated as a plural noun and takes a plural verb."
+  },
+  {
+    "id": 48,
+    "question": "Choose the correct passive voice form of the sentence: \"She helps the poor.\"",
+    "options": [
+      "The poor are helped by her.",
+      "The poor is helped by her.",
+      "The poor was helped by her.",
+      "The poor has been helped by her."
+    ],
+    "answer": 0,
+    "explanation": "Simple present active becomes 'is/are + past participle' in passive voice."
+  },
+  {
+    "id": 49,
+    "question": "Choose the word most similar in meaning to the word: HOSTILE",
+    "options": [
+      "Friendly",
+      "Warm",
+      "Kind",
+      "Unfriendly"
+    ],
+    "answer": 3,
+    "explanation": "'Hostile' means antagonistic or unfriendly."
+  },
+  {
+    "id": 50,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "He is one of best players in the team.",
+      "He is one of the better players in the team.",
+      "He is one of the best players in the team.",
+      "He is one of the best player in the team."
+    ],
+    "answer": 2,
+    "explanation": "'One of the' is followed by a plural noun ('players')."
+  },
+  {
+    "id": 51,
+    "question": "Choose the correct tense form to fill in the blank: They ___ football yesterday.",
+    "options": [
+      "play",
+      "plays",
+      "played",
+      "have played"
+    ],
+    "answer": 2,
+    "explanation": "'Yesterday' indicates the simple past tense."
+  },
+  {
+    "id": 52,
+    "question": "Choose the correct passive voice form of the sentence: \"He has completed the work.\"",
+    "options": [
+      "The work has been completed by him.",
+      "The work was completed by him.",
+      "The work had been completed by him.",
+      "The work is completed by him."
+    ],
+    "answer": 0,
+    "explanation": "Present perfect active becomes 'has/have been + past participle' in passive voice."
+  },
+  {
+    "id": 53,
+    "question": "Choose the correct meaning of the phrasal verb: 'Look forward to'",
+    "options": [
+      "To look in a particular direction",
+      "To remember a past event",
+      "To anticipate something with pleasure",
+      "To search for a job"
+    ],
+    "answer": 2,
+    "explanation": "'Look forward to' means to be excited about something that is going to happen."
+  },
+  {
+    "id": 54,
+    "question": "Choose the correctly spelled word from the options below:",
+    "options": [
+      "Occurrance",
+      "Occurrence",
+      "Occurence",
+      "Ocurrence"
+    ],
+    "answer": 1,
+    "explanation": "'Occurrence' has double 'c' and double 'r'."
+  },
+  {
+    "id": 55,
+    "question": "Choose the correct passive voice form of the sentence: \"The workers were repairing the road.\"",
+    "options": [
+      "The road is being repaired by the workers.",
+      "The road repairs by the workers.",
+      "The road has been repaired by the workers.",
+      "The road was being repaired by the workers."
+    ],
+    "answer": 3,
+    "explanation": "Past continuous active becomes 'was/were being + past participle' in passive voice."
+  },
+  {
+    "id": 56,
+    "question": "Choose the word most similar in meaning to the word: RETICENT",
+    "options": [
+      "Talkative",
+      "Loud",
+      "Reserved",
+      "Outgoing"
+    ],
+    "answer": 2,
+    "explanation": "'Reticent' means reserved or reluctant to speak."
+  },
+  {
+    "id": 57,
+    "question": "Fill in the blank with the correct preposition: He was accused ___ theft.",
+    "options": [
+      "with",
+      "for",
+      "on",
+      "of"
+    ],
+    "answer": 3,
+    "explanation": "'Accused of' is the correct usage."
+  },
+  {
+    "id": 58,
+    "question": "Choose the correct tense form to fill in the blank: They ___ the project yet.",
+    "options": [
+      "do not finish",
+      "did not finish",
+      "are not finishing",
+      "have not finished"
+    ],
+    "answer": 3,
+    "explanation": "'Yet' with an incomplete action at present requires the present perfect tense."
+  },
+  {
+    "id": 59,
+    "question": "Choose the correct tense form to fill in the blank: He ___ a letter right now.",
+    "options": [
+      "wrote",
+      "has written",
+      "writes",
+      "is writing"
+    ],
+    "answer": 3,
+    "explanation": "'Right now' indicates an action in progress, requiring present continuous tense."
+  },
+  {
+    "id": 60,
+    "question": "Fill in the blank with the correct article: I saw ___ elephant at the zoo.",
+    "options": [
+      "an",
+      "the",
+      "no article needed",
+      "a"
+    ],
+    "answer": 0,
+    "explanation": "'Elephant' begins with a vowel sound, so 'an' is used."
+  },
+  {
+    "id": 61,
+    "question": "Choose the correct one-word substitute for: The murder of one's father",
+    "options": [
+      "Patricide",
+      "Matricide",
+      "Infanticide",
+      "Fratricide"
+    ],
+    "answer": 0,
+    "explanation": "'Patricide' is the killing of one's own father."
+  },
+  {
+    "id": 62,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "He did not scarcely say anything.",
+      "He did scarcely say nothing.",
+      "He hardly did not say anything.",
+      "He scarcely said anything."
+    ],
+    "answer": 3,
+    "explanation": "'Scarcely' is already negative in meaning, so it should not be combined with another negative."
+  },
+  {
+    "id": 63,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "I prefer tea from coffee.",
+      "I prefer tea to coffee.",
+      "I prefer tea over than coffee.",
+      "I prefer tea than coffee."
+    ],
+    "answer": 1,
+    "explanation": "'Prefer' takes the preposition 'to', not 'than'."
+  },
+  {
+    "id": 64,
+    "question": "Choose the word most similar in meaning to the word: IMMINENT",
+    "options": [
+      "Impending",
+      "Remote",
+      "Unlikely",
+      "Distant"
+    ],
+    "answer": 0,
+    "explanation": "'Imminent' means about to happen, i.e. impending."
+  },
+  {
+    "id": 65,
+    "question": "Fill in the blank with the correct article: He is ___ honest man.",
+    "options": [
+      "no article needed",
+      "an",
+      "the",
+      "a"
+    ],
+    "answer": 1,
+    "explanation": "'Honest' begins with a vowel sound, so 'an' is used."
+  },
+  {
+    "id": 66,
+    "question": "Choose the word most opposite in meaning to the word: ANCIENT",
+    "options": [
+      "Antique",
+      "Modern",
+      "Old",
+      "Historic"
+    ],
+    "answer": 1,
+    "explanation": "'Ancient' (old) is opposite to 'Modern'."
+  },
+  {
+    "id": 67,
+    "question": "Choose the word most similar in meaning to the word: QUAINT",
+    "options": [
+      "Ugly",
+      "Charming",
+      "Modern",
+      "Ordinary"
+    ],
+    "answer": 1,
+    "explanation": "'Quaint' means attractively unusual or old-fashioned, i.e. charming."
+  },
+  {
+    "id": 68,
+    "question": "Choose the word most opposite in meaning to the word: CAPTIVE",
+    "options": [
+      "Enslaved",
+      "Free",
+      "Imprisoned",
+      "Confined"
+    ],
+    "answer": 1,
+    "explanation": "'Captive' (imprisoned) is opposite to 'Free'."
+  },
+  {
+    "id": 69,
+    "question": "Choose the word most similar in meaning to the word: MUNDANE",
+    "options": [
+      "Exceptional",
+      "Ordinary",
+      "Unique",
+      "Extraordinary"
+    ],
+    "answer": 1,
+    "explanation": "'Mundane' means lacking interest/excitement, i.e. ordinary."
+  },
+  {
+    "id": 70,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "He returned home late.",
+      "He returned back home late.",
+      "He returned back to home late.",
+      "He returned back at home late."
+    ],
+    "answer": 0,
+    "explanation": "'Return' already implies 'back'; using both is redundant."
+  },
+  {
+    "id": 71,
+    "question": "Choose the word most similar in meaning to the word: MERITORIOUS",
+    "options": [
+      "Trivial",
+      "Praiseworthy",
+      "Ordinary",
+      "Blameworthy"
+    ],
+    "answer": 1,
+    "explanation": "'Meritorious' means deserving praise."
+  },
+  {
+    "id": 72,
+    "question": "Choose the correct one-word substitute for: A person who leaves their native country to settle elsewhere",
+    "options": [
+      "Immigrant",
+      "Refugee",
+      "Emigrant",
+      "Migrant"
+    ],
+    "answer": 2,
+    "explanation": "An 'Emigrant' is one who leaves their own country to settle in another."
+  },
+  {
+    "id": 73,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "I am used to getting up early.",
+      "I am used to get up early.",
+      "I am use to get up early.",
+      "I used to getting up early."
+    ],
+    "answer": 0,
+    "explanation": "'Used to' (habitual present) is followed by a gerund."
+  },
+  {
+    "id": 74,
+    "question": "Choose the correct tense form to fill in the blank: He ___ to the party last night.",
+    "options": [
+      "has not come",
+      "did not come",
+      "does not come",
+      "is not coming"
+    ],
+    "answer": 1,
+    "explanation": "'Last night' indicates the simple past tense, requiring 'did not come'."
+  },
+  {
+    "id": 75,
+    "question": "Choose the correct one-word substitute for: One who loves mankind",
+    "options": [
+      "Philanthropist",
+      "Egoist",
+      "Altruist",
+      "Misanthrope"
+    ],
+    "answer": 0,
+    "explanation": "A 'Philanthropist' works for the welfare and love of mankind."
+  },
+  {
+    "id": 76,
+    "question": "Choose the word most opposite in meaning to the word: EXPAND",
+    "options": [
+      "Extend",
+      "Contract",
+      "Enlarge",
+      "Increase"
+    ],
+    "answer": 1,
+    "explanation": "'Expand' is opposite to 'Contract'."
+  },
+  {
+    "id": 77,
+    "question": "Choose the correct tense form to fill in the blank: They ___ Paris twice.",
+    "options": [
+      "visit",
+      "have visited",
+      "are visiting",
+      "visited"
+    ],
+    "answer": 1,
+    "explanation": "Experience up to the present without a specific time uses the present perfect tense."
+  },
+  {
+    "id": 78,
+    "question": "Fill in the blank with the correct verb form: Ten years ___ a long time to wait.",
+    "options": [
+      "is",
+      "being",
+      "are",
+      "were"
+    ],
+    "answer": 0,
+    "explanation": "A period of time treated as a single unit takes a singular verb."
+  },
+  {
+    "id": 79,
+    "question": "Choose the word most similar in meaning to the word: LUCID",
+    "options": [
+      "Clear",
+      "Vague",
+      "Confusing",
+      "Obscure"
+    ],
+    "answer": 0,
+    "explanation": "'Lucid' means easy to understand, i.e. clear."
+  },
+  {
+    "id": 80,
+    "question": "Choose the correct one-word substitute for: A person who comes to settle in a foreign country",
+    "options": [
+      "Immigrant",
+      "Native",
+      "Tourist",
+      "Emigrant"
+    ],
+    "answer": 0,
+    "explanation": "An 'Immigrant' is a person who comes to live permanently in a foreign country."
+  },
+  {
+    "id": 81,
+    "question": "Choose the correct meaning of the idiom/phrase: 'Actions speak louder than words'",
+    "options": [
+      "What a person does matters more than what they say",
+      "Loud words are more effective than actions",
+      "Words should always be trusted over actions",
+      "Silence is more powerful than speech"
+    ],
+    "answer": 0,
+    "explanation": "This proverb means that deeds are more convincing/important than mere statements."
+  },
+  {
+    "id": 82,
+    "question": "Choose the correct one-word substitute for: A place where birds are kept",
+    "options": [
+      "Aquarium",
+      "Aviary",
+      "Apiary",
+      "Zoo"
+    ],
+    "answer": 1,
+    "explanation": "An 'Aviary' is a large enclosure for keeping birds."
+  },
+  {
+    "id": 83,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "A number of students was absent.",
+      "A number of student were absent.",
+      "A number of students is absent.",
+      "A number of students were absent."
+    ],
+    "answer": 3,
+    "explanation": "'A number of' (meaning several) takes a plural verb."
+  },
+  {
+    "id": 84,
+    "question": "Choose the word most opposite in meaning to the word: JUNIOR",
+    "options": [
+      "Younger",
+      "Lower-ranked",
+      "Senior",
+      "Subordinate"
+    ],
+    "answer": 2,
+    "explanation": "'Junior' is opposite to 'Senior'."
+  },
+  {
+    "id": 85,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "Everyone must do its duty.",
+      "Everyone must do our duty.",
+      "Everyone must do their duty.",
+      "Everyone must do his duty."
+    ],
+    "answer": 3,
+    "explanation": "Traditional grammar treats 'everyone' as singular, taking 'his'."
+  },
+  {
+    "id": 86,
+    "question": "Choose the correct one-word substitute for: A person who studies the stars",
+    "options": [
+      "Astrologer",
+      "Geologist",
+      "Botanist",
+      "Astronomer"
+    ],
+    "answer": 3,
+    "explanation": "An 'Astronomer' scientifically studies celestial objects including stars."
+  },
+  {
+    "id": 87,
+    "question": "Choose the correct meaning of the phrasal verb: 'Put off'",
+    "options": [
+      "To finish quickly",
+      "To switch on a device",
+      "To remove clothing only",
+      "To postpone"
+    ],
+    "answer": 3,
+    "explanation": "'Put off' means to delay or postpone something."
+  },
+  {
+    "id": 88,
+    "question": "Choose the correctly spelled word from the options below:",
+    "options": [
+      "Maintainance",
+      "Maintenence",
+      "Maintenance",
+      "Maintainence"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Maintenance'."
+  },
+  {
+    "id": 89,
+    "question": "Choose the word most opposite in meaning to the word: HUMBLE",
+    "options": [
+      "Modest",
+      "Meek",
+      "Unassuming",
+      "Arrogant"
+    ],
+    "answer": 3,
+    "explanation": "'Humble' (modest) is opposite to 'Arrogant'."
+  },
+  {
+    "id": 90,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "Each of the boys have a book.",
+      "Each of the boys has a book.",
+      "Each of the boy has a book.",
+      "Each of the boys having a book."
+    ],
+    "answer": 1,
+    "explanation": "'Each' takes a singular verb, so 'has' is correct."
+  },
+  {
+    "id": 91,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "Please again repeat that.",
+      "Please repeat that again.",
+      "Please repeat again that.",
+      "Please repeat that."
+    ],
+    "answer": 3,
+    "explanation": "'Repeat' already implies doing something again, so adding 'again' is redundant."
+  },
+  {
+    "id": 92,
+    "question": "Fill in the blank with the correct article: She bought ___ umbrella yesterday.",
+    "options": [
+      "no article needed",
+      "the",
+      "a",
+      "an"
+    ],
+    "answer": 3,
+    "explanation": "'Umbrella' begins with a vowel sound, so 'an' is used."
+  },
+  {
+    "id": 93,
+    "question": "Fill in the blank with the correct preposition: I am confident ___ success.",
+    "options": [
+      "for",
+      "in",
+      "of",
+      "with"
+    ],
+    "answer": 2,
+    "explanation": "'Confident of' expresses assurance about an outcome."
+  },
+  {
+    "id": 94,
+    "question": "Fill in the blank with the correct article: He is ___ European.",
+    "options": [
+      "a",
+      "no article needed",
+      "the",
+      "an"
+    ],
+    "answer": 0,
+    "explanation": "'European' begins with a consonant sound ('yu'), so 'a' is used."
+  },
+  {
+    "id": 95,
+    "question": "Choose the correctly spelled word from the options below:",
+    "options": [
+      "Necesary",
+      "Neccesary",
+      "Necessary",
+      "Neccessary"
+    ],
+    "answer": 2,
+    "explanation": "'Necessary' has one 'c' and double 's'."
+  },
+  {
+    "id": 96,
+    "question": "Choose the word most similar in meaning to the word: KEEN",
+    "options": [
+      "Indifferent",
+      "Apathetic",
+      "Eager",
+      "Reluctant"
+    ],
+    "answer": 2,
+    "explanation": "'Keen' means eager or enthusiastic."
+  },
+  {
+    "id": 97,
+    "question": "Choose the word most similar in meaning to the word: WARY",
+    "options": [
+      "Bold",
+      "Reckless",
+      "Cautious",
+      "Careless"
+    ],
+    "answer": 2,
+    "explanation": "'Wary' means cautious about possible dangers."
+  },
+  {
+    "id": 98,
+    "question": "Choose the correct passive voice form of the sentence: \"The chef is preparing the food.\"",
+    "options": [
+      "The food is being prepared by the chef.",
+      "The food was prepared by the chef.",
+      "The food has been prepared by the chef.",
+      "The food prepares by the chef."
+    ],
+    "answer": 0,
+    "explanation": "Present continuous active becomes 'is/are being + past participle' in passive voice."
+  },
+  {
+    "id": 99,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To be in hot water'",
+    "options": [
+      "To take a warm bath",
+      "To be in trouble",
+      "To be extremely busy",
+      "To be very angry"
+    ],
+    "answer": 1,
+    "explanation": "'To be in hot water' means to be in a difficult or troublesome situation."
+  },
+  {
+    "id": 100,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To hit the nail on the head'",
+    "options": [
+      "To fail completely at a task",
+      "To argue without any point",
+      "To describe exactly what is causing a situation or problem",
+      "To hurt oneself while working"
+    ],
+    "answer": 2,
+    "explanation": "'To hit the nail on the head' means to be exactly right about something."
+  },
+  {
+    "id": 101,
+    "question": "Choose the correct indirect (reported) speech form of: He said, \"I have never seen such a beautiful place.\"",
+    "options": [
+      "He said that he never sees such a beautiful place.",
+      "He said that he had never seen such a beautiful place.",
+      "He said that he has never seen such a beautiful place.",
+      "He said that he never saw such a beautiful place."
+    ],
+    "answer": 1,
+    "explanation": "Present perfect shifts to past perfect in indirect speech."
+  },
+  {
+    "id": 102,
+    "question": "Choose the correct indirect (reported) speech form of: The boy said, \"Alas! I have lost my purse.\"",
+    "options": [
+      "The boy said alas that he lost his purse.",
+      "The boy exclaimed with sorrow that he had lost his purse.",
+      "The boy said that he had lost his purse happily.",
+      "The boy exclaimed that he has lost his purse."
+    ],
+    "answer": 1,
+    "explanation": "Exclamatory sentences are reported using 'exclaimed with [emotion] that'."
+  },
+  {
+    "id": 103,
+    "question": "Fill in the blank with the correct article: He plays ___ violin very well.",
+    "options": [
+      "a",
+      "no article needed",
+      "an",
+      "the"
+    ],
+    "answer": 3,
+    "explanation": "'The' is conventionally used before names of musical instruments."
+  },
+  {
+    "id": 104,
+    "question": "Fill in the blank with the correct preposition: This book is different ___ that one.",
+    "options": [
+      "from",
+      "to",
+      "than",
+      "of"
+    ],
+    "answer": 0,
+    "explanation": "'Different from' is the standard correct usage."
+  },
+  {
+    "id": 105,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "I wish I will be taller.",
+      "I wish I am taller.",
+      "I wish I was taller.",
+      "I wish I were taller."
+    ],
+    "answer": 3,
+    "explanation": "Wishes about the present that are unreal use 'were' for all subjects."
+  },
+  {
+    "id": 106,
+    "question": "Fill in the blank with the correct preposition: She is interested ___ painting.",
+    "options": [
+      "at",
+      "of",
+      "on",
+      "in"
+    ],
+    "answer": 3,
+    "explanation": "'Interested in' is the correct idiomatic usage."
+  },
+  {
+    "id": 107,
+    "question": "Choose the correct one-word substitute for: One who cannot read or write",
+    "options": [
+      "Ignorant",
+      "Innumerate",
+      "Illegible",
+      "Illiterate"
+    ],
+    "answer": 3,
+    "explanation": "An 'Illiterate' person cannot read or write."
+  },
+  {
+    "id": 108,
+    "question": "Choose the word most similar in meaning to the word: OBSTINATE",
+    "options": [
+      "Compliant",
+      "Yielding",
+      "Flexible",
+      "Stubborn"
+    ],
+    "answer": 3,
+    "explanation": "'Obstinate' means stubbornly refusing to change one's mind."
+  },
+  {
+    "id": 109,
+    "question": "Choose the word most opposite in meaning to the word: ZEALOUS",
+    "options": [
+      "Eager",
+      "Enthusiastic",
+      "Passionate",
+      "Indifferent"
+    ],
+    "answer": 3,
+    "explanation": "'Zealous' (enthusiastic) is opposite to 'Indifferent'."
+  },
+  {
+    "id": 110,
+    "question": "Choose the correct one-word substitute for: A government by the rich",
+    "options": [
+      "Autocracy",
+      "Democracy",
+      "Plutocracy",
+      "Theocracy"
+    ],
+    "answer": 2,
+    "explanation": "A 'Plutocracy' is a government controlled by the wealthy."
+  },
+  {
+    "id": 111,
+    "question": "Choose the word most opposite in meaning to the word: ELOQUENT",
+    "options": [
+      "Expressive",
+      "Inarticulate",
+      "Persuasive",
+      "Fluent"
+    ],
+    "answer": 1,
+    "explanation": "'Eloquent' (fluent) is opposite to 'Inarticulate'."
+  },
+  {
+    "id": 112,
+    "question": "Choose the word most opposite in meaning to the word: IMPARTIAL",
+    "options": [
+      "Fair",
+      "Biased",
+      "Neutral",
+      "Unbiased"
+    ],
+    "answer": 1,
+    "explanation": "'Impartial' (unbiased) is opposite to 'Biased'."
+  },
+  {
+    "id": 113,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "Between you and I, this is a secret.",
+      "Between I and you, this is a secret.",
+      "Between you and myself, this is a secret.",
+      "Between you and me, this is a secret."
+    ],
+    "answer": 3,
+    "explanation": "'Between' is a preposition and takes the objective case 'me', not 'I'."
+  },
+  {
+    "id": 114,
+    "question": "Choose the word most opposite in meaning to the word: HOSTILE",
+    "options": [
+      "Friendly",
+      "Aggressive",
+      "Antagonistic",
+      "Unfriendly"
+    ],
+    "answer": 0,
+    "explanation": "'Hostile' (unfriendly) is opposite to 'Friendly'."
+  },
+  {
+    "id": 115,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "He is very weak to walk.",
+      "He is too weak to walk.",
+      "He is too weak walking.",
+      "He is too weak for walking."
+    ],
+    "answer": 1,
+    "explanation": "'Too + adjective + to + verb' is the correct structure to express inability."
+  },
+  {
+    "id": 116,
+    "question": "Fill in the blank with the correct preposition: She is ignorant ___ the facts.",
+    "options": [
+      "about",
+      "from",
+      "of",
+      "with"
+    ],
+    "answer": 2,
+    "explanation": "'Ignorant of' is the traditionally correct usage."
+  },
+  {
+    "id": 117,
+    "question": "Choose the correct indirect (reported) speech form of: She said, \"I am reading a book.\"",
+    "options": [
+      "She said that she read a book.",
+      "She said that she reads a book.",
+      "She said that she is reading a book.",
+      "She said that she was reading a book."
+    ],
+    "answer": 3,
+    "explanation": "Present continuous shifts to past continuous in indirect speech."
+  },
+  {
+    "id": 118,
+    "question": "Choose the correct tense form to fill in the blank: She ___ beautifully at the concert last night.",
+    "options": [
+      "sings",
+      "has sung",
+      "was singing",
+      "sang"
+    ],
+    "answer": 3,
+    "explanation": "'Last night' indicates a completed action, requiring the simple past tense."
+  },
+  {
+    "id": 119,
+    "question": "Choose the correct tense form to fill in the blank: I ___ here before, so I know the way.",
+    "options": [
+      "have been",
+      "will be",
+      "am",
+      "was"
+    ],
+    "answer": 0,
+    "explanation": "Past experience relevant to the present uses the present perfect tense."
+  },
+  {
+    "id": 120,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "Not only he is intelligent but also hardworking.",
+      "He is not only intelligent but also hardworking.",
+      "He not only is intelligent but hardworking also.",
+      "He is not only intelligent but hardworking also."
+    ],
+    "answer": 1,
+    "explanation": "'Not only... but also' should be placed correctly for parallel structure, immediately before the parallel elements."
+  },
+  {
+    "id": 121,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To bite the bullet'",
+    "options": [
+      "To lose one's temper",
+      "To attack someone suddenly",
+      "To face a difficult situation bravely",
+      "To eat something hard"
+    ],
+    "answer": 2,
+    "explanation": "'To bite the bullet' means to endure a painful situation with courage."
+  },
+  {
+    "id": 122,
+    "question": "Choose the correct tense form to fill in the blank: By the time you arrive, we ___.",
+    "options": [
+      "leave",
+      "are leaving",
+      "will have left",
+      "left"
+    ],
+    "answer": 2,
+    "explanation": "An action to be completed before a future event uses the future perfect tense."
+  },
+  {
+    "id": 123,
+    "question": "Choose the correct tense form to fill in the blank: I ___ him tomorrow.",
+    "options": [
+      "will meet",
+      "meet",
+      "have met",
+      "met"
+    ],
+    "answer": 0,
+    "explanation": "A planned future action uses the simple future tense."
+  },
+  {
+    "id": 124,
+    "question": "Choose the correct one-word substitute for: A list of books on a subject, along with details of author/publication",
+    "options": [
+      "Autobiography",
+      "Bibliography",
+      "Biography",
+      "Anthology"
+    ],
+    "answer": 1,
+    "explanation": "A 'Bibliography' is a systematic list of books/sources on a subject."
+  },
+  {
+    "id": 125,
+    "question": "Choose the correct tense form to fill in the blank: He ___ for London next week.",
+    "options": [
+      "is leaving",
+      "left",
+      "leaves",
+      "has left"
+    ],
+    "answer": 0,
+    "explanation": "Present continuous tense can express a fixed future plan or arrangement."
+  },
+  {
+    "id": 126,
+    "question": "Fill in the blank with the correct preposition: He arrived ___ India last week.",
+    "options": [
+      "on",
+      "to",
+      "in",
+      "at"
+    ],
+    "answer": 2,
+    "explanation": "'Arrive in' is used for larger places like countries or cities."
+  },
+  {
+    "id": 127,
+    "question": "Choose the correct one-word substitute for: The murder of a king",
+    "options": [
+      "Regicide",
+      "Homicide",
+      "Fratricide",
+      "Suicide"
+    ],
+    "answer": 0,
+    "explanation": "'Regicide' specifically refers to the killing of a king."
+  },
+  {
+    "id": 128,
+    "question": "Fill in the blank with the correct article: ___ Ganga is a sacred river.",
+    "options": [
+      "A",
+      "The",
+      "An",
+      "no article needed"
+    ],
+    "answer": 1,
+    "explanation": "'The' is used before names of rivers."
+  },
+  {
+    "id": 129,
+    "question": "Choose the correct tense form to fill in the blank: I ___ my homework before he arrived.",
+    "options": [
+      "finish",
+      "finished",
+      "have finished",
+      "had finished"
+    ],
+    "answer": 3,
+    "explanation": "An action completed before another past action requires the past perfect tense."
+  },
+  {
+    "id": 130,
+    "question": "Fill in the blank with the correct preposition: He was deprived ___ his rights.",
+    "options": [
+      "by",
+      "from",
+      "of",
+      "with"
+    ],
+    "answer": 2,
+    "explanation": "'Deprived of' is the correct usage."
+  },
+  {
+    "id": 131,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To throw in the towel'",
+    "options": [
+      "To start a boxing match",
+      "To clean up after a task",
+      "To give up or admit defeat",
+      "To accept a challenge"
+    ],
+    "answer": 2,
+    "explanation": "'To throw in the towel' (from boxing) means to surrender or give up."
+  },
+  {
+    "id": 132,
+    "question": "Choose the correct one-word substitute for: A place where wild animals are kept for public viewing",
+    "options": [
+      "Sanctuary",
+      "Zoo",
+      "Reserve",
+      "Aviary"
+    ],
+    "answer": 1,
+    "explanation": "A 'Zoo' houses wild animals for public display."
+  },
+  {
+    "id": 133,
+    "question": "Choose the word most opposite in meaning to the word: CANDID",
+    "options": [
+      "Deceptive",
+      "Open",
+      "Frank",
+      "Honest"
+    ],
+    "answer": 0,
+    "explanation": "'Candid' (honest) is opposite to 'Deceptive'."
+  },
+  {
+    "id": 134,
+    "question": "Fill in the blank with the correct verb form: A number of students ___ absent today.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "being"
+    ],
+    "answer": 1,
+    "explanation": "'A number of' (meaning several/many) takes a plural verb."
+  },
+  {
+    "id": 135,
+    "question": "Choose the correctly spelled word from the options below:",
+    "options": [
+      "Definetely",
+      "Definitly",
+      "Definitely",
+      "Definately"
+    ],
+    "answer": 2,
+    "explanation": "The correct spelling is 'Definitely', derived from 'definite'."
+  },
+  {
+    "id": 136,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "He know the answer.",
+      "He is knowing the answer.",
+      "He is know the answer.",
+      "He knows the answer."
+    ],
+    "answer": 3,
+    "explanation": "'Know' is a stative verb and is not normally used in the continuous form."
+  },
+  {
+    "id": 137,
+    "question": "Choose the correct meaning of the idiom/phrase: 'Once in a blue moon'",
+    "options": [
+      "Every night",
+      "Very rarely",
+      "Very frequently",
+      "On a full moon night"
+    ],
+    "answer": 1,
+    "explanation": "'Once in a blue moon' means something happens very rarely."
+  },
+  {
+    "id": 138,
+    "question": "Choose the correct one-word substitute for: A word that reads the same backward and forward",
+    "options": [
+      "Palindrome",
+      "Synonym",
+      "Acronym",
+      "Anagram"
+    ],
+    "answer": 0,
+    "explanation": "A 'Palindrome' (e.g., 'madam') reads the same forwards and backwards."
+  },
+  {
+    "id": 139,
+    "question": "Choose the word most similar in meaning to the word: TRANQUIL",
+    "options": [
+      "Chaotic",
+      "Calm",
+      "Turbulent",
+      "Noisy"
+    ],
+    "answer": 1,
+    "explanation": "'Tranquil' means calm and peaceful."
+  },
+  {
+    "id": 140,
+    "question": "Choose the correct passive voice form of the sentence: \"They will inaugurate the building tomorrow.\"",
+    "options": [
+      "The building would be inaugurated by them tomorrow.",
+      "The building is inaugurated by them tomorrow.",
+      "The building will be inaugurated by them tomorrow.",
+      "The building was inaugurated by them tomorrow."
+    ],
+    "answer": 2,
+    "explanation": "Simple future active becomes 'will be + past participle' in passive voice."
+  },
+  {
+    "id": 141,
+    "question": "Choose the correctly spelled word from the options below:",
+    "options": [
+      "Ocassion",
+      "Occassion",
+      "Occasion",
+      "Ocasion"
+    ],
+    "answer": 2,
+    "explanation": "'Occasion' has double 'c' and single 's'."
+  },
+  {
+    "id": 142,
+    "question": "Choose the correct meaning of the phrasal verb: 'Bring up'",
+    "options": [
+      "To deliver a package",
+      "To arrive early",
+      "To lift something heavy",
+      "To raise a topic in conversation, or to nurture a child"
+    ],
+    "answer": 3,
+    "explanation": "'Bring up' can mean to mention a topic or to raise/nurture a child."
+  },
+  {
+    "id": 143,
+    "question": "Choose the correct tense form to fill in the blank: She ___ to school every day.",
+    "options": [
+      "went",
+      "go",
+      "going",
+      "goes"
+    ],
+    "answer": 3,
+    "explanation": "Habitual actions in the present are expressed using the simple present tense ('goes')."
+  },
+  {
+    "id": 144,
+    "question": "Choose the word most similar in meaning to the word: IMPARTIAL",
+    "options": [
+      "Biased",
+      "Prejudiced",
+      "Partial",
+      "Unbiased"
+    ],
+    "answer": 3,
+    "explanation": "'Impartial' means treating all sides equally, i.e. unbiased."
+  },
+  {
+    "id": 145,
+    "question": "Choose the word most opposite in meaning to the word: BRAVE",
+    "options": [
+      "Courageous",
+      "Bold",
+      "Fearless",
+      "Cowardly"
+    ],
+    "answer": 3,
+    "explanation": "'Brave' is opposite to 'Cowardly'."
+  },
+  {
+    "id": 146,
+    "question": "Choose the correctly spelled word from the options below:",
+    "options": [
+      "Embarrass",
+      "Embarass",
+      "Embarras",
+      "Embaras"
+    ],
+    "answer": 0,
+    "explanation": "'Embarrass' has double 'r' and double 's'."
+  },
+  {
+    "id": 147,
+    "question": "Fill in the blank with the correct article: It is ___ university famous for research.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article needed"
+    ],
+    "answer": 0,
+    "explanation": "'University' begins with a consonant sound ('yoo'), so 'a' is used."
+  },
+  {
+    "id": 148,
+    "question": "Fill in the blank with the correct article: ___ poor should be helped by society.",
+    "options": [
+      "An",
+      "A",
+      "no article needed",
+      "The"
+    ],
+    "answer": 3,
+    "explanation": "'The' + adjective is used to refer to a whole class of people, such as 'the poor'."
+  },
+  {
+    "id": 149,
+    "question": "Choose the correct tense form to fill in the blank: We ___ here since 2010.",
+    "options": [
+      "have lived",
+      "lived",
+      "live",
+      "are living"
+    ],
+    "answer": 0,
+    "explanation": "'Since' with an unfinished period up to now requires the present perfect tense."
+  },
+  {
+    "id": 150,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To break the ice'",
+    "options": [
+      "To end a friendship",
+      "To cause an argument",
+      "To break frozen water",
+      "To initiate conversation in an awkward or formal setting"
+    ],
+    "answer": 3,
+    "explanation": "'To break the ice' means to ease tension by starting a conversation."
+  },
+  {
+    "id": 151,
+    "question": "Choose the correct tense form to fill in the blank: She ___ the newspaper right now.",
+    "options": [
+      "has read",
+      "is reading",
+      "read",
+      "reads"
+    ],
+    "answer": 1,
+    "explanation": "'Right now' indicates the present continuous tense."
+  },
+  {
+    "id": 152,
+    "question": "Choose the word most opposite in meaning to the word: MERITORIOUS",
+    "options": [
+      "Creditable",
+      "Blameworthy",
+      "Commendable",
+      "Praiseworthy"
+    ],
+    "answer": 1,
+    "explanation": "'Meritorious' (praiseworthy) is opposite to 'Blameworthy'."
+  },
+  {
+    "id": 153,
+    "question": "Choose the word most opposite in meaning to the word: LUCID",
+    "options": [
+      "Plain",
+      "Obscure",
+      "Transparent",
+      "Clear"
+    ],
+    "answer": 1,
+    "explanation": "'Lucid' (clear) is opposite to 'Obscure'."
+  },
+  {
+    "id": 154,
+    "question": "Choose the word most similar in meaning to the word: LETHARGIC",
+    "options": [
+      "Energetic",
+      "Lively",
+      "Sluggish",
+      "Active"
+    ],
+    "answer": 2,
+    "explanation": "'Lethargic' means sluggish and lacking energy."
+  },
+  {
+    "id": 155,
+    "question": "Choose the correct meaning of the phrasal verb: 'Give up'",
+    "options": [
+      "To donate something",
+      "To stop trying or abandon an effort",
+      "To increase effort",
+      "To hand over an object"
+    ],
+    "answer": 1,
+    "explanation": "'Give up' means to abandon or stop attempting something."
+  },
+  {
+    "id": 156,
+    "question": "Choose the word most opposite in meaning to the word: BENEVOLENT",
+    "options": [
+      "Generous",
+      "Malevolent",
+      "Kind",
+      "Charitable"
+    ],
+    "answer": 1,
+    "explanation": "'Benevolent' (kind) is opposite to 'Malevolent' (having ill will)."
+  },
+  {
+    "id": 157,
+    "question": "Choose the word most similar in meaning to the word: EXTRAVAGANT",
+    "options": [
+      "Economical",
+      "Lavish",
+      "Thrifty",
+      "Frugal"
+    ],
+    "answer": 1,
+    "explanation": "'Extravagant' means spending more than necessary, i.e. lavish."
+  },
+  {
+    "id": 158,
+    "question": "Choose the correct indirect (reported) speech form of: He said, \"Let us play.\"",
+    "options": [
+      "He told them let us play.",
+      "He asked them to let play.",
+      "He said let us play.",
+      "He suggested that they should play."
+    ],
+    "answer": 3,
+    "explanation": "Proposals with 'let us' are reported using 'suggested that... should'."
+  },
+  {
+    "id": 159,
+    "question": "Choose the correct one-word substitute for: One who can speak two languages",
+    "options": [
+      "Bilingual",
+      "Multilingual",
+      "Interpreter",
+      "Linguist"
+    ],
+    "answer": 0,
+    "explanation": "A 'Bilingual' person can speak two languages fluently."
+  },
+  {
+    "id": 160,
+    "question": "Choose the correct meaning of the idiom/phrase: 'A blessing in disguise'",
+    "options": [
+      "A gift given secretly",
+      "Something good that initially seemed to be a misfortune",
+      "A curse that cannot be removed",
+      "A prayer said in private"
+    ],
+    "answer": 1,
+    "explanation": "'A blessing in disguise' refers to something that turns out to be beneficial despite appearing bad at first."
+  },
+  {
+    "id": 161,
+    "question": "Fill in the blank with the correct preposition: She is married ___ a doctor.",
+    "options": [
+      "with",
+      "of",
+      "by",
+      "to"
+    ],
+    "answer": 3,
+    "explanation": "'Married to' is the correct usage."
+  },
+  {
+    "id": 162,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To pull someone's leg'",
+    "options": [
+      "To trip someone deliberately",
+      "To help someone walk",
+      "To physically harm someone",
+      "To joke or tease someone"
+    ],
+    "answer": 3,
+    "explanation": "'To pull someone's leg' means to playfully tease or joke with them."
+  },
+  {
+    "id": 163,
+    "question": "Fill in the blank with the correct article: ___ Sun rises in the east.",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "no article needed"
+    ],
+    "answer": 2,
+    "explanation": "'The' is used before unique objects like 'the Sun'."
+  },
+  {
+    "id": 164,
+    "question": "Choose the correct one-word substitute for: A person who loves books",
+    "options": [
+      "Biologist",
+      "Bibliography",
+      "Bibliophile",
+      "Botanist"
+    ],
+    "answer": 2,
+    "explanation": "A 'Bibliophile' is a person who loves and collects books."
+  },
+  {
+    "id": 165,
+    "question": "Fill in the blank with the correct verb form: The news of his success ___ pleased everyone.",
+    "options": [
+      "having",
+      "have",
+      "had",
+      "has"
+    ],
+    "answer": 3,
+    "explanation": "'News' is singular and takes a singular verb."
+  },
+  {
+    "id": 166,
+    "question": "Choose the correct one-word substitute for: A government by a single ruler with unlimited power",
+    "options": [
+      "Autocracy",
+      "Democracy",
+      "Plutocracy",
+      "Bureaucracy"
+    ],
+    "answer": 0,
+    "explanation": "An 'Autocracy' is rule by a single person with absolute power."
+  },
+  {
+    "id": 167,
+    "question": "Choose the word most similar in meaning to the word: GRAVE",
+    "options": [
+      "Trivial",
+      "Funny",
+      "Serious",
+      "Casual"
+    ],
+    "answer": 2,
+    "explanation": "'Grave' (as an adjective) means serious or solemn."
+  },
+  {
+    "id": 168,
+    "question": "Fill in the blank with the correct preposition: She excels ___ dancing.",
+    "options": [
+      "in",
+      "of",
+      "on",
+      "at"
+    ],
+    "answer": 3,
+    "explanation": "'Excel at' is a common correct idiomatic usage."
+  },
+  {
+    "id": 169,
+    "question": "Choose the word most opposite in meaning to the word: RETICENT",
+    "options": [
+      "Talkative",
+      "Quiet",
+      "Reserved",
+      "Silent"
+    ],
+    "answer": 0,
+    "explanation": "'Reticent' (reserved) is opposite to 'Talkative'."
+  },
+  {
+    "id": 170,
+    "question": "Choose the correct tense form to fill in the blank: He ___ here for ten years.",
+    "options": [
+      "is working",
+      "works",
+      "worked",
+      "has worked"
+    ],
+    "answer": 3,
+    "explanation": "An action continuing up to the present with 'for' uses the present perfect tense."
+  },
+  {
+    "id": 171,
+    "question": "Choose the correct passive voice form of the sentence: \"He wrote this novel.\"",
+    "options": [
+      "This novel is written by him.",
+      "This novel writes by him.",
+      "This novel was written by him.",
+      "This novel has been written by him."
+    ],
+    "answer": 2,
+    "explanation": "Simple past active becomes 'was/were + past participle' in passive voice."
+  },
+  {
+    "id": 172,
+    "question": "Choose the word most similar in meaning to the word: AUTHENTIC",
+    "options": [
+      "Fake",
+      "Counterfeit",
+      "Genuine",
+      "False"
+    ],
+    "answer": 2,
+    "explanation": "'Authentic' means genuine or of undisputed origin."
+  },
+  {
+    "id": 173,
+    "question": "Choose the correct tense form to fill in the blank: It ___ heavily since morning.",
+    "options": [
+      "rains",
+      "rained",
+      "has been raining",
+      "is raining"
+    ],
+    "answer": 2,
+    "explanation": "A continuous action starting in the past and still ongoing uses present perfect continuous tense."
+  },
+  {
+    "id": 174,
+    "question": "Fill in the blank with the correct verb form: Neither he nor his brothers ___ interested in sports.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "being"
+    ],
+    "answer": 1,
+    "explanation": "When 'neither...nor' joins subjects of different number, the verb agrees with the nearer subject ('brothers')."
+  },
+  {
+    "id": 175,
+    "question": "Fill in the blank with the correct verb form: The team ___ playing well this season.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "being"
+    ],
+    "answer": 1,
+    "explanation": "'Team' as a collective unit acting together takes a singular verb."
+  },
+  {
+    "id": 176,
+    "question": "Choose the correct one-word substitute for: One who hates mankind",
+    "options": [
+      "Altruist",
+      "Humanitarian",
+      "Misanthrope",
+      "Philanthropist"
+    ],
+    "answer": 2,
+    "explanation": "A 'Misanthrope' is a person who dislikes humankind."
+  },
+  {
+    "id": 177,
+    "question": "Choose the correct passive voice form of the sentence: \"The company has launched a new product.\"",
+    "options": [
+      "A new product has been launched by the company.",
+      "A new product is launched by the company.",
+      "A new product launches by the company.",
+      "A new product was launched by the company."
+    ],
+    "answer": 0,
+    "explanation": "Present perfect active becomes 'has/have been + past participle' in passive voice."
+  },
+  {
+    "id": 178,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "He is capable to do it.",
+      "He is capable for doing it.",
+      "He is capable of doing it.",
+      "He is capable at doing it."
+    ],
+    "answer": 2,
+    "explanation": "'Capable' is followed by 'of' + gerund."
+  },
+  {
+    "id": 179,
+    "question": "Fill in the blank with the correct article: He is ___ MLA of this constituency.",
+    "options": [
+      "no article needed",
+      "an",
+      "the",
+      "a"
+    ],
+    "answer": 1,
+    "explanation": "'MLA' is pronounced starting with a vowel sound ('em'), so 'an' is used."
+  },
+  {
+    "id": 180,
+    "question": "Fill in the blank with the correct preposition: He is good ___ mathematics.",
+    "options": [
+      "on",
+      "at",
+      "in",
+      "for"
+    ],
+    "answer": 1,
+    "explanation": "'Good at' is the correct idiomatic usage for a skill/subject."
+  },
+  {
+    "id": 181,
+    "question": "Choose the correct indirect (reported) speech form of: She said, \"Please help me.\"",
+    "options": [
+      "She said to help her.",
+      "She requested me to help her.",
+      "She ordered me to help her.",
+      "She told to help her."
+    ],
+    "answer": 1,
+    "explanation": "Polite requests in direct speech ('please') are reported using 'requested'."
+  },
+  {
+    "id": 182,
+    "question": "Choose the word most opposite in meaning to the word: DILIGENT",
+    "options": [
+      "Hardworking",
+      "Industrious",
+      "Sincere",
+      "Lazy"
+    ],
+    "answer": 3,
+    "explanation": "'Diligent' (hardworking) is opposite to 'Lazy'."
+  },
+  {
+    "id": 183,
+    "question": "Choose the correct passive voice form of the sentence: \"People speak English all over the world.\"",
+    "options": [
+      "English has spoken all over the world.",
+      "English is spoken all over the world.",
+      "English was spoken all over the world.",
+      "English speaks all over the world."
+    ],
+    "answer": 1,
+    "explanation": "General/universal statements in active present become 'is/are + past participle' in passive."
+  },
+  {
+    "id": 184,
+    "question": "Choose the word most opposite in meaning to the word: SCARCE",
+    "options": [
+      "Rare",
+      "Abundant",
+      "Limited",
+      "Insufficient"
+    ],
+    "answer": 1,
+    "explanation": "'Scarce' (rare) is opposite to 'Abundant'."
+  },
+  {
+    "id": 185,
+    "question": "Choose the word most similar in meaning to the word: CANDID",
+    "options": [
+      "Frank",
+      "Vague",
+      "Secretive",
+      "Deceptive"
+    ],
+    "answer": 0,
+    "explanation": "'Candid' means open and honest, i.e. frank."
+  },
+  {
+    "id": 186,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To go the extra mile'",
+    "options": [
+      "To give up on a task midway",
+      "To take a wrong route",
+      "To travel a long distance unnecessarily",
+      "To make an extra effort to achieve something"
+    ],
+    "answer": 3,
+    "explanation": "'To go the extra mile' means to put in more effort than expected."
+  },
+  {
+    "id": 187,
+    "question": "Choose the correct indirect (reported) speech form of: He said, \"Do your homework.\"",
+    "options": [
+      "He ordered me to do my homework.",
+      "He said to do your homework.",
+      "He told do my homework.",
+      "He asked me do my homework."
+    ],
+    "answer": 0,
+    "explanation": "Commands are reported using 'ordered/told + object + infinitive'."
+  },
+  {
+    "id": 188,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "He suggested that I go there.",
+      "He suggested me going there.",
+      "He suggested to me go there.",
+      "He suggested me to go there."
+    ],
+    "answer": 0,
+    "explanation": "'Suggest' is not followed by object + infinitive; it takes a 'that' clause."
+  },
+  {
+    "id": 189,
+    "question": "Choose the correct one-word substitute for: A person who eats human flesh",
+    "options": [
+      "Cannibal",
+      "Omnivore",
+      "Carnivore",
+      "Herbivore"
+    ],
+    "answer": 0,
+    "explanation": "A 'Cannibal' is a person who eats the flesh of other human beings."
+  },
+  {
+    "id": 190,
+    "question": "Choose the word most opposite in meaning to the word: DENSE",
+    "options": [
+      "Compact",
+      "Crowded",
+      "Thick",
+      "Sparse"
+    ],
+    "answer": 3,
+    "explanation": "'Dense' (thick/crowded) is opposite to 'Sparse'."
+  },
+  {
+    "id": 191,
+    "question": "Choose the correct indirect (reported) speech form of: He said, \"May you live long!\"",
+    "options": [
+      "He told that I live long.",
+      "He wished that I might live long.",
+      "He wished that I may live long.",
+      "He said may I live long."
+    ],
+    "answer": 1,
+    "explanation": "Wishes with 'may' are reported using 'wished that... might'."
+  },
+  {
+    "id": 192,
+    "question": "Fill in the blank with the correct preposition: She was blamed ___ the accident.",
+    "options": [
+      "on",
+      "for",
+      "of",
+      "with"
+    ],
+    "answer": 1,
+    "explanation": "'Blamed for' is the correct usage."
+  },
+  {
+    "id": 193,
+    "question": "Fill in the blank with the correct preposition: He is devoid ___ common sense.",
+    "options": [
+      "with",
+      "of",
+      "in",
+      "from"
+    ],
+    "answer": 1,
+    "explanation": "'Devoid of' is the correct usage."
+  },
+  {
+    "id": 194,
+    "question": "Choose the correct one-word substitute for: A statement that has more than one possible meaning",
+    "options": [
+      "Obscure",
+      "Ambiguous",
+      "Cryptic",
+      "Vague"
+    ],
+    "answer": 1,
+    "explanation": "An 'Ambiguous' statement can be interpreted in more than one way."
+  },
+  {
+    "id": 195,
+    "question": "Choose the word most similar in meaning to the word: DILIGENT",
+    "options": [
+      "Careless",
+      "Slow",
+      "Hardworking",
+      "Lazy"
+    ],
+    "answer": 2,
+    "explanation": "'Diligent' means showing care and effort, i.e. hardworking."
+  },
+  {
+    "id": 196,
+    "question": "Choose the correctly spelled word from the options below:",
+    "options": [
+      "Priviege",
+      "Privalige",
+      "Priviledge",
+      "Privilege"
+    ],
+    "answer": 3,
+    "explanation": "The correct spelling is 'Privilege', without a 'd'."
+  },
+  {
+    "id": 197,
+    "question": "Fill in the blank with the correct preposition: They arrived ___ the station on time.",
+    "options": [
+      "to",
+      "on",
+      "at",
+      "in"
+    ],
+    "answer": 2,
+    "explanation": "'Arrive at' is used for smaller/specific places like a station."
+  },
+  {
+    "id": 198,
+    "question": "Choose the word most similar in meaning to the word: JUBILANT",
+    "options": [
+      "Gloomy",
+      "Sad",
+      "Depressed",
+      "Elated"
+    ],
+    "answer": 3,
+    "explanation": "'Jubilant' means feeling great happiness, i.e. elated."
+  },
+  {
+    "id": 199,
+    "question": "Choose the correct passive voice form of the sentence: \"They are building a bridge.\"",
+    "options": [
+      "A bridge has been built by them.",
+      "A bridge was built by them.",
+      "A bridge builds by them.",
+      "A bridge is being built by them."
+    ],
+    "answer": 3,
+    "explanation": "Present continuous active becomes 'is/are being + past participle' in passive voice."
+  },
+  {
+    "id": 200,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To hit the sack'",
+    "options": [
+      "To attack someone with a bag",
+      "To go to bed/sleep",
+      "To finish a task quickly",
+      "To lose a job suddenly"
+    ],
+    "answer": 1,
+    "explanation": "'To hit the sack' is an informal way of saying to go to sleep."
+  },
+  {
+    "id": 201,
+    "question": "Fill in the blank with the correct preposition: He was absent ___ school yesterday.",
+    "options": [
+      "on",
+      "from",
+      "in",
+      "at"
+    ],
+    "answer": 1,
+    "explanation": "'Absent from' is the correct usage."
+  },
+  {
+    "id": 202,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To beat around the bush'",
+    "options": [
+      "To search a garden",
+      "To win a difficult argument",
+      "To avoid talking about something directly",
+      "To hit a plant with a stick"
+    ],
+    "answer": 2,
+    "explanation": "'To beat around the bush' means to avoid getting to the point."
+  },
+  {
+    "id": 203,
+    "question": "Fill in the blank with the correct verb form: The number of accidents ___ increasing.",
+    "options": [
+      "is",
+      "are",
+      "being",
+      "were"
+    ],
+    "answer": 0,
+    "explanation": "'The number of' takes a singular verb."
+  },
+  {
+    "id": 204,
+    "question": "Choose the correct indirect (reported) speech form of: She said, \"I will help you.\"",
+    "options": [
+      "She said that she will help me.",
+      "She said that she would help me.",
+      "She said that she helps me.",
+      "She said that she is helping me."
+    ],
+    "answer": 1,
+    "explanation": "'Will' in direct speech changes to 'would' in indirect speech."
+  },
+  {
+    "id": 205,
+    "question": "Choose the word most opposite in meaning to the word: ABUNDANT",
+    "options": [
+      "Plentiful",
+      "Ample",
+      "Copious",
+      "Scarce"
+    ],
+    "answer": 3,
+    "explanation": "'Abundant' means plentiful; its opposite is 'Scarce'."
+  },
+  {
+    "id": 206,
+    "question": "Choose the correct meaning of the phrasal verb: 'Look after'",
+    "options": [
+      "To follow someone",
+      "To search for something",
+      "To take care of",
+      "To admire someone"
+    ],
+    "answer": 2,
+    "explanation": "'Look after' means to take care of someone or something."
+  },
+  {
+    "id": 207,
+    "question": "Fill in the blank with the correct verb form: The furniture in this room ___ old.",
+    "options": [
+      "being",
+      "were",
+      "are",
+      "is"
+    ],
+    "answer": 3,
+    "explanation": "'Furniture' is an uncountable noun and takes a singular verb."
+  },
+  {
+    "id": 208,
+    "question": "Choose the correct one-word substitute for: One who does not drink alcohol",
+    "options": [
+      "Vegetarian",
+      "Abstainer",
+      "Teetotaler",
+      "Ascetic"
+    ],
+    "answer": 2,
+    "explanation": "A 'Teetotaler' completely abstains from alcoholic drinks."
+  },
+  {
+    "id": 209,
+    "question": "Choose the word most similar in meaning to the word: SCARCE",
+    "options": [
+      "Plentiful",
+      "Common",
+      "Abundant",
+      "Rare"
+    ],
+    "answer": 3,
+    "explanation": "'Scarce' means insufficient in supply, i.e. rare."
+  },
+  {
+    "id": 210,
+    "question": "Choose the correct passive voice form of the sentence: \"Someone stole my bicycle.\"",
+    "options": [
+      "My bicycle was stolen.",
+      "My bicycle is stolen.",
+      "My bicycle has stolen.",
+      "My bicycle stole."
+    ],
+    "answer": 0,
+    "explanation": "When the doer is unknown ('someone'), the passive voice can drop the 'by' agent."
+  },
+  {
+    "id": 211,
+    "question": "Fill in the blank with the correct preposition: He is capable ___ doing this.",
+    "options": [
+      "of",
+      "at",
+      "to",
+      "for"
+    ],
+    "answer": 0,
+    "explanation": "'Capable of' is the correct usage."
+  },
+  {
+    "id": 212,
+    "question": "Choose the correct passive voice form of the sentence: \"The cat chased the mouse.\"",
+    "options": [
+      "The mouse chases the cat.",
+      "The mouse was chased by the cat.",
+      "The mouse is chased by the cat.",
+      "The mouse has been chased by the cat."
+    ],
+    "answer": 1,
+    "explanation": "Simple past active becomes 'was/were + past participle' in passive voice."
+  },
+  {
+    "id": 213,
+    "question": "Choose the correct one-word substitute for: A place where coins are made",
+    "options": [
+      "Bank",
+      "Treasury",
+      "Mint",
+      "Foundry"
+    ],
+    "answer": 2,
+    "explanation": "A 'Mint' is a place where coins are officially manufactured."
+  },
+  {
+    "id": 214,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "Scarcely he left when it started raining.",
+      "Scarcely had he left when it started raining.",
+      "Scarcely did he left when it started raining.",
+      "Scarcely he had left when it started raining."
+    ],
+    "answer": 1,
+    "explanation": "Negative adverbs like 'Scarcely' at the start require inversion of subject and auxiliary verb."
+  },
+  {
+    "id": 215,
+    "question": "Choose the word most similar in meaning to the word: VIGILANT",
+    "options": [
+      "Careless",
+      "Inattentive",
+      "Negligent",
+      "Watchful"
+    ],
+    "answer": 3,
+    "explanation": "'Vigilant' means keeping careful watch, i.e. watchful."
+  },
+  {
+    "id": 216,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To burn the midnight oil'",
+    "options": [
+      "To waste resources",
+      "To cause a fire accidentally",
+      "To work late into the night",
+      "To light a lamp"
+    ],
+    "answer": 2,
+    "explanation": "'To burn the midnight oil' means to study or work late at night."
+  },
+  {
+    "id": 217,
+    "question": "Fill in the blank with the correct verb form: Bread and butter ___ his favourite breakfast.",
+    "options": [
+      "are",
+      "being",
+      "were",
+      "is"
+    ],
+    "answer": 3,
+    "explanation": "When two nouns together form a single idea/dish, the verb is singular."
+  },
+  {
+    "id": 218,
+    "question": "Choose the correct indirect (reported) speech form of: The teacher said, \"The earth revolves around the sun.\"",
+    "options": [
+      "The teacher said that the earth had revolved around the sun.",
+      "The teacher said that the earth revolves around the sun.",
+      "The teacher said that the earth revolved around the sun.",
+      "The teacher said that the earth will revolve around the sun."
+    ],
+    "answer": 1,
+    "explanation": "Universal truths remain in the present tense even in indirect speech."
+  },
+  {
+    "id": 219,
+    "question": "Choose the correct one-word substitute for: A speech delivered without preparation",
+    "options": [
+      "Scripted",
+      "Rehearsed",
+      "Extempore",
+      "Impromptu"
+    ],
+    "answer": 3,
+    "explanation": "An 'Impromptu' speech is delivered without prior preparation. (Note: 'Extempore' is also close, but 'Impromptu' specifically denotes no preparation at all.)"
+  },
+  {
+    "id": 220,
+    "question": "Choose the correct indirect (reported) speech form of: He said, \"I went to Delhi last week.\"",
+    "options": [
+      "He said that he goes to Delhi last week.",
+      "He said that he had gone to Delhi the previous week.",
+      "He said that he has gone to Delhi last week.",
+      "He said that he went to Delhi last week."
+    ],
+    "answer": 1,
+    "explanation": "Simple past shifts to past perfect, and 'last week' changes to 'the previous week'."
+  },
+  {
+    "id": 221,
+    "question": "Choose the word most opposite in meaning to the word: FRUGAL",
+    "options": [
+      "Sparing",
+      "Thrifty",
+      "Economical",
+      "Extravagant"
+    ],
+    "answer": 3,
+    "explanation": "'Frugal' (thrifty) is opposite to 'Extravagant'."
+  },
+  {
+    "id": 222,
+    "question": "Choose the correct indirect (reported) speech form of: She said, \"I shall go there tomorrow.\"",
+    "options": [
+      "She said that she should go there tomorrow.",
+      "She said that she shall go there tomorrow.",
+      "She said that she will go there tomorrow.",
+      "She said that she would go there the next day."
+    ],
+    "answer": 3,
+    "explanation": "'Shall' changes to 'would', and 'tomorrow' changes to 'the next day' in indirect speech."
+  },
+  {
+    "id": 223,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "I have been living here for five years.",
+      "I live here since five years.",
+      "I am living here since five years.",
+      "I have been living here since five years."
+    ],
+    "answer": 0,
+    "explanation": "'For' is used with a duration (five years); 'since' is used with a point in time."
+  },
+  {
+    "id": 224,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To cost an arm and a leg'",
+    "options": [
+      "To require hard labour",
+      "To be very expensive",
+      "To be worth very little",
+      "To cause a physical injury"
+    ],
+    "answer": 1,
+    "explanation": "'To cost an arm and a leg' means something is extremely expensive."
+  },
+  {
+    "id": 225,
+    "question": "Choose the correct passive voice form of the sentence: \"The teacher teaches the students.\"",
+    "options": [
+      "The students are taught by the teacher.",
+      "The students taught the teacher.",
+      "The students are teaching the teacher.",
+      "The students were taught by the teacher."
+    ],
+    "answer": 0,
+    "explanation": "Simple present active becomes 'is/are + past participle' in passive voice."
+  },
+  {
+    "id": 226,
+    "question": "Choose the word most similar in meaning to the word: JOVIAL",
+    "options": [
+      "Angry",
+      "Cheerful",
+      "Gloomy",
+      "Sad"
+    ],
+    "answer": 1,
+    "explanation": "'Jovial' means cheerful and friendly."
+  },
+  {
+    "id": 227,
+    "question": "Choose the word most opposite in meaning to the word: TRANQUIL",
+    "options": [
+      "Calm",
+      "Peaceful",
+      "Serene",
+      "Turbulent"
+    ],
+    "answer": 3,
+    "explanation": "'Tranquil' (calm) is opposite to 'Turbulent'."
+  },
+  {
+    "id": 228,
+    "question": "Choose the correct meaning of the idiom/phrase: 'Under the weather'",
+    "options": [
+      "Feeling extremely cold",
+      "Feeling slightly ill",
+      "Feeling very happy",
+      "Standing outside in the rain"
+    ],
+    "answer": 1,
+    "explanation": "'Under the weather' means feeling unwell."
+  },
+  {
+    "id": 229,
+    "question": "Fill in the blank with the correct verb form: Either of the two roads ___ safe to take.",
+    "options": [
+      "are",
+      "were",
+      "being",
+      "is"
+    ],
+    "answer": 3,
+    "explanation": "'Either' is singular and takes a singular verb."
+  },
+  {
+    "id": 230,
+    "question": "Fill in the blank with the correct verb form: Mathematics ___ an interesting subject.",
+    "options": [
+      "is",
+      "be",
+      "are",
+      "were"
+    ],
+    "answer": 0,
+    "explanation": "Subject names ending in 's' like 'Mathematics' take a singular verb."
+  },
+  {
+    "id": 231,
+    "question": "Choose the word most similar in meaning to the word: BLEAK",
+    "options": [
+      "Hopeful",
+      "Dismal",
+      "Bright",
+      "Cheerful"
+    ],
+    "answer": 1,
+    "explanation": "'Bleak' means bare, cold and depressing, i.e. dismal."
+  },
+  {
+    "id": 232,
+    "question": "Fill in the blank with the correct preposition: She is senior ___ me by two years.",
+    "options": [
+      "than",
+      "of",
+      "to",
+      "from"
+    ],
+    "answer": 2,
+    "explanation": "'Senior to' is the correct usage, not 'than'."
+  },
+  {
+    "id": 233,
+    "question": "Choose the word most opposite in meaning to the word: PRUDENT",
+    "options": [
+      "Cautious",
+      "Wise",
+      "Careful",
+      "Reckless"
+    ],
+    "answer": 3,
+    "explanation": "'Prudent' (wise) is opposite to 'Reckless'."
+  },
+  {
+    "id": 234,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To cut corners'",
+    "options": [
+      "To take a shortcut route while driving",
+      "To do something in the cheapest or easiest way, often lowering quality",
+      "To reduce the size of a room",
+      "To end a relationship abruptly"
+    ],
+    "answer": 1,
+    "explanation": "'To cut corners' means to save time/money by skipping proper procedure."
+  },
+  {
+    "id": 235,
+    "question": "Choose the word most opposite in meaning to the word: OBSTINATE",
+    "options": [
+      "Stubborn",
+      "Rigid",
+      "Flexible",
+      "Inflexible"
+    ],
+    "answer": 2,
+    "explanation": "'Obstinate' (stubborn) is opposite to 'Flexible'."
+  },
+  {
+    "id": 236,
+    "question": "Fill in the blank with the correct verb form: My family ___ very supportive.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "being"
+    ],
+    "answer": 1,
+    "explanation": "'Family' as a single unit takes a singular verb."
+  },
+  {
+    "id": 237,
+    "question": "Choose the word most similar in meaning to the word: ELOQUENT",
+    "options": [
+      "Silent",
+      "Dull",
+      "Fluent",
+      "Confused"
+    ],
+    "answer": 2,
+    "explanation": "'Eloquent' means fluent and persuasive in speech."
+  },
+  {
+    "id": 238,
+    "question": "Choose the correct indirect (reported) speech form of: He said, \"I am going to the market.\"",
+    "options": [
+      "He said that he is going to the market.",
+      "He said that he was going to the market.",
+      "He said that I am going to the market.",
+      "He said that he goes to the market."
+    ],
+    "answer": 1,
+    "explanation": "In indirect speech, present tense in direct speech shifts to past tense, and pronoun 'I' becomes 'he'."
+  },
+  {
+    "id": 239,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To read between the lines'",
+    "options": [
+      "To understand the hidden or implied meaning",
+      "To read a book very carefully",
+      "To read only the headlines",
+      "To skip parts of a text"
+    ],
+    "answer": 0,
+    "explanation": "'To read between the lines' means to grasp meaning that is not directly stated."
+  },
+  {
+    "id": 240,
+    "question": "Fill in the blank with the correct verb form: The old and the young ___ enjoying the festival together.",
+    "options": [
+      "are",
+      "was",
+      "is",
+      "being"
+    ],
+    "answer": 0,
+    "explanation": "'The old and the young' refers to groups of people (plural), taking a plural verb."
+  },
+  {
+    "id": 241,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "One should love their country.",
+      "One should love their countries.",
+      "One should love its country.",
+      "One should love his country."
+    ],
+    "answer": 3,
+    "explanation": "Traditionally, 'one' is followed by 'his' for agreement in formal grammar."
+  },
+  {
+    "id": 242,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "She is most senior in the office.",
+      "She is the seniormost in the office.",
+      "She is senior most in the office.",
+      "She is the most senior in the office."
+    ],
+    "answer": 3,
+    "explanation": "Superlative degree requires 'the' before 'most senior'."
+  },
+  {
+    "id": 243,
+    "question": "Fill in the blank with the correct article: He gave me ___ one-rupee coin.",
+    "options": [
+      "no article needed",
+      "a",
+      "the",
+      "an"
+    ],
+    "answer": 1,
+    "explanation": "'One' is pronounced with a consonant sound ('won'), so 'a' is used."
+  },
+  {
+    "id": 244,
+    "question": "Choose the correct passive voice form of the sentence: \"The children are watching a movie.\"",
+    "options": [
+      "A movie is being watched by the children.",
+      "A movie was watched by the children.",
+      "A movie has been watched by the children.",
+      "A movie watches by the children."
+    ],
+    "answer": 0,
+    "explanation": "Present continuous active becomes 'is/are being + past participle' in passive voice."
+  },
+  {
+    "id": 245,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To keep one's fingers crossed'",
+    "options": [
+      "To lie deliberately",
+      "To hope for a good outcome",
+      "To count something carefully",
+      "To promise something firmly"
+    ],
+    "answer": 1,
+    "explanation": "'To keep one's fingers crossed' means to hope that things go well."
+  },
+  {
+    "id": 246,
+    "question": "Fill in the blank with the correct preposition: He is engaged ___ writing a book.",
+    "options": [
+      "on",
+      "at",
+      "in",
+      "with"
+    ],
+    "answer": 2,
+    "explanation": "'Engaged in' is used for an ongoing activity."
+  },
+  {
+    "id": 247,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To take something with a pinch of salt'",
+    "options": [
+      "To season food properly",
+      "To ignore something completely",
+      "To believe something without question",
+      "To be skeptical about something and not accept it fully"
+    ],
+    "answer": 3,
+    "explanation": "'With a pinch of salt' means to view something with some doubt."
+  },
+  {
+    "id": 248,
+    "question": "Choose the correct tense form to fill in the blank: She ___ when the phone rang.",
+    "options": [
+      "studies",
+      "was studying",
+      "studied",
+      "has studied"
+    ],
+    "answer": 1,
+    "explanation": "An action in progress when interrupted by another past action requires past continuous tense."
+  },
+  {
+    "id": 249,
+    "question": "Choose the word most similar in meaning to the word: CONCISE",
+    "options": [
+      "Wordy",
+      "Brief",
+      "Lengthy",
+      "Verbose"
+    ],
+    "answer": 1,
+    "explanation": "'Concise' means giving information clearly in few words, i.e. brief."
+  },
+  {
+    "id": 250,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "She is married to a doctor.",
+      "She is married with a doctor.",
+      "She is married by a doctor.",
+      "She is married for a doctor."
+    ],
+    "answer": 0,
+    "explanation": "The correct preposition after 'married' is 'to'."
+  },
+  {
+    "id": 251,
+    "question": "Fill in the blank with the correct preposition: He insisted ___ going there.",
+    "options": [
+      "on",
+      "of",
+      "at",
+      "for"
+    ],
+    "answer": 0,
+    "explanation": "'Insist on' is the correct usage."
+  },
+  {
+    "id": 252,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "Let you and me go there.",
+      "Let we go there.",
+      "Let us you and I go there.",
+      "Let you and I go there."
+    ],
+    "answer": 0,
+    "explanation": "After 'let', the objective case ('me') is required, not the subjective case ('I')."
+  },
+  {
+    "id": 253,
+    "question": "Choose the word most opposite in meaning to the word: MAJOR",
+    "options": [
+      "Principal",
+      "Minor",
+      "Significant",
+      "Main"
+    ],
+    "answer": 1,
+    "explanation": "'Major' is opposite to 'Minor'."
+  },
+  {
+    "id": 254,
+    "question": "Choose the correct one-word substitute for: One who studies and repairs clocks and watches",
+    "options": [
+      "Chronologist",
+      "Timekeeper",
+      "Watchmaker",
+      "Horologist"
+    ],
+    "answer": 3,
+    "explanation": "A 'Horologist' is a specialist in the science/art of measuring time and timepieces."
+  },
+  {
+    "id": 255,
+    "question": "Choose the word most similar in meaning to the word: ZEALOUS",
+    "options": [
+      "Enthusiastic",
+      "Apathetic",
+      "Indifferent",
+      "Lazy"
+    ],
+    "answer": 0,
+    "explanation": "'Zealous' means showing great enthusiasm."
+  },
+  {
+    "id": 256,
+    "question": "Choose the word most opposite in meaning to the word: IGNORANT",
+    "options": [
+      "Unaware",
+      "Uninformed",
+      "Knowledgeable",
+      "Uneducated"
+    ],
+    "answer": 2,
+    "explanation": "'Ignorant' (unaware) is opposite to 'Knowledgeable'."
+  },
+  {
+    "id": 257,
+    "question": "Choose the correct one-word substitute for: One who works without pay",
+    "options": [
+      "Mercenary",
+      "Volunteer",
+      "Employee",
+      "Contractor"
+    ],
+    "answer": 1,
+    "explanation": "A 'Volunteer' offers their services without expecting payment."
+  },
+  {
+    "id": 258,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To call it a day'",
+    "options": [
+      "To stop working for the day",
+      "To celebrate an occasion",
+      "To plan a schedule",
+      "To make a phone call"
+    ],
+    "answer": 0,
+    "explanation": "'To call it a day' means to decide to stop an activity, usually for the day."
+  },
+  {
+    "id": 259,
+    "question": "Choose the word most similar in meaning to the word: ABUNDANT",
+    "options": [
+      "Plentiful",
+      "Scarce",
+      "Rare",
+      "Meager"
+    ],
+    "answer": 0,
+    "explanation": "'Abundant' means existing in large quantities; 'Plentiful' is its closest synonym."
+  },
+  {
+    "id": 260,
+    "question": "Choose the correct one-word substitute for: A person who is indifferent to pleasure or pain",
+    "options": [
+      "Hedonist",
+      "Sceptic",
+      "Cynic",
+      "Stoic"
+    ],
+    "answer": 3,
+    "explanation": "A 'Stoic' remains unaffected by pleasure or pain."
+  },
+  {
+    "id": 261,
+    "question": "Choose the correct one-word substitute for: A person who has no money",
+    "options": [
+      "Beggar",
+      "Debtor",
+      "Miser",
+      "Pauper"
+    ],
+    "answer": 3,
+    "explanation": "A 'Pauper' is a very poor person with no money."
+  },
+  {
+    "id": 262,
+    "question": "Choose the word most similar in meaning to the word: FACTUAL",
+    "options": [
+      "Fictional",
+      "False",
+      "Imaginary",
+      "Accurate"
+    ],
+    "answer": 3,
+    "explanation": "'Factual' means based on facts, i.e. accurate."
+  },
+  {
+    "id": 263,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "He is senior to me.",
+      "He is more senior than me.",
+      "He is senior than me.",
+      "He is senior from me."
+    ],
+    "answer": 0,
+    "explanation": "'Senior' takes the preposition 'to', not 'than'."
+  },
+  {
+    "id": 264,
+    "question": "Choose the word most opposite in meaning to the word: KIND",
+    "options": [
+      "Caring",
+      "Compassionate",
+      "Gentle",
+      "Cruel"
+    ],
+    "answer": 3,
+    "explanation": "'Kind' is opposite to 'Cruel'."
+  },
+  {
+    "id": 265,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "Neither of them were right.",
+      "Neither of them are right.",
+      "Neither of them being right.",
+      "Neither of them is right."
+    ],
+    "answer": 3,
+    "explanation": "'Neither' is singular and takes a singular verb 'is'."
+  },
+  {
+    "id": 266,
+    "question": "Choose the correct one-word substitute for: One who is not sure of the existence of God",
+    "options": [
+      "Pantheist",
+      "Theist",
+      "Atheist",
+      "Agnostic"
+    ],
+    "answer": 3,
+    "explanation": "An 'Agnostic' believes the existence of God cannot be known."
+  },
+  {
+    "id": 267,
+    "question": "Fill in the blank with the correct preposition: He apologized ___ his mistake.",
+    "options": [
+      "about",
+      "with",
+      "for",
+      "of"
+    ],
+    "answer": 2,
+    "explanation": "'Apologize for' is the correct preposition with a reason/mistake."
+  },
+  {
+    "id": 268,
+    "question": "Choose the correct indirect (reported) speech form of: She said, \"I can swim.\"",
+    "options": [
+      "She said that she could swim.",
+      "She said that she is able to swim.",
+      "She said that she cans swim.",
+      "She said that she can swim."
+    ],
+    "answer": 0,
+    "explanation": "'Can' changes to 'could' in indirect speech."
+  },
+  {
+    "id": 269,
+    "question": "Fill in the blank with the correct verb form: Each of the students ___ received a certificate.",
+    "options": [
+      "have",
+      "had",
+      "having",
+      "has"
+    ],
+    "answer": 3,
+    "explanation": "'Each' is singular and takes a singular verb ('has')."
+  },
+  {
+    "id": 270,
+    "question": "Choose the correct one-word substitute for: One who is easily deceived",
+    "options": [
+      "Skeptical",
+      "Cunning",
+      "Gullible",
+      "Shrewd"
+    ],
+    "answer": 2,
+    "explanation": "A 'Gullible' person is easily fooled or deceived."
+  },
+  {
+    "id": 271,
+    "question": "Fill in the blank with the correct verb form: My glasses (spectacles) ___ broken.",
+    "options": [
+      "being",
+      "are",
+      "was",
+      "is"
+    ],
+    "answer": 1,
+    "explanation": "'Glasses' (spectacles) is treated as a plural noun."
+  },
+  {
+    "id": 272,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To make ends meet'",
+    "options": [
+      "To finish a project on time",
+      "To have just enough money to cover one's needs",
+      "To reconcile two opposing views",
+      "To achieve a perfect balance in life"
+    ],
+    "answer": 1,
+    "explanation": "'To make ends meet' means to manage financially with limited income."
+  },
+  {
+    "id": 273,
+    "question": "Choose the correct tense form to fill in the blank: He usually ___ at six.",
+    "options": [
+      "has woken up",
+      "wakes up",
+      "woke up",
+      "is waking up"
+    ],
+    "answer": 1,
+    "explanation": "Habitual actions use the simple present tense."
+  },
+  {
+    "id": 274,
+    "question": "Fill in the blank with the correct article: She wants to become ___ engineer.",
+    "options": [
+      "no article needed",
+      "a",
+      "an",
+      "the"
+    ],
+    "answer": 2,
+    "explanation": "'Engineer' begins with a vowel sound, so 'an' is used."
+  },
+  {
+    "id": 275,
+    "question": "Choose the correct passive voice form of the sentence: \"She wrote a letter.\"",
+    "options": [
+      "A letter is written by her.",
+      "A letter was written by her.",
+      "A letter has been written by her.",
+      "A letter writes by her."
+    ],
+    "answer": 1,
+    "explanation": "Simple past active becomes 'was/were + past participle' in passive voice."
+  },
+  {
+    "id": 276,
+    "question": "Choose the word most similar in meaning to the word: FRUGAL",
+    "options": [
+      "Generous",
+      "Wasteful",
+      "Extravagant",
+      "Thrifty"
+    ],
+    "answer": 3,
+    "explanation": "'Frugal' means economical/thrifty in spending."
+  },
+  {
+    "id": 277,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To see eye to eye'",
+    "options": [
+      "To agree completely with someone",
+      "To avoid looking at someone",
+      "To argue continuously",
+      "To compete with someone"
+    ],
+    "answer": 0,
+    "explanation": "'To see eye to eye' means to be in full agreement."
+  },
+  {
+    "id": 278,
+    "question": "Choose the word most similar in meaning to the word: HAMPER",
+    "options": [
+      "Assist",
+      "Hinder",
+      "Help",
+      "Facilitate"
+    ],
+    "answer": 1,
+    "explanation": "'Hamper' means to hinder or obstruct progress."
+  },
+  {
+    "id": 279,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "The teacher along with the students were present.",
+      "The teacher along with the students are present.",
+      "The teacher along with the students being present.",
+      "The teacher along with the students was present."
+    ],
+    "answer": 3,
+    "explanation": "Phrases like 'along with' do not affect the number of the verb; the verb agrees with the main subject 'teacher' (singular)."
+  },
+  {
+    "id": 280,
+    "question": "Choose the correct indirect (reported) speech form of: He said to me, \"Where do you live?\"",
+    "options": [
+      "He asked me where you live.",
+      "He asked me where do I live.",
+      "He asked me where I lived.",
+      "He said me where I lived."
+    ],
+    "answer": 2,
+    "explanation": "Questions reported in indirect speech drop the auxiliary inversion and use 'asked'."
+  },
+  {
+    "id": 281,
+    "question": "Choose the correct indirect (reported) speech form of: He said, \"What is your name?\"",
+    "options": [
+      "He said what my name was.",
+      "He asked what is my name.",
+      "He asked what was your name.",
+      "He asked what my name was."
+    ],
+    "answer": 3,
+    "explanation": "In reported questions, word order becomes statement-like and tense shifts back."
+  },
+  {
+    "id": 282,
+    "question": "Fill in the blank with the correct article: I need ___ hour to finish this.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article needed"
+    ],
+    "answer": 1,
+    "explanation": "'Hour' has a silent 'h', so it begins with a vowel sound, requiring 'an'."
+  },
+  {
+    "id": 283,
+    "question": "Choose the word most opposite in meaning to the word: LENIENT",
+    "options": [
+      "Merciful",
+      "Forgiving",
+      "Tolerant",
+      "Strict"
+    ],
+    "answer": 3,
+    "explanation": "'Lenient' (merciful) is opposite to 'Strict'."
+  },
+  {
+    "id": 284,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To turn a blind eye'",
+    "options": [
+      "To deliberately ignore something",
+      "To look away out of shyness",
+      "To close one's eyes while sleeping",
+      "To go blind suddenly"
+    ],
+    "answer": 0,
+    "explanation": "'To turn a blind eye' means to deliberately overlook something wrong."
+  },
+  {
+    "id": 285,
+    "question": "Choose the word most similar in meaning to the word: DEFERENCE",
+    "options": [
+      "Disrespect",
+      "Insult",
+      "Respect",
+      "Contempt"
+    ],
+    "answer": 2,
+    "explanation": "'Deference' means humble submission and respect."
+  },
+  {
+    "id": 286,
+    "question": "Fill in the blank with the correct verb form: Everybody ___ invited to the party.",
+    "options": [
+      "were",
+      "is",
+      "are",
+      "being"
+    ],
+    "answer": 1,
+    "explanation": "'Everybody' is singular and takes a singular verb."
+  },
+  {
+    "id": 287,
+    "question": "Choose the correct meaning of the idiom/phrase: 'To add fuel to the fire'",
+    "options": [
+      "To make a bad situation even worse",
+      "To help extinguish a fire",
+      "To calm someone down",
+      "To start a new project"
+    ],
+    "answer": 0,
+    "explanation": "'To add fuel to the fire' means to worsen an already bad situation."
+  },
+  {
+    "id": 288,
+    "question": "Choose the correct passive voice form of the sentence: \"They had completed the project.\"",
+    "options": [
+      "The project had been completed by them.",
+      "The project has been completed by them.",
+      "The project was completed by them.",
+      "The project is completed by them."
+    ],
+    "answer": 0,
+    "explanation": "Past perfect active becomes 'had been + past participle' in passive voice."
+  },
+  {
+    "id": 289,
+    "question": "Choose the word most opposite in meaning to the word: NOTORIOUS",
+    "options": [
+      "Disreputable",
+      "Reputable",
+      "Infamous",
+      "Ill-famed"
+    ],
+    "answer": 1,
+    "explanation": "'Notorious' (infamous) is opposite to 'Reputable'."
+  },
+  {
+    "id": 290,
+    "question": "Choose the correct meaning of the phrasal verb: 'Break down'",
+    "options": [
+      "To celebrate success",
+      "To organize an event",
+      "To stop functioning, or to become emotionally overwhelmed",
+      "To repair a machine"
+    ],
+    "answer": 2,
+    "explanation": "'Break down' means to fail mechanically or to lose emotional control."
+  },
+  {
+    "id": 291,
+    "question": "Fill in the blank with the correct preposition: He is junior ___ me in rank.",
+    "options": [
+      "from",
+      "of",
+      "to",
+      "than"
+    ],
+    "answer": 2,
+    "explanation": "'Junior to' is the correct usage, not 'than'."
+  },
+  {
+    "id": 292,
+    "question": "Choose the correct meaning of the phrasal verb: 'Turn down'",
+    "options": [
+      "To arrive late",
+      "To increase the volume",
+      "To reject an offer or request",
+      "To accept happily"
+    ],
+    "answer": 2,
+    "explanation": "'Turn down' means to refuse or reject something."
+  },
+  {
+    "id": 293,
+    "question": "Choose the correct passive voice form of the sentence: \"He opens the shop every morning.\"",
+    "options": [
+      "The shop has opened by him every morning.",
+      "The shop opens by him every morning.",
+      "The shop was opened by him every morning.",
+      "The shop is opened by him every morning."
+    ],
+    "answer": 3,
+    "explanation": "Simple present active becomes 'is/are + past participle' in passive voice."
+  },
+  {
+    "id": 294,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "The news being good.",
+      "The news is good.",
+      "The news were good.",
+      "The news are good."
+    ],
+    "answer": 1,
+    "explanation": "'News' is always treated as a singular noun."
+  },
+  {
+    "id": 295,
+    "question": "Choose the correct passive voice form of the sentence: \"I will finish the task.\"",
+    "options": [
+      "The task would be finished by me.",
+      "The task is finished by me.",
+      "The task will be finished by me.",
+      "The task was finished by me."
+    ],
+    "answer": 2,
+    "explanation": "Simple future active becomes 'will be + past participle' in passive voice."
+  },
+  {
+    "id": 296,
+    "question": "Choose the correctly spelled word from the options below:",
+    "options": [
+      "Receve",
+      "Receeve",
+      "Receive",
+      "Recieve"
+    ],
+    "answer": 2,
+    "explanation": "'Receive' follows the rule 'i before e except after c' — correct spelling is 'Receive'."
+  },
+  {
+    "id": 297,
+    "question": "Choose the correctly spelled word from the options below:",
+    "options": [
+      "Accommodate",
+      "Accomodate",
+      "Acommodate",
+      "Acomodate"
+    ],
+    "answer": 0,
+    "explanation": "'Accommodate' has double 'c' and double 'm'."
+  },
+  {
+    "id": 298,
+    "question": "Choose the grammatically correct sentence from the options below:",
+    "options": [
+      "He along with his friends going to the market.",
+      "He along with his friends have gone to the market.",
+      "He along with his friends has gone to the market.",
+      "He along with his friend have gone to the market."
+    ],
+    "answer": 2,
+    "explanation": "The verb agrees with the main subject 'He' (singular), not the phrase after 'along with'."
+  },
+  {
+    "id": 299,
+    "question": "Choose the correct one-word substitute for: A handwriting that cannot be read",
+    "options": [
+      "Indecipherable",
+      "Incomprehensible",
+      "Illegible",
+      "Illegal"
+    ],
+    "answer": 2,
+    "explanation": "'Illegible' handwriting cannot be read/deciphered."
+  },
+  {
+    "id": 300,
+    "question": "Fill in the blank with the correct verb form: The police ___ investigating the case.",
+    "options": [
+      "is",
+      "was",
+      "are",
+      "being"
+    ],
+    "answer": 2,
+    "explanation": "'Police' is treated as a plural noun and takes a plural verb."
+  }
+]

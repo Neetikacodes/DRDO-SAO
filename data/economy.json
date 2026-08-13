@@ -1,0 +1,3602 @@
+[
+  {
+    "id": 1,
+    "question": "The Finance Commission of India is primarily concerned with",
+    "options": [
+      "Regulating the stock exchanges",
+      "Formulating the country's foreign policy",
+      "Managing India's defence budget",
+      "Recommending the distribution of tax revenues between the Centre and states"
+    ],
+    "answer": 3,
+    "explanation": "The Finance Commission recommends the vertical/horizontal devolution of taxes between Centre and states."
+  },
+  {
+    "id": 2,
+    "question": "Government borrowing to finance the fiscal deficit is typically raised mainly through",
+    "options": [
+      "Selling foreign embassies",
+      "Issuance of government securities/bonds in the market",
+      "Direct printing of currency notes only",
+      "Selling agricultural land to farmers"
+    ],
+    "answer": 1,
+    "explanation": "Market borrowing via G-secs is the principal route for financing fiscal deficit."
+  },
+  {
+    "id": 3,
+    "question": "The nominal GDP of a country is Rs. 168.0 lakh crore and the GDP deflator is 105. The real GDP (in Rs. lakh crore, rounded to the nearest whole number) is approximately",
+    "options": [
+      "160",
+      "136",
+      "144",
+      "176"
+    ],
+    "answer": 0,
+    "explanation": "Real GDP = (Nominal GDP / GDP Deflator) x 100 = (168.0 / 105) x 100 ~ Rs. 160 lakh crore."
+  },
+  {
+    "id": 4,
+    "question": "'Stagflation' refers to an economic situation characterised by",
+    "options": [
+      "High growth with zero inflation",
+      "Falling prices and rapid economic growth",
+      "Zero inflation and zero unemployment",
+      "Simultaneous high inflation and stagnant growth/high unemployment"
+    ],
+    "answer": 3,
+    "explanation": "Stagflation combines the adverse conditions of inflation with stagnation/unemployment."
+  },
+  {
+    "id": 5,
+    "question": "India's Semiconductor Mission primarily aims to",
+    "options": [
+      "Build domestic capacity in semiconductor design, manufacturing and packaging",
+      "Manage food grain procurement",
+      "Promote only textile manufacturing",
+      "Regulate the banking sector"
+    ],
+    "answer": 0,
+    "explanation": "The Semiconductor Mission seeks to develop India's chip design and fabrication ecosystem."
+  },
+  {
+    "id": 6,
+    "question": "The Jal Jeevan Mission primarily aims to provide",
+    "options": [
+      "Housing for urban slum dwellers",
+      "Functional household tap water connections to every rural household",
+      "Crop insurance to farmers",
+      "Free irrigation equipment to farmers only"
+    ],
+    "answer": 1,
+    "explanation": "Jal Jeevan Mission targets universal safe piped drinking water supply to rural homes."
+  },
+  {
+    "id": 7,
+    "question": "The nominal GDP of a country is Rs. 291.2 lakh crore and the GDP deflator is 112. The real GDP (in Rs. lakh crore, rounded to the nearest whole number) is approximately",
+    "options": [
+      "260",
+      "286",
+      "221",
+      "234"
+    ],
+    "answer": 0,
+    "explanation": "Real GDP = (Nominal GDP / GDP Deflator) x 100 = (291.2 / 112) x 100 ~ Rs. 260 lakh crore."
+  },
+  {
+    "id": 8,
+    "question": "The Sustainable Development Goals (SDGs), adopted by the United Nations in 2015, comprise a total of",
+    "options": [
+      "17 goals to be achieved by 2030",
+      "5 goals to be achieved by 2020",
+      "30 goals with no target year",
+      "10 goals to be achieved by 2050"
+    ],
+    "answer": 0,
+    "explanation": "The UN's 2030 Agenda comprises 17 Sustainable Development Goals."
+  },
+  {
+    "id": 9,
+    "question": "Rupee depreciation, other things being equal, generally tends to make Indian exports",
+    "options": [
+      "Completely unaffected in price terms",
+      "Illegal under WTO rules",
+      "More competitive/cheaper in foreign currency terms",
+      "Less competitive/costlier in foreign currency terms"
+    ],
+    "answer": 2,
+    "explanation": "A weaker rupee lowers the foreign-currency price of Indian goods, aiding export competitiveness."
+  },
+  {
+    "id": 10,
+    "question": "Reforms in the external sector after 1991 included moving towards a",
+    "options": [
+      "Market-determined exchange rate regime",
+      "Complete ban on foreign exchange transactions",
+      "Fully fixed exchange rate regime",
+      "Barter-based trade system"
+    ],
+    "answer": 0,
+    "explanation": "India moved from a managed/fixed rate to a more market-determined exchange rate."
+  },
+  {
+    "id": 11,
+    "question": "The repo rate is the rate at which",
+    "options": [
+      "The RBI lends to foreign governments",
+      "The RBI lends short-term funds to commercial banks against government securities",
+      "Individuals borrow from commercial banks directly",
+      "Commercial banks lend to the RBI"
+    ],
+    "answer": 1,
+    "explanation": "Repo rate is the rate at which RBI provides short-term liquidity to banks against collateral."
+  },
+  {
+    "id": 12,
+    "question": "If the GDP of a country is Rs. 380 lakh crore and the fiscal deficit is Rs. 16.7 lakh crore, the fiscal deficit as a percentage of GDP is approximately",
+    "options": [
+      "25",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "Fiscal Deficit (% of GDP) = (Fiscal Deficit / GDP) x 100 = (16.7 / 380) x 100 ~ 4.4%."
+  },
+  {
+    "id": 13,
+    "question": "If the GDP of a country is Rs. 300 lakh crore and the fiscal deficit is Rs. 12.9 lakh crore, the fiscal deficit as a percentage of GDP is approximately",
+    "options": [
+      "25",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "Fiscal Deficit (% of GDP) = (Fiscal Deficit / GDP) x 100 = (12.9 / 300) x 100 ~ 4.3%."
+  },
+  {
+    "id": 14,
+    "question": "The Wholesale Price Index (WPI) measures price changes at the",
+    "options": [
+      "International commodity exchange level only",
+      "Retail consumer level only",
+      "Wholesale/producer level, before retail markups",
+      "Export level only"
+    ],
+    "answer": 2,
+    "explanation": "WPI captures price movements at the wholesale/producer stage of the supply chain."
+  },
+  {
+    "id": 15,
+    "question": "India's GDP was Rs. 140 lakh crore in one year and rose to Rs. 149.8 lakh crore in the following year. The approximate annual growth rate of GDP is",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "28"
+    ],
+    "answer": 2,
+    "explanation": "Growth Rate = [(GDP2 - GDP1) / GDP1] x 100 = [(149.8 - 140) / 140] x 100 ~ 7%."
+  },
+  {
+    "id": 16,
+    "question": "Strategic sale of a PSU differs from minority stake sale mainly because it involves",
+    "options": [
+      "No change in either ownership or control",
+      "Only listing shares on the stock exchange",
+      "Transfer of both ownership and management control to a private buyer",
+      "Only issuing bonus shares"
+    ],
+    "answer": 2,
+    "explanation": "Strategic sale transfers management control, not just a minority equity stake."
+  },
+  {
+    "id": 17,
+    "question": "The nominal GDP of a country is Rs. 220.0 lakh crore and the GDP deflator is 110. The real GDP (in Rs. lakh crore, rounded to the nearest whole number) is approximately",
+    "options": [
+      "220",
+      "170",
+      "200",
+      "180"
+    ],
+    "answer": 2,
+    "explanation": "Real GDP = (Nominal GDP / GDP Deflator) x 100 = (220.0 / 110) x 100 ~ Rs. 200 lakh crore."
+  },
+  {
+    "id": 18,
+    "question": "The national income of a country is Rs. 800 lakh crore and its population is 120 crore. The per capita income (in thousand Rs., rounded to the nearest whole number) is approximately",
+    "options": [
+      "600",
+      "734",
+      "567",
+      "667"
+    ],
+    "answer": 3,
+    "explanation": "Per Capita Income = National Income / Population = (800 lakh crore x 100) / 120 crore ~ Rs. 667 thousand."
+  },
+  {
+    "id": 19,
+    "question": "Public-Private Partnership (PPP) models in infrastructure involve",
+    "options": [
+      "Exclusive private ownership with no government involvement at all",
+      "Exclusive government funding and management with no private role",
+      "Collaboration between government and private entities to develop and manage infrastructure projects",
+      "Complete nationalisation of all infrastructure"
+    ],
+    "answer": 2,
+    "explanation": "PPPs combine public oversight with private capital/expertise for infrastructure delivery."
+  },
+  {
+    "id": 20,
+    "question": "The convertibility of a currency on the capital account refers to the",
+    "options": [
+      "Freedom to convert domestic currency into foreign currency for capital account transactions like investment",
+      "Complete prohibition on currency conversion",
+      "Fixed exchange rate maintained forever",
+      "Freedom to convert currency only for trade in goods"
+    ],
+    "answer": 0,
+    "explanation": "Capital account convertibility allows free currency conversion for investment/asset transactions."
+  },
+  {
+    "id": 21,
+    "question": "The national income of a country is Rs. 450 lakh crore and its population is 140 crore. The per capita income (in thousand Rs., rounded to the nearest whole number) is approximately",
+    "options": [
+      "273",
+      "289",
+      "353",
+      "321"
+    ],
+    "answer": 3,
+    "explanation": "Per Capita Income = National Income / Population = (450 lakh crore x 100) / 140 crore ~ Rs. 321 thousand."
+  },
+  {
+    "id": 22,
+    "question": "India's GDP was Rs. 150 lakh crore in one year and rose to Rs. 161.2 lakh crore in the following year. The approximate annual growth rate of GDP is",
+    "options": [
+      "7",
+      "9",
+      "10",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "Growth Rate = [(GDP2 - GDP1) / GDP1] x 100 = [(161.2 - 150) / 150] x 100 ~ 7.5%."
+  },
+  {
+    "id": 23,
+    "question": "India's GDP was Rs. 220 lakh crore in one year and rose to Rs. 228.8 lakh crore in the following year. The approximate annual growth rate of GDP is",
+    "options": [
+      "25",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "Growth Rate = [(GDP2 - GDP1) / GDP1] x 100 = [(228.8 - 220) / 220] x 100 ~ 4%."
+  },
+  {
+    "id": 24,
+    "question": "The 1991 reforms replaced the industrial licensing system (License Raj) largely through",
+    "options": [
+      "Delicensing of most industries",
+      "Nationalisation of private industry",
+      "Introduction of stricter licensing",
+      "Banning industrial expansion"
+    ],
+    "answer": 0,
+    "explanation": "Industrial delicensing removed the need for licenses for most sectors, easing entry."
+  },
+  {
+    "id": 25,
+    "question": "The nominal GDP of a country is Rs. 172.8 lakh crore and the GDP deflator is 108. The real GDP (in Rs. lakh crore, rounded to the nearest whole number) is approximately",
+    "options": [
+      "144",
+      "160",
+      "136",
+      "176"
+    ],
+    "answer": 1,
+    "explanation": "Real GDP = (Nominal GDP / GDP Deflator) x 100 = (172.8 / 108) x 100 ~ Rs. 160 lakh crore."
+  },
+  {
+    "id": 26,
+    "question": "An expansionary monetary policy typically involves the RBI",
+    "options": [
+      "Raising policy rates sharply to curb growth",
+      "Increasing income tax rates",
+      "Reducing policy rates and/or CRR to increase money supply and support growth",
+      "Reducing government expenditure"
+    ],
+    "answer": 2,
+    "explanation": "Expansionary policy eases rates/reserve requirements to boost liquidity and growth."
+  },
+  {
+    "id": 27,
+    "question": "Recent GST reforms (often referred to as GST 2.0) have moved towards",
+    "options": [
+      "A more complex structure with additional tax slabs",
+      "Complete abolition of GST",
+      "A simplified rate structure with fewer tax slabs",
+      "Replacing GST with the earlier VAT system"
+    ],
+    "answer": 2,
+    "explanation": "GST 2.0 reforms aim to rationalise and simplify the rate structure to a fewer-slab system."
+  },
+  {
+    "id": 28,
+    "question": "Disposable personal income refers to income that is",
+    "options": [
+      "Available with individuals for consumption and savings after payment of direct taxes",
+      "Equal to gross national product",
+      "Available only to the government",
+      "Available only to corporations"
+    ],
+    "answer": 0,
+    "explanation": "Disposable income is personal income net of direct taxes, usable for spending/saving."
+  },
+  {
+    "id": 29,
+    "question": "The national income of a country is Rs. 450 lakh crore and its population is 100 crore. The per capita income (in thousand Rs., rounded to the nearest whole number) is approximately",
+    "options": [
+      "382",
+      "450",
+      "495",
+      "405"
+    ],
+    "answer": 1,
+    "explanation": "Per Capita Income = National Income / Population = (450 lakh crore x 100) / 100 crore ~ Rs. 450 thousand."
+  },
+  {
+    "id": 30,
+    "question": "The nominal GDP of a country is Rs. 198.0 lakh crore and the GDP deflator is 110. The real GDP (in Rs. lakh crore, rounded to the nearest whole number) is approximately",
+    "options": [
+      "153",
+      "198",
+      "180",
+      "162"
+    ],
+    "answer": 2,
+    "explanation": "Real GDP = (Nominal GDP / GDP Deflator) x 100 = (198.0 / 110) x 100 ~ Rs. 180 lakh crore."
+  },
+  {
+    "id": 31,
+    "question": "The national income of a country is Rs. 300 lakh crore and its population is 130 crore. The per capita income (in thousand Rs., rounded to the nearest whole number) is approximately",
+    "options": [
+      "208",
+      "254",
+      "231",
+      "196"
+    ],
+    "answer": 2,
+    "explanation": "Per Capita Income = National Income / Population = (300 lakh crore x 100) / 130 crore ~ Rs. 231 thousand."
+  },
+  {
+    "id": 32,
+    "question": "The Twelfth Five Year Plan (2012-17) was India's",
+    "options": [
+      "First Five Year Plan",
+      "Plan during which India became independent",
+      "Plan that introduced land reforms first",
+      "Last Five Year Plan before the plan era formally ended"
+    ],
+    "answer": 3,
+    "explanation": "The Twelfth Plan (2012-17) was the last of the Five Year Plans before NITI Aayog took over."
+  },
+  {
+    "id": 33,
+    "question": "India's GDP was Rs. 180 lakh crore in one year and rose to Rs. 190.8 lakh crore in the following year. The approximate annual growth rate of GDP is",
+    "options": [
+      "6",
+      "27",
+      "7",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "Growth Rate = [(GDP2 - GDP1) / GDP1] x 100 = [(190.8 - 180) / 180] x 100 ~ 6%."
+  },
+  {
+    "id": 34,
+    "question": "'Seasonal unemployment' is most commonly observed in which sector in India",
+    "options": [
+      "Banking",
+      "Information technology",
+      "Telecommunications",
+      "Agriculture"
+    ],
+    "answer": 3,
+    "explanation": "Agricultural employment fluctuates with the crop season, causing seasonal unemployment."
+  },
+  {
+    "id": 35,
+    "question": "The share of agriculture in total employment in India, compared to its share in GDP, is generally",
+    "options": [
+      "Lower than its GDP share",
+      "Not measurable at all",
+      "Exactly equal to its GDP share",
+      "Higher than its GDP share, indicating lower productivity per worker in agriculture"
+    ],
+    "answer": 3,
+    "explanation": "Agriculture employs a disproportionately large workforce relative to its GDP contribution, reflecting lower productivity."
+  },
+  {
+    "id": 36,
+    "question": "The four Labour Codes enacted in India aim to",
+    "options": [
+      "Increase the number of separate labour laws",
+      "Apply only to government employees",
+      "Consolidate and simplify numerous existing labour laws into a unified framework",
+      "Abolish all labour welfare protections"
+    ],
+    "answer": 2,
+    "explanation": "The Labour Codes consolidate dozens of earlier labour laws into four unified codes."
+  },
+  {
+    "id": 37,
+    "question": "As of the latest data cited in the Economic Survey 2025-26 (mid-January 2026), India's foreign exchange reserves had reached a historic high of approximately",
+    "options": [
+      "US$ 1.5 trillion",
+      "US$ 50 billion",
+      "US$ 701 billion",
+      "US$ 200 billion"
+    ],
+    "answer": 2,
+    "explanation": "India's forex reserves touched a historic high of about US$701.4 billion around mid-January 2026."
+  },
+  {
+    "id": 38,
+    "question": "The introduction of a new, simplified Income Tax Act (effective 2026) is primarily aimed at",
+    "options": [
+      "Ending all corporate taxation",
+      "Abolishing GST",
+      "Replacing the RBI's monetary policy framework",
+      "Simplifying and modernising direct tax law and compliance"
+    ],
+    "answer": 3,
+    "explanation": "The new Income Tax Act, 2025 seeks simpler language and structure for direct tax compliance."
+  },
+  {
+    "id": 39,
+    "question": "GST replaced a number of earlier indirect taxes such as",
+    "options": [
+      "Customs Duty on all imports",
+      "Central Excise Duty, Service Tax and various state VATs",
+      "Income Tax and Corporate Tax",
+      "Wealth Tax alone"
+    ],
+    "answer": 1,
+    "explanation": "GST subsumed multiple central and state indirect taxes into a single tax."
+  },
+  {
+    "id": 40,
+    "question": "The concept of 'strategic sectors' in disinvestment policy generally includes areas like",
+    "options": [
+      "Hotel and tourism services",
+      "Atomic energy, space and defence",
+      "Retail trading of consumer goods",
+      "Textile manufacturing"
+    ],
+    "answer": 1,
+    "explanation": "Sectors such as atomic energy, space and defence are typically classified as strategic."
+  },
+  {
+    "id": 41,
+    "question": "The National Investment and Infrastructure Fund (NIIF) was set up mainly to",
+    "options": [
+      "Manage India's foreign policy",
+      "Collect income tax from citizens",
+      "Mobilise investment for infrastructure projects in India",
+      "Regulate the stock market"
+    ],
+    "answer": 2,
+    "explanation": "NIIF is a fund created to channel long-term capital into infrastructure."
+  },
+  {
+    "id": 42,
+    "question": "The Consumer Price Index (CPI) measures inflation from the perspective of",
+    "options": [
+      "Export prices only",
+      "Retail prices paid by the end consumer for a basket of goods and services",
+      "Import prices only",
+      "Wholesale prices paid by producers only"
+    ],
+    "answer": 1,
+    "explanation": "CPI tracks retail-level price changes for a representative consumption basket."
+  },
+  {
+    "id": 43,
+    "question": "India's 'demographic dividend' refers to the potential economic benefit arising from",
+    "options": [
+      "A predominantly elderly population",
+      "A large proportion of the population being in the working-age group",
+      "A stagnant population growth rate",
+      "A rapidly declining total population"
+    ],
+    "answer": 1,
+    "explanation": "Demographic dividend arises from a high working-age to dependent population ratio."
+  },
+  {
+    "id": 44,
+    "question": "The Consumer Price Index (CPI) was 105 in the base period and rose to 111.3 in the current period. The rate of inflation between the two periods is approximately",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "27"
+    ],
+    "answer": 1,
+    "explanation": "Inflation Rate = [(CPI_new - CPI_old) / CPI_old] x 100 = [(111.3 - 105) / 105] x 100 ~ 6%."
+  },
+  {
+    "id": 45,
+    "question": "The national income of a country is Rs. 700 lakh crore and its population is 140 crore. The per capita income (in thousand Rs., rounded to the nearest whole number) is approximately",
+    "options": [
+      "425",
+      "450",
+      "500",
+      "550"
+    ],
+    "answer": 2,
+    "explanation": "Per Capita Income = National Income / Population = (700 lakh crore x 100) / 140 crore ~ Rs. 500 thousand."
+  },
+  {
+    "id": 46,
+    "question": "The nominal GDP of a country is Rs. 268.8 lakh crore and the GDP deflator is 112. The real GDP (in Rs. lakh crore, rounded to the nearest whole number) is approximately",
+    "options": [
+      "216",
+      "204",
+      "240",
+      "264"
+    ],
+    "answer": 2,
+    "explanation": "Real GDP = (Nominal GDP / GDP Deflator) x 100 = (268.8 / 112) x 100 ~ Rs. 240 lakh crore."
+  },
+  {
+    "id": 47,
+    "question": "The Atmanirbhar Bharat Abhiyan primarily emphasises",
+    "options": [
+      "Reducing domestic manufacturing capacity",
+      "Discontinuing all government schemes",
+      "Complete closure of the economy to foreign trade",
+      "Building a self-reliant Indian economy while remaining integrated with global trade"
+    ],
+    "answer": 3,
+    "explanation": "Atmanirbhar Bharat promotes self-reliance alongside continued global economic engagement."
+  },
+  {
+    "id": 48,
+    "question": "If the GDP of a country is Rs. 250 lakh crore and the fiscal deficit is Rs. 10.8 lakh crore, the fiscal deficit as a percentage of GDP is approximately",
+    "options": [
+      "5",
+      "3",
+      "25",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "Fiscal Deficit (% of GDP) = (Fiscal Deficit / GDP) x 100 = (10.8 / 250) x 100 ~ 4.3%."
+  },
+  {
+    "id": 49,
+    "question": "Primary deficit is calculated as",
+    "options": [
+      "Total expenditure minus subsidies",
+      "Fiscal deficit plus interest payments",
+      "Revenue deficit minus capital expenditure",
+      "Fiscal deficit minus interest payments"
+    ],
+    "answer": 3,
+    "explanation": "Primary Deficit = Fiscal Deficit - Interest Payments."
+  },
+  {
+    "id": 50,
+    "question": "The national income of a country is Rs. 350 lakh crore and its population is 120 crore. The per capita income (in thousand Rs., rounded to the nearest whole number) is approximately",
+    "options": [
+      "263",
+      "292",
+      "248",
+      "321"
+    ],
+    "answer": 1,
+    "explanation": "Per Capita Income = National Income / Population = (350 lakh crore x 100) / 120 crore ~ Rs. 292 thousand."
+  },
+  {
+    "id": 51,
+    "question": "The Consumer Price Index (CPI) was 115 in the base period and rose to 123.1 in the current period. The rate of inflation between the two periods is approximately",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "28"
+    ],
+    "answer": 2,
+    "explanation": "Inflation Rate = [(CPI_new - CPI_old) / CPI_old] x 100 = [(123.1 - 115) / 115] x 100 ~ 7%."
+  },
+  {
+    "id": 52,
+    "question": "The Union Budget 2026-27 was presented by the Finance Minister on",
+    "options": [
+      "1 April 2026",
+      "26 January 2026",
+      "31 March 2026",
+      "1 February 2026"
+    ],
+    "answer": 3,
+    "explanation": "The Union Budget for 2026-27 was presented on 1 February 2026, as per convention."
+  },
+  {
+    "id": 53,
+    "question": "The Human Development Index (HDI), published by the UNDP, is a composite measure based on",
+    "options": [
+      "Only literacy rate",
+      "Only life expectancy",
+      "Only GDP per capita",
+      "Health, education and standard of living (income) indicators"
+    ],
+    "answer": 3,
+    "explanation": "HDI combines health (life expectancy), education and income indicators into a single index."
+  },
+  {
+    "id": 54,
+    "question": "The relative poverty concept differs from absolute poverty in that it",
+    "options": [
+      "Uses only calorie intake as the sole criterion",
+      "Applies only to developed countries",
+      "Applies only to rural areas",
+      "Measures poverty in relation to the general standard of living/income distribution in society"
+    ],
+    "answer": 3,
+    "explanation": "Relative poverty is defined with reference to prevailing living standards rather than a fixed minimum."
+  },
+  {
+    "id": 55,
+    "question": "The Gini coefficient is commonly used to measure",
+    "options": [
+      "The rate of unemployment",
+      "Income/wealth inequality within a population",
+      "The rate of inflation",
+      "The literacy rate"
+    ],
+    "answer": 1,
+    "explanation": "Gini coefficient quantifies inequality in income or wealth distribution."
+  },
+  {
+    "id": 56,
+    "question": "Migration for employment within India is often driven primarily by",
+    "options": [
+      "Absence of any wage differences across regions",
+      "Regional disparities in economic opportunities and wages",
+      "Government prohibition of inter-state travel",
+      "Uniform economic development across all states"
+    ],
+    "answer": 1,
+    "explanation": "Workers migrate largely in response to better job/wage opportunities elsewhere."
+  },
+  {
+    "id": 57,
+    "question": "A key objective of introducing GST in India was to",
+    "options": [
+      "Discourage inter-state trade",
+      "Create a unified national market by removing tax barriers between states",
+      "Increase double taxation on goods",
+      "Increase the number of different tax rates across states"
+    ],
+    "answer": 1,
+    "explanation": "GST aimed at 'One Nation, One Tax' to unify the national market."
+  },
+  {
+    "id": 58,
+    "question": "The Human Development Report classifies countries into different tiers (e.g., very high, high, medium, low human development) based primarily on",
+    "options": [
+      "Population size alone",
+      "Military expenditure alone",
+      "HDI scores derived from health, education and income indicators",
+      "Land area alone"
+    ],
+    "answer": 2,
+    "explanation": "HDI-based tiers classify countries by composite scores on health, education and income."
+  },
+  {
+    "id": 59,
+    "question": "The 'Basel norms' relate primarily to international standards on",
+    "options": [
+      "Bank capital adequacy and risk management",
+      "Import-export tariffs",
+      "Agricultural subsidies",
+      "Direct tax rates"
+    ],
+    "answer": 0,
+    "explanation": "Basel norms (Basel I, II, III) prescribe capital adequacy and risk management standards for banks."
+  },
+  {
+    "id": 60,
+    "question": "The Consumer Price Index (CPI) was 130 in the base period and rose to 137.8 in the current period. The rate of inflation between the two periods is approximately",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "27"
+    ],
+    "answer": 2,
+    "explanation": "Inflation Rate = [(CPI_new - CPI_old) / CPI_old] x 100 = [(137.8 - 130) / 130] x 100 ~ 6%."
+  },
+  {
+    "id": 61,
+    "question": "The Planning Commission of India was replaced in 2015 by",
+    "options": [
+      "Union Public Service Commission",
+      "Election Commission",
+      "NITI Aayog",
+      "Finance Commission"
+    ],
+    "answer": 2,
+    "explanation": "NITI Aayog (National Institution for Transforming India) replaced the Planning Commission in January 2015."
+  },
+  {
+    "id": 62,
+    "question": "Which sector currently contributes the largest share to India's GDP",
+    "options": [
+      "Mining sector",
+      "Agriculture sector",
+      "Services sector",
+      "Industrial sector"
+    ],
+    "answer": 2,
+    "explanation": "Services sector is the largest contributor to India's GDP."
+  },
+  {
+    "id": 63,
+    "question": "A key criticism of India's centralised planning model was that it led to",
+    "options": [
+      "Excessive bureaucratic control often termed the 'License-Permit Raj'",
+      "Total elimination of the public sector",
+      "Complete absence of any government role",
+      "Immediate elimination of poverty"
+    ],
+    "answer": 0,
+    "explanation": "Centralised planning was criticised for extensive licensing/permit controls restricting private enterprise."
+  },
+  {
+    "id": 64,
+    "question": "National Income at factor cost is obtained from National Income at market price by",
+    "options": [
+      "Deducting net indirect taxes (indirect taxes minus subsidies)",
+      "Adding net indirect taxes",
+      "Deducting depreciation",
+      "Adding depreciation"
+    ],
+    "answer": 0,
+    "explanation": "NI at Factor Cost = NI at Market Price - Net Indirect Taxes."
+  },
+  {
+    "id": 65,
+    "question": "The Consumer Price Index (CPI) was 125 in the base period and rose to 127.5 in the current period. The rate of inflation between the two periods is approximately",
+    "options": [
+      "2",
+      "23",
+      "9",
+      "16"
+    ],
+    "answer": 0,
+    "explanation": "Inflation Rate = [(CPI_new - CPI_old) / CPI_old] x 100 = [(127.5 - 125) / 125] x 100 ~ 2%."
+  },
+  {
+    "id": 66,
+    "question": "Direct Tax reforms in India in recent years have focused on measures such as",
+    "options": [
+      "Abolishing income tax entirely",
+      "Increasing the number of tax exemptions indefinitely",
+      "Removing e-filing of returns",
+      "Widening the direct tax base and simplifying compliance"
+    ],
+    "answer": 3,
+    "explanation": "Recent direct tax reforms emphasise base-widening and easier compliance/administration."
+  },
+  {
+    "id": 67,
+    "question": "The Input Tax Credit (ITC) mechanism under GST allows businesses to",
+    "options": [
+      "Avoid paying any tax whatsoever",
+      "Claim a direct cash subsidy from the government",
+      "Avoid filing any tax returns",
+      "Claim credit for tax paid on inputs against tax payable on output supplies"
+    ],
+    "answer": 3,
+    "explanation": "ITC prevents tax cascading by allowing offset of input tax against output tax liability."
+  },
+  {
+    "id": 68,
+    "question": "India's GDP was Rs. 100 lakh crore in one year and rose to Rs. 108.0 lakh crore in the following year. The approximate annual growth rate of GDP is",
+    "options": [
+      "10",
+      "8",
+      "9",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "Growth Rate = [(GDP2 - GDP1) / GDP1] x 100 = [(108.0 - 100) / 100] x 100 ~ 8%."
+  },
+  {
+    "id": 69,
+    "question": "The nominal GDP of a country is Rs. 165.0 lakh crore and the GDP deflator is 110. The real GDP (in Rs. lakh crore, rounded to the nearest whole number) is approximately",
+    "options": [
+      "165",
+      "135",
+      "150",
+      "128"
+    ],
+    "answer": 2,
+    "explanation": "Real GDP = (Nominal GDP / GDP Deflator) x 100 = (165.0 / 110) x 100 ~ Rs. 150 lakh crore."
+  },
+  {
+    "id": 70,
+    "question": "If the GDP of a country is Rs. 400 lakh crore and the fiscal deficit is Rs. 20.0 lakh crore, the fiscal deficit as a percentage of GDP is approximately",
+    "options": [
+      "5",
+      "4",
+      "26",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "Fiscal Deficit (% of GDP) = (Fiscal Deficit / GDP) x 100 = (20.0 / 400) x 100 ~ 5%."
+  },
+  {
+    "id": 71,
+    "question": "Startup India initiative primarily aims to",
+    "options": [
+      "Nationalise all new startups",
+      "Foster entrepreneurship and innovation by easing regulatory and funding hurdles for startups",
+      "Restrict new business formation",
+      "Increase taxes on new enterprises"
+    ],
+    "answer": 1,
+    "explanation": "Startup India provides incentives, funding support and simplified compliance for new ventures."
+  },
+  {
+    "id": 72,
+    "question": "Green GDP, as a concept, seeks to adjust conventional GDP by accounting for",
+    "options": [
+      "Environmental degradation and depletion of natural resources",
+      "Only population growth",
+      "Only foreign exchange reserves",
+      "Only government expenditure"
+    ],
+    "answer": 0,
+    "explanation": "Green GDP factors in environmental costs typically excluded from standard GDP measures."
+  },
+  {
+    "id": 73,
+    "question": "If the GDP of a country is Rs. 300 lakh crore and the fiscal deficit is Rs. 13.5 lakh crore, the fiscal deficit as a percentage of GDP is approximately",
+    "options": [
+      "25",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "Fiscal Deficit (% of GDP) = (Fiscal Deficit / GDP) x 100 = (13.5 / 300) x 100 ~ 4.5%."
+  },
+  {
+    "id": 74,
+    "question": "Swachh Bharat Mission primarily focuses on",
+    "options": [
+      "Regulating the stock market",
+      "Providing crop insurance",
+      "Providing free electricity connections",
+      "Achieving universal sanitation coverage and eliminating open defecation"
+    ],
+    "answer": 3,
+    "explanation": "Swachh Bharat Mission targets sanitation improvement, including toilet construction."
+  },
+  {
+    "id": 75,
+    "question": "Which organisation is responsible for compiling and releasing India's national income statistics",
+    "options": [
+      "Ministry of Commerce",
+      "NITI Aayog",
+      "National Statistical Office (NSO)",
+      "Reserve Bank of India"
+    ],
+    "answer": 2,
+    "explanation": "NSO (under MoSPI) compiles India's national accounts statistics."
+  },
+  {
+    "id": 76,
+    "question": "Deficit financing generally refers to meeting a budget deficit through",
+    "options": [
+      "Reducing all government expenditure to zero",
+      "Only increasing direct taxes",
+      "Only increasing indirect taxes",
+      "Borrowing or creation of new money"
+    ],
+    "answer": 3,
+    "explanation": "Deficit financing typically involves borrowing (market or RBI) to bridge the fiscal gap."
+  },
+  {
+    "id": 77,
+    "question": "NITI Aayog monitors India's progress on the SDGs primarily through its",
+    "options": [
+      "Union Budget speeches",
+      "RBI Monetary Policy statements",
+      "SDG India Index, ranking states and union territories on SDG performance",
+      "Five Year Plan documents"
+    ],
+    "answer": 2,
+    "explanation": "NITI Aayog's SDG India Index tracks and ranks states/UTs on SDG-related indicators."
+  },
+  {
+    "id": 78,
+    "question": "The share of agriculture in India's GDP has, over the decades of development, generally",
+    "options": [
+      "Reached zero",
+      "Remained exactly constant since independence",
+      "Continuously risen above all other sectors",
+      "Declined, while the share of services has risen"
+    ],
+    "answer": 3,
+    "explanation": "Structural transformation has reduced agriculture's GDP share while services have grown."
+  },
+  {
+    "id": 79,
+    "question": "As per the Economic Survey 2025-26, India's real GDP growth for FY 2026-27 has been projected in the range of",
+    "options": [
+      "10% to 12%",
+      "0% to 1%",
+      "2% to 3%",
+      "6.8% to 7.2%"
+    ],
+    "answer": 3,
+    "explanation": "The Survey projected FY27 real GDP growth between 6.8% and 7.2%."
+  },
+  {
+    "id": 80,
+    "question": "The First Five Year Plan of India (1951-56) gave top priority to",
+    "options": [
+      "Foreign trade expansion",
+      "Information technology",
+      "Heavy industries",
+      "Agriculture, including irrigation and power projects"
+    ],
+    "answer": 3,
+    "explanation": "The First Plan prioritised agriculture and irrigation/power development."
+  },
+  {
+    "id": 81,
+    "question": "India shifted its GDP base year to 2011-12 mainly to",
+    "options": [
+      "Exclude the informal sector entirely",
+      "Better reflect the structural changes in the economy",
+      "Reduce the size of the economy",
+      "Exclude the services sector"
+    ],
+    "answer": 1,
+    "explanation": "Base year revisions are undertaken to capture current economic structure accurately."
+  },
+  {
+    "id": 82,
+    "question": "Agricultural credit through institutions like NABARD primarily aims to",
+    "options": [
+      "Provide loans exclusively to urban industries",
+      "Manage India's foreign exchange reserves",
+      "Regulate the stock market",
+      "Provide affordable, timely credit for agriculture and rural development"
+    ],
+    "answer": 3,
+    "explanation": "NABARD focuses on refinancing and promoting credit flow to agriculture and rural sectors."
+  },
+  {
+    "id": 83,
+    "question": "The Department of Investment and Public Asset Management (DIPAM) functions under the",
+    "options": [
+      "Ministry of Home Affairs",
+      "Ministry of Commerce and Industry",
+      "Ministry of Corporate Affairs",
+      "Ministry of Finance"
+    ],
+    "answer": 3,
+    "explanation": "DIPAM, responsible for disinvestment policy, operates under the Ministry of Finance."
+  },
+  {
+    "id": 84,
+    "question": "The 'Green Revolution' in India, launched in the mid-1960s, primarily led to a significant increase in the production of",
+    "options": [
+      "Cotton and jute",
+      "Pulses and oilseeds",
+      "Wheat and rice through high-yielding variety seeds",
+      "Tea and coffee"
+    ],
+    "answer": 2,
+    "explanation": "The Green Revolution focused on HYV seeds mainly boosting wheat and rice output."
+  },
+  {
+    "id": 85,
+    "question": "The Periodic Labour Force Survey (PLFS) in India is conducted by the",
+    "options": [
+      "Election Commission of India",
+      "NITI Aayog",
+      "Reserve Bank of India",
+      "National Statistical Office (NSO)"
+    ],
+    "answer": 3,
+    "explanation": "PLFS, which tracks employment/unemployment indicators, is conducted by NSO."
+  },
+  {
+    "id": 86,
+    "question": "Gross National Product (GNP) differs from GDP by including",
+    "options": [
+      "Only imports",
+      "Net factor income from abroad",
+      "Only indirect taxes",
+      "Only exports"
+    ],
+    "answer": 1,
+    "explanation": "GNP = GDP + Net Factor Income from Abroad."
+  },
+  {
+    "id": 87,
+    "question": "Micro, Small and Medium Enterprises (MSMEs) in India are classified mainly on the basis of",
+    "options": [
+      "Geographic location of the unit alone",
+      "Number of employees alone",
+      "Ownership structure alone",
+      "Investment in plant & machinery/equipment and annual turnover"
+    ],
+    "answer": 3,
+    "explanation": "MSME classification criteria are based on investment and turnover thresholds."
+  },
+  {
+    "id": 88,
+    "question": "The 'Make in India' initiative, launched in 2014, primarily aims to",
+    "options": [
+      "Boost domestic manufacturing and attract investment to make India a global manufacturing hub",
+      "Discourage all foreign investment",
+      "Focus exclusively on the services sector",
+      "Promote only agricultural exports"
+    ],
+    "answer": 0,
+    "explanation": "Make in India seeks to enhance manufacturing's share in GDP and attract investment."
+  },
+  {
+    "id": 89,
+    "question": "The national income of a country is Rs. 700 lakh crore and its population is 120 crore. The per capita income (in thousand Rs., rounded to the nearest whole number) is approximately",
+    "options": [
+      "525",
+      "641",
+      "583",
+      "496"
+    ],
+    "answer": 2,
+    "explanation": "Per Capita Income = National Income / Population = (700 lakh crore x 100) / 120 crore ~ Rs. 583 thousand."
+  },
+  {
+    "id": 90,
+    "question": "Universal Basic Income (UBI), as discussed in Indian policy debates, refers to a proposal of",
+    "options": [
+      "Abolishing all existing welfare schemes immediately",
+      "Guaranteeing government jobs to every citizen",
+      "Providing loans only to unemployed youth",
+      "Providing a regular, unconditional cash transfer to all citizens irrespective of employment status"
+    ],
+    "answer": 3,
+    "explanation": "UBI is a hypothetical unconditional periodic cash transfer discussed as a welfare reform idea."
+  },
+  {
+    "id": 91,
+    "question": "The rate of urbanisation in India, as economic development proceeds, has generally been",
+    "options": [
+      "Rising, with a growing share of population living in urban areas",
+      "Unrelated to economic growth",
+      "Falling continuously since independence",
+      "Zero, reflecting no rural-urban movement"
+    ],
+    "answer": 0,
+    "explanation": "Urbanisation tends to rise with development as people move to urban centres for work."
+  },
+  {
+    "id": 92,
+    "question": "A 'Champion Sector' approach in MSME policy generally refers to",
+    "options": [
+      "Focusing exclusively on large corporates",
+      "Treating all MSME sectors identically without differentiation",
+      "Discouraging growth of small enterprises",
+      "Identifying and supporting select high-potential MSME segments for accelerated growth"
+    ],
+    "answer": 3,
+    "explanation": "Champion sector approaches prioritise support to MSME segments with strong growth potential."
+  },
+  {
+    "id": 93,
+    "question": "The national income of a country is Rs. 400 lakh crore and its population is 150 crore. The per capita income (in thousand Rs., rounded to the nearest whole number) is approximately",
+    "options": [
+      "294",
+      "227",
+      "267",
+      "240"
+    ],
+    "answer": 2,
+    "explanation": "Per Capita Income = National Income / Population = (400 lakh crore x 100) / 150 crore ~ Rs. 267 thousand."
+  },
+  {
+    "id": 94,
+    "question": "The e-NAM (National Agriculture Market) initiative primarily aims to",
+    "options": [
+      "Create a unified online national market for agricultural commodities",
+      "Distribute free seeds to farmers",
+      "Fix the exchange rate for agricultural exports",
+      "Provide free crop insurance to all farmers"
+    ],
+    "answer": 0,
+    "explanation": "e-NAM links APMC mandis electronically to create an integrated national agri-market."
+  },
+  {
+    "id": 95,
+    "question": "The national income of a country is Rs. 200 lakh crore and its population is 100 crore. The per capita income (in thousand Rs., rounded to the nearest whole number) is approximately",
+    "options": [
+      "170",
+      "200",
+      "220",
+      "180"
+    ],
+    "answer": 1,
+    "explanation": "Per Capita Income = National Income / Population = (200 lakh crore x 100) / 100 crore ~ Rs. 200 thousand."
+  },
+  {
+    "id": 96,
+    "question": "'Universal Banking' refers to banks that offer",
+    "options": [
+      "A wide range of financial services including banking, insurance and investment services under one roof",
+      "Only agricultural loans",
+      "Only foreign exchange services",
+      "Only savings account services"
+    ],
+    "answer": 0,
+    "explanation": "Universal banks provide a broad spectrum of financial services beyond basic banking."
+  },
+  {
+    "id": 97,
+    "question": "'Navratna' status is conferred on select Central Public Sector Enterprises (CPSEs) mainly to grant them",
+    "options": [
+      "Guaranteed annual profit irrespective of performance",
+      "Complete exemption from all taxes",
+      "Automatic listing on foreign stock exchanges",
+      "Greater financial and operational autonomy"
+    ],
+    "answer": 3,
+    "explanation": "Navratna status grants greater autonomy in investment and operational decisions to strong CPSEs."
+  },
+  {
+    "id": 98,
+    "question": "Minimum Support Price (MSP) is the price at which the government",
+    "options": [
+      "Assures farmers a guaranteed minimum price for specified crops to protect them from price crashes",
+      "Charges farmers for using irrigation facilities",
+      "Sells food grains to consumers at a subsidised rate",
+      "Taxes farmers on their agricultural income"
+    ],
+    "answer": 0,
+    "explanation": "MSP guarantees farmers a floor price for procurement of notified crops."
+  },
+  {
+    "id": 99,
+    "question": "Regional Rural Banks (RRBs) were established mainly to",
+    "options": [
+      "Handle only foreign exchange transactions",
+      "Extend banking and credit facilities particularly to rural and agricultural areas",
+      "Serve only metropolitan cities",
+      "Regulate the stock market"
+    ],
+    "answer": 1,
+    "explanation": "RRBs were set up to widen banking penetration and rural credit access."
+  },
+  {
+    "id": 100,
+    "question": "As per recent data, India continues to be described by official sources as the",
+    "options": [
+      "An economy with negative GDP growth",
+      "A closed, non-trading economy",
+      "Fastest-growing major economy in the world for several consecutive years",
+      "Slowest-growing major economy in the world"
+    ],
+    "answer": 2,
+    "explanation": "India has retained its position as the fastest-growing major economy for several years running."
+  },
+  {
+    "id": 101,
+    "question": "Non-Performing Assets (NPAs) in banking refer to loans/advances where",
+    "options": [
+      "The loan was never disbursed",
+      "Interest is paid regularly and on time",
+      "The loan has been fully repaid",
+      "Interest or principal repayment remains overdue for a specified period"
+    ],
+    "answer": 3,
+    "explanation": "An NPA is a loan on which repayment has been overdue beyond the prescribed period (usually 90 days)."
+  },
+  {
+    "id": 102,
+    "question": "The Consumer Price Index (CPI) was 115 in the base period and rose to 119.6 in the current period. The rate of inflation between the two periods is approximately",
+    "options": [
+      "3",
+      "4",
+      "25",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "Inflation Rate = [(CPI_new - CPI_old) / CPI_old] x 100 = [(119.6 - 115) / 115] x 100 ~ 4%."
+  },
+  {
+    "id": 103,
+    "question": "'Frictional unemployment' refers to",
+    "options": [
+      "Short-term unemployment while workers transition between jobs",
+      "Unemployment caused by automation only",
+      "Unemployment due to a shrinking economy",
+      "Long-term unemployment due to lack of skills"
+    ],
+    "answer": 0,
+    "explanation": "Frictional unemployment is the temporary joblessness during job transitions."
+  },
+  {
+    "id": 104,
+    "question": "The National Infrastructure Pipeline (NIP) was launched primarily to",
+    "options": [
+      "Provide a roadmap of infrastructure projects to boost investment and growth",
+      "Manage foreign exchange reserves",
+      "Fix agricultural prices",
+      "Regulate the stock market"
+    ],
+    "answer": 0,
+    "explanation": "NIP outlines a pipeline of infrastructure projects to channel investment over a defined period."
+  },
+  {
+    "id": 105,
+    "question": "The Statutory Liquidity Ratio (SLR) requires banks to maintain a certain percentage of their net demand and time liabilities in",
+    "options": [
+      "Real estate holdings only",
+      "Corporate bonds of private companies only",
+      "Liquid assets such as cash, gold or approved government securities",
+      "Foreign currency reserves only"
+    ],
+    "answer": 2,
+    "explanation": "SLR mandates banks to hold a portion of deposits in specified liquid/approved securities."
+  },
+  {
+    "id": 106,
+    "question": "The Consumer Price Index (CPI) was 125 in the base period and rose to 135.0 in the current period. The rate of inflation between the two periods is approximately",
+    "options": [
+      "9",
+      "10",
+      "8",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "Inflation Rate = [(CPI_new - CPI_old) / CPI_old] x 100 = [(135.0 - 125) / 125] x 100 ~ 8%."
+  },
+  {
+    "id": 107,
+    "question": "The Female Labour Force Participation Rate (FLFPR) in India, compared to many other economies, has historically been",
+    "options": [
+      "Exactly equal to the male participation rate",
+      "Irrelevant to economic growth",
+      "Relatively low, prompting policy focus on improving women's workforce participation",
+      "Among the highest in the world"
+    ],
+    "answer": 2,
+    "explanation": "India's FLFPR has generally lagged behind global averages, drawing policy attention."
+  },
+  {
+    "id": 108,
+    "question": "Net National Product (NNP) is obtained by",
+    "options": [
+      "Deducting depreciation from Gross National Product",
+      "Adding depreciation to GDP",
+      "Deducting exports from GNP",
+      "Adding subsidies to GDP"
+    ],
+    "answer": 0,
+    "explanation": "NNP = GNP - Depreciation (consumption of fixed capital)."
+  },
+  {
+    "id": 109,
+    "question": "The nominal GDP of a country is Rs. 188.8 lakh crore and the GDP deflator is 118. The real GDP (in Rs. lakh crore, rounded to the nearest whole number) is approximately",
+    "options": [
+      "160",
+      "144",
+      "136",
+      "176"
+    ],
+    "answer": 0,
+    "explanation": "Real GDP = (Nominal GDP / GDP Deflator) x 100 = (188.8 / 118) x 100 ~ Rs. 160 lakh crore."
+  },
+  {
+    "id": 110,
+    "question": "The Pradhan Mantri Awas Yojana (PMAY) primarily aims to",
+    "options": [
+      "Provide free food grains to all households",
+      "Provide free healthcare to senior citizens",
+      "Provide interest-free education loans",
+      "Provide affordable housing to eligible urban and rural households"
+    ],
+    "answer": 3,
+    "explanation": "PMAY is a flagship affordable housing scheme for eligible households."
+  },
+  {
+    "id": 111,
+    "question": "The national income of a country is Rs. 800 lakh crore and its population is 140 crore. The per capita income (in thousand Rs., rounded to the nearest whole number) is approximately",
+    "options": [
+      "628",
+      "485",
+      "514",
+      "571"
+    ],
+    "answer": 3,
+    "explanation": "Per Capita Income = National Income / Population = (800 lakh crore x 100) / 140 crore ~ Rs. 571 thousand."
+  },
+  {
+    "id": 112,
+    "question": "Smart Cities Mission in India primarily focuses on",
+    "options": [
+      "Promoting sustainable and citizen-friendly urban development using technology-enabled solutions",
+      "Building only new airports",
+      "Expanding rural electrification only",
+      "Promoting only agricultural exports"
+    ],
+    "answer": 0,
+    "explanation": "The Smart Cities Mission targets efficient, tech-enabled urban infrastructure and services."
+  },
+  {
+    "id": 113,
+    "question": "The Reserve Bank of India (RBI) was established in the year",
+    "options": [
+      "1935",
+      "1969",
+      "1947",
+      "1991"
+    ],
+    "answer": 0,
+    "explanation": "RBI, India's central bank, was established under the RBI Act, 1934, and began operations in 1935."
+  },
+  {
+    "id": 114,
+    "question": "Core inflation typically excludes which volatile components to better capture underlying price trends",
+    "options": [
+      "Only education costs",
+      "Only housing prices",
+      "Food and fuel prices",
+      "Only healthcare costs"
+    ],
+    "answer": 2,
+    "explanation": "Core inflation strips out volatile food and fuel prices to reveal the persistent inflation trend."
+  },
+  {
+    "id": 115,
+    "question": "The Economic Survey 2025-26 was tabled in Parliament by the Finance Minister on",
+    "options": [
+      "1 April 2025",
+      "29 January 2026",
+      "26 January 2026",
+      "15 August 2025"
+    ],
+    "answer": 1,
+    "explanation": "The Economic Survey 2025-26 was presented in Parliament on 29 January 2026, ahead of the Union Budget."
+  },
+  {
+    "id": 116,
+    "question": "India's GDP was Rs. 140 lakh crore in one year and rose to Rs. 148.4 lakh crore in the following year. The approximate annual growth rate of GDP is",
+    "options": [
+      "6",
+      "5",
+      "27",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "Growth Rate = [(GDP2 - GDP1) / GDP1] x 100 = [(148.4 - 140) / 140] x 100 ~ 6%."
+  },
+  {
+    "id": 117,
+    "question": "Digital India programme primarily aims to",
+    "options": [
+      "Eliminate the use of technology in governance",
+      "Discourage e-commerce activity",
+      "Transform India into a digitally empowered society and knowledge economy",
+      "Restrict internet access to urban areas only"
+    ],
+    "answer": 2,
+    "explanation": "Digital India promotes digital infrastructure, services and literacy nationwide."
+  },
+  {
+    "id": 118,
+    "question": "The 'gig economy' refers to a labour market characterised by",
+    "options": [
+      "Complete absence of any employment",
+      "Only agricultural labour",
+      "Only government employment",
+      "Short-term, flexible, often platform-based work arrangements rather than traditional permanent jobs"
+    ],
+    "answer": 3,
+    "explanation": "The gig economy involves flexible, often digitally-mediated, short-term work engagements."
+  },
+  {
+    "id": 119,
+    "question": "The term 'jobless growth' refers to a situation where",
+    "options": [
+      "GDP grows without a commensurate increase in employment generation",
+      "GDP and employment grow at exactly the same rate",
+      "Employment grows faster than GDP",
+      "Both GDP and employment decline together"
+    ],
+    "answer": 0,
+    "explanation": "Jobless growth denotes strong output growth accompanied by weak employment creation."
+  },
+  {
+    "id": 120,
+    "question": "The nominal GDP of a country is Rs. 262.5 lakh crore and the GDP deflator is 105. The real GDP (in Rs. lakh crore, rounded to the nearest whole number) is approximately",
+    "options": [
+      "275",
+      "250",
+      "225",
+      "212"
+    ],
+    "answer": 1,
+    "explanation": "Real GDP = (Nominal GDP / GDP Deflator) x 100 = (262.5 / 105) x 100 ~ Rs. 250 lakh crore."
+  },
+  {
+    "id": 121,
+    "question": "A moderate and stable inflation rate is generally considered desirable by economists mainly because",
+    "options": [
+      "Inflation has no effect on real incomes",
+      "Extreme price stability or deflation can also have adverse effects on growth and investment",
+      "Deflation always boosts consumer spending",
+      "Higher inflation always benefits every section of society equally"
+    ],
+    "answer": 1,
+    "explanation": "Central banks target moderate inflation as both high inflation and deflation carry economic costs."
+  },
+  {
+    "id": 122,
+    "question": "The Fiscal Responsibility and Budget Management (FRBM) Act was enacted mainly to",
+    "options": [
+      "Regulate the stock market",
+      "Ensure fiscal discipline by setting targets for deficit and debt reduction",
+      "Fix minimum wages across states",
+      "Regulate foreign direct investment inflows"
+    ],
+    "answer": 1,
+    "explanation": "FRBM Act, 2003 aims to institutionalise fiscal discipline through deficit/debt targets."
+  },
+  {
+    "id": 123,
+    "question": "MSMEs are considered important for the Indian economy primarily because they contribute significantly to",
+    "options": [
+      "Only central government tax revenue",
+      "Only India's space programme",
+      "Employment generation and GDP, especially in the manufacturing and services sectors",
+      "Only foreign direct investment inflows"
+    ],
+    "answer": 2,
+    "explanation": "MSMEs are a major source of employment and output across sectors."
+  },
+  {
+    "id": 124,
+    "question": "The Consumer Price Index (CPI) was 130 in the base period and rose to 139.1 in the current period. The rate of inflation between the two periods is approximately",
+    "options": [
+      "28",
+      "7",
+      "6",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "Inflation Rate = [(CPI_new - CPI_old) / CPI_old] x 100 = [(139.1 - 130) / 130] x 100 ~ 7%."
+  },
+  {
+    "id": 125,
+    "question": "India's GDP was Rs. 180 lakh crore in one year and rose to Rs. 193.5 lakh crore in the following year. The approximate annual growth rate of GDP is",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "Growth Rate = [(GDP2 - GDP1) / GDP1] x 100 = [(193.5 - 180) / 180] x 100 ~ 7.5%."
+  },
+  {
+    "id": 126,
+    "question": "Per capita income of a country is calculated by",
+    "options": [
+      "Multiplying GDP by population",
+      "Dividing government expenditure by population",
+      "Dividing national income by total population",
+      "Dividing GDP by total exports"
+    ],
+    "answer": 2,
+    "explanation": "Per capita income = National Income / Population."
+  },
+  {
+    "id": 127,
+    "question": "Industrial policy reforms since 1991 have generally moved India towards",
+    "options": [
+      "Complete government monopoly over industry",
+      "Elimination of the private sector",
+      "Increased licensing requirements across all sectors",
+      "Reduced industrial licensing and greater reliance on market-based competition"
+    ],
+    "answer": 3,
+    "explanation": "Post-1991 industrial policy reduced licensing and encouraged market-driven competition."
+  },
+  {
+    "id": 128,
+    "question": "India's GDP was Rs. 220 lakh crore in one year and rose to Rs. 233.2 lakh crore in the following year. The approximate annual growth rate of GDP is",
+    "options": [
+      "27",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "Growth Rate = [(GDP2 - GDP1) / GDP1] x 100 = [(233.2 - 220) / 220] x 100 ~ 6%."
+  },
+  {
+    "id": 129,
+    "question": "As per government targets highlighted in the Union Budget 2026-27, India's central government debt-to-GDP ratio is targeted to be brought down to approximately 50 (plus or minus 1) percent by which financial year",
+    "options": [
+      "2040-41",
+      "2035-36",
+      "2026-27",
+      "2030-31"
+    ],
+    "answer": 3,
+    "explanation": "The government has set a fiscal consolidation roadmap targeting a debt-to-GDP ratio of 50±1% by FY 2030-31."
+  },
+  {
+    "id": 130,
+    "question": "Capital expenditure of the government typically includes spending on",
+    "options": [
+      "Subsidies on food and fertilizers",
+      "Creation of physical/financial assets such as infrastructure",
+      "Salaries and pensions of government employees",
+      "Interest payments on past borrowings"
+    ],
+    "answer": 1,
+    "explanation": "Capital expenditure creates durable assets, unlike revenue expenditure which is largely consumption-related."
+  },
+  {
+    "id": 131,
+    "question": "The Electronics Components Manufacturing Scheme and India Semiconductor Mission 2.0 are examples of policy efforts to",
+    "options": [
+      "Encourage dependence on imported electronics",
+      "Deepen domestic electronics and semiconductor manufacturing capability",
+      "Promote only the handicraft sector",
+      "Reduce industrial output deliberately"
+    ],
+    "answer": 1,
+    "explanation": "These schemes strengthen India's domestic electronics/semiconductor value chain."
+  },
+  {
+    "id": 132,
+    "question": "Fiscal deficit is defined as the excess of",
+    "options": [
+      "Exports over imports",
+      "Total revenue over total expenditure",
+      "Capital expenditure over revenue expenditure",
+      "Total expenditure over total receipts excluding borrowings"
+    ],
+    "answer": 3,
+    "explanation": "Fiscal deficit = Total Expenditure - Total Receipts (excluding borrowings)."
+  },
+  {
+    "id": 133,
+    "question": "The concept of 'Viability Gap Funding (VGF)' is used to support infrastructure projects that are",
+    "options": [
+      "Financially viable without any need for support",
+      "Entirely funded by foreign donors",
+      "Economically justified but not financially viable on a standalone commercial basis",
+      "Restricted only to the defence sector"
+    ],
+    "answer": 2,
+    "explanation": "VGF bridges the gap for projects with social/economic value but insufficient commercial returns."
+  },
+  {
+    "id": 134,
+    "question": "India's GDP was Rs. 220 lakh crore in one year and rose to Rs. 235.4 lakh crore in the following year. The approximate annual growth rate of GDP is",
+    "options": [
+      "8",
+      "6",
+      "28",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "Growth Rate = [(GDP2 - GDP1) / GDP1] x 100 = [(235.4 - 220) / 220] x 100 ~ 7%."
+  },
+  {
+    "id": 135,
+    "question": "Minority stake sale, as a mode of disinvestment, involves the government",
+    "options": [
+      "Selling less than 50% of its equity while retaining management control",
+      "Buying back private shares",
+      "Closing down the enterprise entirely",
+      "Selling 100% of its equity and control"
+    ],
+    "answer": 0,
+    "explanation": "In minority stake sale, government retains majority ownership/control."
+  },
+  {
+    "id": 136,
+    "question": "The national income of a country is Rs. 800 lakh crore and its population is 150 crore. The per capita income (in thousand Rs., rounded to the nearest whole number) is approximately",
+    "options": [
+      "586",
+      "453",
+      "480",
+      "533"
+    ],
+    "answer": 3,
+    "explanation": "Per Capita Income = National Income / Population = (800 lakh crore x 100) / 150 crore ~ Rs. 533 thousand."
+  },
+  {
+    "id": 137,
+    "question": "As per recent GST reform measures widely referred to as 'GST 2.0', the tax structure has moved towards",
+    "options": [
+      "Complete abolition of GST on all goods",
+      "A single uniform rate on income tax as well as GST",
+      "An entirely new tax called Value Added Tax",
+      "A simplified structure built around two principal tax rate slabs"
+    ],
+    "answer": 3,
+    "explanation": "GST 2.0 reforms proposed simplifying the multiple-slab structure into a two-rate framework."
+  },
+  {
+    "id": 138,
+    "question": "Which of the following is generally classified as a non-tax revenue source for the government",
+    "options": [
+      "Dividends and profits from public sector undertakings",
+      "Goods and Services Tax (GST) collections",
+      "Income tax collections",
+      "Corporate tax collections"
+    ],
+    "answer": 0,
+    "explanation": "Non-tax revenue includes dividends/profits, fees, fines, etc., as opposed to tax collections."
+  },
+  {
+    "id": 139,
+    "question": "Investment in infrastructure is often emphasised in development economics because it",
+    "options": [
+      "Should always be avoided by developing economies",
+      "Reduces a country's growth potential",
+      "Has no long-term economic benefits",
+      "Generates positive spillover effects and 'crowds in' private investment"
+    ],
+    "answer": 3,
+    "explanation": "Infrastructure investment boosts productivity and can encourage further private investment."
+  },
+  {
+    "id": 140,
+    "question": "India's National Multidimensional Poverty Index is released jointly by NITI Aayog with technical support from the",
+    "options": [
+      "World Trade Organization",
+      "World Bank alone",
+      "United Nations Development Programme (UNDP) and Oxford Poverty and Human Development Initiative (OPHI)",
+      "International Monetary Fund"
+    ],
+    "answer": 2,
+    "explanation": "NITI Aayog's MPI report draws on the UNDP-OPHI methodology."
+  },
+  {
+    "id": 141,
+    "question": "The Consumer Price Index (CPI) was 100 in the base period and rose to 107.0 in the current period. The rate of inflation between the two periods is approximately",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "28"
+    ],
+    "answer": 2,
+    "explanation": "Inflation Rate = [(CPI_new - CPI_old) / CPI_old] x 100 = [(107.0 - 100) / 100] x 100 ~ 7%."
+  },
+  {
+    "id": 142,
+    "question": "India's GDP was Rs. 140 lakh crore in one year and rose to Rs. 150.5 lakh crore in the following year. The approximate annual growth rate of GDP is",
+    "options": [
+      "9",
+      "10",
+      "8",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "Growth Rate = [(GDP2 - GDP1) / GDP1] x 100 = [(150.5 - 140) / 140] x 100 ~ 7.5%."
+  },
+  {
+    "id": 143,
+    "question": "Deflation refers to a situation of",
+    "options": [
+      "A rise in only import prices",
+      "No change in prices at all",
+      "A sustained fall in the general price level of an economy",
+      "A sustained rise in the general price level"
+    ],
+    "answer": 2,
+    "explanation": "Deflation is an absolute, sustained decline in the overall price level."
+  },
+  {
+    "id": 144,
+    "question": "Direct Benefit Transfer (DBT) in government schemes primarily aims to",
+    "options": [
+      "Transfer benefits only in the form of physical goods",
+      "Transfer welfare benefits directly into beneficiaries' bank accounts, reducing leakages",
+      "Increase intermediary involvement in subsidy delivery",
+      "Eliminate all welfare schemes"
+    ],
+    "answer": 1,
+    "explanation": "DBT reduces leakage/corruption by transferring subsidies directly to beneficiary accounts."
+  },
+  {
+    "id": 145,
+    "question": "If the GDP of a country is Rs. 400 lakh crore and the fiscal deficit is Rs. 14.0 lakh crore, the fiscal deficit as a percentage of GDP is approximately",
+    "options": [
+      "4",
+      "25",
+      "5",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "Fiscal Deficit (% of GDP) = (Fiscal Deficit / GDP) x 100 = (14.0 / 400) x 100 ~ 3.5%."
+  },
+  {
+    "id": 146,
+    "question": "The Production Linked Incentive (PLI) scheme primarily provides",
+    "options": [
+      "Free land to all industries irrespective of output",
+      "Financial incentives to companies based on incremental sales/production in eligible sectors",
+      "Tax exemption only for export-oriented units",
+      "Unconditional cash grants regardless of performance"
+    ],
+    "answer": 1,
+    "explanation": "PLI schemes reward firms with incentives tied to incremental output/sales performance."
+  },
+  {
+    "id": 147,
+    "question": "If the GDP of a country is Rs. 250 lakh crore and the fiscal deficit is Rs. 8.8 lakh crore, the fiscal deficit as a percentage of GDP is approximately",
+    "options": [
+      "5",
+      "4",
+      "25",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "Fiscal Deficit (% of GDP) = (Fiscal Deficit / GDP) x 100 = (8.8 / 250) x 100 ~ 3.5%."
+  },
+  {
+    "id": 148,
+    "question": "The 'poverty line' in India is conventionally defined mainly on the basis of",
+    "options": [
+      "Level of literacy",
+      "A minimum level of calorie intake/consumption expenditure",
+      "Access to internet connectivity",
+      "Ownership of a house"
+    ],
+    "answer": 1,
+    "explanation": "Poverty estimation in India has traditionally been based on minimum calorie/consumption norms."
+  },
+  {
+    "id": 149,
+    "question": "PM Gati Shakti National Master Plan primarily aims at",
+    "options": [
+      "Integrated, coordinated planning and execution of infrastructure projects across ministries",
+      "Only rural electrification",
+      "Only agricultural marketing reforms",
+      "Only urban housing schemes"
+    ],
+    "answer": 0,
+    "explanation": "PM Gati Shakti seeks multi-modal, integrated infrastructure planning to reduce logistics costs."
+  },
+  {
+    "id": 150,
+    "question": "Diversification in Indian agriculture generally refers to a shift towards",
+    "options": [
+      "Cultivation of only a single staple crop nationwide",
+      "Complete abandonment of farming",
+      "Cultivation of a wider range of crops and allied activities like horticulture, dairy and fisheries",
+      "Exclusive dependence on food grain imports"
+    ],
+    "answer": 2,
+    "explanation": "Agricultural diversification spreads risk and income sources across crops and allied activities."
+  },
+  {
+    "id": 151,
+    "question": "The 'Ease of Doing Business' rankings/reforms in India are primarily aimed at",
+    "options": [
+      "Restricting foreign investment entirely",
+      "Discouraging entrepreneurship",
+      "Simplifying regulatory processes to attract investment and improve the business environment",
+      "Increasing bureaucratic procedures for businesses"
+    ],
+    "answer": 2,
+    "explanation": "Ease of Doing Business reforms streamline procedures like registration, taxation and compliance."
+  },
+  {
+    "id": 152,
+    "question": "A Current Account Deficit (CAD) occurs when a country's",
+    "options": [
+      "Exchange rate is completely fixed",
+      "Exports exceed its imports",
+      "Foreign exchange reserves rise continuously",
+      "Imports of goods and services (plus income outflows) exceed its exports and income inflows"
+    ],
+    "answer": 3,
+    "explanation": "CAD arises when a nation's current account payments abroad exceed its receipts."
+  },
+  {
+    "id": 153,
+    "question": "Cash Reserve Ratio (CRR) refers to the",
+    "options": [
+      "Maximum interest rate a bank can charge on loans",
+      "Minimum percentage of a bank's deposits that must be kept as cash reserve with the RBI",
+      "Ratio of exports to imports of a country",
+      "Ratio of a bank's capital to its total assets"
+    ],
+    "answer": 1,
+    "explanation": "CRR mandates banks to park a fraction of deposits with RBI as cash reserves."
+  },
+  {
+    "id": 154,
+    "question": "A country's National Income estimates help primarily in",
+    "options": [
+      "Determining the exchange rate of the rupee",
+      "Setting the country's foreign policy",
+      "Assessing the size, structure and growth of the economy",
+      "Fixing individual tax rates directly"
+    ],
+    "answer": 2,
+    "explanation": "National income data is a key tool for macroeconomic assessment and planning."
+  },
+  {
+    "id": 155,
+    "question": "Farm loan waivers are generally criticised by economists mainly because they can",
+    "options": [
+      "Always improve the long-term financial health of farmers",
+      "Have no fiscal cost to the government",
+      "Strain state finances and potentially weaken credit discipline among borrowers",
+      "Automatically increase agricultural productivity"
+    ],
+    "answer": 2,
+    "explanation": "Loan waivers impose fiscal costs and may create moral hazard in loan repayment behaviour."
+  },
+  {
+    "id": 156,
+    "question": "'Structural unemployment' arises mainly due to",
+    "options": [
+      "Temporary economic slowdown alone",
+      "Voluntary refusal to work",
+      "A mismatch between the skills of workers and the requirements of available jobs",
+      "Seasonal changes in agriculture"
+    ],
+    "answer": 2,
+    "explanation": "Structural unemployment stems from skill mismatches with changing economic structure."
+  },
+  {
+    "id": 157,
+    "question": "Realising the demographic dividend fully requires India to primarily focus on",
+    "options": [
+      "Encouraging early retirement across all sectors",
+      "Discouraging female workforce participation",
+      "Reducing the working-age population",
+      "Adequate skill development, education and job creation for its young workforce"
+    ],
+    "answer": 3,
+    "explanation": "Without adequate skilling and job creation, the demographic advantage may not translate into growth."
+  },
+  {
+    "id": 158,
+    "question": "The immediate trigger for the 1991 economic reforms in India was primarily a",
+    "options": [
+      "Severe Balance of Payments crisis and depleting foreign exchange reserves",
+      "A stock market boom",
+      "Sudden increase in agricultural output",
+      "Discovery of large oil reserves"
+    ],
+    "answer": 0,
+    "explanation": "A severe forex crisis forced India to pledge gold and seek IMF assistance, triggering reforms."
+  },
+  {
+    "id": 159,
+    "question": "If the GDP of a country is Rs. 400 lakh crore and the fiscal deficit is Rs. 22.0 lakh crore, the fiscal deficit as a percentage of GDP is approximately",
+    "options": [
+      "6",
+      "5",
+      "27",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "Fiscal Deficit (% of GDP) = (Fiscal Deficit / GDP) x 100 = (22.0 / 400) x 100 ~ 5.5%."
+  },
+  {
+    "id": 160,
+    "question": "Indirect taxes are generally considered regressive because they",
+    "options": [
+      "Are levied only on the rich",
+      "Impose the same rate regardless of the taxpayer's income, affecting the poor relatively more",
+      "Reduce inequality automatically",
+      "Are proportional to income always"
+    ],
+    "answer": 1,
+    "explanation": "Since indirect taxes don't vary with income, they weigh proportionally heavier on lower incomes."
+  },
+  {
+    "id": 161,
+    "question": "The Small Finance Banks and Payments Banks were introduced in India mainly to",
+    "options": [
+      "Regulate stock exchanges",
+      "Replace all existing commercial banks",
+      "Handle only foreign trade financing",
+      "Deepen financial inclusion by serving underserved segments and facilitating small-value transactions"
+    ],
+    "answer": 3,
+    "explanation": "These differentiated bank licenses target financial inclusion and small-value banking needs."
+  },
+  {
+    "id": 162,
+    "question": "The New Economic Policy of India, introducing major economic reforms, was launched in the year",
+    "options": [
+      "1980",
+      "2000",
+      "1969",
+      "1991"
+    ],
+    "answer": 3,
+    "explanation": "India's landmark economic reforms (LPG) were launched in 1991 under a balance of payments crisis."
+  },
+  {
+    "id": 163,
+    "question": "The GST Council, which recommends GST rates and rules, is chaired by the",
+    "options": [
+      "RBI Governor",
+      "Prime Minister of India",
+      "Chief Justice of India",
+      "Union Finance Minister"
+    ],
+    "answer": 3,
+    "explanation": "The Union Finance Minister chairs the GST Council, which includes state finance ministers."
+  },
+  {
+    "id": 164,
+    "question": "'Globalisation' as part of economic reforms mainly refers to",
+    "options": [
+      "Complete isolation from world trade",
+      "Fixing the exchange rate permanently",
+      "Banning foreign investment",
+      "Greater integration of the domestic economy with the world economy"
+    ],
+    "answer": 3,
+    "explanation": "Globalisation involves deeper integration through trade, investment and capital flows."
+  },
+  {
+    "id": 165,
+    "question": "Disinvestment of Public Sector Undertakings (PSUs) refers to",
+    "options": [
+      "Closing down all private companies",
+      "Increasing government shareholding in PSUs",
+      "Sale of a part or whole of government equity/shareholding in PSUs",
+      "Setting up new PSUs"
+    ],
+    "answer": 2,
+    "explanation": "Disinvestment involves the government reducing/selling its stake in PSUs."
+  },
+  {
+    "id": 166,
+    "question": "Gross Value Added (GVA) at basic prices differs from GDP mainly on account of",
+    "options": [
+      "Only corporate taxes",
+      "Only direct taxes",
+      "Only customs duty",
+      "Product taxes and product subsidies"
+    ],
+    "answer": 3,
+    "explanation": "GDP = GVA + Product Taxes - Product Subsidies."
+  },
+  {
+    "id": 167,
+    "question": "India's current inflation targeting framework mandates the RBI to maintain CPI inflation at",
+    "options": [
+      "4% with a tolerance band of plus/minus 2%",
+      "10% with no tolerance band",
+      "0% at all times",
+      "Exactly equal to the fiscal deficit percentage"
+    ],
+    "answer": 0,
+    "explanation": "RBI's flexible inflation targeting framework sets a 4% CPI target with a +/-2% band."
+  },
+  {
+    "id": 168,
+    "question": "The Union Budget of India is presented in Parliament by the",
+    "options": [
+      "Finance Minister",
+      "President of India",
+      "Prime Minister",
+      "RBI Governor"
+    ],
+    "answer": 0,
+    "explanation": "The Finance Minister presents the annual Union Budget in Parliament."
+  },
+  {
+    "id": 169,
+    "question": "If the GDP of a country is Rs. 320 lakh crore and the fiscal deficit is Rs. 14.1 lakh crore, the fiscal deficit as a percentage of GDP is approximately",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "25"
+    ],
+    "answer": 1,
+    "explanation": "Fiscal Deficit (% of GDP) = (Fiscal Deficit / GDP) x 100 = (14.1 / 320) x 100 ~ 4.4%."
+  },
+  {
+    "id": 170,
+    "question": "The national income of a country is Rs. 300 lakh crore and its population is 150 crore. The per capita income (in thousand Rs., rounded to the nearest whole number) is approximately",
+    "options": [
+      "200",
+      "220",
+      "180",
+      "170"
+    ],
+    "answer": 0,
+    "explanation": "Per Capita Income = National Income / Population = (300 lakh crore x 100) / 150 crore ~ Rs. 200 thousand."
+  },
+  {
+    "id": 171,
+    "question": "Inflation refers to a sustained rise in the general",
+    "options": [
+      "Level of foreign exchange reserves",
+      "Level of exports of a country",
+      "Price level of goods and services in an economy over time",
+      "Level of unemployment in an economy"
+    ],
+    "answer": 2,
+    "explanation": "Inflation is a persistent increase in the overall price level."
+  },
+  {
+    "id": 172,
+    "question": "The Insolvency and Bankruptcy Code (IBC), 2016 was introduced mainly to",
+    "options": [
+      "Regulate foreign direct investment",
+      "Provide a time-bound mechanism for resolving corporate insolvency and recovering bad loans",
+      "Regulate the stock market exclusively",
+      "Set minimum wages across industries"
+    ],
+    "answer": 1,
+    "explanation": "IBC created a unified, time-bound insolvency resolution framework in India."
+  },
+  {
+    "id": 173,
+    "question": "Dedicated Freight Corridors in Indian Railways are primarily built to",
+    "options": [
+      "Enable faster, high-capacity movement of freight separate from passenger traffic",
+      "Serve only international cargo",
+      "Replace all road transport in India",
+      "Increase passenger train speeds exclusively"
+    ],
+    "answer": 0,
+    "explanation": "Freight corridors are dedicated rail lines to decongest and speed up freight movement."
+  },
+  {
+    "id": 174,
+    "question": "The strategic disinvestment policy of the Government of India generally aims at",
+    "options": [
+      "Nationalising all private companies",
+      "Transferring ownership and control of identified non-strategic CPSEs to private players",
+      "Retaining 100% government ownership in every sector",
+      "Increasing the number of loss-making PSUs"
+    ],
+    "answer": 1,
+    "explanation": "Strategic disinvestment involves transfer of ownership/control, not just minority stake sale."
+  },
+  {
+    "id": 175,
+    "question": "Special Economic Zones (SEZs) in India are primarily established to",
+    "options": [
+      "Increase import duties",
+      "Promote exports by offering a liberal, tax-incentivised business environment",
+      "Discourage foreign investment",
+      "Restrict industrial activity to agriculture only"
+    ],
+    "answer": 1,
+    "explanation": "SEZs offer duty/tax benefits to boost export-oriented manufacturing and investment."
+  },
+  {
+    "id": 176,
+    "question": "India's GDP was Rs. 220 lakh crore in one year and rose to Rs. 231.0 lakh crore in the following year. The approximate annual growth rate of GDP is",
+    "options": [
+      "5",
+      "26",
+      "6",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "Growth Rate = [(GDP2 - GDP1) / GDP1] x 100 = [(231.0 - 220) / 220] x 100 ~ 5%."
+  },
+  {
+    "id": 177,
+    "question": "Priority Sector Lending (PSL) norms in India require banks to extend a stipulated share of credit to sectors such as",
+    "options": [
+      "Only large corporate houses",
+      "Only the IT sector",
+      "Agriculture, MSME and weaker sections",
+      "Only real estate developers"
+    ],
+    "answer": 2,
+    "explanation": "PSL norms mandate credit flow to priority areas like agriculture, MSME and weaker sections."
+  },
+  {
+    "id": 178,
+    "question": "Multidimensional Poverty Index (MPI), used alongside income-based measures, considers deprivation in",
+    "options": [
+      "Only literacy rates",
+      "Health, education and standard of living indicators",
+      "Only income levels",
+      "Only access to banking"
+    ],
+    "answer": 1,
+    "explanation": "MPI captures multiple deprivations beyond income, such as health, education and living standards."
+  },
+  {
+    "id": 179,
+    "question": "India's foreign exchange reserves are managed and held primarily by the",
+    "options": [
+      "Reserve Bank of India",
+      "State Bank of India",
+      "Ministry of Finance directly",
+      "World Bank"
+    ],
+    "answer": 0,
+    "explanation": "RBI manages and maintains India's official foreign exchange reserves."
+  },
+  {
+    "id": 180,
+    "question": "Financial inclusion refers broadly to",
+    "options": [
+      "Excluding rural households from banking services",
+      "Allowing only large corporations to access credit",
+      "Restricting banking services only to urban areas",
+      "Ensuring access to affordable financial services for all sections of society, especially the underserved"
+    ],
+    "answer": 3,
+    "explanation": "Financial inclusion aims to extend banking/financial services to all, especially excluded groups."
+  },
+  {
+    "id": 181,
+    "question": "The nominal GDP of a country is Rs. 179.2 lakh crore and the GDP deflator is 112. The real GDP (in Rs. lakh crore, rounded to the nearest whole number) is approximately",
+    "options": [
+      "144",
+      "176",
+      "136",
+      "160"
+    ],
+    "answer": 3,
+    "explanation": "Real GDP = (Nominal GDP / GDP Deflator) x 100 = (179.2 / 112) x 100 ~ Rs. 160 lakh crore."
+  },
+  {
+    "id": 182,
+    "question": "If the GDP of a country is Rs. 350 lakh crore and the fiscal deficit is Rs. 14.0 lakh crore, the fiscal deficit as a percentage of GDP is approximately",
+    "options": [
+      "3",
+      "4",
+      "25",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "Fiscal Deficit (% of GDP) = (Fiscal Deficit / GDP) x 100 = (14.0 / 350) x 100 ~ 4%."
+  },
+  {
+    "id": 183,
+    "question": "A Gini coefficient value closer to 1 indicates",
+    "options": [
+      "Greater inequality in income distribution",
+      "Perfect equality in income distribution",
+      "Zero unemployment",
+      "Zero inflation"
+    ],
+    "answer": 0,
+    "explanation": "A Gini coefficient of 1 represents maximum inequality; 0 represents perfect equality."
+  },
+  {
+    "id": 184,
+    "question": "The nominal GDP of a country is Rs. 253.0 lakh crore and the GDP deflator is 115. The real GDP (in Rs. lakh crore, rounded to the nearest whole number) is approximately",
+    "options": [
+      "187",
+      "198",
+      "220",
+      "242"
+    ],
+    "answer": 2,
+    "explanation": "Real GDP = (Nominal GDP / GDP Deflator) x 100 = (253.0 / 115) x 100 ~ Rs. 220 lakh crore."
+  },
+  {
+    "id": 185,
+    "question": "The Consumer Price Index (CPI) was 110 in the base period and rose to 117.7 in the current period. The rate of inflation between the two periods is approximately",
+    "options": [
+      "28",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "Inflation Rate = [(CPI_new - CPI_old) / CPI_old] x 100 = [(117.7 - 110) / 110] x 100 ~ 7%."
+  },
+  {
+    "id": 186,
+    "question": "Zero-Base Budgeting requires each budgetary item to be",
+    "options": [
+      "Reviewed only once every five years",
+      "Fixed permanently once approved",
+      "Justified afresh each year rather than based on the previous year's allocation",
+      "Automatically carried forward without review"
+    ],
+    "answer": 2,
+    "explanation": "Zero-base budgeting starts each budget cycle from a 'zero base' requiring fresh justification."
+  },
+  {
+    "id": 187,
+    "question": "As highlighted in the Economic Survey 2025-26, Gross Non-Performing Assets (GNPA) of Scheduled Commercial Banks had declined to around what level by September 2025",
+    "options": [
+      "About 25%",
+      "About 2.2%",
+      "About 0.1%",
+      "About 15%"
+    ],
+    "answer": 1,
+    "explanation": "GNPA ratio of SCBs fell to around 2.2% by September 2025, reflecting improved asset quality."
+  },
+  {
+    "id": 188,
+    "question": "Public sector enterprises were historically set up in India, especially in the initial decades, largely to",
+    "options": [
+      "Discourage private enterprise altogether",
+      "Compete directly with small retail shops",
+      "Build a strong industrial and infrastructural base where private capital was scarce",
+      "Replace agriculture entirely"
+    ],
+    "answer": 2,
+    "explanation": "PSUs filled capital-intensive, infrastructure and strategic gaps in the early planning era."
+  },
+  {
+    "id": 189,
+    "question": "According to the Economic Survey 2025-26, Gross Fixed Capital Formation (GFCF), reflecting investment activity, accounted for approximately what share of GDP in FY26",
+    "options": [
+      "About 75% of GDP",
+      "About 90% of GDP",
+      "About 30% of GDP",
+      "About 5% of GDP"
+    ],
+    "answer": 2,
+    "explanation": "GFCF sustained around a 30% share of GDP in FY26, reflecting a healthy investment cycle."
+  },
+  {
+    "id": 190,
+    "question": "Formalisation of the workforce refers to the process of",
+    "options": [
+      "Reducing the total workforce size",
+      "Shifting workers from informal, unregulated employment to formal, regulated employment with social security",
+      "Moving workers from cities to villages",
+      "Increasing child labour"
+    ],
+    "answer": 1,
+    "explanation": "Formalisation brings workers under regulated employment with benefits like social security."
+  },
+  {
+    "id": 191,
+    "question": "The 1991 economic reforms in India are commonly summarised under the acronym",
+    "options": [
+      "GST — Goods and Services Tax",
+      "NPA — Non-Performing Assets",
+      "FDI — Foreign Direct Investment",
+      "LPG — Liberalisation, Privatisation, Globalisation"
+    ],
+    "answer": 3,
+    "explanation": "LPG stands for Liberalisation, Privatisation and Globalisation, the core of 1991 reforms."
+  },
+  {
+    "id": 192,
+    "question": "Capital Adequacy Ratio (CAR) of a bank measures",
+    "options": [
+      "The bank's capital in relation to its risk-weighted assets",
+      "The bank's total deposits",
+      "The bank's total number of branches",
+      "The bank's profit margin only"
+    ],
+    "answer": 0,
+    "explanation": "CAR indicates a bank's ability to absorb losses relative to its risk exposure."
+  },
+  {
+    "id": 193,
+    "question": "India's GDP was Rs. 200 lakh crore in one year and rose to Rs. 215.0 lakh crore in the following year. The approximate annual growth rate of GDP is",
+    "options": [
+      "7",
+      "10",
+      "9",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "Growth Rate = [(GDP2 - GDP1) / GDP1] x 100 = [(215.0 - 200) / 200] x 100 ~ 7.5%."
+  },
+  {
+    "id": 194,
+    "question": "The Consumer Price Index (CPI) was 125 in the base period and rose to 128.8 in the current period. The rate of inflation between the two periods is approximately",
+    "options": [
+      "24",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Inflation Rate = [(CPI_new - CPI_old) / CPI_old] x 100 = [(128.8 - 125) / 125] x 100 ~ 3%."
+  },
+  {
+    "id": 195,
+    "question": "The Foreign Exchange Management Act (FEMA), 1999 replaced the earlier",
+    "options": [
+      "Companies Act, 1956",
+      "Banking Regulation Act, 1949",
+      "Industrial Disputes Act, 1947",
+      "Foreign Exchange Regulation Act (FERA), 1973"
+    ],
+    "answer": 3,
+    "explanation": "FEMA, 1999 replaced the more restrictive FERA to facilitate external trade/payments."
+  },
+  {
+    "id": 196,
+    "question": "'Disguised unemployment' refers to a situation where",
+    "options": [
+      "Workers migrate abroad for employment",
+      "Additional workers add little or nothing to output even though they appear employed",
+      "Workers refuse to work despite job availability",
+      "Workers are unemployed but actively seeking jobs"
+    ],
+    "answer": 1,
+    "explanation": "Disguised unemployment is common in agriculture where marginal productivity of extra labour is near zero."
+  },
+  {
+    "id": 197,
+    "question": "Social security coverage for gig and platform workers has been a focus of recent Indian labour reforms mainly to",
+    "options": [
+      "Extend benefits like insurance and welfare to workers outside traditional employer-employee structures",
+      "Restrict gig work entirely",
+      "Apply only to formal sector workers",
+      "Reduce the number of gig workers"
+    ],
+    "answer": 0,
+    "explanation": "Recent labour codes have sought to extend social security to gig/platform workers."
+  },
+  {
+    "id": 198,
+    "question": "The recently notified consolidated Labour Codes in India are commonly referred to as covering wages, industrial relations, social security and",
+    "options": [
+      "Only agricultural wages",
+      "Only banking regulations",
+      "Occupational safety, health and working conditions",
+      "Only environmental protection"
+    ],
+    "answer": 2,
+    "explanation": "The four Labour Codes cover Wages, Industrial Relations, Social Security, and Occupational Safety, Health and Working Conditions."
+  },
+  {
+    "id": 199,
+    "question": "The Consumer Price Index (CPI) was 105 in the base period and rose to 109.2 in the current period. The rate of inflation between the two periods is approximately",
+    "options": [
+      "3",
+      "4",
+      "25",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "Inflation Rate = [(CPI_new - CPI_old) / CPI_old] x 100 = [(109.2 - 105) / 105] x 100 ~ 4%."
+  },
+  {
+    "id": 200,
+    "question": "NITI Aayog primarily functions as a",
+    "options": [
+      "Regulator of the banking sector",
+      "Policy think tank providing directional and strategic inputs to the government",
+      "Body that conducts parliamentary elections",
+      "Body that allocates plan funds to states like the earlier Planning Commission"
+    ],
+    "answer": 1,
+    "explanation": "Unlike the Planning Commission, NITI Aayog acts as a think tank rather than a fund-allocating body."
+  },
+  {
+    "id": 201,
+    "question": "The GDP deflator is used to",
+    "options": [
+      "Measure only export growth",
+      "Convert nominal GDP into real GDP",
+      "Convert real GDP into nominal GDP only",
+      "Measure only fiscal deficit"
+    ],
+    "answer": 1,
+    "explanation": "GDP deflator = (Nominal GDP / Real GDP) x 100, used to adjust for price changes."
+  },
+  {
+    "id": 202,
+    "question": "The nominal GDP of a country is Rs. 231.0 lakh crore and the GDP deflator is 105. The real GDP (in Rs. lakh crore, rounded to the nearest whole number) is approximately",
+    "options": [
+      "198",
+      "220",
+      "242",
+      "187"
+    ],
+    "answer": 1,
+    "explanation": "Real GDP = (Nominal GDP / GDP Deflator) x 100 = (231.0 / 105) x 100 ~ Rs. 220 lakh crore."
+  },
+  {
+    "id": 203,
+    "question": "As per the Economic Survey 2025-26, India's real GDP growth for FY26 (First Advance Estimates) was placed at approximately",
+    "options": [
+      "7.4%",
+      "3.5%",
+      "10.5%",
+      "1.5%"
+    ],
+    "answer": 0,
+    "explanation": "The Economic Survey 2025-26's First Advance Estimates placed FY26 real GDP growth at about 7.4%."
+  },
+  {
+    "id": 204,
+    "question": "Aadhaar-based identification has been leveraged in Indian welfare delivery mainly to",
+    "options": [
+      "Restrict access to welfare schemes for genuine beneficiaries",
+      "Improve targeting and reduce duplication/leakages in subsidy and benefit delivery",
+      "Eliminate the banking system",
+      "Replace the need for any welfare schemes"
+    ],
+    "answer": 1,
+    "explanation": "Aadhaar linkage helps authenticate beneficiaries and curb leakages in scheme delivery."
+  },
+  {
+    "id": 205,
+    "question": "Open Market Operations (OMO) refer to the RBI's",
+    "options": [
+      "Fixing of the fiscal deficit target",
+      "Regulation of the stock market indices",
+      "Direct lending to individual borrowers",
+      "Buying and selling of government securities to regulate money supply/liquidity"
+    ],
+    "answer": 3,
+    "explanation": "OMOs are a key liquidity management tool involving RBI's purchase/sale of G-secs."
+  },
+  {
+    "id": 206,
+    "question": "The national income of a country is Rs. 200 lakh crore and its population is 150 crore. The per capita income (in thousand Rs., rounded to the nearest whole number) is approximately",
+    "options": [
+      "113",
+      "146",
+      "133",
+      "120"
+    ],
+    "answer": 2,
+    "explanation": "Per Capita Income = National Income / Population = (200 lakh crore x 100) / 150 crore ~ Rs. 133 thousand."
+  },
+  {
+    "id": 207,
+    "question": "SDG Goal 1 of the United Nations' 2030 Agenda is specifically focused on",
+    "options": [
+      "Combating climate change",
+      "Ensuring gender equality",
+      "Promoting quality education",
+      "Ending poverty in all its forms everywhere"
+    ],
+    "answer": 3,
+    "explanation": "SDG 1 explicitly targets the elimination of poverty in all forms globally."
+  },
+  {
+    "id": 208,
+    "question": "Value added method of estimating national income avoids the problem of",
+    "options": [
+      "Over-estimation of taxes",
+      "Under-reporting of exports",
+      "Double counting",
+      "Currency depreciation"
+    ],
+    "answer": 2,
+    "explanation": "The value-added approach adds only value created at each stage, avoiding double counting."
+  },
+  {
+    "id": 209,
+    "question": "The concept of 'Rolling Plan' in Indian planning was introduced during the period of the",
+    "options": [
+      "Second Five Year Plan",
+      "Eighth Five Year Plan",
+      "First Five Year Plan",
+      "Janata Party government after the Fourth Plan holiday"
+    ],
+    "answer": 3,
+    "explanation": "Rolling Plans were introduced after a plan holiday, notably during the Janata Party regime."
+  },
+  {
+    "id": 210,
+    "question": "The national income of a country is Rs. 500 lakh crore and its population is 100 crore. The per capita income (in thousand Rs., rounded to the nearest whole number) is approximately",
+    "options": [
+      "550",
+      "500",
+      "425",
+      "450"
+    ],
+    "answer": 1,
+    "explanation": "Per Capita Income = National Income / Population = (500 lakh crore x 100) / 100 crore ~ Rs. 500 thousand."
+  },
+  {
+    "id": 211,
+    "question": "'Cost-push inflation' occurs mainly when",
+    "options": [
+      "Exports rise sharply",
+      "Aggregate demand falls sharply",
+      "The government reduces taxes",
+      "Rising input/production costs push up prices of final goods and services"
+    ],
+    "answer": 3,
+    "explanation": "Cost-push inflation stems from higher production costs being passed on to prices."
+  },
+  {
+    "id": 212,
+    "question": "India's GDP was Rs. 140 lakh crore in one year and rose to Rs. 151.2 lakh crore in the following year. The approximate annual growth rate of GDP is",
+    "options": [
+      "9",
+      "10",
+      "7",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "Growth Rate = [(GDP2 - GDP1) / GDP1] x 100 = [(151.2 - 140) / 140] x 100 ~ 8%."
+  },
+  {
+    "id": 213,
+    "question": "If the GDP of a country is Rs. 320 lakh crore and the fiscal deficit is Rs. 14.4 lakh crore, the fiscal deficit as a percentage of GDP is approximately",
+    "options": [
+      "3",
+      "4",
+      "25",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "Fiscal Deficit (% of GDP) = (Fiscal Deficit / GDP) x 100 = (14.4 / 320) x 100 ~ 4.5%."
+  },
+  {
+    "id": 214,
+    "question": "Disinflation refers to a situation where",
+    "options": [
+      "There is no change in the price level",
+      "Prices are falling in absolute terms (deflation)",
+      "The rate of inflation is falling, though prices are still rising, just more slowly",
+      "Prices are rising at an accelerating rate"
+    ],
+    "answer": 2,
+    "explanation": "Disinflation is a slowdown in the rate of inflation, distinct from outright deflation."
+  },
+  {
+    "id": 215,
+    "question": "If the GDP of a country is Rs. 350 lakh crore and the fiscal deficit is Rs. 19.2 lakh crore, the fiscal deficit as a percentage of GDP is approximately",
+    "options": [
+      "27",
+      "6",
+      "5",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "Fiscal Deficit (% of GDP) = (Fiscal Deficit / GDP) x 100 = (19.2 / 350) x 100 ~ 5.5%."
+  },
+  {
+    "id": 216,
+    "question": "The Labour Force Participation Rate (LFPR) measures the",
+    "options": [
+      "Proportion of the population that is either working or actively seeking work",
+      "Proportion of GDP contributed by labour",
+      "Proportion of population above 60 years",
+      "Proportion of population that is literate"
+    ],
+    "answer": 0,
+    "explanation": "LFPR is the share of the working-age population in the labour force."
+  },
+  {
+    "id": 217,
+    "question": "The Skill India Mission primarily aims to",
+    "options": [
+      "Discourage vocational education",
+      "Reduce the size of India's workforce",
+      "Enhance the employability of India's workforce through vocational training and skill development",
+      "Replace formal education entirely"
+    ],
+    "answer": 2,
+    "explanation": "Skill India seeks to build a skilled workforce aligned with industry/employment needs."
+  },
+  {
+    "id": 218,
+    "question": "The national income of a country is Rs. 250 lakh crore and its population is 150 crore. The per capita income (in thousand Rs., rounded to the nearest whole number) is approximately",
+    "options": [
+      "142",
+      "167",
+      "150",
+      "184"
+    ],
+    "answer": 1,
+    "explanation": "Per Capita Income = National Income / Population = (250 lakh crore x 100) / 150 crore ~ Rs. 167 thousand."
+  },
+  {
+    "id": 219,
+    "question": "The 'informal sector' of the Indian economy generally refers to",
+    "options": [
+      "Only government owned enterprises",
+      "Unregistered, unorganised economic activity outside formal regulation",
+      "Only export-oriented units",
+      "Only large corporate houses"
+    ],
+    "answer": 1,
+    "explanation": "The informal sector covers unorganised, largely unregistered economic activity."
+  },
+  {
+    "id": 220,
+    "question": "The Consumer Price Index (CPI) was 115 in the base period and rose to 124.2 in the current period. The rate of inflation between the two periods is approximately",
+    "options": [
+      "8",
+      "9",
+      "7",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "Inflation Rate = [(CPI_new - CPI_old) / CPI_old] x 100 = [(124.2 - 115) / 115] x 100 ~ 8%."
+  },
+  {
+    "id": 221,
+    "question": "Agricultural marketing reforms in India, such as those enabling farmers to sell outside APMC mandis, primarily aim to",
+    "options": [
+      "Force farmers to sell only to government agencies",
+      "Give farmers greater choice and better price discovery for their produce",
+      "Eliminate minimum support prices entirely",
+      "Ban all private trade in agriculture"
+    ],
+    "answer": 1,
+    "explanation": "Marketing reforms sought to widen farmers' selling options beyond regulated APMC mandis."
+  },
+  {
+    "id": 222,
+    "question": "Contract farming refers to an arrangement in which",
+    "options": [
+      "All produce must be exported abroad",
+      "Farmers agree in advance to produce and supply agricultural output to a buyer at pre-agreed terms",
+      "The government takes over all farmland",
+      "Farmers are barred from selling to private buyers"
+    ],
+    "answer": 1,
+    "explanation": "Contract farming is a pre-arranged agreement between farmers and buyers/agribusiness firms."
+  },
+  {
+    "id": 223,
+    "question": "If the GDP of a country is Rs. 280 lakh crore and the fiscal deficit is Rs. 12.3 lakh crore, the fiscal deficit as a percentage of GDP is approximately",
+    "options": [
+      "5",
+      "25",
+      "3",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "Fiscal Deficit (% of GDP) = (Fiscal Deficit / GDP) x 100 = (12.3 / 280) x 100 ~ 4.4%."
+  },
+  {
+    "id": 224,
+    "question": "As per the Economic Survey 2025-26, average headline CPI inflation during April-December of FY26 was recorded at approximately",
+    "options": [
+      "1.7%",
+      "15%",
+      "8.5%",
+      "0%"
+    ],
+    "answer": 0,
+    "explanation": "Retail (CPI) inflation averaged around 1.7% during April-December FY26, a historic low, led by food price disinflation."
+  },
+  {
+    "id": 225,
+    "question": "Indicative planning, as opposed to imperative/directive planning, means",
+    "options": [
+      "The government strictly controls all production decisions",
+      "The government sets broad targets while relying substantially on market forces",
+      "There is no planning at all",
+      "Only the private sector decides all plans"
+    ],
+    "answer": 1,
+    "explanation": "Indicative planning blends government guidance with market-driven decisions."
+  },
+  {
+    "id": 226,
+    "question": "If the GDP of a country is Rs. 250 lakh crore and the fiscal deficit is Rs. 12.5 lakh crore, the fiscal deficit as a percentage of GDP is approximately",
+    "options": [
+      "6",
+      "26",
+      "4",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "Fiscal Deficit (% of GDP) = (Fiscal Deficit / GDP) x 100 = (12.5 / 250) x 100 ~ 5%."
+  },
+  {
+    "id": 227,
+    "question": "Tax buoyancy refers to",
+    "options": [
+      "The responsiveness of tax revenue growth to growth in national income/GDP",
+      "The tax rate applicable to the richest individuals",
+      "The number of taxpayers registered",
+      "The absolute amount of tax collected in a year"
+    ],
+    "answer": 0,
+    "explanation": "Tax buoyancy measures how tax collections respond proportionately to GDP growth."
+  },
+  {
+    "id": 228,
+    "question": "The reverse repo rate is the rate at which",
+    "options": [
+      "The government borrows from the RBI",
+      "The RBI lends funds to commercial banks",
+      "The RBI borrows funds from commercial banks",
+      "Commercial banks lend to each other"
+    ],
+    "answer": 2,
+    "explanation": "Reverse repo is the rate RBI pays to absorb excess liquidity from banks."
+  },
+  {
+    "id": 229,
+    "question": "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) guarantees",
+    "options": [
+      "Free housing to all rural households",
+      "Unemployment allowance to urban youth",
+      "Free education up to graduation",
+      "At least 100 days of wage employment per year to rural households"
+    ],
+    "answer": 3,
+    "explanation": "MGNREGA legally guarantees 100 days of wage employment to rural households annually."
+  },
+  {
+    "id": 230,
+    "question": "India's Five Year Plans were modelled on the planning experience of",
+    "options": [
+      "Japan",
+      "The United Kingdom",
+      "The United States of America",
+      "The erstwhile Soviet Union"
+    ],
+    "answer": 3,
+    "explanation": "India's Five Year Plans drew inspiration from Soviet-style centralized planning."
+  },
+  {
+    "id": 231,
+    "question": "The nominal GDP of a country is Rs. 212.4 lakh crore and the GDP deflator is 118. The real GDP (in Rs. lakh crore, rounded to the nearest whole number) is approximately",
+    "options": [
+      "153",
+      "162",
+      "198",
+      "180"
+    ],
+    "answer": 3,
+    "explanation": "Real GDP = (Nominal GDP / GDP Deflator) x 100 = (212.4 / 118) x 100 ~ Rs. 180 lakh crore."
+  },
+  {
+    "id": 232,
+    "question": "GST is best described as a",
+    "options": [
+      "Comprehensive, destination-based indirect tax on the supply of goods and services",
+      "Direct tax on personal income",
+      "Tax levied only on imports",
+      "Tax levied only on exports"
+    ],
+    "answer": 0,
+    "explanation": "GST is a destination-based consumption tax subsuming multiple earlier indirect taxes."
+  },
+  {
+    "id": 233,
+    "question": "India currently follows which type of exchange rate regime for the rupee",
+    "options": [
+      "A barter exchange system",
+      "A gold standard-based exchange rate system",
+      "A completely fixed exchange rate system",
+      "A market-determined (managed float) exchange rate system"
+    ],
+    "answer": 3,
+    "explanation": "India follows a managed floating exchange rate regime, with RBI intervening as needed."
+  },
+  {
+    "id": 234,
+    "question": "If the GDP of a country is Rs. 380 lakh crore and the fiscal deficit is Rs. 15.2 lakh crore, the fiscal deficit as a percentage of GDP is approximately",
+    "options": [
+      "3",
+      "25",
+      "5",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "Fiscal Deficit (% of GDP) = (Fiscal Deficit / GDP) x 100 = (15.2 / 380) x 100 ~ 4%."
+  },
+  {
+    "id": 235,
+    "question": "India's GDP was Rs. 180 lakh crore in one year and rose to Rs. 187.2 lakh crore in the following year. The approximate annual growth rate of GDP is",
+    "options": [
+      "25",
+      "5",
+      "4",
+      "3"
+    ],
+    "answer": 2,
+    "explanation": "Growth Rate = [(GDP2 - GDP1) / GDP1] x 100 = [(187.2 - 180) / 180] x 100 ~ 4%."
+  },
+  {
+    "id": 236,
+    "question": "The Reserve Bank of India's Monetary Policy Committee is currently chaired by the RBI Governor, a position that (as of the given period) is held by",
+    "options": [
+      "Raghuram Rajan",
+      "Urjit Patel",
+      "D. Subbarao",
+      "Sanjay Malhotra"
+    ],
+    "answer": 3,
+    "explanation": "Sanjay Malhotra has been serving as RBI Governor and chairs the Monetary Policy Committee."
+  },
+  {
+    "id": 237,
+    "question": "A depreciation of the Indian rupee against the US dollar means that",
+    "options": [
+      "The rupee's value has increased against the dollar",
+      "More rupees are required to buy one US dollar",
+      "The exchange rate has become completely fixed",
+      "Fewer rupees are required to buy one US dollar"
+    ],
+    "answer": 1,
+    "explanation": "Depreciation implies the domestic currency has weakened relative to the foreign currency."
+  },
+  {
+    "id": 238,
+    "question": "According to the Economic Survey 2025-26, Private Final Consumption Expenditure (PFCE) as a share of GDP in FY26 reached its highest level since approximately",
+    "options": [
+      "2011-12",
+      "1991-92",
+      "2000-01",
+      "2019-20"
+    ],
+    "answer": 0,
+    "explanation": "PFCE's share of GDP rose to about 61.5% in FY26, the highest since 2011-12."
+  },
+  {
+    "id": 239,
+    "question": "The Consumer Price Index (CPI) was 105 in the base period and rose to 107.1 in the current period. The rate of inflation between the two periods is approximately",
+    "options": [
+      "23",
+      "9",
+      "2",
+      "16"
+    ],
+    "answer": 2,
+    "explanation": "Inflation Rate = [(CPI_new - CPI_old) / CPI_old] x 100 = [(107.1 - 105) / 105] x 100 ~ 2%."
+  },
+  {
+    "id": 240,
+    "question": "India's GDP was Rs. 200 lakh crore in one year and rose to Rs. 208.0 lakh crore in the following year. The approximate annual growth rate of GDP is",
+    "options": [
+      "4",
+      "25",
+      "3",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "Growth Rate = [(GDP2 - GDP1) / GDP1] x 100 = [(208.0 - 200) / 200] x 100 ~ 4%."
+  },
+  {
+    "id": 241,
+    "question": "Inclusive growth, as a development objective, emphasises that economic growth should",
+    "options": [
+      "Focus exclusively on urban areas",
+      "Benefit all sections of society, including the poor and marginalised, and reduce inequality",
+      "Ignore environmental sustainability entirely",
+      "Benefit only the wealthiest sections of society"
+    ],
+    "answer": 1,
+    "explanation": "Inclusive growth stresses broad-based benefits of growth across income groups and regions."
+  },
+  {
+    "id": 242,
+    "question": "The nominal GDP of a country is Rs. 270.0 lakh crore and the GDP deflator is 108. The real GDP (in Rs. lakh crore, rounded to the nearest whole number) is approximately",
+    "options": [
+      "225",
+      "275",
+      "212",
+      "250"
+    ],
+    "answer": 3,
+    "explanation": "Real GDP = (Nominal GDP / GDP Deflator) x 100 = (270.0 / 108) x 100 ~ Rs. 250 lakh crore."
+  },
+  {
+    "id": 243,
+    "question": "The Consumer Price Index (CPI) was 110 in the base period and rose to 113.3 in the current period. The rate of inflation between the two periods is approximately",
+    "options": [
+      "4",
+      "2",
+      "24",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "Inflation Rate = [(CPI_new - CPI_old) / CPI_old] x 100 = [(113.3 - 110) / 110] x 100 ~ 3%."
+  },
+  {
+    "id": 244,
+    "question": "External Commercial Borrowings (ECBs) refer to",
+    "options": [
+      "Loans raised by foreign entities from Indian banks",
+      "Domestic borrowings by the Indian government",
+      "Loans raised by Indian entities from foreign sources/lenders",
+      "Grants given by India to other countries"
+    ],
+    "answer": 2,
+    "explanation": "ECBs are commercial loans availed by Indian companies from overseas lenders."
+  },
+  {
+    "id": 245,
+    "question": "The Public Distribution System (PDS) in India mainly aims to",
+    "options": [
+      "Fix agricultural wages across states",
+      "Provide crop insurance to farmers",
+      "Provide essential food grains at subsidised prices to the population, particularly the poor",
+      "Export surplus food grains abroad"
+    ],
+    "answer": 2,
+    "explanation": "PDS distributes subsidised food grains through ration shops, targeting the vulnerable population."
+  },
+  {
+    "id": 246,
+    "question": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY) primarily provides",
+    "options": [
+      "Unemployment allowance to job seekers",
+      "Health insurance coverage for hospitalisation to economically vulnerable families",
+      "Free housing to all citizens",
+      "Free higher education to all students"
+    ],
+    "answer": 1,
+    "explanation": "PM-JAY offers cashless health cover for secondary/tertiary hospitalisation to eligible families."
+  },
+  {
+    "id": 247,
+    "question": "Gross Domestic Product (GDP) is defined as the money value of all final goods and services produced within",
+    "options": [
+      "The domestic territory of a country during a year",
+      "Only the agricultural sector during a year",
+      "Only the exported goods of a country",
+      "Only the government sector during a year"
+    ],
+    "answer": 0,
+    "explanation": "GDP measures the value of final goods/services produced within a country's domestic territory in a year."
+  },
+  {
+    "id": 248,
+    "question": "Real GDP differs from Nominal GDP in that Real GDP is",
+    "options": [
+      "Calculated only in foreign currency",
+      "Adjusted for price changes (inflation)",
+      "Calculated only for exports",
+      "Not adjusted for price changes"
+    ],
+    "answer": 1,
+    "explanation": "Real GDP removes the effect of price changes to reflect true output changes."
+  },
+  {
+    "id": 249,
+    "question": "'Privatisation' as part of economic reforms mainly refers to",
+    "options": [
+      "Banning private sector participation",
+      "Increasing subsidies to public enterprises",
+      "Nationalisation of private banks",
+      "Transfer of ownership/management of public sector enterprises to the private sector"
+    ],
+    "answer": 3,
+    "explanation": "Privatisation shifts ownership/control of PSUs toward private players."
+  },
+  {
+    "id": 250,
+    "question": "The Current Account of the Balance of Payments mainly records transactions relating to",
+    "options": [
+      "Foreign portfolio investment only",
+      "Foreign direct investment inflows only",
+      "External commercial borrowings only",
+      "Trade in goods and services, income and current transfers"
+    ],
+    "answer": 3,
+    "explanation": "Current account covers trade, services, income and unilateral transfers."
+  },
+  {
+    "id": 251,
+    "question": "Land reforms undertaken in India after independence primarily aimed at",
+    "options": [
+      "Discouraging land ownership by farmers",
+      "Abolishing intermediaries (zamindari) and redistributing land more equitably",
+      "Nationalising all agricultural land",
+      "Increasing the size of large landholdings"
+    ],
+    "answer": 1,
+    "explanation": "Land reforms sought to abolish intermediary tenures and improve land distribution equity."
+  },
+  {
+    "id": 252,
+    "question": "Foreign Direct Investment (FDI) is generally distinguished from Foreign Portfolio Investment (FPI) by",
+    "options": [
+      "Never being recorded in the Balance of Payments",
+      "Involving a lasting management interest/control in an enterprise abroad",
+      "Being restricted only to government bonds",
+      "Being always short-term and speculative"
+    ],
+    "answer": 1,
+    "explanation": "FDI implies a controlling/lasting interest, unlike more liquid, passive FPI investment."
+  },
+  {
+    "id": 253,
+    "question": "The Monetary Policy Committee (MPC) of the RBI is primarily responsible for",
+    "options": [
+      "Regulating the stock exchanges",
+      "Deciding the policy repo rate to achieve the inflation target",
+      "Deciding the Union Budget allocations",
+      "Fixing minimum support prices for crops"
+    ],
+    "answer": 1,
+    "explanation": "The MPC sets the repo rate, RBI's key tool to meet the inflation target."
+  },
+  {
+    "id": 254,
+    "question": "The JAM Trinity in Indian policy discourse refers to the combination of",
+    "options": [
+      "Jobs, Agriculture and Manufacturing sectors",
+      "Jan Dhan accounts, Aadhaar and Mobile numbers used together for financial inclusion and DBT",
+      "Joint Annual Monitoring of infrastructure projects",
+      "Judiciary, Administration and Military coordination"
+    ],
+    "answer": 1,
+    "explanation": "JAM Trinity links bank accounts, Aadhaar and mobile connectivity to enable targeted delivery."
+  },
+  {
+    "id": 255,
+    "question": "The Marginal Standing Facility (MSF) allows banks to",
+    "options": [
+      "Borrow overnight funds from the RBI against government securities, usually at a rate higher than the repo rate",
+      "Borrow funds from other commercial banks only",
+      "Deposit excess funds with the RBI at the repo rate",
+      "Lend directly to the government"
+    ],
+    "answer": 0,
+    "explanation": "MSF is an emergency overnight borrowing window for banks, priced above the repo rate."
+  },
+  {
+    "id": 256,
+    "question": "The national income of a country is Rs. 450 lakh crore and its population is 120 crore. The per capita income (in thousand Rs., rounded to the nearest whole number) is approximately",
+    "options": [
+      "413",
+      "338",
+      "319",
+      "375"
+    ],
+    "answer": 3,
+    "explanation": "Per Capita Income = National Income / Population = (450 lakh crore x 100) / 120 crore ~ Rs. 375 thousand."
+  },
+  {
+    "id": 257,
+    "question": "PM-KISAN scheme provides",
+    "options": [
+      "Interest-free loans only, with no direct cash transfer",
+      "Direct income support to eligible farmer families in fixed annual instalments",
+      "Subsidised fertilizers only",
+      "Free irrigation equipment only"
+    ],
+    "answer": 1,
+    "explanation": "PM-KISAN gives direct cash income support to eligible farmer families."
+  },
+  {
+    "id": 258,
+    "question": "National Highways expansion in India, such as under the Bharatmala Pariyojana, primarily aims at",
+    "options": [
+      "Improving road connectivity and reducing logistics costs across the country",
+      "Reducing the length of the national highway network",
+      "Replacing all railway freight transport",
+      "Discouraging inter-state trade"
+    ],
+    "answer": 0,
+    "explanation": "Bharatmala focuses on expanding and upgrading the national highway network for better connectivity."
+  },
+  {
+    "id": 259,
+    "question": "India's current Finance Minister, who presents the Union Budget, is",
+    "options": [
+      "P. Chidambaram",
+      "Arun Jaitley",
+      "Nirmala Sitharaman",
+      "Manmohan Singh"
+    ],
+    "answer": 2,
+    "explanation": "Nirmala Sitharaman has been serving as India's Union Finance Minister."
+  },
+  {
+    "id": 260,
+    "question": "An Infrastructure Investment Trust (InvIT) is a vehicle that primarily helps",
+    "options": [
+      "Provide short-term consumer loans",
+      "Pool investor funds to invest in income-generating infrastructure assets",
+      "Regulate agricultural markets",
+      "Manage the country's foreign exchange reserves"
+    ],
+    "answer": 1,
+    "explanation": "InvITs allow monetisation of infrastructure assets by pooling investor capital."
+  },
+  {
+    "id": 261,
+    "question": "The national income of a country is Rs. 400 lakh crore and its population is 140 crore. The per capita income (in thousand Rs., rounded to the nearest whole number) is approximately",
+    "options": [
+      "315",
+      "243",
+      "286",
+      "257"
+    ],
+    "answer": 2,
+    "explanation": "Per Capita Income = National Income / Population = (400 lakh crore x 100) / 140 crore ~ Rs. 286 thousand."
+  },
+  {
+    "id": 262,
+    "question": "The concept of 'Ease of Living Index' in Indian policy discourse is used to assess",
+    "options": [
+      "Only the ease of starting a business",
+      "Only stock market performance",
+      "Only export competitiveness",
+      "The quality of life of citizens across parameters like infrastructure, quality of life and sustainability"
+    ],
+    "answer": 3,
+    "explanation": "The Ease of Living Index evaluates urban quality of life across multiple dimensions."
+  },
+  {
+    "id": 263,
+    "question": "The main rationale for disinvestment in loss-making, non-strategic PSUs is generally to",
+    "options": [
+      "Avoid any private sector participation",
+      "Guarantee lifetime employment for all employees",
+      "Increase government subsidies to these units",
+      "Reduce the fiscal burden on the government and improve efficiency"
+    ],
+    "answer": 3,
+    "explanation": "Disinvestment aims to cut fiscal drain and bring in efficiency through private participation."
+  },
+  {
+    "id": 264,
+    "question": "The National Food Security Act, 2013 primarily aims to",
+    "options": [
+      "Provide legal entitlement to subsidised food grains for a large section of the population",
+      "Regulate the stock market",
+      "Regulate agricultural exports only",
+      "Fix minimum wages for industrial workers"
+    ],
+    "answer": 0,
+    "explanation": "NFSA legally guarantees subsidised food grain access to eligible beneficiaries."
+  },
+  {
+    "id": 265,
+    "question": "The Second Five Year Plan is closely associated with the",
+    "options": [
+      "Introduction of GST",
+      "Launch of economic liberalisation",
+      "Mahalanobis strategy of rapid industrialisation, particularly heavy industry",
+      "Green Revolution in agriculture"
+    ],
+    "answer": 2,
+    "explanation": "The Second Plan, based on the Mahalanobis model, stressed heavy industry."
+  },
+  {
+    "id": 266,
+    "question": "If the GDP of a country is Rs. 250 lakh crore and the fiscal deficit is Rs. 15.0 lakh crore, the fiscal deficit as a percentage of GDP is approximately",
+    "options": [
+      "6",
+      "5",
+      "27",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "Fiscal Deficit (% of GDP) = (Fiscal Deficit / GDP) x 100 = (15.0 / 250) x 100 ~ 6%."
+  },
+  {
+    "id": 267,
+    "question": "A contractionary (tight) monetary policy is typically adopted by the RBI mainly to",
+    "options": [
+      "Increase government subsidies",
+      "Reduce the fiscal deficit directly",
+      "Boost economic growth rapidly",
+      "Curb high inflation by reducing money supply/credit growth"
+    ],
+    "answer": 3,
+    "explanation": "Tight monetary policy aims to rein in inflation by restricting liquidity/credit."
+  },
+  {
+    "id": 268,
+    "question": "The Pradhan Mantri Fasal Bima Yojana (PMFBY) is primarily a scheme for",
+    "options": [
+      "Providing free agricultural machinery",
+      "Direct cash transfer to farmers irrespective of crop loss",
+      "Fixing minimum support prices",
+      "Crop insurance against yield losses due to natural calamities"
+    ],
+    "answer": 3,
+    "explanation": "PMFBY provides insurance cover to farmers against crop loss from natural risks."
+  },
+  {
+    "id": 269,
+    "question": "Revenue deficit refers to the excess of",
+    "options": [
+      "Imports over exports",
+      "Revenue expenditure over revenue receipts",
+      "Total expenditure over total receipts",
+      "Capital expenditure over capital receipts"
+    ],
+    "answer": 1,
+    "explanation": "Revenue deficit arises when revenue expenditure exceeds revenue receipts."
+  },
+  {
+    "id": 270,
+    "question": "Bank nationalisation in India, covering 14 major banks, first took place in the year",
+    "options": [
+      "1980",
+      "1935",
+      "1969",
+      "1991"
+    ],
+    "answer": 2,
+    "explanation": "The first major round of bank nationalisation occurred in 1969."
+  },
+  {
+    "id": 271,
+    "question": "'Demand-pull inflation' occurs mainly when",
+    "options": [
+      "Aggregate supply exceeds aggregate demand",
+      "Exports decline sharply",
+      "Aggregate demand in the economy exceeds aggregate supply at existing prices",
+      "Production costs fall sharply"
+    ],
+    "answer": 2,
+    "explanation": "Demand-pull inflation arises when demand outpaces the economy's supply capacity."
+  },
+  {
+    "id": 272,
+    "question": "The nominal GDP of a country is Rs. 176.0 lakh crore and the GDP deflator is 110. The real GDP (in Rs. lakh crore, rounded to the nearest whole number) is approximately",
+    "options": [
+      "144",
+      "160",
+      "176",
+      "136"
+    ],
+    "answer": 1,
+    "explanation": "Real GDP = (Nominal GDP / GDP Deflator) x 100 = (176.0 / 110) x 100 ~ Rs. 160 lakh crore."
+  },
+  {
+    "id": 273,
+    "question": "Revenue receipts of the government mainly consist of",
+    "options": [
+      "Disinvestment proceeds",
+      "Recovery of loans given by the government",
+      "Tax revenue and non-tax revenue that do not create a liability",
+      "Borrowings from the market"
+    ],
+    "answer": 2,
+    "explanation": "Revenue receipts (tax + non-tax) do not create any liability or reduce assets."
+  },
+  {
+    "id": 274,
+    "question": "The Consumer Price Index (CPI) was 115 in the base period and rose to 118.5 in the current period. The rate of inflation between the two periods is approximately",
+    "options": [
+      "2",
+      "4",
+      "24",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "Inflation Rate = [(CPI_new - CPI_old) / CPI_old] x 100 = [(118.5 - 115) / 115] x 100 ~ 3%."
+  },
+  {
+    "id": 275,
+    "question": "As per the Union Budget 2026-27, India's fiscal deficit for 2026-27 (Budget Estimate) is targeted at approximately",
+    "options": [
+      "4.3% of GDP",
+      "10% of GDP",
+      "1% of GDP",
+      "8% of GDP"
+    ],
+    "answer": 0,
+    "explanation": "Budget 2026-27 pegged the fiscal deficit target at around 4.3% of GDP, lower than the FY26 revised estimate of 4.4%."
+  },
+  {
+    "id": 276,
+    "question": "The main function of NITI Aayog's 'Aspirational Districts Programme' is to",
+    "options": [
+      "Manage India's foreign exchange reserves",
+      "Rapidly transform selected underdeveloped districts through focused development indicators",
+      "Conduct the decennial census",
+      "Regulate stock exchanges"
+    ],
+    "answer": 1,
+    "explanation": "The Aspirational Districts Programme targets improvement of key development indicators in backward districts."
+  },
+  {
+    "id": 277,
+    "question": "The Balance of Payments (BOP) of a country is a systematic record of",
+    "options": [
+      "Only the government's foreign borrowings",
+      "All economic transactions between residents of a country and the rest of the world during a period",
+      "Only merchandise exports",
+      "Only tourism receipts"
+    ],
+    "answer": 1,
+    "explanation": "BOP records all transactions (current + capital account) with the rest of the world."
+  },
+  {
+    "id": 278,
+    "question": "An increase in the Cash Reserve Ratio (CRR) by the RBI generally leads to",
+    "options": [
+      "An automatic reduction in inflation to zero",
+      "An increase in the lendable resources of banks",
+      "No effect on bank liquidity at all",
+      "A reduction in the lendable resources of banks, tightening liquidity"
+    ],
+    "answer": 3,
+    "explanation": "Higher CRR locks up more bank funds with RBI, reducing funds available for lending."
+  },
+  {
+    "id": 279,
+    "question": "India's GDP was Rs. 100 lakh crore in one year and rose to Rs. 106.0 lakh crore in the following year. The approximate annual growth rate of GDP is",
+    "options": [
+      "5",
+      "7",
+      "27",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "Growth Rate = [(GDP2 - GDP1) / GDP1] x 100 = [(106.0 - 100) / 100] x 100 ~ 6%."
+  },
+  {
+    "id": 280,
+    "question": "Bank Rate, as distinguished from repo rate, refers to the rate at which the RBI",
+    "options": [
+      "Charges penalty on income tax defaulters",
+      "Provides long-term funds to banks without any collateral requirement typically linked to the MSF",
+      "Provides funds against collateral for very short tenures only",
+      "Regulates foreign exchange transactions"
+    ],
+    "answer": 1,
+    "explanation": "Bank rate is traditionally the rate for lending without repo-style collateral, now aligned with MSF."
+  },
+  {
+    "id": 281,
+    "question": "The current Reserve Bank of India inflation target framework requires the RBI to keep CPI inflation at 4%, with a tolerance band of",
+    "options": [
+      "Plus or minus 2 percentage points",
+      "Plus or minus 0.5 percentage points",
+      "Plus or minus 10 percentage points",
+      "Exactly zero, with no tolerance band"
+    ],
+    "answer": 0,
+    "explanation": "RBI's inflation targeting mandate is a 4% CPI target with a +/-2 percentage point band."
+  },
+  {
+    "id": 282,
+    "question": "The Capital Account of the Balance of Payments mainly records",
+    "options": [
+      "Transactions relating to changes in a country's foreign assets and liabilities such as investment flows",
+      "Only trade in services",
+      "Only remittances from abroad",
+      "Only trade in goods"
+    ],
+    "answer": 0,
+    "explanation": "Capital account tracks financial flows like FDI, FPI and loans, not goods/services trade."
+  },
+  {
+    "id": 283,
+    "question": "The nominal GDP of a country is Rs. 246.4 lakh crore and the GDP deflator is 112. The real GDP (in Rs. lakh crore, rounded to the nearest whole number) is approximately",
+    "options": [
+      "242",
+      "198",
+      "220",
+      "187"
+    ],
+    "answer": 2,
+    "explanation": "Real GDP = (Nominal GDP / GDP Deflator) x 100 = (246.4 / 112) x 100 ~ Rs. 220 lakh crore."
+  },
+  {
+    "id": 284,
+    "question": "'Liberalisation' as part of economic reforms mainly refers to",
+    "options": [
+      "Closing the economy to foreign trade",
+      "Increasing import tariffs sharply",
+      "Reducing government controls and regulations on economic activities",
+      "Increasing government ownership of industries"
+    ],
+    "answer": 2,
+    "explanation": "Liberalisation reduces bureaucratic controls (licensing, permits) on business activity."
+  },
+  {
+    "id": 285,
+    "question": "India's Nationally Determined Contributions (NDCs) under the Paris Agreement relate primarily to",
+    "options": [
+      "Its commitments to reduce greenhouse gas emissions and promote clean energy",
+      "Its commitments on agricultural subsidies",
+      "Its commitments on defence spending",
+      "Its commitments on trade tariffs"
+    ],
+    "answer": 0,
+    "explanation": "NDCs are countries' self-determined climate action commitments under the Paris Agreement."
+  },
+  {
+    "id": 286,
+    "question": "The Tendulkar Committee on poverty estimation recommended shifting the poverty line basis from calorie intake to",
+    "options": [
+      "Only urban rents",
+      "Only agricultural income",
+      "Only industrial wages",
+      "A basket of goods covering food, health, education and other essentials"
+    ],
+    "answer": 3,
+    "explanation": "The Tendulkar Committee broadened poverty measurement beyond calories to a wider consumption basket."
+  },
+  {
+    "id": 287,
+    "question": "Beti Bachao Beti Padhao scheme primarily aims to",
+    "options": [
+      "Address the declining child sex ratio and promote education of the girl child",
+      "Increase industrial investment",
+      "Provide free housing to boys only",
+      "Regulate agricultural prices"
+    ],
+    "answer": 0,
+    "explanation": "This scheme targets gender bias issues and promotes girls' survival, protection and education."
+  },
+  {
+    "id": 288,
+    "question": "India's GDP was Rs. 120 lakh crore in one year and rose to Rs. 124.8 lakh crore in the following year. The approximate annual growth rate of GDP is",
+    "options": [
+      "4",
+      "3",
+      "25",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "Growth Rate = [(GDP2 - GDP1) / GDP1] x 100 = [(124.8 - 120) / 120] x 100 ~ 4%."
+  },
+  {
+    "id": 289,
+    "question": "The Governing Council of NITI Aayog is chaired by",
+    "options": [
+      "The RBI Governor",
+      "The Finance Minister of India",
+      "The Prime Minister of India",
+      "The Chief Justice of India"
+    ],
+    "answer": 2,
+    "explanation": "The Prime Minister chairs the NITI Aayog Governing Council, comprising all Chief Ministers."
+  },
+  {
+    "id": 290,
+    "question": "The Pradhan Mantri Jan Dhan Yojana (PMJDY) primarily aims at",
+    "options": [
+      "Waiving all agricultural loans",
+      "Providing free electricity to rural areas",
+      "Providing free housing to the poor",
+      "Ensuring universal access to basic banking/financial services for all households"
+    ],
+    "answer": 3,
+    "explanation": "PMJDY is India's flagship financial inclusion scheme focused on basic bank account access."
+  },
+  {
+    "id": 291,
+    "question": "India's urban infrastructure development is significantly supported by missions such as the",
+    "options": [
+      "Green Revolution",
+      "White Revolution",
+      "Atal Mission for Rejuvenation and Urban Transformation (AMRUT)",
+      "Blue Revolution"
+    ],
+    "answer": 2,
+    "explanation": "AMRUT focuses on improving basic urban infrastructure like water supply and sewerage."
+  },
+  {
+    "id": 292,
+    "question": "The Goods and Services Tax (GST) was implemented in India with effect from",
+    "options": [
+      "26 January 1950",
+      "1 January 2000",
+      "1 July 2017",
+      "1 April 1991"
+    ],
+    "answer": 2,
+    "explanation": "GST was rolled out across India from 1 July 2017."
+  },
+  {
+    "id": 293,
+    "question": "The Consumer Price Index (CPI) was 115 in the base period and rose to 120.8 in the current period. The rate of inflation between the two periods is approximately",
+    "options": [
+      "6",
+      "5",
+      "4",
+      "26"
+    ],
+    "answer": 1,
+    "explanation": "Inflation Rate = [(CPI_new - CPI_old) / CPI_old] x 100 = [(120.8 - 115) / 115] x 100 ~ 5%."
+  },
+  {
+    "id": 294,
+    "question": "Sustainable development is generally defined as development that",
+    "options": [
+      "Ignores environmental considerations",
+      "Applies only to developed countries",
+      "Meets the needs of the present without compromising the ability of future generations to meet their own needs",
+      "Focuses solely on maximising current GDP growth"
+    ],
+    "answer": 2,
+    "explanation": "This is the classic Brundtland Commission definition of sustainable development."
+  },
+  {
+    "id": 295,
+    "question": "The 'Maharatna' category is the highest status conferred upon CPSEs, requiring among other things a minimum",
+    "options": [
+      "Average annual turnover and net worth over a specified threshold",
+      "Complete private ownership",
+      "100% export orientation",
+      "Zero debt on the balance sheet"
+    ],
+    "answer": 0,
+    "explanation": "Maharatna status is based on criteria including turnover, net worth and profit thresholds."
+  },
+  {
+    "id": 296,
+    "question": "Underemployment refers to a situation where",
+    "options": [
+      "A person has never sought employment",
+      "A person works overtime continuously",
+      "A person is completely unemployed",
+      "A person is employed but not to their full capacity or working fewer hours than desired"
+    ],
+    "answer": 3,
+    "explanation": "Underemployment involves partial or below-capacity employment, unlike full unemployment."
+  },
+  {
+    "id": 297,
+    "question": "A revenue surplus budget would indicate that",
+    "options": [
+      "Revenue receipts exceed revenue expenditure",
+      "Capital receipts exceed capital expenditure",
+      "Total receipts equal total expenditure exactly, with fiscal deficit at zero",
+      "Revenue expenditure exceeds revenue receipts"
+    ],
+    "answer": 0,
+    "explanation": "Revenue surplus occurs when revenue receipts are more than revenue expenditure."
+  },
+  {
+    "id": 298,
+    "question": "The Consumer Price Index (CPI) was 100 in the base period and rose to 108.0 in the current period. The rate of inflation between the two periods is approximately",
+    "options": [
+      "9",
+      "7",
+      "10",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "Inflation Rate = [(CPI_new - CPI_old) / CPI_old] x 100 = [(108.0 - 100) / 100] x 100 ~ 8%."
+  },
+  {
+    "id": 299,
+    "question": "Direct taxes differ from indirect taxes in that direct taxes",
+    "options": [
+      "Cannot be shifted to another person and are borne by the taxpayer directly",
+      "Apply only to exported goods",
+      "Are always shifted to the final consumer",
+      "Apply only to imported goods"
+    ],
+    "answer": 0,
+    "explanation": "Direct taxes (e.g., income tax) fall directly on the taxpayer and cannot be passed on."
+  },
+  {
+    "id": 300,
+    "question": "The term 'ease of exit' in the context of industrial policy refers to",
+    "options": [
+      "Simplified procedures for closure/exit of unviable businesses",
+      "Restrictions on foreign companies operating in India",
+      "Mandatory government approval for every business decision",
+      "Simplified procedures only for opening new businesses"
+    ],
+    "answer": 0,
+    "explanation": "Ease of exit refers to smoother, faster processes (e.g. under IBC) for winding up businesses."
+  }
+]
