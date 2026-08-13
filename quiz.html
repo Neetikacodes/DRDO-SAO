@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DRDO SAO - Quiz Practice</title>
+    <meta name="description" content="Attempt free DRDO SAO practice quiz with instant answers and explanations.">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://yourdomain.com/quiz.html">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>DRDO SAO Practice Quiz</h1>
+        <a href="index.html" style="color: #fff; text-decoration: underline; font-size: 0.9rem;">← Back to Home</a>
+    </header>
+
+    <div class="container">
+        <div class="card quiz-box">
+            <div class="quiz-header">
+                <h2>Question <span id="questionNo">1</span> / <span id="total">0</span></h2>
+                <div class="score-board">Score: <span id="score">0</span></div>
+            </div>
+
+            <h3 id="question" class="question-text">Loading question...</h3>
+
+            <div id="options" class="options-container"></div>
+
+            <div id="explanation" class="explanation-box"></div>
+
+            <div class="nav-buttons">
+                <button class="btn nav-btn" onclick="prevQuestion()">Previous</button>
+                <button class="btn nav-btn" onclick="nextQuestion()">Next</button>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2026 DRDO SAO MCQ Practice | <a href="privacy-policy.html" style="color:#fff;">Privacy Policy</a></p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
