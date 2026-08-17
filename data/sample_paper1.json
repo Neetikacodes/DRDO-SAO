@@ -1,0 +1,1682 @@
+[
+  {
+    "id": 1,
+    "question": "Choose the correctly punctuated sentence.",
+    "options": [
+      "\"Where are you going,\" she asked; glancing at her watch.",
+      "\"Where are you going?\" she asked, glancing at her watch.",
+      "Where are you going, she asked, glancing at her watch.",
+      "\"Where are you going\" she asked, glancing at her watch?"
+    ],
+    "answer": 1,
+    "explanation": "The question mark belongs inside the closing quotation mark, followed by the attributive clause and correct comma usage.",
+    "topic": "English Language Test",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 2,
+    "question": "If the numerator of a fraction is increased by 20% and the denominator is decreased by 10%, the fraction becomes 4/5. Find the original fraction.",
+    "options": [
+      "3/4",
+      "1/2",
+      "2/5",
+      "3/5"
+    ],
+    "answer": 3,
+    "explanation": "Let fraction = x/y. 1.2x/0.9y = 4/5, so x/y = (4/5)x(0.9/1.2)=(4x0.9)/(5x1.2)=3.6/6=0.6=3/5.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 3,
+    "question": "With reference to Monetary Policy in India, consider the following statements:\n1. The repo rate is the rate at which RBI lends short-term funds to banks against government securities.\n2. An increase in CRR reduces the lendable resources of banks.\n3. The Monetary Policy Committee has a statutory basis under the RBI Act, 1934, as amended in 2016.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only"
+    ],
+    "answer": 1,
+    "explanation": "All three statements are correct: MPC was given a statutory basis via the 2016 amendment to the RBI Act, 1934.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 4,
+    "question": "With reference to the concept of 'Right to Information' as it applies to procurement records, consider the following statements:\n1. The RTI Act, 2005 empowers citizens to seek information from public authorities, including on procurement decisions.\n2. Certain categories of information are exempt from disclosure under Section 8 of the RTI Act.\n3. Information concerning life and liberty of a person must be provided within 30 days under the RTI Act.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only",
+      "1 only"
+    ],
+    "answer": 2,
+    "explanation": "Statement 3 is incorrect; information concerning life and liberty must be furnished within 48 hours, not the standard 30-day period.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 5,
+    "question": "Consider the following statements regarding the World Bank's business climate assessment framework:\n1. The World Bank's earlier 'Doing Business' rankings have been discontinued.\n2. These rankings have been replaced by a new assessment called 'Business Ready' (B-READY).\n3. India topped the final edition of the erstwhile Doing Business rankings before their discontinuation.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+    ],
+    "answer": 0,
+    "explanation": "Statement 3 is incorrect; India did not top the Doing Business rankings, though it did show significant improvement in rank over the years before the index was discontinued.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 6,
+    "question": "Choose the option with the correctly ordered adjectives.",
+    "options": [
+      "An old, Italian, beautiful, wooden, small table",
+      "A small, wooden, beautiful, old, Italian table",
+      "A wooden, Italian, old, small, beautiful table",
+      "A beautiful, small, old, Italian, wooden table"
+    ],
+    "answer": 3,
+    "explanation": "Standard English adjective order is: opinion, size, age, origin, material - matching 'beautiful, small, old, Italian, wooden'.",
+    "topic": "English Language Test",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 7,
+    "question": "If South-East becomes North, North-East becomes West, and this pattern continues, what will West become?",
+    "options": [
+      "North",
+      "North-East",
+      "South",
+      "South-East"
+    ],
+    "answer": 3,
+    "explanation": "Each direction is rotated 135 degrees anticlockwise; applying this rotation to West gives South-East.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 8,
+    "question": "Consider the following statements about Foreign Exchange Reserves of India:\n1. They are managed and maintained primarily by the Reserve Bank of India.\n2. Foreign exchange reserves consist only of gold holdings.\n3. A rupee depreciation can, other things equal, improve export competitiveness in foreign currency terms.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "answer": 1,
+    "explanation": "Statement 2 is incorrect; forex reserves comprise foreign currency assets, gold, SDRs and the RBI's reserve tranche position with the IMF, not gold alone; statements 1 and 3 are correct.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "question": "Consider the following statements regarding Value Analysis (VA):\n1. VA seeks to achieve the required function of a product at the lowest possible cost without compromising quality.\n2. VA is typically applied to an already-existing product or process.\n3. Value, in VA terminology, is expressed as the ratio of Cost to Function.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "Statement 3 is incorrect; Value is conventionally expressed as Function divided by Cost (not Cost divided by Function).",
+    "topic": "Basics of Material Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 10,
+    "question": "With reference to recent DRDO and Indian Navy missile developments, consider the following statements:\n1. VLSRSAM stands for Vertical Launch Short Range Surface to Air Missile.\n2. The S-400 Triumf air defence system is of Russian origin.\n3. India's Akash missile system is primarily an anti-tank guided missile.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only"
+    ],
+    "answer": 0,
+    "explanation": "Statement 3 is incorrect; Akash is a surface-to-air missile system, not an anti-tank guided missile.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 11,
+    "question": "Choose the sentence that correctly uses a non-restrictive relative clause with proper punctuation.",
+    "options": [
+      "My brother who lives in Pune is a civil engineer.",
+      "My brother, who lives in Pune, is a civil engineer.",
+      "My brother who lives in Pune, is a civil engineer.",
+      "My brother, who lives in Pune is a civil engineer."
+    ],
+    "answer": 1,
+    "explanation": "A non-restrictive (non-essential) clause must be set off by commas on both sides.",
+    "topic": "English Language Test",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 12,
+    "question": "Five boxes P, Q, R, S and T are stacked one above another. R is above S but below Q. T is at the bottom. P is directly above Q. Which box is at the very top?",
+    "options": [
+      "S",
+      "R",
+      "Q",
+      "P"
+    ],
+    "answer": 3,
+    "explanation": "From bottom to top: T, S, R, Q, P — so P is at the very top of the stack.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 13,
+    "question": "With reference to India's Balance of Payments, consider the following statements:\n1. A Current Account Deficit implies that a country's imports (plus income outflows) exceed its exports and income inflows.\n2. Foreign Direct Investment is recorded under the Capital Account.\n3. A widening CAD, financed by stable FDI inflows, is generally considered more sustainable than one financed by volatile portfolio flows.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "All three statements are correct and reflect standard understanding of BoP sustainability analysis.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 14,
+    "question": "With reference to the concept of 'Fall Clause' in government rate contracts, which of the following statements is/are correct?\n1. It ensures the price charged to the government does not exceed the price offered to any other buyer during the contract period.\n2. It is primarily meant to safeguard the buyer's interest against price discrimination by the supplier.\n3. It applies only to purchases made through the GeM portal and no other procurement mode.\nSelect the correct answer using the code below.",
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "answer": 0,
+    "explanation": "Statement 3 is incorrect; the Fall Clause is a general rate-contract safeguard applicable across relevant government procurement contracts, not exclusive to GeM.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 15,
+    "question": "With reference to India's constitutional appointments, consider the following statements:\n1. Justice Surya Kant became the 53rd Chief Justice of India in November 2025.\n2. C. P. Radhakrishnan became Vice President of India in September 2025, succeeding Jagdeep Dhankhar, who had resigned.\n3. The Vice President of India is elected by an electoral college comprising members of the Lok Sabha, Rajya Sabha, and all State Legislative Assemblies.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "answer": 3,
+    "explanation": "Statement 3 is incorrect; unlike the President, the Vice President is elected only by members of both Houses of Parliament, not state assemblies.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 16,
+    "question": "Select the word that means the same as 'obfuscate'.",
+    "options": [
+      "Simplify",
+      "Clarify",
+      "Illuminate",
+      "Confuse"
+    ],
+    "answer": 3,
+    "explanation": "'Obfuscate' means to deliberately make something unclear or confusing.",
+    "topic": "English Language Test",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 17,
+    "question": "A sum of Rs. 8,000 is lent partly at 6% and partly at 9% simple interest. If the total interest received in one year is Rs. 630, find the amount lent at 9%.",
+    "options": [
+      "Rs. 4,000",
+      "Rs. 3,000",
+      "Rs. 2,000",
+      "Rs. 5,000"
+    ],
+    "answer": 3,
+    "explanation": "Let amount at 9% = x. 0.06(8000-x) + 0.09x = 630 gives 480 + 0.03x = 630, so x = Rs. 5,000.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 18,
+    "question": "Consider the following statements regarding Fiscal Deficit:\n1. It is the excess of total expenditure over total receipts excluding borrowings.\n2. A rising fiscal deficit always indicates deteriorating fiscal health, regardless of whether it funds capital or revenue expenditure.\n3. Primary deficit equals fiscal deficit minus interest payments.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "answer": 1,
+    "explanation": "Statement 2 is incorrect because a rising fiscal deficit funding productive capital expenditure need not indicate deteriorating fiscal health; statements 1 and 3 are correct definitions.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 19,
+    "question": "With reference to VED analysis in inventory management, consider the following statements:\n1. It classifies items as Vital, Essential and Desirable based on criticality to operations.\n2. Vital items, if unavailable, would halt critical production/operations.\n3. VED analysis is primarily used to classify items based on their monetary value.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "Statement 3 is incorrect; classification by monetary value is the basis of ABC analysis, not VED, which is based on criticality.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "question": "Consider the following statements regarding Operation Sindoor (2025):\n1. It was launched by India in response to the Pahalgam terror attack of April 2025.\n2. India's precision strikes targeted terror infrastructure sites across Pakistan and Pakistan-occupied Kashmir.\n3. The operation marked the first India-Pakistan conflict prominently characterised by extensive drone use by both sides.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only"
+    ],
+    "answer": 1,
+    "explanation": "All three statements accurately describe key aspects of Operation Sindoor and the resulting conflict.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 21,
+    "question": "Choose the correct meaning of the idiom: 'To hold one's horses'",
+    "options": [
+      "To make a quick decision",
+      "To control an angry animal",
+      "To wait patiently and not act hastily",
+      "To ride a horse skilfully"
+    ],
+    "answer": 2,
+    "explanation": "'Hold one's horses' means to wait and not act too quickly.",
+    "topic": "English Language Test",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 22,
+    "question": "A cistern can be filled by pipe A in 6 hours and by pipe B in 8 hours, while pipe C can empty the full cistern in 12 hours. If all three pipes are opened together, in how many hours will the cistern be filled?",
+    "options": [
+      "5 hours",
+      "4 hours",
+      "6 hours",
+      "4.8 hours"
+    ],
+    "answer": 3,
+    "explanation": "Combined rate = 1/6+1/8-1/12 = (4+3-2)/24=5/24 per hour. Time = 24/5 = 4.8 hours.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following statements about the Reserve Bank of India's inflation-targeting framework is/are correct?\n1. The target is a CPI inflation rate of 4%, with a tolerance band of +/- 2 percentage points.\n2. The framework was formally adopted following an amendment to the RBI Act in 2016.\n3. Failure to meet the target for three consecutive quarters requires the RBI to submit a report to the Government explaining the reasons.\nSelect the correct answer using the code below.",
+    "options": [
+      "1 and 3 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "All three statements accurately describe India's flexible inflation-targeting framework and its accountability mechanism.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 24,
+    "question": "With reference to the Perpetual Inventory System, consider the following statements:\n1. It involves continuous updating of stock records after every transaction.\n2. It eliminates the need for any periodic physical stock verification.\n3. It helps detect discrepancies early, avoiding a year-end rush of stock-taking.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 only"
+    ],
+    "answer": 1,
+    "explanation": "Statement 2 is incorrect; the perpetual inventory system is usually supplemented with periodic physical verification (continuous stock verification), not a complete substitute for it.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 25,
+    "question": "With reference to India's space programme, consider the following statements:\n1. Chandrayaan-3 successfully soft-landed near the Moon's south pole in August 2023.\n2. Chandrayaan-5, also known as LUPEX, is a joint mission between ISRO and Japan's JAXA.\n3. India's National Space Day is observed on 15 August, coinciding with Independence Day.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+    ],
+    "answer": 1,
+    "explanation": "Statement 3 is incorrect; National Space Day is observed on 23 August, the anniversary of the Chandrayaan-3 landing, not 15 August.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "question": "Select the meaning closest to the phrase 'a Pyrrhic victory'.",
+    "options": [
+      "An easy, decisive victory",
+      "A victory won at such great cost that it is almost equivalent to defeat",
+      "A victory achieved through deception",
+      "A victory that benefits only a small group"
+    ],
+    "answer": 1,
+    "explanation": "A 'Pyrrhic victory' is a win achieved at a devastatingly high cost.",
+    "topic": "English Language Test",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 27,
+    "question": "A man walks 6 km towards East, then turns left and walks 8 km, then turns left again and walks 6 km. How far is he from his starting point and in which direction?",
+    "options": [
+      "14 km, North",
+      "8 km, due North",
+      "10 km, North-East",
+      "8 km, due South"
+    ],
+    "answer": 1,
+    "explanation": "Net displacement: East 6 then North 8 then West 6 cancels East movement, leaving him 8 km due North of start.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 28,
+    "question": "With reference to India's Public Distribution System (PDS) and the National Food Security Act, 2013, consider the following statements:\n1. NFSA provides a legal entitlement to subsidised food grains for a significant proportion of India's population.\n2. Aadhaar-based authentication has been used to reduce leakages in PDS delivery.\n3. The PDS operates solely through central government-owned outlets with no state government role.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "answer": 3,
+    "explanation": "Statement 3 is incorrect; PDS is a joint Centre-State responsibility, with states playing a significant operational role through fair price shops.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "question": "Consider the following statements regarding Material Requirement Planning (MRP):\n1. MRP determines what materials are needed, in what quantity, and by when, based on production schedules.\n2. A Bill of Materials (BOM) is a required input for MRP calculations.\n3. MRP systems eliminate the need for any safety/buffer stock in all circumstances.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "answer": 0,
+    "explanation": "Statement 3 is incorrect; MRP systems often still incorporate safety stock considerations to guard against demand/supply uncertainty.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 30,
+    "question": "Consider the following statements regarding G20 and G7 groupings:\n1. The African Union was admitted as a permanent G20 member at the 2023 New Delhi Summit.\n2. The 2026 G20 Summit is scheduled to be hosted by the United States.\n3. Japan is a member of the G7 grouping of advanced economies.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1 and 3 only"
+    ],
+    "answer": 0,
+    "explanation": "All three statements are correct regarding recent G20/G7 developments and membership.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "question": "Identify the sentence that correctly uses 'fewer' versus 'less'.",
+    "options": [
+      "There are fewer opportunities this year than last year.",
+      "There are lesser opportunities this year.",
+      "There is fewer opportunity this year.",
+      "There are less opportunities this year than last year."
+    ],
+    "answer": 0,
+    "explanation": "'Fewer' is used with countable nouns like 'opportunities'; 'less' is used for uncountable nouns.",
+    "topic": "English Language Test",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "question": "The sum of the ages of a father and son is 56 years. Six years ago, the father's age was three times the son's age. Find the son's present age.",
+    "options": [
+      "18 years",
+      "20 years",
+      "14 years",
+      "17 years"
+    ],
+    "answer": 3,
+    "explanation": "Let son's age 6 years ago = x; father's = 3x. (x+6)+(3x+6)=56 gives x=11, so son's present age = 11+6 = 17 years.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 33,
+    "question": "With reference to Special Economic Zones (SEZs) in India, consider the following statements:\n1. SEZs are established primarily to promote exports through a liberal, tax-incentivised regime.\n2. Units within SEZs are treated as being outside the customs territory of India for trade operations and duties.\n3. SEZs cannot have any linkage with Free Trade Warehousing Zones.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 only",
+      "2 and 3 only",
+      "1 and 2 only"
+    ],
+    "answer": 3,
+    "explanation": "Statement 3 is incorrect; SEZ policy frameworks in India do provide for linkages, including Free Trade and Warehousing Zones as a category of SEZ.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 34,
+    "question": "Consider the following statements regarding Vendor Development:\n1. It refers to efforts made to improve the capability and reliability of existing or prospective suppliers.\n2. Vendor development is relevant primarily to reduce dependency risk associated with single sourcing.\n3. An approved/registered vendor list is unrelated to the concept of vendor development.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only"
+    ],
+    "answer": 0,
+    "explanation": "Statement 3 is incorrect; an approved vendor list is closely linked to vendor development, as it reflects a pool of assessed and developed reliable suppliers.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 35,
+    "question": "Consider the following statements about the political transition in the United Kingdom in 2026:\n1. Andy Burnham became UK Prime Minister in July 2026, succeeding Keir Starmer.\n2. Burnham previously served as Mayor of Greater Manchester.\n3. He became the UK's third prime minister within a decade of the 2016 Brexit referendum.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+    ],
+    "answer": 1,
+    "explanation": "Statement 3 is incorrect; Burnham became the UK's seventh prime minister in the decade following the 2016 Brexit vote, not the third.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following sentences correctly uses a dangling modifier corrected into a proper structure?",
+    "options": [
+      "Walking through the museum, the visitors were fascinated by the ancient artefacts.",
+      "The ancient artefacts, walking through the museum, fascinated the visitors.",
+      "Walking through the museum, the ancient artefacts fascinated the visitors.",
+      "Fascinated, the museum's ancient artefacts were walking through by visitors."
+    ],
+    "answer": 0,
+    "explanation": "The modifying phrase 'Walking through the museum' must logically refer to the visitors, the subject performing the action.",
+    "topic": "English Language Test",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 37,
+    "question": "A shopkeeper marks up an article by 40% above cost price and then offers two successive discounts of 10% and 5%. Find his overall profit percentage.",
+    "options": [
+      "25%",
+      "15%",
+      "19.7%",
+      "20%"
+    ],
+    "answer": 2,
+    "explanation": "Marked price = 1.4 x CP. After successive discounts: 1.4 x 0.9 x 0.95 = 1.197 x CP, i.e., a 19.7% profit.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 38,
+    "question": "Consider the following statements about Foreign Direct Investment (FDI) and Foreign Portfolio Investment (FPI):\n1. FDI typically implies a lasting management interest or control in an enterprise.\n2. FPI is generally more volatile and liquid compared to FDI.\n3. Both FDI and FPI are recorded under the Current Account of the Balance of Payments.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "Statement 3 is incorrect; both FDI and FPI are recorded under the Capital Account, not the Current Account.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 39,
+    "question": "Consider the following statements regarding ABC Analysis:\n1. It classifies inventory items on the basis of their annual consumption value.\n2. 'A' category items are generally few in number but account for a high percentage of total inventory value.\n3. ABC analysis alone is sufficient to determine which items are most critical to an organisation's operations, without any other classification technique.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "Statement 3 is incorrect; ABC analysis is value-based, not criticality-based - VED analysis (or an ABC-VED matrix) is needed to assess criticality.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 40,
+    "question": "Consider the following statements regarding DRDO's organisational structure and recent achievements:\n1. DRDO operates a network of about 41 laboratories across India.\n2. Samir V Kamat has served as Chairman, DRDO.\n3. The Integrated Guided Missile Development Programme (IGMDP), which produced the Agni and Prithvi missiles, was launched in 1998.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 only",
+      "2 and 3 only",
+      "1 and 2 only"
+    ],
+    "answer": 3,
+    "explanation": "Statement 3 is incorrect; IGMDP was launched in 1983, not 1998.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 41,
+    "question": "Choose the correctly formed sentence demonstrating correct sequence of tenses.",
+    "options": [
+      "She said that she had finished the project the previous week.",
+      "She said that she is finishing the project last week.",
+      "She said that she finished the project the previous week and will submit it.",
+      "She said that she has finished the project last week."
+    ],
+    "answer": 0,
+    "explanation": "In reported speech referring to a completed prior action, the past perfect tense and appropriate time-shift ('the previous week') are required.",
+    "topic": "English Language Test",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 42,
+    "question": "The average age of a family of 5 members is 30 years. If the youngest member, currently 10 years old, is excluded, the average age of the remaining 4 members is:",
+    "options": [
+      "32 years",
+      "30 years",
+      "28 years",
+      "35 years"
+    ],
+    "answer": 3,
+    "explanation": "Total age = 150. Excluding 10 = 140. Average of remaining 4 = 140/4 = 35 years.",
+    "topic": "General Mental Ability",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "question": "Consider the following statements regarding the ABC-VED matrix used in selective inventory control:\n1. It combines value-based classification (ABC) with criticality-based classification (VED).\n2. AV category items (high value and vital) require the least stringent control.\n3. The matrix helps prioritise control efforts where value and criticality overlap.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 3 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 only"
+    ],
+    "answer": 0,
+    "explanation": "Statement 2 is incorrect; AV items (high value + vital) actually require the MOST stringent control, not the least.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 44,
+    "question": "With reference to tendering methods in government procurement, consider the following statements:\n1. Open (advertised) tender is generally used for high-value purchases to secure wide competition.\n2. Limited tender enquiry is invited when the estimated value is comparatively low or sources are limited.\n3. Single tender / Proprietary Article Certificate purchase can be resorted to only when a single firm is the genuine sole manufacturer/supplier.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 and 2 only"
+    ],
+    "answer": 0,
+    "explanation": "All three statements correctly describe the standard hierarchy and conditions for using different tendering methods in government procurement.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 45,
+    "question": "Consider the following statements regarding BRICS in 2026:\n1. India assumed the BRICS chairmanship from 1 January 2026, succeeding Brazil.\n2. India is set to host the 18th BRICS Summit in New Delhi in 2026.\n3. As of 2026, BRICS comprises ten full member countries following its expansion.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 3 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "All three statements are correct and reflect India's BRICS chairship, the planned 2026 summit, and the group's expanded ten-member composition.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 46,
+    "question": "Choose the correct meaning of the idiom: 'to move the goalposts'",
+    "options": [
+      "To unfairly change the rules or criteria for success partway through a process",
+      "To physically relocate sports equipment",
+      "To postpone an important decision indefinitely",
+      "To score a decisive goal in a match"
+    ],
+    "answer": 0,
+    "explanation": "'To move the goalposts' means to change the agreed terms/criteria unfairly during a process.",
+    "topic": "English Language Test",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 47,
+    "question": "A, B and C together can complete a task in 6 days. A alone can do it in 12 days and B alone in 18 days. In how many days can C alone complete the task?",
+    "options": [
+      "18 days",
+      "30 days",
+      "24 days",
+      "36 days"
+    ],
+    "answer": 3,
+    "explanation": "1/6 = 1/12 + 1/18 + 1/C. LCM based: 1/12=3/36, 1/18=2/36, sum=5/36, so 1/6=6/36; 1/C=6/36-5/36=1/36, C=36 days.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 48,
+    "question": "With reference to Value Analysis (VA) and Value Engineering (VE) in materials management, consider the following statements:\n1. VA is typically applied to an existing product to reduce cost without compromising function.\n2. VE is typically applied at the design/development stage before a product is manufactured.\n3. Value, in this context, is expressed as the ratio of Function to Cost.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "All three statements correctly describe the distinction between VA (post-production) and VE (pre-production), and the standard Value = Function/Cost formulation.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 49,
+    "question": "Consider the following statements regarding Just-In-Time (JIT) inventory systems:\n1. JIT aims to minimise inventory holding by receiving materials only when required for production.\n2. The Kanban system, associated with JIT, uses visual/card-based signals to trigger replenishment.\n3. JIT systems are generally more resilient to supply chain disruptions than systems maintaining higher buffer stocks.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "answer": 0,
+    "explanation": "Statement 3 is incorrect; JIT systems, due to low buffer stock, are typically more vulnerable (less resilient) to supply chain disruptions.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "With reference to the Nobel Memorial Prize in Economic Sciences 2025, consider the following statements:\n1. It was awarded for work explaining the prerequisites of sustained economic growth through technological progress.\n2. Joel Mokyr was one of the laureates.\n3. The prize recognised the concept of 'creative destruction' as central to sustained growth.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "All three statements correctly describe the 2025 Economics Nobel, awarded to Mokyr, Aghion and Howitt for work on innovation-driven growth and creative destruction.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 51,
+    "question": "Identify the correctly formed sentence using a subjunctive mood.",
+    "options": [
+      "The board recommended that the policy will be reviewed immediately.",
+      "The board recommended that the policy was reviewed immediately.",
+      "The board recommended that the policy be reviewed immediately.",
+      "The board recommended that the policy is reviewed immediately."
+    ],
+    "answer": 2,
+    "explanation": "The subjunctive mood after verbs like 'recommend' uses the base form of the verb ('be'), regardless of subject.",
+    "topic": "English Language Test",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 52,
+    "question": "Pointing to a photograph, Ravi said, \"She is the daughter of the only son of my grandfather.\" How is the woman in the photograph related to Ravi?",
+    "options": [
+      "Sister",
+      "Daughter",
+      "Cousin",
+      "Niece"
+    ],
+    "answer": 0,
+    "explanation": "The only son of Ravi's grandfather is Ravi's father; his daughter is Ravi's sister.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 53,
+    "question": "Consider the following pairs regarding Indian economic reforms:\nReform : Year\n1. Abolition of License Raj (delicensing) : 1991\n2. Introduction of GST : 2017\n3. Enactment of Insolvency and Bankruptcy Code : 2016\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1, 2 and 3",
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only"
+    ],
+    "answer": 0,
+    "explanation": "All three pairs are correctly matched: delicensing began with the 1991 reforms, GST was rolled out in 2017, and IBC was enacted in 2016.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "Consider the following statements about the disposal of surplus and obsolete stores:\n1. Disposal is normally carried out through public auction, tender or e-disposal as prescribed by applicable rules.\n2. Condemnation refers to the formal declaration of an item as unserviceable or unfit for further use.\n3. Proceeds from disposal of surplus/obsolete stores in government organisations may be retained informally by the disposing officer.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+    ],
+    "answer": 0,
+    "explanation": "Statement 3 is incorrect; disposal proceeds must be credited to the government/organisational account as per rules, not retained informally.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "With reference to the Insolvency and Bankruptcy Code (IBC) and India's banking sector, consider the following statements:\n1. IBC provides a time-bound mechanism for resolving corporate insolvency.\n2. As per the Economic Survey 2025-26, the Gross NPA ratio of Scheduled Commercial Banks had declined to around 2.2% by September 2025.\n3. IBC was enacted prior to the 1991 economic reforms.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "Statement 3 is incorrect; the IBC was enacted in 2016, well after the 1991 reforms, not before them.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 56,
+    "question": "Select the correctly formed passive construction of: 'They will have completed the audit by March.'",
+    "options": [
+      "The audit will be completed by March.",
+      "The audit has been completed by March.",
+      "The audit will have completed by March.",
+      "The audit will have been completed by March."
+    ],
+    "answer": 3,
+    "explanation": "Future perfect active ('will have completed') becomes 'will have been + past participle' in passive voice.",
+    "topic": "English Language Test",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 57,
+    "question": "Three friends A, B and C invest in a business in the ratio 2:3:5. If the total profit after a year is Rs. 50,000 and C's share is reinvested at 10% simple interest for one year, what is C's total return (share plus interest) at the end of that year?",
+    "options": [
+      "Rs. 30,000",
+      "Rs. 25,000",
+      "Rs. 22,500",
+      "Rs. 27,500"
+    ],
+    "answer": 3,
+    "explanation": "C's share = (5/10) x 50000 = Rs.25,000. Interest at 10% for 1 year = Rs.2,500. Total = Rs.27,500.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 58,
+    "question": "Which of the following are objectives of the Fiscal Responsibility and Budget Management (FRBM) Act, 2003?\n1. Elimination of revenue deficit\n2. Reduction of fiscal deficit to a sustainable level\n3. Greater transparency in fiscal operations\nSelect the correct answer using the code below.",
+    "options": [
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "answer": 2,
+    "explanation": "The FRBM Act's objectives include reducing/eliminating revenue deficit, controlling fiscal deficit, and enhancing fiscal transparency.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "question": "With reference to GFR (General Financial Rules) provisions on procurement, consider the following statements:\n1. GFR mandates economy, efficiency, transparency and fair competition in procurement of goods.\n2. GFR permits procurement through advertised tender, limited tender, single tender and GeM, among other modes.\n3. A Purchase/Procurement Committee is generally required under GFR only for purchases above a prescribed value threshold.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "answer": 2,
+    "explanation": "All three statements correctly reflect the substantive requirements and procedural safeguards prescribed under the GFR for public procurement.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 60,
+    "question": "Consider the following statements about the Ram Mandir and related developments in Ayodhya:\n1. The Bhoomi Pujan (foundation stone laying) ceremony was held in August 2020.\n2. The consecration (Pran Pratishtha) ceremony was held in January 2024.\n3. The Kashi Vishwanath Corridor project, a separate development, is also located in Ayodhya.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "Statement 3 is incorrect; the Kashi Vishwanath Corridor is located in Varanasi, not Ayodhya.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "In the sentence 'Not only did the minister apologise, but she also resigned,' the inversion after 'not only' is required because:",
+    "options": [
+      "The sentence is in the passive voice",
+      "The sentence uses a conditional clause",
+      "The sentence begins with a negative/restrictive adverbial phrase",
+      "The sentence is a direct question"
+    ],
+    "answer": 2,
+    "explanation": "Sentences beginning with restrictive/negative adverbials like 'not only' require subject-auxiliary inversion.",
+    "topic": "English Language Test",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "Study the series: 2, 6, 12, 20, 30, ?. Find the next number.",
+    "options": [
+      "44",
+      "36",
+      "42",
+      "40"
+    ],
+    "answer": 2,
+    "explanation": "Differences are 4,6,8,10,12 (consecutive even numbers); next difference is 12, so 30+12=42.",
+    "topic": "General Mental Ability",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "With reference to the Economic Survey and Union Budget process in India, consider the following statements:\n1. The Economic Survey is typically tabled in Parliament a day before the Union Budget.\n2. The Union Budget must always be passed before the start of the financial year on 1 April.\n3. The Finance Bill, which gives effect to tax proposals, is a Money Bill under the Constitution.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "answer": 2,
+    "explanation": "All three statements accurately describe standard Indian budgetary procedure and constitutional classification of the Finance Bill.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 64,
+    "question": "Consider the following statements about the Fall Clause and Liquidated Damages (LD) clause in government contracts:\n1. The Fall Clause protects against the supplier offering a lower price to another buyer during the contract period.\n2. The LD clause is invoked primarily for delay in delivery beyond the agreed schedule.\n3. Both clauses are entirely optional and rarely included in standard government rate contracts.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "answer": 0,
+    "explanation": "Statement 3 is incorrect; both the Fall Clause and LD clause are standard, commonly included safeguards in government contracts, not rarely used optional add-ons.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "Consider the following statements regarding recent global political transitions:\n1. Muhammad Yunus led Bangladesh's interim government following the 2024 political transition that saw Sheikh Hasina step down.\n2. Anura Kumara Dissanayake became President of Sri Lanka in 2024.\n3. Mark Carney became Prime Minister of Canada, succeeding Justin Trudeau.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 and 2 only"
+    ],
+    "answer": 0,
+    "explanation": "All three statements correctly reflect recent leadership transitions in Bangladesh, Sri Lanka and Canada.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "Identify the sentence that correctly maintains parallel structure.",
+    "options": [
+      "The policy aims to reduce costs, efficiency improvement, and enhancing transparency.",
+      "The policy aims to reduce costs, improving efficiency, and to enhance transparency.",
+      "The policy aims at reducing costs, improve efficiency, and enhancing transparency.",
+      "The policy aims to reduce costs, improve efficiency, and enhance transparency."
+    ],
+    "answer": 3,
+    "explanation": "All three verb phrases must share the same grammatical form ('to reduce', 'improve', 'enhance') for parallel structure.",
+    "topic": "English Language Test",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 67,
+    "question": "A boat's speed in still water is 12 km/h. It travels 32 km downstream and returns upstream to the starting point in a total of 6 hours. Find the speed of the stream.",
+    "options": [
+      "5 km/h",
+      "6 km/h",
+      "4 km/h",
+      "3 km/h"
+    ],
+    "answer": 2,
+    "explanation": "Let stream speed=x. 32/(12+x) + 32/(12-x) = 6. Solving gives x=4 km/h (verify: 32/16+32/8=2+4=6). Correct.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 68,
+    "question": "Consider the following statements about India's Balance of Payments Current Account:\n1. It records trade in goods and services along with income and current transfers.\n2. Remittances from Indians working abroad are recorded under the Current Account.\n3. A Current Account surplus necessarily implies an equivalent Capital Account deficit under the overall BoP balancing identity (ignoring errors/omissions).\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 and 2 only"
+    ],
+    "answer": 0,
+    "explanation": "All three statements are correct; by the balance of payments identity, current and capital accounts must offset (barring reserves changes and errors/omissions).",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 69,
+    "question": "Consider the following statements about the two-bid (two-envelope) tendering system:\n1. It separates the technical bid from the financial (price) bid.\n2. Technical bids are opened and evaluated before financial bids.\n3. This system is used mainly to prevent price considerations from influencing technical evaluation.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1 and 2 only"
+    ],
+    "answer": 0,
+    "explanation": "All three statements correctly describe the rationale and process of the two-bid system, which ensures objective technical evaluation unaffected by price.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "question": "With reference to India's defence and missile development, consider the following statements:\n1. Agni-4 was successfully test-fired from Chandipur, Odisha, in August 2026.\n2. India tested an Agni missile with MIRV technology from Dr APJ Abdul Kalam Island in May 2026.\n3. BrahMos, a supersonic cruise missile, was developed solely by India without any foreign collaboration.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "Statement 3 is incorrect; BrahMos was jointly developed by India (DRDO) and Russia (NPO Mashinostroyeniya), not solely by India.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 71,
+    "question": "Select the option that best captures the meaning of the underlined idiom: 'The committee's report was a classic case of robbing Peter to pay Paul.'",
+    "options": [
+      "Working extremely hard for a small reward",
+      "Solving one problem by creating another of equal severity",
+      "Taking a bold risk that pays off",
+      "Blaming an innocent person for a mistake"
+    ],
+    "answer": 1,
+    "explanation": "'Robbing Peter to pay Paul' means solving one problem by causing an equally serious one elsewhere.",
+    "topic": "English Language Test",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 72,
+    "question": "A is the son of B's father's only daughter's husband. How is A related to B, if B is female?",
+    "options": [
+      "Nephew",
+      "Brother",
+      "Cousin",
+      "Son"
+    ],
+    "answer": 3,
+    "explanation": "B's father's only daughter is B herself (assuming B is the only daughter); her husband is B's husband; A, his son, is B's own son.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 73,
+    "question": "Consider the following statements regarding Minimum Support Price (MSP):\n1. MSP is a price fixed by the government to protect farmers from a sharp fall in market prices.\n2. MSP has statutory backing that makes it legally enforceable across all crops and states.\n3. The Commission for Agricultural Costs and Prices (CACP) recommends MSPs to the government.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "Statement 2 is incorrect since MSP, in general, does not currently have blanket statutory/legal backing across all crops; statements 1 and 3 are correct.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 74,
+    "question": "With reference to Bin Cards and Stock Ledgers, consider the following statements:\n1. A Bin Card records only the quantity of receipts, issues and balance of an item at its storage location.\n2. A Stock Ledger records both quantity and value of stock, typically maintained by the accounts function.\n3. Bin Cards are normally kept in the finance department, away from the storage location.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "answer": 3,
+    "explanation": "Statement 3 is incorrect; Bin Cards are kept at the physical storage location/bin itself, not in the finance department.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 75,
+    "question": "With reference to India's Union Territories, consider the following statements:\n1. Chandigarh serves as the joint capital of Punjab and Haryana.\n2. Puducherry has an elected legislative assembly, unlike most other Union Territories.\n3. All Union Territories in India are governed directly by the Union Government with no legislative assembly whatsoever.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "Statement 3 is incorrect; some Union Territories, such as Delhi, Puducherry, and Jammu & Kashmir, do have their own legislative assemblies.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 76,
+    "question": "Select the correct meaning of the word 'ephemeral'.",
+    "options": [
+      "Extremely durable",
+      "Highly valuable",
+      "Lasting for a very short time",
+      "Deeply emotional"
+    ],
+    "answer": 2,
+    "explanation": "'Ephemeral' describes something transient, lasting only a brief time.",
+    "topic": "English Language Test",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 77,
+    "question": "If in a certain code, '+' means '÷', '-' means '×', '×' means '+', and '÷' means '-', then what is the value of: 20 + 4 - 3 × 6 ÷ 2?",
+    "options": [
+      "21",
+      "15",
+      "17",
+      "19"
+    ],
+    "answer": 3,
+    "explanation": "Substituting the code and applying standard operator precedence: 20÷4×3+6-2 = 5x3+6-2 = 15+6-2 = 19.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 78,
+    "question": "Consider the following statements about Non-Performing Assets (NPAs):\n1. An NPA is a loan or advance on which interest or principal repayment remains overdue for a specified period.\n2. The Insolvency and Bankruptcy Code, 2016 provides a time-bound resolution mechanism relevant to NPA resolution.\n3. A declining Gross NPA ratio of banks always indicates a proportional decline in absolute stressed assets in the economy.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only",
+      "1 and 2 only"
+    ],
+    "answer": 3,
+    "explanation": "Statement 3 is incorrect since a declining GNPA ratio can result from a rising loan base (denominator effect) even if absolute stressed assets remain steady.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 79,
+    "question": "With reference to GeM (Government e-Marketplace), consider the following statements:\n1. It is an online platform for procurement of goods and services by government buyers.\n2. Bid and Reverse Auction modes on GeM are generally used for higher-value purchases requiring competitive price discovery.\n3. Seller registration on GeM does not require any statutory business credentials such as PAN or GSTIN.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only",
+      "1 only"
+    ],
+    "answer": 2,
+    "explanation": "Statement 3 is incorrect; sellers must furnish statutory credentials like PAN and GSTIN to register on GeM.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 80,
+    "question": "With reference to the Nobel Prizes 2025, consider the following statements:\n1. The Nobel Peace Prize was awarded to Maria Corina Machado for her work related to Venezuela.\n2. The Nobel Prize in Chemistry was awarded for work on metal-organic frameworks.\n3. The Nobel Prize in Literature was awarded to a Hungarian author.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 3 only",
+      "1 and 2 only",
+      "2 and 3 only"
+    ],
+    "answer": 0,
+    "explanation": "All three statements are correct: Machado won the Peace Prize, the Chemistry Nobel recognised MOF research, and Laszlo Krasznahorkai (Hungary) won the Literature Nobel.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 81,
+    "question": "Identify the correct usage among the following.",
+    "options": [
+      "Between you and I, the proposal seems flawed.",
+      "Between you and me, the proposal seems flawed.",
+      "Between you and myself, the proposal seems flawed.",
+      "Between I and you, the proposal seems flawed."
+    ],
+    "answer": 1,
+    "explanation": "'Between' is a preposition and must be followed by the objective case ('me'), not the subjective case ('I').",
+    "topic": "English Language Test",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "question": "A can complete a work in 12 days and B is 60% more efficient than A. In how many days can B alone complete the work?",
+    "options": [
+      "10 days",
+      "7.5 days",
+      "8 days",
+      "9 days"
+    ],
+    "answer": 1,
+    "explanation": "B's efficiency = 1.6 x A's efficiency. B's time = 12/1.6 = 7.5 days.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 83,
+    "question": "Consider the following statements regarding the Insolvency and Bankruptcy Code (IBC), 2016:\n1. It provides a time-bound mechanism for resolving corporate insolvency.\n2. The Code established the National Company Law Tribunal (NCLT) as an adjudicating authority for corporate insolvency.\n3. Under the Code, operational creditors and financial creditors are treated identically in all respects during resolution.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+    ],
+    "answer": 1,
+    "explanation": "Statement 3 is incorrect; the IBC framework distinguishes between financial and operational creditors, particularly regarding voting rights in the Committee of Creditors.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 84,
+    "question": "Consider the following statements about Reorder Level, Minimum Level and Maximum Level of stock:\n1. Reorder Level = Maximum Consumption x Maximum Lead Time.\n2. Minimum Level = Reorder Level - (Normal Consumption x Normal Lead Time).\n3. Maximum Level is fixed without any consideration of Reorder Quantity.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+    ],
+    "answer": 1,
+    "explanation": "Statement 3 is incorrect; Maximum Level is calculated as ROL + Reorder Quantity - (Minimum Consumption x Minimum Lead Time), which explicitly involves Reorder Quantity.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 85,
+    "question": "With reference to the Padma Awards 2026, consider the following statements:\n1. A total of 131 Padma Awards were conferred, comprising Padma Vibhushan, Padma Bhushan and Padma Shri categories.\n2. Actor Dharmendra was posthumously conferred the Padma Vibhushan.\n3. Padma Awards, per Article 18(1) of the Constitution, are treated as hereditary titles.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+    ],
+    "answer": 1,
+    "explanation": "Statement 3 is incorrect; Article 18(1) abolishes titles and Padma Awards are explicitly non-hereditary distinctions, not titles in the constitutional sense.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 86,
+    "question": "Select the most appropriate one-word substitute for: 'A statement that seems self-contradictory but may be true.'",
+    "options": [
+      "Enigma",
+      "Anomaly",
+      "Paradox",
+      "Oxymoron"
+    ],
+    "answer": 2,
+    "explanation": "A 'paradox' is a statement that appears contradictory yet may hold truth.",
+    "topic": "English Language Test",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 87,
+    "question": "In a certain code language, 'TRAIN' is written as 'UQBHO'. Using the same logic, how would 'PLANE' be written?",
+    "options": [
+      "QKBMF",
+      "OMZOD",
+      "OMBMD",
+      "QKZMF"
+    ],
+    "answer": 0,
+    "explanation": "Each letter alternates: +1,-1,+1,-1,+1 pattern applied to T-R-A-I-N gives U-Q-B-H-O; applying the same pattern to P-L-A-N-E gives Q-K-B-M-F.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 88,
+    "question": "With reference to the Goods and Services Tax (GST) in India, consider the following statements:\n1. GST is a destination-based tax on the supply of goods and services.\n2. The GST Council's decisions are always legally binding on both the Centre and States without exception.\n3. Input Tax Credit prevents cascading of taxes across the supply chain.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1, 2 and 3",
+      "1 and 3 only",
+      "2 and 3 only"
+    ],
+    "answer": 2,
+    "explanation": "Statement 2 is a nuanced/contested area, as GST Council recommendations, per judicial interpretation, are persuasive rather than absolutely and uniformly binding in all circumstances; statements 1 and 3 are correct.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 89,
+    "question": "With reference to Material Handling systems, consider the following statements:\n1. The 'unit load' concept involves combining several items into a single load (e.g., a pallet) for efficient handling.\n2. Pallets and forklifts are examples of mechanised material handling equipment.\n3. Efficient material handling has no bearing on overall production/logistics cost.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only"
+    ],
+    "answer": 1,
+    "explanation": "Statement 3 is incorrect; efficient material handling directly affects production and logistics costs by improving flow, safety and time efficiency.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 90,
+    "question": "With reference to the abrogation of Article 370, consider the following statements:\n1. It was abrogated by Parliament in August 2019.\n2. The erstwhile state of Jammu & Kashmir was reorganised into two Union Territories: Jammu & Kashmir, and Ladakh.\n3. Following this reorganisation, India currently has seven Union Territories in total.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only",
+      "1 and 2 only"
+    ],
+    "answer": 3,
+    "explanation": "Statement 3 is incorrect; India currently has eight Union Territories, not seven, following this reorganisation.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 91,
+    "question": "Choose the word that is most nearly OPPOSITE in meaning to 'PERSPICACIOUS'.",
+    "options": [
+      "Sagacious",
+      "Discerning",
+      "Obtuse",
+      "Astute"
+    ],
+    "answer": 2,
+    "explanation": "'Perspicacious' means having keen insight; 'Obtuse' (slow to understand) is its opposite.",
+    "topic": "English Language Test",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 92,
+    "question": "A sum of money doubles itself in 8 years at simple interest. In how many years will it become 4 times itself?",
+    "options": [
+      "20 years",
+      "16 years",
+      "24 years",
+      "32 years"
+    ],
+    "answer": 2,
+    "explanation": "If P doubles in 8 years, rate = 100/8=12.5%. To become 4 times (3P interest earned), time = 3P/(P x 0.125)=24 years.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 93,
+    "question": "Consider the following statements about Green GDP:\n1. It seeks to adjust conventional GDP by accounting for environmental degradation and resource depletion.\n2. Green GDP is currently the primary official measure of national income used by the Government of India.\n3. The concept aims to better capture the true sustainability of economic growth.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 3 only",
+      "1 only",
+      "2 and 3 only"
+    ],
+    "answer": 1,
+    "explanation": "Statement 2 is incorrect; conventional GDP, not Green GDP, remains India's official national income measure; statements 1 and 3 correctly describe the Green GDP concept.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 94,
+    "question": "Consider the following statements about the two-bin system of inventory control:\n1. It is generally suited to low-value, fast-moving items requiring simple control.\n2. Under this system, a fresh order is placed when the first bin is exhausted and the second (reserve) bin is opened.\n3. The two-bin system is primarily designed for high-value, capital-intensive equipment.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+    ],
+    "answer": 0,
+    "explanation": "Statement 3 is incorrect; the two-bin system suits low-value, fast-moving items, not high-value capital equipment which typically needs closer, individualised control.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 95,
+    "question": "With reference to India's new criminal law framework, consider the following statements:\n1. The Bharatiya Nyaya Sanhita replaced the Indian Penal Code.\n2. The Bharatiya Nagarik Suraksha Sanhita replaced the Code of Criminal Procedure.\n3. These new laws came into effect from 1 July 2024.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "All three statements correctly describe India's new criminal law framework and its date of enforcement.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 96,
+    "question": "Choose the option that correctly identifies the figure of speech in: 'The wind whispered secrets through the trees.'",
+    "options": [
+      "Personification",
+      "Simile",
+      "Hyperbole",
+      "Metaphor"
+    ],
+    "answer": 0,
+    "explanation": "Attributing the human act of whispering to the wind is personification.",
+    "topic": "English Language Test",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "question": "A alone can complete a work in 20 days. A and B together complete it in 12 days. In how many days can B alone complete the work?",
+    "options": [
+      "30 days",
+      "25 days",
+      "24 days",
+      "28 days"
+    ],
+    "answer": 0,
+    "explanation": "1/A+1/B=1/12; 1/A=1/20. 1/B=1/12-1/20=(5-3)/60=2/60=1/30. B=30 days.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 98,
+    "question": "With reference to the disinvestment policy of the Government of India, which of the following statements is/are correct?\n1. Strategic disinvestment involves transfer of both ownership and management control to a private entity.\n2. Minority stake sale always results in loss of government control over the enterprise.\n3. DIPAM functions under the Ministry of Finance.\nSelect the correct answer using the code below.",
+    "options": [
+      "1 and 3 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+    ],
+    "answer": 0,
+    "explanation": "Statement 2 is incorrect since minority stake sale, by definition, retains majority government control; statements 1 and 3 are correct.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "question": "With reference to Standardization and Simplification in materials management, consider the following statements:\n1. Standardization involves fixing uniform specifications for materials.\n2. Simplification involves reducing the number of sizes, types or grades of an item.\n3. Both concepts, taken together, tend to increase inventory carrying cost due to greater product variety.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 only",
+      "2 and 3 only",
+      "1 and 2 only"
+    ],
+    "answer": 3,
+    "explanation": "Statement 3 is incorrect; standardization and simplification reduce variety and thereby tend to lower, not increase, inventory carrying costs.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "Consider the following statements about ISRO's Gaganyaan programme:\n1. The first uncrewed test mission, carrying the humanoid robot Vyommitra, is targeted for 2026.\n2. The first crewed Gaganyaan mission is currently targeted for 2027.\n3. Gaganyaan missions use a human-rated version of the LVM3 launch vehicle.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "answer": 2,
+    "explanation": "All three statements correctly describe the current status and technical basis of India's Gaganyaan human spaceflight programme.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 101,
+    "question": "Select the correct indirect speech version of: The officer said, \"Submit your report by Friday, or face disciplinary action.\"",
+    "options": [
+      "The officer said that we submit the report by Friday, or faced disciplinary action.",
+      "The officer warned that we should submit the report by Friday, or face disciplinary action.",
+      "The officer said submit the report by Friday.",
+      "The officer told us that submit the report by Friday."
+    ],
+    "answer": 1,
+    "explanation": "A command with an implied threat is best reported using 'warned that...should', preserving the conditional consequence.",
+    "topic": "English Language Test",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 102,
+    "question": "A group of workers can complete a project in 15 days working 8 hours a day. If the number of workers is increased by 50% and they work 10 hours a day, in how many days will the same project be completed?",
+    "options": [
+      "8 days",
+      "9 days",
+      "6 days",
+      "10 days"
+    ],
+    "answer": 0,
+    "explanation": "Work = 15x8=120 (worker-hour-units, base). New workers = 1.5x, hours=10/day. Days = 120/(1.5x10)=120/15=8 days.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 103,
+    "question": "Consider the following statements regarding India's demographic dividend:\n1. It refers to the economic benefit arising from a high proportion of the working-age population relative to dependents.\n2. A demographic dividend automatically translates into higher economic growth without any policy intervention.\n3. Adequate investment in skilling, education and job creation is necessary to realise the demographic dividend.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 3 only"
+    ],
+    "answer": 3,
+    "explanation": "Statement 2 is incorrect; the demographic dividend does not automatically yield growth without complementary policy action, which statement 3 correctly notes.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "With reference to FIFO and LIFO methods of stock issue, consider the following statements:\n1. FIFO (First In First Out) issues the oldest received stock first.\n2. LIFO (Last In First Out) issues the most recently received stock first.\n3. FEFO (First Expiry First Out) is generally more appropriate than FIFO for perishable or shelf-life-limited items.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "answer": 2,
+    "explanation": "All three statements correctly describe standard stock-issue methods and their appropriate application contexts.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 105,
+    "question": "Consider the following statements regarding the United Nations in 2026:\n1. Antonio Guterres's term as UN Secretary-General concludes on 31 December 2026.\n2. The UN has faced financial strain, partly due to withheld contributions from major member states.\n3. The UN Security Council has ten permanent members with veto power.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1 only"
+    ],
+    "answer": 2,
+    "explanation": "Statement 3 is incorrect; the UN Security Council has only five permanent members with veto power (USA, UK, France, China, Russia), not ten.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 106,
+    "question": "Choose the word nearest in meaning to 'INTRANSIGENT'.",
+    "options": [
+      "Flexible",
+      "Docile",
+      "Uncompromising",
+      "Agreeable"
+    ],
+    "answer": 2,
+    "explanation": "'Intransigent' describes someone unwilling to compromise, i.e., uncompromising.",
+    "topic": "English Language Test",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 107,
+    "question": "A sum of money amounts to Rs. 15,000 in 3 years and Rs. 18,000 in 5 years at simple interest. Find the principal.",
+    "options": [
+      "Rs. 9,000",
+      "Rs. 12,000",
+      "Rs. 11,250",
+      "Rs. 10,500"
+    ],
+    "answer": 3,
+    "explanation": "Annual interest = (18000-15000)/2 = Rs.1500. Interest for 3 years = 4500. Principal = 15000 - 4500 = Rs.10,500.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 108,
+    "question": "With reference to Universal Basic Income (UBI), consider the following statements:\n1. UBI proposes an unconditional, periodic cash transfer to all citizens regardless of employment status.\n2. UBI has been fully implemented as a nationwide replacement for all welfare schemes in India.\n3. Arguments in favour of UBI include administrative simplicity and reduced leakage compared to in-kind subsidies.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only",
+      "1 and 3 only"
+    ],
+    "answer": 3,
+    "explanation": "Statement 2 is incorrect; UBI remains a policy proposal under discussion in India and has not been implemented nationwide as a replacement for existing schemes.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "Consider the following statements regarding Vendor Rating:\n1. It evaluates suppliers on multiple criteria such as quality, delivery, price and service.\n2. Vendor rating relies exclusively on the price quoted by a supplier, disregarding all other factors.\n3. A robust vendor rating system can support more informed sourcing and vendor development decisions.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "answer": 1,
+    "explanation": "Statement 2 is incorrect; vendor rating uses multiple weighted criteria beyond price alone, as correctly noted in statement 1.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 110,
+    "question": "Consider the following statements about the 'Quad' grouping:\n1. It comprises India, the United States, Japan and Australia.\n2. The Quad is formally structured as a binding military alliance akin to NATO.\n3. The grouping is often discussed in the context of the Indo-Pacific strategic framework.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1 only"
+    ],
+    "answer": 2,
+    "explanation": "Statement 2 is incorrect; the Quad is a strategic/security dialogue rather than a formal, binding military alliance like NATO.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 111,
+    "question": "Select the sentence free of a modifier error.",
+    "options": [
+      "Almost the students all passed the difficult examination.",
+      "Almost all the students passed the difficult examination.",
+      "All the students almost passed the difficult examination.",
+      "The students all almost passed the difficult examination."
+    ],
+    "answer": 1,
+    "explanation": "'Almost' correctly modifies 'all the students', unlike the other options which misplace the modifier and change the meaning.",
+    "topic": "English Language Test",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 112,
+    "question": "In a class, the ratio of boys to girls is 5:4. If 8 more girls join the class, the ratio becomes 5:6. Find the original number of boys in the class.",
+    "options": [
+      "25",
+      "30",
+      "20",
+      "15"
+    ],
+    "answer": 2,
+    "explanation": "Let boys=5x, girls=4x. 5x/(4x+8)=5/6. 30x=20x+40. 10x=40. x=4. Boys=5x=20.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 113,
+    "question": "With reference to inflation measurement in India, consider the following statements:\n1. CPI measures price changes at the retail/consumer level.\n2. WPI measures price changes at the wholesale/producer level.\n3. The RBI's inflation target under the flexible inflation targeting framework is based on WPI, not CPI.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "Statement 3 is incorrect; RBI's inflation target under the flexible framework is explicitly based on CPI (headline), not WPI.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "question": "Consider the following statements about Codification and Standardization in material management:\n1. Codification involves assigning a unique code/number to each item for easy identification.\n2. Standardization involves fixing uniform specifications and reducing unnecessary variety of materials.\n3. Codification and Standardization are essentially the same concept with no meaningful distinction.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "Statement 3 is incorrect; codification (unique identification) and standardization (uniform specifications, variety reduction) are related but distinct concepts.",
+    "topic": "Basics of Material Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 115,
+    "question": "Consider the following statements about international sporting events:\n1. India won the ICC T20 World Cup 2024, defeating South Africa in the final.\n2. India won the ICC Champions Trophy 2025, played under a hybrid model due to India-Pakistan tensions.\n3. The 2028 Summer Olympics are scheduled to be held in Los Angeles.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 3 only"
+    ],
+    "answer": 2,
+    "explanation": "All three statements are factually correct regarding recent major sporting event outcomes and future hosting arrangements.",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 116,
+    "question": "In the sentence 'Had I known about the meeting, I would have attended it,' the underlined clause expresses:",
+    "options": [
+      "A present unreal condition",
+      "An unreal condition about the past (past unfulfilled condition)",
+      "A real, ongoing habitual condition",
+      "A future possibility"
+    ],
+    "answer": 1,
+    "explanation": "This is a third conditional structure, expressing a hypothetical past condition that did not happen.",
+    "topic": "English Language Test",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 117,
+    "question": "Two trains, 150 m and 250 m long respectively, are running on parallel tracks in opposite directions with speeds 54 km/h and 36 km/h. In how many seconds will they completely cross each other?",
+    "options": [
+      "18 seconds",
+      "14 seconds",
+      "20 seconds",
+      "16 seconds"
+    ],
+    "answer": 3,
+    "explanation": "Relative speed = 54+36 = 90 km/h = 25 m/s. Total length = 400 m. Time = 400/25 = 16 seconds.",
+    "topic": "General Mental Ability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 118,
+    "question": "Consider the following statements regarding Priority Sector Lending (PSL) in India:\n1. PSL norms require banks to extend a stipulated share of credit to sectors like agriculture, MSME and weaker sections.\n2. PSL targets apply uniformly and identically to all categories of banks, including foreign banks, with no differentiation.\n3. Non-achievement of PSL targets can result in banks having to contribute to specified funds like the RIDF.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only",
+      "1 and 3 only"
+    ],
+    "answer": 3,
+    "explanation": "Statement 2 is incorrect; PSL sub-targets vary by bank category (domestic vs foreign banks, etc.); statements 1 and 3 are correct.",
+    "topic": "Developmental Issues and Current Trends in Indian Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 119,
+    "question": "With reference to the Economic Order Quantity (EOQ) model, consider the following statements:\n1. EOQ minimises the sum of ordering cost and carrying cost.\n2. At EOQ, total ordering cost always equals total carrying cost.\n3. An increase in ordering cost, other factors remaining constant, leads to an increase in EOQ.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 and 3 only"
+    ],
+    "answer": 1,
+    "explanation": "All three statements are correct: EOQ balances ordering and carrying costs at the point where they are equal, and EOQ increases with ordering cost per the formula sqrt(2DS/H).",
+    "topic": "Basics of Material Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 120,
+    "question": "With reference to international climate agreements, consider the following statements:\n1. The Paris Agreement was adopted in 2015 at COP21.\n2. The Kyoto Protocol, an earlier binding climate treaty, was adopted in 1997.\n3. The Montreal Protocol primarily addresses global carbon emissions targets rather than ozone-depleting substances.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "answer": 0,
+    "explanation": "Statement 3 is incorrect; the Montreal Protocol specifically targets ozone-depleting substances, not general carbon emissions (which is the focus of the Kyoto Protocol/Paris Agreement).",
+    "topic": "Current Events of National and International Importance",
+    "difficulty": "Medium"
+  }
+]
